@@ -2,9 +2,9 @@
 title: 엘리트 지원
 description: Adobe Experience Cloud Elite 지원 서비스는 최고의 지원 서비스 수준 목표(SLT), 사전 예방적 지원, 기술 계정 관리자 및 지정 지원 엔지니어와의 파트너십을 제공합니다.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 96%
 
 ---
@@ -395,7 +395,6 @@ Adobe 솔루션 전문가는 고객과 구현 파트너에 대한 모범 사례 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>언어 지원은 영어와 일본어로만 제공됩니다.</i></p>
-      <p><i>Adobe Commerce에서는 일본어 지원이 제외됩니다.</i></p>
       <p><i>P2, P3, P4 케이스는 일본에서만 업무 시간으로 제한됩니다.</i></p>
     </td>
   </tr>

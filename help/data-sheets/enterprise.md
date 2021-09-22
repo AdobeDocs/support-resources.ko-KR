@@ -2,9 +2,9 @@
 title: 엔터프라이즈 지원
 description: Adobe Experience Cloud 엔터프라이즈 지원 서비스는 향상된 지원 서비스 수준 목표(SLT), 기술 전문 지식의 이점 및 지정 지원 엔지니어 형태의 지지를 제공합니다.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 95%
 
 ---
@@ -344,7 +344,6 @@ Adobe 솔루션 전문가는 고객과 구현 파트너에 대한 모범 사례 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>언어 지원은 영어와 일본어로만 제공됩니다.</i></p>
-      <p><i>Adobe Commerce에서는 일본어 지원이 제외됩니다.</i></p>
       <p><i>P2, P3, P4 케이스는 일본에서만 업무 시간으로 제한됩니다.</i></p>
     </td>
   </tr>
