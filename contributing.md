@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## 콘텐츠 작가 안내서 설명서
 
-[콘텐츠 작가 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[콘텐츠 작가 안내서](https://docs.adobe.com/content/help/ko/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 질문이 있습니까?
 
