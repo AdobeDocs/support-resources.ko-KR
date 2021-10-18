@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 76%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 76%
    + [엔터프라이즈](enterprise.md)
    + [엘리트](elite.md)
 + [고객 지원 안내서](support-guide.md)
-+ [약관](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
