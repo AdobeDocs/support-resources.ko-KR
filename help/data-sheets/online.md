@@ -3,7 +3,7 @@ title: 온라인 지원
 description: Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '757'
 ht-degree: 100%
 
@@ -102,7 +102,7 @@ Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액
     <td>연간 전문가 세션</td>
     <td></td>
     <td></td>
-    <td>2개</td>
+    <td>2</td>
     <td>4</td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액
     <td>현장 서비스 활동</td>
     <td></td>
     <td></td>
-    <td>2개</td>
+    <td>2</td>
     <td>4</td>
   </tr>
 </tbody>
