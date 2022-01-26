@@ -3,7 +3,7 @@ title: 지원 서비스 개요
 description: 이 문서에서는 Adobe Experience Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다. 온라인, 비즈니스, 엔터프라이즈, 엘리트 옵션을 포함합니다.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 
