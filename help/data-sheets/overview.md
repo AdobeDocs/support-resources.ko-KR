@@ -1,8 +1,7 @@
 ---
 title: Adobe 지원 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 65405c5f3af97af66e9a5c64f946b031b7ac6e75
+source-git-commit: 2a95fd91ce1bf05760d95deac2ba7525e4c24fd1
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 17%
