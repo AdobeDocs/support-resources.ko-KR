@@ -1,25 +1,25 @@
 ---
-title: 온라인 지원
+title: 표준 지원
 description: Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# 온라인 지원
+# 표준 지원
 
 ![아이콘](assets/OnlineBanner.png)
 
-Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
+Adobe은 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 표준 지원에는 HelpX에 대한 문서 및 Adobe 커뮤니티의 다른 고객과의 참여를 포함하여 자조 지원 리소스에 대한 연중무휴 액세스 권한이 포함되어 있습니다. http://www.adobe.com에 게시된 세부 기술 제품 설명서와 현재 릴리스 노트를 이용할 수 있습니다. 또한 Adobe의 표준 지원에는 채팅이나 전화를 통해 기술 지원 팀에 대한 관리자(권한 있는 사용자)의 연중무휴 액세스 권한과 지원 웹 포털을 통한 지원 요청을 기록할 수 있는 기능도 포함되어 있습니다.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>온라인 지원</th>
+    <th>표준 지원</th>
     <th>비즈니스 지원</th>
     <th>엔터프라이즈 지원</th>
     <th>엘리트 지원</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">유료 지원 ($)</td>
+    <td colspan="3">유료 지원 수준($)</td>
   </tr>
   <tr>
     <td rowspan="3">할당된 전문가<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액
   </tr>
   <tr>
     <td rowspan="12">지원 서비스</td>
-    <td>온라인 지원</td>
+    <td>표준 지원</td>
     <td>업무 시간</td>
     <td>업무 시간</td>
     <td>24x5</td>
