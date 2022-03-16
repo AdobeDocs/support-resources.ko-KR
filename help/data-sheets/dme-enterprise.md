@@ -2,7 +2,7 @@
 title: 엔터프라이즈 지원
 description: Adobe Experience Cloud 엔터프라이즈 지원 서비스는 향상된 지원 서비스 수준 목표(SLT), 기술 전문 지식의 이점 및 지정 지원 엔지니어 형태의 지지를 제공합니다.
 source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
 ht-degree: 100%
 
@@ -80,7 +80,7 @@ Adobe Experience Cloud 엔터프라이즈 지원 서비스는 향상된 지원 �
   <tr>
     <td>연간 전문가 세션</td>
     <td></td>
-    <td>2개</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>사례 검토</td>
