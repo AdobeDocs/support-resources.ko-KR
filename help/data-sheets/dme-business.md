@@ -2,7 +2,7 @@
 title: 비즈니스 지원
 description: Adobe Experience Cloud 비즈니스 지원 서비스는 Adobe의 기술 지원 팀과 계정 관리를 위한 계정 지원 리드에 대한 완전한 액세스를 제공합니다.
 source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
 ht-degree: 100%
 
