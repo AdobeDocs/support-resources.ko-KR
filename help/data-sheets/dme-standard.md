@@ -2,9 +2,9 @@
 title: 표준 지원
 description: Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
 source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '846'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 86%
 
 ![아이콘](assets/OnlineBanner.png)
 
-Adobe은 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 표준 지원에는 HelpX에 대한 문서 및 Adobe 커뮤니티의 다른 고객과의 참여를 포함하여 자조 지원 리소스에 대한 연중무휴 액세스 권한이 포함되어 있습니다. http://www.adobe.com에 게시된 세부 기술 제품 설명서와 현재 릴리스 노트를 이용할 수 있습니다. 또한 Adobe의 표준 지원에는 채팅이나 전화를 통해 기술 지원 팀에 대한 관리자(권한 있는 사용자)의 연중무휴 액세스 권한과 지원 웹 포털을 통한 지원 요청을 기록할 수 있는 기능도 포함되어 있습니다.
+Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 표준 지원에는 HelpX 관련 문서 및 Adobe 커뮤니티에서의 다른 고객과의 참여를 포함하여 연중무휴 자가 진단 지원 리소스에 대한 액세스 권한이 포함됩니다. http://www.adobe.com에 게시된 상세한 심층적 기술 제품 설명서 및 최신 릴리스 정보를 활용할 수 있습니다. 또한 표준 지원에는 승인된 사용자(관리자)가 언제든지 채팅 또는 전화를 통해 기술 지원 팀에 문의하고 지원 웹 포털을 통해 지원 요청을 기록할 수 있는 액세스 권한이 포함됩니다.
 
 <table>
 <thead>
@@ -30,7 +30,7 @@ Adobe은 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">유료 지원 수준($)</td>
+    <td colspan="3">유료 지원 수준 ($)</td>
   </tr>
   <tr>
     <td rowspan="3">할당된 전문가<br></td>
@@ -101,7 +101,7 @@ Adobe은 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>연간 전문가 세션</td>
     <td></td>
     <td></td>
-    <td>2개</td>
+    <td>2</td>
     <td>4</td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ Adobe은 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>현장 서비스 활동</td>
     <td></td>
     <td></td>
-    <td>2개</td>
+    <td>2</td>
     <td>4</td>
   </tr>
 </tbody>
