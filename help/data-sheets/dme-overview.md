@@ -3,13 +3,13 @@ title: Creative Enterprise 및 Document Cloud 지원 서비스 개요
 description: 이 문서에서는 Adobe Creative Cloud 및 Document Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다. 표준, 비즈니스, 엔터프라이즈, 엘리트 옵션을 포함합니다.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Creative Cloud 엔터프라이즈 및 Document Cloud 지원 서비스
+# Creative Cloud Enterprise 및 Document Cloud 지원 서비스
 
 Adobe Creative Cloud 및 Document Cloud 고객 지원 조직은 귀사의 성공을 위해 최선을 다하고 있습니다. 모든 애플리케이션에는 기술 지원을 위해 고도로 숙련된 기술 리소스에 쉽게 액세스할 수 있게 하는 수준의 지원이 포함됩니다.
 
@@ -22,7 +22,7 @@ Adobe Creative Cloud 및 Document Cloud 고객 지원 조직은 귀사의 성공
     <img alt="표준" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>표준 지원</strong></a> (보기) <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>표준 지원</strong></a> (<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> 보기)
     </div>
     <p>승인된 사용자(관리자)는 채팅 또는 전화를 통해 기술 지원 팀에 연중무휴 문의할 수 있으며 지원 웹 포털을 통해 지원 요청을 기록할 수 있습니다. </p>
     <br>
@@ -46,7 +46,7 @@ Adobe Creative Cloud 및 Document Cloud 고객 지원 조직은 귀사의 성공
     <div>
     <a href="dme-enterprise.md"><strong>엔터프라이즈 지원</strong></a> (<a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf" target="_blank">PDF</a> 보기)
     </div>
-    <p>귀사의 솔루션에 대한 풍부한 경험을 바탕으로, 지원 팀은 모든 지원 요청을 적시에 해결할 수 있도록 귀사 및 기술팀과 협력할 것입니다.</p>
+    <p>귀사의 솔루션에 대한 풍부한 경험을 바탕으로 Adobe 지원 팀은 모든 지원 요청을 적시에 해결할 수 있도록 귀사 및 귀사의 기술 팀과 협력할 것입니다.</p>
     <br>
   </td>
   <td>
