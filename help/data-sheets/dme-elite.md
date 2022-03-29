@@ -1,20 +1,20 @@
 ---
-title: Creative Cloud 및 Adobe Document Cloud에 대한 Elite 지원
-description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. ELITE 지원 계획으로 향상되었습니다.
+title: Creative Cloud 및 Adobe Document Cloud에 대한 엘리트 지원
+description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 엘리트 지원 플랜으로 향상되었습니다.
 source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1097'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
-# Creative Cloud 및 Adobe Document Cloud에 대한 Elite 지원
+# Creative Cloud 및 Adobe Document Cloud에 대한 엘리트 지원
 
 ![아이콘](assets/Elitebanner.png)
 
-Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. ELITE 지원 계획으로 향상되었습니다. ELITE 고객은 Adobe 지원 팀 내에서 지정된 기술 담당자로 활동하면서 동급 최고의 사전 및 사후 대응적인 지원을 제공하기 위해 파트너십을 수행하는 기술 계정 관리자와 지정된 지원 엔지니어에 액세스할 수 있습니다.
+Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 엘리트 지원 플랜으로 향상되었습니다. 엘리트 고객은 Adobe 지원 팀 내에서 지정 기술 담당자 역할을 하는 동시에 최고 수준의 사전 대응 및 사후 지원을 제공하기 위해 고객과 협력하는 기술 계정 관리자 및 지정 지원 엔지니어의 서비스를 이용할 수 있습니다.
 
-해당 Creative Cloud 및 Document Cloud 솔루션에 대한 풍부한 경험을 바탕으로 고객 지원 팀은 고객 지원 요구 사항이 아무리 복잡해도 Adobe 지원 팀이 고객 측 과 나란히 배치되어 고객이 해당 Adobe 솔루션에 대한 투자를 극대화하고 문제가 발생하기 전에 문제를 방지할 수 있도록 합니다. 또한 상세한 기술 제품 설명서와 최신 릴리스 정보를 활용할 수 있습니다.
+지정된 Creative Cloud 및 Document Cloud 솔루션에 대한 풍부한 경험을 바탕으로 지원 요구 사항이 아무리 복잡하더라도 Adobe 지원 팀은 처음부터 끝까지 고객과 함께하며 지정된 Adobe 솔루션에 대한 투자를 극대화하고 문제가 발생하기 전에 예방하기 위해 노력합니다. 상세한 심층적 기술 제품 설명서 및 최신 릴리스 정보를 활용할 수도 있습니다.
 
 [PDF 버전 보기](assets/DMeEliteSupportDatasheet_2022.pdf)
 
@@ -52,12 +52,12 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
   </tr>
   <tr>
     <td rowspan="17">지원 서비스</td>
-    <td>연중무휴 자가 진단 지원</td>
+    <td>24x7 자가 진단 지원</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>채팅 / 전화를 통한 연중무휴 지원</td>
+    <td>24x7 채팅/전화를 통한 지원</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
@@ -67,12 +67,12 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>✔</td>
   </tr>
   <tr>
-    <td>우선순위 사례 라우팅</td>
+    <td>우선 순위 사례 라우팅</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>가속 문제 우선 순위 지정</td>
+    <td>가속화된 문제 우선 순위 지정</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -87,19 +87,19 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>✔</td>
   </tr>
   <tr>
-    <td>지역 내 지원 액세스</td>
+    <td>지역 지원 액세스</td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>서비스 리뷰</td>
+    <td>서비스 검토</td>
     <td></td>
-    <td>4년</td>
+    <td>4/년</td>
   </tr>
   <tr>
     <td>사례 검토</td>
     <td></td>
-    <td>월 2일</td>
+    <td>2/월</td>
   </tr>
   <tr>
     <td>솔루션 검토</td>
@@ -112,7 +112,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>✔</td>
   </tr>
   <tr>
-    <td>추가 명명된 지원 연락처</td>
+    <td>추가 지정 지원 담당자</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -127,7 +127,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <td>✔</td>
   </tr>
   <tr>
-    <td>Executive Sponsor</td>
+    <td>경영 스폰서</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -150,7 +150,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
   <tr>
     <td><strong>우선 순위 1</strong><br>고객의 생산 비즈니스 기능이 다운되었거나 심각한 데이터 손실 또는 서비스 저하가 발생했으며 기능 및 사용성을 복원하기 위해 즉각적인 주의가 필요합니다.</td>
     <td>24x7/<br>30분</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>해당 Adobe 제품 및 서비스에 대한 지원 계획을 구입하는 고객은 Adobe의 지원 엔지니어에게 사례를 신속히 추적하는 우선 순위 사례 라우팅을 받습니다.</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>해당하는 Adobe 제품 및 서비스에 대한 지원 플랜을 구매하는 고객은 Adobe의 지원 엔지니어에게 사례를 빠르게 처리할 수 있는 우선 순위 사례 라우팅을 받게 됩니다.</td>
   </tr>
   <tr>
     <td><strong>우선 순위 2</strong><br>고객의 비즈니스 기능에 심각한 서비스 저하 또는 잠재적인 데이터 손실이 있거나 주요 기능이 영향을 받습니다.</td>
@@ -175,7 +175,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="기술 계정 관리자" src="assets/dmenamedsupportengineer.png"/>
     <div>
     <p><b>기술 계정 관리자</b></p>
-    <p>Specific Support Experience Manager를 통해 고객 지원 경험을 감독하고 지원하고 비즈니스 가치를 극대화하기 위한 사전 예방 서비스를 제공합니다.</p>
+    <p>귀사의 엘리트 지원 경험을 감독 및 지지하고 사전 예방적 서비스를 제공하여 귀사의 비즈니스 가치를 극대화하는 지정된 기술 계정 관리자입니다.</p>
     </div>
   </td>
   <td>
@@ -186,10 +186,10 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     </div>
   </td>
   <td>
-    <img alt="우선순위 사례 라우팅" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="우선 순위 사례 라우팅" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>우선순위 사례 라우팅 및 가속 문제 우선순위 지정</b></p>
-    <p>우선 순위가 지정된 라우팅을 수신하여 제출된 사례에 따라 더 많은 상위 지원 리소스에 보다 신속하게 연결할 수 있을 뿐만 아니라 엔지니어링 부서의 원활한 참여를 통해 지원 사례 작업에 대한 우선 순위 지정을 높일 수 있습니다.</p>
+    <p><b>우선 순위 사례 라우팅 및 가속화된 문제 우선 순위 지정</b></p>
+    <p>제출된 사례에 대한 고급 지원 리소스에 보다 빠르게 연결할 수 있는 우선 순위가 지정된 라우팅과 더불어, 엔지니어링과 함께 용이한 참여를 통해 지원 사례 작업에 대해 높은 우선 순위를 받게 됩니다.</p>
     </div>
   </td>
 </tr>
@@ -198,43 +198,43 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="에스컬레이션 관리" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>사전 사례 모니터링 및 에스컬레이션 관리</b></p>
-    <p>개설 사례를 능동적으로 모니터링하고 에스컬레이션 지원, 정기적인 업데이트 및 가장 중요한 오픈 지원 요청에 우선 순위가 부여되도록 할 수 있는 Adobe 내 지정된 연락 창구입니다.</p>
+    <p>진행 중인 사례를 활발하게 모니터링하고 에스컬레이션 지원 및 정기 업데이트를 제공하고 진행 중인 지원 요청에서 가장 중요한 것에 우선 순위를 부여할 수 있는 Adobe 내의 지정된 담당자입니다.</p>
     </div>
   </td>
   <td>
     <img alt="사례 검토" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>사례 검토</b></p>
-    <p>공개 지원 요청에 대해 정기적으로 예약된 검토 작업을 수행함으로써, 고객이 케이스 설명, 비즈니스 영향, 상태, 우선 순위 및 다음 단계에 대한 동의를 보장하고 시기 적절한 해결을 보장합니다.</p>
+    <p>진행 중인 지원 요청을 정기적으로 검토하여 사례 설명, 비즈니스 영향, 상태, 우선 순위 및 필요한 다음 단계에 대한 고객의 동의에 맞춰 조정함으로써 신속한 해결을 보장합니다.</p>
     </div>
   <td>
-    <img alt="서비스 리뷰" src="assets/dmeservicereviews.png"/>
+    <img alt="서비스 검토" src="assets/dmeservicereviews.png"/>
     <div>
-    <p><b>서비스 리뷰</b></p>
-    <p>엔터프라이즈 프로그램 서비스, 혜택 및 지원 성능에 대한 종합적인 2년 검토 Adobe과 함께 제공되는 다른 전략적 비즈니스 검토와 결합될 수 있습니다.</p>
+    <p><b>서비스 검토</b></p>
+    <p>엔터프라이즈 프로그램 서비스, 혜택 및 지원 성능에 대한 연간 두 차례에 걸쳐 수행되는 종합적인 리뷰입니다. Adobe에서 실시하는 기타 전략 비즈니스 리뷰와 결합될 수 있습니다.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="지역 내 지원 액세스" src="assets/dmeinregionsupportaccess.png"/>
+    <img alt="지역 지원 액세스" src="assets/dmeinregionsupportaccess.png"/>
     <div>
-    <p><b>지역 내 지원 액세스</b></p>
-    <p>글로벌 지역 내에 있는 Adobe 지원 팀의 구성원으로부터 지원을 받습니다. 여기에는 국가 및/또는 언어 지원 등이 포함될 수 있습니다.</p>
+    <p><b>지역 지원 액세스</b></p>
+    <p>사용자의 글로벌 지역 내에 있는 Adobe 지원 팀의 멤버로부터 지원을 받게 됩니다. 여기에는 국가 및/또는 언어 지원이 포함될 수 있습니다.</p>
     </div>
   </td>
   <td>
     <img alt="솔루션 로드맵 검토" src="assets/dmesolutionandroadmapreview.png"/>
     <div>
     <p><b>솔루션 및 로드맵 검토</b></p>
-    <p>통합을 포함하여 솔루션 배포, 구성 및 전체 아키텍처를 사전에 검토합니다. 위험 요소를 줄이고 향후 준비를 위해 솔루션 및 프로젝트 로드맵 조정</p>
+    <p>통합을 포함하여 솔루션 배포, 구성 및 전체 아키텍처를 사전에 검토합니다. 조정하여 위험을 완화하고 미래에 대비하도록 사용자의 솔루션 및 프로젝트 로드맵을 맞춤화합니다.</p>
     </div>
   </td>
   <td>
     <img alt="릴리스 준비 및 계획" src="assets/dmereleasepreparationandplanning.png"/>
     <div>
     <p><b>릴리스 준비 및 계획</b></p>
-    <p>제품 구성 및 사용 사례에 따라 맞춤형 릴리스 정보를 활용할 수 있습니다.</p>
+    <p>제품 구성 및 사용 사례를 기반으로 맞춤화된 릴리스 정보로부터 혜택을 얻을 수 있습니다.</p>
     </div>
   </td>
 </tr>
@@ -243,21 +243,21 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="업그레이드/마이그레이션 계획" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
     <p><b>업그레이드/마이그레이션 계획</b></p>
-    <p>개인화된 지침과 업그레이드 및 마이그레이션 계획을 위한 사전 검토 서비스를 받을 수 있습니다. Adobe 전문가가 릴리스 및 업그레이드 계획을 검토할 때 얻을 수 있는 이점</p>
+    <p>업그레이드 및 마이그레이션 계획 목적의 개인화된 지침 및 사전 예방적 리뷰를 받게 됩니다. Adobe 전문가의 검토 릴리스 및 업그레이드 계획으로부터 혜택을 얻을 수 있습니다.</p>
     </div>
   </td>
   <td>
-    <img alt="Executive Sponsor" src="assets/dmeexecutivesponsor.png"/>
+    <img alt="경영 스폰서" src="assets/dmeexecutivesponsor.png"/>
     <div>
-    <p><b>Executive Sponsor</b></p>
-    <p>Adobe 지원 리더십 팀에서 경영진 스폰서의 파트너십을 통해 얻을 수 있습니다.</p>
+    <p><b>경영 스폰서</b></p>
+    <p>Adobe의 지원 리더십 팀의 경영 스폰서와의 파트너십으로부터 혜택을 얻을 수 있습니다.</p>
     </div>
   </td>
   <td>
-    <img alt="추가 명명된 지원 연락처" src="assets/dmeadditionalnamedsupportcontacts.png"/>
+    <img alt="추가 지정 지원 담당자" src="assets/dmeadditionalnamedsupportcontacts.png"/>
     <div>
-    <p><b>추가 명명된 지원 연락처</b></p>
-    <p>지정된 지원 담당자가 귀사를 대신하여 기술 지원 팀과 상호 작용할 수 있는 이용 가능한 채널을 활용할 수 있습니다.</p>
+    <p><b>추가 지정 지원 담당자</b></p>
+    <p>추가 지정 지원 담당자는 사용 가능한 채널을 통해 귀사를 대신하여 기술 지원 팀과 상호 작용할 수 있습니다.</p>
     </div>
   </td>
 </tr>
@@ -277,7 +277,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
   <td>
     <img alt="자가 진단" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>사용자 도움말 포털</b></p>
+    <p><b>자가 진단 포털</b></p>
     <p>온라인 자가 진단 지원 포털에 대한 온디맨드 액세스를 통해 지원 요청을 제출하고 사례 상태를 검토하고 기술 자료, 뉴스 및 알림, 추천 팁 등과 같은 기타 리소스를 검색할 수 있습니다.</p>
     </div>
   </td>
@@ -285,8 +285,8 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="라이브 채팅 지원" src="assets/dmechat.png"/>
     <div>
     <p><b>채팅 지원</b></p>
-    <p>승인된 사용자(관리자)는 Adobe 지원 팀과 채팅 세션을 시작하여 답변을 얻고 사례 제출을 지원할 수 있습니다</p>
-    <p><i>현지 시간에 따라 다릅니다.</i></p>
+    <p>승인된 사용자(관리자)는 Adobe 지원 팀과 함께 채팅 세션을 시작하여 사례 제출에 대한 답변 및 도움을 얻을 수 있습니다.</p>
+    <p><i>로컬 운영 시간에 따라 변경될 수 있습니다.</i></p>
     </div>
   </td>
 </tr>
@@ -295,15 +295,15 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="전화 지원" src="assets/dmephone.png"/>
     <div>
     <p><b>전화 지원</b></p>
-    <p>승인된 사용자(관리자)는 전화를 통해 Adobe 지원 센터에 연락하여 답변을 얻고 사례 제출을 지원할 수 있습니다.</p>
-    <p><i>현지 시간에 따라 다릅니다.</i></p>
+    <p>승인된 사용자(관리자)는 전화를 통해 Adobe 지원 팀에 문의하여 사례 제출에 대한 답변 및 도움을 얻을 수 있습니다.</p>
+    <p><i>로컬 운영 시간에 따라 변경될 수 있습니다.</i></p>
     </div>
   </td>
   <td>
     <img alt="웹 사례" src="assets/dmewebcase.png"/>
     <div>
     <p><b>웹 사례 제출</b></p>
-    <p>승인된 사용자(관리자)는 기술 지원 팀에서 검토할 수 있는 지원 문제에 대해 언제든지 무제한으로 웹 사례를 제출할 수 있습니다.</p>
+    <p>승인된 사용자(관리자)는 언제든지 지원 문제에 대한 웹 사례를 당사의 기술 지원 팀에서 검토하도록 무제한으로 제출할 수 있습니다.</p>
     </div>
   </td>
 </tr>
@@ -313,8 +313,8 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
 
 | 리소스 | 설명 |
 |--- |--- |
-| [엔터프라이즈 학습 및 지원](https://helpx.adobe.com/enterprise.html) | 엔터프라이즈 학습 및 지원은 Adobe 고객이 선별된 Adobe Creative Cloud 및 문서 제품에 대한 자습 자습서, 제품 설명서, 강사 주도 교육, 커뮤니티 및 지원을 찾을 수 있는 장소입니다. |
-| [Adobe 지원 커뮤니티](https://community.adobe.com/) | Adobe 지원 커뮤니티는 질문을 하거나, 답변을 찾고, 전문가들로부터 배우고, 지식을 공유할 수 있는 장소입니다. |
+| [엔터프라이즈 학습 및 지원](https://helpx.adobe.com/kr/enterprise.html) | 엔터프라이즈 학습 및 지원은 Adobe 고객이 Adobe Creative Cloud 및 Document Cloud 제품 선택에 대한 자가 진단 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 찾을 수 있는 공간입니다. |
+| [Adobe 지원 커뮤니티](https://community.adobe.com/) | Adobe 지원 커뮤니티는 질문을 올리고, 답변을 얻고, 전문가의 의견을 구하고, 지식을 공유할 수 있는 공간입니다. |
 | [생산 문제 및 시스템 중단](https://status.adobe.com/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 
@@ -322,7 +322,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
 
 ## 지역별 운영 시간 및 언어 지원
 
-Adobe의 현지 업무 시간은 고객의 청구 영역에 일치합니다.
+Adobe의 현지 업무 시간은 고객의 과금 지역에 맞춰 조정됩니다.
 
 <table>
 <thead>
@@ -342,7 +342,7 @@ Adobe의 현지 업무 시간은 고객의 청구 영역에 일치합니다.
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>미국 언어 지원은 영어로만 제공됩니다.</p>
+      <p><sup>1</sup>아메리카 지역의 언어 지원은 영어로만 제공됩니다.</p>
     </td>
   </tr>
 </tbody>
@@ -350,4 +350,4 @@ Adobe의 현지 업무 시간은 고객의 청구 영역에 일치합니다.
 
 ![아이콘](assets/bottom-banner.png)
 
-*Adobe 지원 서비스 및 적합한 수준에 대한 자세한 내용은 NAM(Named Account Manager) 또는 Customer Success Manager (CSM)에게 문의하십시오.*
+*Adobe 지원 서비스 제공 사항 및 적합한 지원 수준에 대해 자세히 알아보려면 지정 계정 관리자(NAM) 또는 고객 성공 관리자(CSM)에게 문의하십시오.*
