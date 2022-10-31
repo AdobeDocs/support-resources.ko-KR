@@ -1,30 +1,32 @@
 ---
 user-guide-title: 지원 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 지원 리소스입니다.
-source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 76%
 
 ---
 
 
 # 지원 리소스 {#data-sheets}
 
-+ [Adobe 지원 개요](overview.md)
-+ Experience Cloud 서비스 {#data-sheets}
-   + [Adobe 지원 개요](dx-overview.md)
-   + [온라인](online.md)
-   + [비즈니스](business.md)
-   + [엔터프라이즈](enterprise.md)
-   + [엘리트](elite.md)
-   + [고객 지원 안내서](support-guide.md)
-+ Creative Cloud 및 Document Cloud 서비스 {#dme-data-sheets}
-   + [Creative Cloud 및 Document Cloud 서비스](dme-overview.md)
-   + [표준](dme-standard.md)
-   + [비즈니스](dme-business.md)
-   + [엔터프라이즈](dme-enterprise.md)
-   + [엘리트](dme-elite.md)
++ [Adobe 지원 계획 개요](overview.md)
++ 2022년 6월 16일 이전 Adobe 지원 계획{#prior-plans}
+   + [이전 Adobe 지원 계획 개요](overview-prior-plans.md)
+   + Experience Cloud 서비스 {#data-sheets}
+      + [Adobe 지원 개요](dx-overview.md)
+      + [온라인](online.md)
+      + [비즈니스](business.md)
+      + [엔터프라이즈](enterprise.md)
+      + [엘리트](elite.md)
+      + [고객 지원 안내서](support-guide.md)
+   + Creative Cloud 및 Document Cloud 서비스 {#dme-data-sheets}
+      + [Creative Cloud 및 Document Cloud 서비스](dme-overview.md)
+      + [표준](dme-standard.md)
+      + [비즈니스](dme-business.md)
+      + [엔터프라이즈](dme-enterprise.md)
+      + [엘리트](dme-elite.md)
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
