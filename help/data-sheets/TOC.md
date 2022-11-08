@@ -2,18 +2,18 @@
 user-guide-title: 지원 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 지원 리소스입니다.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
 # 지원 리소스 {#data-sheets}
 
-+ [Adobe 지원 계획 개요](overview.md)
-+ 2022년 6월 16일 이전 Adobe 지원 계획{#prior-plans}
-   + [이전 Adobe 지원 계획 개요](overview-prior-plans.md)
++ [Adobe 지원 플랜 개요](overview.md)
++ 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
+   + [이전 Adobe 지원 플랜 개요](overview-prior-plans.md)
    + Experience Cloud 서비스 {#data-sheets}
       + [Adobe 지원 개요](dx-overview.md)
       + [온라인](online.md)
