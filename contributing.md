@@ -1,7 +1,7 @@
 ---
-source-git-commit: 23611374158ef3785d6040ead2e42f36131fd8c0
+source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 100%
 
 ## 행동 강령
 
-이 프로젝트는 Adobe [행동 수칙](code-of-conduct.md)을 준수합니다. 참여 시
-이 수칙을 준수해야 합니다. 부적절한 행동은
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)에 신고해 주십시오.
+이 프로젝트는 Adobe [행동 수칙](code-of-conduct.md)을 준수합니다. 참여 시 이 수칙을 준수해야 합니다. 부적절한 행동은 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)에 신고해 주십시오.
 
 ## 콘텐츠 작가 안내서 설명서
 
-[콘텐츠 작가 안내서](https://docs.adobe.com/content/help/ko/contributor/contributor-guide/introduction.html)를 참조하십시오.
+[콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko-KR)를 참조하십시오.
 
 ## 질문이 있습니까?
 
