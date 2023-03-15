@@ -2,8 +2,8 @@
 user-guide-title: 지원 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 지원 리소스입니다.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: ht
-source-wordcount: '67'
+workflow-type: tm+mt
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
       + [비즈니스](dme-business.md)
       + [엔터프라이즈](dme-enterprise.md)
       + [엘리트](dme-elite.md)
-+ [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 
