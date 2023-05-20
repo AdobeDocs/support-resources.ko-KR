@@ -3,8 +3,8 @@ title: 온라인 지원
 description: Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '754'
 ht-degree: 100%
 
 ---
@@ -167,7 +167,7 @@ Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액
 | <b>우선 순위 3</b><br>고객의 비즈니스 기능에 약간의 서비스 저하가 있지만 비즈니스 기능을 정상적으로 계속할 수 있게 하는 솔루션/해결 방법이 있습니다. | 업무 시간/<br>6시간 | 업무 시간/<br> 4시간 | 업무 시간/<br>2시간 | 24x5/<br>1시간 |
 | <b>우선 순위 4</b><br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청입니다. | 업무일/<br>3일 | 업무일/<br>1일 | 업무일/<br> 1일 | 업무일/<br> 1일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 온라인 지원 {#online-support-1}
 
