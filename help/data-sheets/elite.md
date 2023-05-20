@@ -3,8 +3,8 @@ title: 엘리트 지원
 description: Adobe Experience Cloud Elite 지원 서비스는 최고의 지원 서비스 수준 목표(SLT), 사전 예방적 지원, 기술 계정 관리자 및 지정 지원 엔지니어와의 파트너십을 제공합니다.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud Elite 지원 서비스는 최고의 지원 서비스 수�
 | <b>우선 순위 3</b><br>고객의 비즈니스 기능에 서비스 저하가 경미하거나 전혀 없지만 비즈니스 기능을 정상적으로 계속할 수 있게 하는 솔루션/해결 방법이 있습니다. | 업무 시간/<br>6시간 | 24x5/<br> 1시간 |
 | <b>우선 순위 4</b><br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청입니다. | 업무일/<br>3일 | 업무일/<br>1일 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 엘리트 지원 기능
 

@@ -3,8 +3,8 @@ title: Adobe 지원 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Adobe 지원 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 | P3 | **사소한 비즈니스 영향:** <br>고객의 비즈니스 기능에 약간의 서비스 저하가 있지만 비즈니스 기능을 정상적으로 계속할 수 있도록 하는 솔루션/해결 방법이 있습니다. | Adobe의 정상 업무 시간 중 4시간 | Adobe의 현지 업무 시간 중 1시간 | Adobe 고객 지원 팀은 Adobe의 업무 시간 동안에만 지정된 지원 담당자에게 연락합니다. |
 | P4 | **비즈니스 영향 없음:** <br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청이 발생했습니다. | 1영업일 | 1영업일 | Adobe 고객 지원 팀은 Adobe의 업무 시간 동안에만 지정된 지원 담당자에게 연락합니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 주요 기능
 
@@ -152,7 +152,7 @@ Adobe 지원 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 | P3 | **사소한 비즈니스 영향:** <br>고객의 비즈니스 기능에 약간의 서비스 저하가 있지만 비즈니스 기능을 정상적으로 계속할 수 있도록 하는 솔루션/해결 방법이 있습니다. | Adobe의 정상 업무 시간 중 2시간 | Adobe 고객 지원 팀은 Adobe의 업무 시간 동안에만 지정된 지원 담당자에게 연락합니다. |
 | P4 | **비즈니스 영향 없음:** <br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청이 발생했습니다. | 1영업일 | Adobe 고객 지원 팀은 Adobe의 업무 시간 동안에만 지정된 지원 담당자에게 연락합니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 출시 자문 서비스 - 단계적 사전 예방 조치
 

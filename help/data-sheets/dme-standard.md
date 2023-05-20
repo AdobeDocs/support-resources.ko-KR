@@ -1,9 +1,10 @@
 ---
 title: Adobe Creative Cloud 및 Adobe Document Cloud에 대한 표준 지원
 description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 표준 지원에는 HelpX 관련 문서 및 Adobe 커뮤니티에서의 다른 고객과의 참여를 포함하여 24x7 자가 진단 지원 리소스에 대한 액세스 권한이 포함됩니다.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: ht
-source-wordcount: '732'
+exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: tm+mt
+source-wordcount: '729'
 ht-degree: 100%
 
 ---
@@ -270,7 +271,7 @@ Adobe 고객 지원 팀은 문서화를 위한 리소스 및 모범 사례를 �
 | [생산 문제 및 시스템 중단](https://status.adobe.com/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 지역별 운영 시간 및 언어 지원
 
