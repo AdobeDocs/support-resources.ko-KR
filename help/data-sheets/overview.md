@@ -2,10 +2,10 @@
 title: Adobe 지원 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: ht
-source-wordcount: '1729'
-ht-degree: 100%
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 97%
 
 ---
 
@@ -48,7 +48,9 @@ Adobe 지원 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 
 ## Ultimate Support: 지정된 지원 담당자
 
-Ultimate Support에서 고객은 AEC 제품당 최대 15명의 지정된 지원 담당자(전문가 지원을 위한 모든 AEC 제품의 총 4명에서 증가함) 확장을 사용할 수 있습니다.
+다시 한번 죄송합니다. 이제 https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en에서 다음 설명을 수정해야 한다고 생각합니다.
+
+Ultimate Support에 따르면 고객은 AEC 제품당 지정된 지원 담당자 최대 15명(전문가 지원을 위해 AEC 제품당 4명에서 증가)의 용량을 확장할 수 있습니다.
 
 지정된 지원 담당자는 사용 가능한 모든 채널을 통해 문제를 제출하고 필요에 따라 고객을 대신하여 Adobe의 기술 지원 팀과 상호 작용할 수 있습니다. 이러한 지정된 지원 담당자 한 명을 고객의 계정 관리자로 지정하여 Adobe에서 제공하는 지원 포털을 통해 지정된 지원 담당자 목록 및 제한된 권한 설정에 대한 셀프 서비스 업데이트를 허용할 수 있습니다.
 
