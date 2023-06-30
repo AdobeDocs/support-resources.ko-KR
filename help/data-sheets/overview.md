@@ -2,10 +2,10 @@
 title: Adobe 지원 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ Adobe 지원 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 | P4 | **비즈니스 영향 없음:** <br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청이 발생했습니다. | 1영업일 | 1영업일 | Adobe 고객 지원 팀은 Adobe의 업무 시간 동안에만 지정된 지원 담당자에게 연락합니다. |
 
 ## Ultimate Support: 지정된 지원 담당자
-
-다시 한번 죄송합니다. 이제 https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en에서 다음 설명을 수정해야 한다고 생각합니다.
 
 Ultimate Support에 따르면 고객은 AEC 제품당 지정된 지원 담당자 최대 15명(전문가 지원을 위해 AEC 제품당 4명에서 증가)의 용량을 확장할 수 있습니다.
 
