@@ -1,19 +1,19 @@
 ---
-user-guide-title: 지원 리소스
-user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 지원 리소스입니다.
+user-guide-title: 성공 계획 리소스
+user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform에 대한 성공 계획 및 지원 리소스입니다.
 feature-set: Experience Cloud
-feature: Support
-source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+feature: Success Plans
+source-git-commit: 65ee13adb8e35d6714d0ebe705b788b1a535400f
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 57%
 
 ---
 
 
-# 지원 리소스 {#data-sheets}
+# 성공 계획 리소스 {#data-sheets}
 
-+ [Adobe 지원 플랜 개요](overview.md)
++ [Adobe 성공 계획 개요](overview.md)
 + 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
    + [이전 Adobe 지원 플랜 개요](overview-prior-plans.md)
    + Experience Cloud 서비스 {#data-sheets}
