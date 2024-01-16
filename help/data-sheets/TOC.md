@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
