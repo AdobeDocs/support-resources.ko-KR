@@ -3,14 +3,16 @@ title: 테이블 나누기
 description: 다른 테이블 나누기 테스트
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '270'
 ht-degree: 28%
 
 ---
 
 # 테이블 나누기
+
+별로 볼만한 게 없어요
 
 ## 를 사용하는 표준 Markdown 표 `<br>`
 
