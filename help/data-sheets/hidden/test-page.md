@@ -3,16 +3,16 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 4b4743b36b5e7bcf7735f91d8bb6825e7efda1c2
+source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
 workflow-type: tm+mt
-source-wordcount: '1016'
-ht-degree: 73%
+source-wordcount: '1015'
+ht-degree: 74%
 
 ---
 
 # 테스트 페이지 (숨김)
 
-숨겨진 테스트 페이지 - EDS
+숨겨진 테스트 페이지
 
 ## 이미지 (EXLM-412)
 
