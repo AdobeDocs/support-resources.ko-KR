@@ -3,16 +3,18 @@ title: 표
 description: Markdown 표 및 HTML 표 작업
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 3%
 
 ---
 
 # 표
 
-매트가 여기 몇 번이고 있었어요
+매트가 여기 계속 있었어요
+
+EDS
 
 표준 Markdown에서는 기본 테이블만 지원합니다. AdobeDocs Markdown에는 다음과 같은 옵션이 있습니다.
 
