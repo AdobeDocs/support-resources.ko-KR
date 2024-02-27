@@ -3,10 +3,10 @@ user-guide-title: 성공 플랜 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 성공 플랜 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: b09d90d8937a3fe225e6e9e5461c56ed5fcf5700
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 708c3e3db885e2dce7d1d258189eb50a9ec4293c
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 88%
 
 ---
 
@@ -31,7 +31,10 @@ ht-degree: 100%
       + [엘리트](dme-elite.md)
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [숨겨진 테스트 파일](hidden-test.md)
-+ [숨겨진 이미지 테스트](hidden/test-page.md)
++ [숨겨진 구문 안내서](hidden/syntax-style-guide.md)
++ [숨겨진 테이블 나누기](hidden/table-breaks.md)
++ [숨겨진 이미지 테스트](hidden/tables.md)
++ [숨겨진 메모 테스트](hidden/note-test.md)
 
 <!--
 
