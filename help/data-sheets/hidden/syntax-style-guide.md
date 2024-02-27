@@ -4,9 +4,9 @@ description: Markdown 스타일링에 대한 기본 소개
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 13%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 13%
 # Markdown 구문 스타일 안내서
 
 이 페이지에서는 Markdown(.md) 형식을 사용하여 디지털 경험 기술 설명서 작성을 위한 Markdown 구성 요소를 보여 줍니다. 이 페이지에는 Adobe 직원에 대한 세부 정보가 포함되어 있습니다.
+
+EDS
 
 자세한 내용은 여기 를 참조하십시오. [Adobe.com](https://www.adobe.com/kr/){rel=nofollow}
 
