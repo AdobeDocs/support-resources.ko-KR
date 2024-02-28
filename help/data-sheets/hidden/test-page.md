@@ -3,16 +3,26 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 74%
+source-wordcount: '1028'
+ht-degree: 73%
 
 ---
 
 # 테스트 페이지 (숨김)
 
 숨겨진 테스트 페이지
+
+## 버튼
+
+[단추 기본값](https://www.adobe.com/)
+
+**[기본 단추](https://www.adobe.com/)**
+
+_[단추 보조](https://www.adobe.com/)_
+
+**_[단추 세 번째](https://www.adobe.com/)_**
 
 ## 이미지 (EXLM-412)
 
