@@ -5,16 +5,26 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
-workflow-type: ht
-source-wordcount: '804'
-ht-degree: 100%
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+workflow-type: tm+mt
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # 숨겨진 테스트 페이지
 
 활성화됩니까? 오후 3시 10분 정도에 제출 여부를 다시 확인하십시오. 오후 3시 30분에 실시간 전송됩니까?
+
+## 버튼
+
+[단추 기본값](https://www.adobe.com/)
+
+**[기본 단추](https://www.adobe.com/)**
+
+_[단추 보조](https://www.adobe.com/)_
+
+**_[단추 세 번째](https://www.adobe.com/)_**
 
 ## 미리보기 문제
 
@@ -118,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보(기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 양수 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="example.com으로 이동"} |
-| 음수 | [!BADGE 중단됨]{type=negative tooltip="이 기능은 이제 지원되지 않음"} |
-| 중립 | [!BADGE 아마도]{type=Neutral tooltip="기수가 말에서 떨어졌는데..."} |
-| 주의 사항 | [!BADGE 주의]{type=Caution tooltip="노란색 상태"} |
+| 양수 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;example.com으로 이동&quot;} |
+| 음수 | [!BADGE 중단됨]{type=negative tooltip=&quot;이 기능은 이제 사용이 종료됩니다.&quot;} |
+| 중립 | [!BADGE 아마도]{type=Neutral tooltip=&quot;라이더가 말에서 떨어졌습니다...&quot;} |
+| 주의 사항 | [!BADGE 주의]{type=Caution tooltip=&quot;노란색 상태&quot;} |
 
 구문 예
 
