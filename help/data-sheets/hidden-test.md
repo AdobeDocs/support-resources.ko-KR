@@ -128,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보(기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 양수 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;example.com으로 이동&quot;} |
-| 음수 | [!BADGE 중단됨]{type=negative tooltip=&quot;이 기능은 이제 사용이 종료됩니다.&quot;} |
-| 중립 | [!BADGE 아마도]{type=Neutral tooltip=&quot;라이더가 말에서 떨어졌습니다...&quot;} |
-| 주의 사항 | [!BADGE 주의]{type=Caution tooltip=&quot;노란색 상태&quot;} |
+| 양수 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="example.com으로 이동"} |
+| 음수 | [!BADGE 중단됨]{type=negative tooltip="이 기능은 이제 사용이 종료됩니다."} |
+| 중립 | [!BADGE 아마도]{type=Neutral tooltip="라이더가 말에서 떨어졌습니다..."} |
+| 주의 사항 | [!BADGE 주의]{type=Caution tooltip="노란색 상태"} |
 
 구문 예
 
