@@ -314,7 +314,7 @@ You can't see me (unless you're editing in Git).
 >
 TOC.md 파일에서 TOC 목록 가운데 있는 줄을 주석 처리하지 않습니다. 이렇게 하면 목차 목록이 손상되어 유효성 검사 오류가 발생할 수 있습니다. 대신 TOC의 주석을 파일의 끝으로 이동합니다.
 
-## CONTEXTALHELP
+## CONTEXTUALHELP
 
 작성자는 제품 팀과 함께 작업하여 Experience Cloud 또는 Experience Platform 제품 UI에 도움말 팝오버를 추가할 수 있습니다. 예:
 
