@@ -3,16 +3,26 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
+source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 73%
+source-wordcount: '1039'
+ht-degree: 72%
 
 ---
 
 # 테스트 페이지 (숨김)
 
 숨겨진 테스트 페이지
+
+## 대장 내시경 검사
+
+**이모지**
+
+무시된 것 같습니다.
+
+정말 웃기다! :joy:
+
+:smiley:
 
 ## 버튼
 
