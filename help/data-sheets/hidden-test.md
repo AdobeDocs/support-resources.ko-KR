@@ -6,9 +6,9 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
 source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 94%
 
 ## 버튼
 
-[단추 기본값](https://www.adobe.com/)
+[버튼 기본값](https://www.adobe.com/)
 
-**[기본 단추](https://www.adobe.com/)**
+**[버튼 기본](https://www.adobe.com/)**
 
-_[단추 보조](https://www.adobe.com/)_
+_[버튼 보조](https://www.adobe.com/)_
 
-**_[단추 세 번째](https://www.adobe.com/)_**
+**_[버튼 3차](https://www.adobe.com/)_**
 
 ## 미리보기 문제
 
@@ -127,11 +127,11 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
 | 유형 | 배지 |
 |---|---|
-| 정보(기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 양수 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="example.com으로 이동"} |
-| 음수 | [!BADGE 중단됨]{type=negative tooltip="이 기능은 이제 사용이 종료됩니다."} |
-| 중립 | [!BADGE 아마도]{type=Neutral tooltip="라이더가 말에서 떨어졌습니다..."} |
-| 주의 사항 | [!BADGE 주의]{type=Caution tooltip="노란색 상태"} |
+| 정보 (기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
+| 긍정 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 부정 | [!BADGE 중단됨]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 주의 | [!BADGE 주목]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 구문 예
 
