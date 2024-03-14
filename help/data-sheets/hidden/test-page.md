@@ -3,9 +3,9 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 73%
 
 ---
@@ -17,14 +17,6 @@ ht-degree: 73%
 ## AEM EDS에 오신 것을 환영합니다!
 
 테스트 게시
-
-**이모지**
-
-무시된 것 같습니다.
-
-정말 웃기다! :joy:
-
-:smiley:
 
 ## 버튼
 
@@ -41,12 +33,6 @@ _[버튼 보조](https://www.adobe.com/)_
 ### 호버 텍스트가 있는 이미지
 
 ![대체 텍스트 - package.png](assets/package.png "호버 텍스트 - package.png입니다.")
-
-### 텍스트를 가운데로
-
-<p align="center">가운데 위치</p>
-
-<center>가운데 위치</center>
 
 ### 확대/축소 가능한 이미지
 
@@ -131,7 +117,7 @@ _[버튼 보조](https://www.adobe.com/)_
 
 아이콘은 오른쪽 정렬되고, 다이빙 이미지는 200픽셀로 가운데에, 플립 이미지는 오른쪽 50%에 정렬됩니다.
 
-| <center>왼쪽 | 가운데 | 오른쪽</center> |
+| 왼쪽 | 가운데 | 오른쪽 |
 |---|---|---|
 | ![대체 텍스트](assets/package.png "정렬=오른쪽"){align=right} | ![대체 텍스트](assets/maui-dive.jpg "정렬=가운데 폭=200"){align="center" width="200"} | ![대체 텍스트](assets/maui-flip.jpg "정렬=오른쪽 폭=50%"){align="right" width="50%"} |
 
