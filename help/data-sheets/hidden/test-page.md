@@ -3,10 +3,10 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
+source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 72%
+source-wordcount: '1044'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,9 @@ ht-degree: 72%
 
 숨겨진 테스트 페이지
 
-## 대장 내시경 검사
+## AEM EDS에 오신 것을 환영합니다!
+
+테스트 게시
 
 **이모지**
 
@@ -26,13 +28,13 @@ ht-degree: 72%
 
 ## 버튼
 
-[단추 기본값](https://www.adobe.com/)
+[버튼 기본값](https://www.adobe.com/)
 
-**[기본 단추](https://www.adobe.com/)**
+**[버튼 기본](https://www.adobe.com/)**
 
-_[단추 보조](https://www.adobe.com/)_
+_[버튼 보조](https://www.adobe.com/)_
 
-**_[단추 세 번째](https://www.adobe.com/)_**
+**_[버튼 3차](https://www.adobe.com/)_**
 
 ## 이미지 (EXLM-412)
 
