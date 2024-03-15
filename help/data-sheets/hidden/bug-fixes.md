@@ -3,14 +3,20 @@ title: 버그 수정(숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 5%
 
 ---
 
 # 버그 수정
+
+## 인라인 배지가 작동하지 않음
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE 메모]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE 표]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 구문 스타일 안내서]{type=Positive}
 
 ## UGP-10560 - 접을 수 있는 섹션의 배지
 
