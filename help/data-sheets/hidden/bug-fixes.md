@@ -3,16 +3,16 @@ title: 버그 수정(숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 5%
 
 ---
 
 # 버그 수정
 
-## 인라인 배지가 작동하지 않음
+## UGP-10584 인라인 배지가 작동하지 않음
 
 이 배지는 글머리 기호 항목과 동일한 줄에 있어야 합니다.
 
