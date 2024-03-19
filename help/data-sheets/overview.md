@@ -2,9 +2,9 @@
 title: Adobe 성공 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 
 | 추가 기능 | Expert Success 플랜 | Ultimate Success 플랜 |
 |--- |--- |--- |
-| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 엔드 투 엔드 리더십 및 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | 사용 가능 |
+| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 엔드 투 엔드 리더십 및 지원을 제공합니다. | 사용 가능 | 사용 가능 |
 | **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | 사용할 수 없음 | 사용 가능 |
 | **고급 클라우드 지원 추가 기능**<br> Adobe Experience Manager as a Cloud Service 고객에게 최고 수준의 관리 및 가치 보증을 제공합니다. | 사용 가능 | 사용 가능 |
 | **Mentor Sessions 추가 기능**<br>&#x200B;적시 교육 방식으로 기술 기반의 학습 과정을 제공합니다. | 사용 가능 | 포함됨 |
