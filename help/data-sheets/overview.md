@@ -2,10 +2,10 @@
 title: Adobe 성공 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+workflow-type: tm+mt
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -19,23 +19,39 @@ Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 |--- |--- |--- |
 |  | Expert Success 플랜을 사용하면 중요한 비즈니스 문제에 대한 기술 문제 해결 및 지침을 위해 **연중무휴 전문가 지원**&#x200B;을 이용할 수 있습니다. 또는 셀프 가이드 리소스, 전용 모범 사례, Adobe 전문가 및 동료의 온라인 커뮤니티를 활용하여 빠른 해결 방법을 찾을 수도 있습니다. <p> *모든 Adobe Experience Cloud 라이선스에 포함되어 있습니다.* | Ultimate Success 플랜을 통해 **전략적 지침과 사전 예방적 기술 상태를 경험하여 고성능 디지털 경험을 제공**&#x200B;할 수 있습니다. Adobe 환경은 귀사의 비즈니스를 잘 알고 비즈니스 영향에 대한 목표와 우선 순위에 맞는 로드맵 실행에 중점을 두는 전문가 팀의 지원을 받게 됩니다. |
 | **성공 팀** | 지원 엔지니어로 구성된 팀 | 다음 포함 <ul><li> 지정된 기술 계정 관리자 </li><li> 지정된 고객 성공 관리자 </li><li> 지정된 지원 서비스 관리자</li><li> 성공 가속기를 제공하는 기술 엔지니어 및 전략 전문가로 구성된 팀 </li><li> 지원 엔지니어로 구성된 팀 </li></ul> |
-| **사전 예방적 기술 + 운영 지원** | ![포함되지 않음 아이콘](assets/Cross_red_circle.svg){width="20"} 포함되지 않음 | 다음 포함 <ul><li>업그레이드 및 마이그레이션 검토, 릴리스 준비 </li><li>제품 로드맵 검토</li><li> 기술 및 전략 로드맵 조정</li><li>주요 이벤트 준비 및 계획</li><li>적합하고 시기적절한 지원 계획</li><li>기술 모범 사례 및 업계 지침</li><li>제품 팀 지원/조정</li><li>주요 비즈니스 목표 달성을 위한 통합 계획 - MAP(Mutual Action Plan)</li></ul> |
+| **사전 예방적 기술 + 운영 지원** | 포함되지 않음 | 다음 포함 <ul><li>업그레이드 및 마이그레이션 검토, 릴리스 준비 </li><li>제품 로드맵 검토</li><li> 기술 및 전략 로드맵 조정</li><li>주요 이벤트 준비 및 계획</li><li>적합하고 시기적절한 지원 계획</li><li>기술 모범 사례 및 업계 지침</li><li>제품 팀 지원/조정</li><li>주요 비즈니스 목표 달성을 위한 통합 계획 - MAP(Mutual Action Plan)</li></ul> |
 | **기술 지원** | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2, P3, P4**: 업무 시간 지원</li><li>표준 중단 관리</li><li>풀링된 에스컬레이션 관리</li></ul> | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2/P3**: 주중 24시간 문제 지원</li><li>**P4**: 업무 시간 지원</li><li>우선 중단 관리</li><li>지정된 전문가 에스컬레이션 관리</li></ul> |
-| **성공 가속기** | ![포함되지 않음 아이콘](assets/Cross_red_circle.svg){width="20"} 포함되지 않음 | TAM 및 CSM이 정기적으로 예약하는 성공 가속기<p>*(자세한 내용은 성공 가속기 카탈로그 참조)* |
+| **성공 가속기** | 포함되지 않음 | TAM 및 CSM이 정기적으로 예약하는 성공 가속기<p>*(자세한 내용은 성공 가속기 카탈로그 참조)* |
 | **지원 채널** | 온라인, 전화, Experience League, 포럼 | 개인화된 온라인 포털, 우선 전화, Experience League, 포럼 |
 
 {style="table-layout:fixed"}
+
+<!--
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/green_checkmark.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![not available icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+-->
 
 ## 추가 기능 지원
 
 | 추가 기능 | Expert Success 플랜 | Ultimate Success 플랜 |
 |--- |--- |--- |
-| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 엔드 투 엔드 리더십 및 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
-| **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | ![사용 불가 아이콘](assets/Cross_red_circle.svg){width="20"} 사용 불가 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
-| **고급 클라우드 지원 추가 기능**<br> Adobe Experience Manager as a Cloud Service 고객에게 최고 수준의 관리 및 가치 보증을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
-| **Mentor Sessions 추가 기능**<br>&#x200B;적시 교육 방식으로 기술 기반의 학습 과정을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
-| **Developer Boost 추가 기능**<br>&#x200B;파손 수리 작업을 지원할 수 있는 필드 엔지니어링 전문가에 대한 액세스를 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![포함된 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
-| **우선 순위 대기열 번들 추가 기능**<br> Mentor Sessions 및 Developer Boost에 대한 추가 액세스 권한으로 티켓을 먼저 처리하려면 줄을 건너뛰십시오. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![포함된 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
+| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 엔드 투 엔드 리더십 및 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | 사용 가능 |
+| **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | 사용할 수 없음 | 사용 가능 |
+| **고급 클라우드 지원 추가 기능**<br> Adobe Experience Manager as a Cloud Service 고객에게 최고 수준의 관리 및 가치 보증을 제공합니다. | 사용 가능 | 사용 가능 |
+| **Mentor Sessions 추가 기능**<br>&#x200B;적시 교육 방식으로 기술 기반의 학습 과정을 제공합니다. | 사용 가능 | 포함됨 |
+| **Developer Boost 추가 기능**<br>&#x200B;파손 수리 작업을 지원할 수 있는 필드 엔지니어링 전문가에 대한 액세스를 제공합니다. | 사용 가능 | 포함됨 |
+| **우선 순위 대기열 번들 추가 기능**<br> Mentor Sessions 및 Developer Boost에 대한 추가 액세스 권한으로 티켓을 먼저 처리하려면 줄을 건너뛰십시오. | 사용 가능 | 포함됨 |
 
 {style="table-layout:fixed"}
 
