@@ -6,9 +6,9 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
 source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1276'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 
 활성화됩니까? 오후 3시 10분 정도에 제출 여부를 다시 확인하십시오. 오후 3시 30분에 실시간 전송됩니까?
 
-## 이미지가 있는 문제 테이블
+## 이미지가 포함된 문제 테이블
 
 
 ## Expert 및 Ultimate Success 플랜 비교
@@ -48,13 +48,13 @@ ht-degree: 99%
 
 ## 버튼
 
-[버튼 기본값](https://www.adobe.com/)
+[버튼 기본값](https://www.adobe.com/kr)
 
-**[버튼 기본](https://www.adobe.com/)**
+**[버튼 기본](https://www.adobe.com/kr)**
 
-_[버튼 보조](https://www.adobe.com/)_
+_[버튼 보조](https://www.adobe.com/kr)_
 
-**_[버튼 3차](https://www.adobe.com/)_**
+**_[버튼 3차](https://www.adobe.com/kr)_**
 
 ## 미리보기 문제
 
@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보 (기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 긍정 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 부정 | [!BADGE 중단됨]{type=negative tooltip="This feature is now end of life"} |
-| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 주의 | [!BADGE 주목]{type=Caution tooltip="Yellow status"} |
+| 긍정 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 부정 | [!BADGE 중단됨]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 주의 | [!BADGE 주목]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 구문 예
 
@@ -193,7 +193,7 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
   렌더링됨:
 
-  [!BADGE 새 탭에서 열기]{type=Negative url="https://www.adobe.com newtab=true" tooltip="새 탭에서 adobe.com 열기"}
+  [!BADGE 새 탭에서 열기]{type=Negative url="https://www.adobe.com/kr newtab=true" tooltip="새 탭에서 adobe.com 열기"}
 
 ## 텍스트 강조 표시
 
