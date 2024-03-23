@@ -3,14 +3,19 @@ title: 버그 수정(숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
+exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
+source-git-commit: c937df9669153698a82842510337df73dfa28bd8
 workflow-type: tm+mt
-source-wordcount: '1841'
-ht-degree: 28%
+source-wordcount: '1852'
+ht-degree: 27%
 
 ---
 
 # 버그 수정
+
+## 자동 활성화 테스트
+
+토요일 아침에 제출했습니다. 지금 게시하지 않음.
 
 ## UGP-10584 인라인 배지가 작동하지 않음
 
