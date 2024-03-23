@@ -3,9 +3,9 @@ title: 버그 수정(숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 28%
 
 ---
@@ -180,6 +180,10 @@ _2022년 8월 9일_
 ## [!BADGE 사용되지 않음]{type=negative}
 
 위 제목 을 참조하십시오. 그리고 다음 건요
+
+## 자동 활성화 테스트
+
+금요일 오후에 추가했는데 지금 게시를 클릭하지 않았습니다.
 
 ### [!BADGE Beta]{type=Informative}
 
