@@ -3,9 +3,9 @@ user-guide-title: 성공 플랜 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 성공 플랜 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
 workflow-type: ht
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -35,11 +35,12 @@ ht-degree: 100%
 + [숨겨진 EDS 테스트 파일](hidden/test-page.md)
 + [숨겨진 리디렉션 테스트](hidden/test-redirection.md)
 + [숨겨진 구문 안내서](hidden/syntax-style-guide.md)
-+ [숨겨진 테이블 나누기](hidden/table-breaks.md)
 + [숨겨진 이미지 테스트](hidden/tables.md)
 + [숨겨진 메모 테스트](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
