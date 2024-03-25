@@ -3,7 +3,8 @@ title: 표
 description: Markdown 표 및 HTML 표 작업
 hide: true
 hidefromtoc: true
-source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
+exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
+source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
 ht-degree: 3%
@@ -239,11 +240,11 @@ HTML 테이블이 렌더링되는 방법을 지정하려면 테이블의 첫 번
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="리드" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Adobe 리드에 대한 워크플로</strong></a>
+    <a href="note-test.md"><strong>Adobe 리드에 대한 워크플로</strong></a>
     </div>
     <em>리드 작성자를 위한 기본 편집 워크플로우입니다.</em>
     <br>
@@ -276,11 +277,11 @@ HTML 테이블이 렌더링되는 방법을 지정하려면 테이블의 첫 번
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="리드" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Adobe 리드에 대한 워크플로</strong></a>
+    <a href="note-test.md"><strong>Adobe 리드에 대한 워크플로</strong></a>
     </div>
     <em>리드 작성자를 위한 기본 편집 워크플로우입니다.</em>
     <br>
