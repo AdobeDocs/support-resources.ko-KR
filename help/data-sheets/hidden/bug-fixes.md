@@ -4,9 +4,9 @@ description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: c937df9669153698a82842510337df73dfa28bd8
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
 workflow-type: tm+mt
-source-wordcount: '1852'
+source-wordcount: '1849'
 ht-degree: 27%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 27%
 
 ## 자동 활성화 테스트
 
-토요일 아침에 제출했습니다. 지금 게시하지 않음.
+이러한 버그는 모두 수정되어야 합니다.
 
 ## UGP-10584 인라인 배지가 작동하지 않음
 

@@ -3,7 +3,7 @@ title: Adobe 성공 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 45d7df912c336c9275545612e625869c005eb448
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1832'
 ht-degree: 100%
 
