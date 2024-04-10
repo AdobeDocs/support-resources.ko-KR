@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 + [숨겨진 테이블 테스트](hidden/tables.md)
 + [숨겨진 테이블 나누기](hidden/table-breaks.md)
 + [숨겨진 메모 테스트](hidden/note-test.md)
-+ [숨겨진 새 자동 활성화 전용](hidden/autoactivate.md)
++ [숨겨진 새 자동 활성화만](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
