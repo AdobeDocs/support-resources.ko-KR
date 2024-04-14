@@ -2,9 +2,9 @@
 title: 비즈니스 지원
 description: Adobe Experience Cloud 비즈니스 지원 서비스는 Adobe의 기술 지원 팀과 계정 관리를 위한 계정 지원 리드에 대한 완전한 액세스를 제공합니다.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
-source-wordcount: '869'
+source-git-commit: 20940c0e1db18355219d7d968c1262bc998e41d6
+workflow-type: ht
+source-wordcount: '882'
 ht-degree: 100%
 
 ---
