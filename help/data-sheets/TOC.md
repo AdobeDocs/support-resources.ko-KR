@@ -3,8 +3,8 @@ user-guide-title: 성공 플랜 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 성공 플랜 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: ht
+source-git-commit: dcfa9fc647a8f0f302b0e747d701e53c7b589c12
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
