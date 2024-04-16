@@ -1,7 +1,8 @@
 ---
 title: Adode Crux Podcast
 description: CRUX 팟캐스트 시리즈의 에피소드 1
-source-git-commit: 14ae2e8ba73843a3dfc2fc551684d69e098328fc
+exl-id: ea49282f-dc0a-45aa-b1ec-9d108209bce9
+source-git-commit: a7b7e410a69b5b0a78a55ad9781f443d64a1f222
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%
