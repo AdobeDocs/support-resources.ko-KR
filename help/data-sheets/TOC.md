@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 84d3ad629fc207c38400fc15416809c6edbe891c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '112'
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 + [Adobe 성공 플랜 개요](overview.md)
 + The Crux Podcast{#crux-podcast}
-   + [Ep.1 - 빌리 게오르가로스](episode1.md)
-     [Ep.2 - 카리 벤자민](episode2.md)
+   + [Ep.1 - Billy Georgaros](episode1.md)
+     [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
 + 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
    + [이전 Adobe 지원 플랜 개요](overview-prior-plans.md)
@@ -35,7 +35,7 @@ ht-degree: 0%
       + [엘리트](dme-elite.md)
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [숨겨진 개요](hidden-overview.md)
-+ [새 테스트 숨김](hidden-new-test.md)
++ [숨겨진 새 테스트](hidden-new-test.md)
 + [숨겨진 테스트 파일](hidden-test.md)
 + [숨겨진 버그 수정](hidden/bug-fixes.md)
 + [숨겨진 EDS 테스트 파일](hidden/test-page.md)
