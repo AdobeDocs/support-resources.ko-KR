@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 56883da531bf00a4d36c667bc7b153a9a047a770
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 94%
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [숨겨진 개요](hidden-overview.md)
 + [숨겨진 새 테스트](hidden-new-test.md)
-+ [새 테스트 2 숨김](hidden-new-test-2.md)
++ [숨겨진 새 테스트 2](hidden-new-test-2.md)
 + [숨겨진 테스트 파일](hidden-test.md)
 + [숨겨진 버그 수정](hidden/bug-fixes.md)
 + [숨겨진 EDS 테스트 파일](hidden/test-page.md)
