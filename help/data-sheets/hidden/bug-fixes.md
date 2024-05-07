@@ -4,10 +4,10 @@ description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 27%
+source-wordcount: '1926'
+ht-degree: 28%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## 자동 활성화 테스트
 
 이러한 버그는 모두 수정되어야 합니다.
+
+## UGP-10866 링크가 음영 상자에서 굵게 표시되지 않음
+
+>[!BEGINSHADEBOX]
+
+**목차**
+
+* [AI 어시스턴트 시작하기](note-test.md)
+* **[AI Assistant를 사용하여 이메일 생성](syntax-style-guide.md)**
+* [AI 어시스턴트와 함께하는 SMS 세대](test-page.md)
+* [AI Assistant를 사용하여 푸시 생성](tables.md)
+* [AI Assistant를 사용한 콘텐츠 실험](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+음영 상자 없음
+
+**목차**
+
+* [AI 어시스턴트 시작하기](note-test.md)
+* **[AI Assistant를 사용하여 이메일 생성](syntax-style-guide.md)**
+* [AI 어시스턴트와 함께하는 SMS 세대](test-page.md)
+* [AI Assistant를 사용하여 푸시 생성](tables.md)
+* [AI Assistant를 사용한 콘텐츠 실험](test-redirection.md)
+
 
 ## UGP-10584 인라인 배지가 작동하지 않음
 
