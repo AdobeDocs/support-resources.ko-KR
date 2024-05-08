@@ -1,7 +1,7 @@
 ---
 title: Adode Crux Podcast
 description: CRUX 팟캐스트 시리즈의 에피소드 4
-source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
+source-git-commit: ecd2bd42884bba0cbda03cf2ad27f2918d2e2317
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%
