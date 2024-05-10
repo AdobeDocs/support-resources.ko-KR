@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 95%
    + [Ep.1 - Billy Georgaros](episode1.md)
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
-     [Ep.4 - 제시카 오울레트](episode4.md)
+     [Ep.4 - Jessica Ouellette](episode4.md)
      [Ep.5 - 코리 블랙번](episode5.md)
 + 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
    + [이전 Adobe 지원 플랜 개요](overview-prior-plans.md)
