@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 93%
      [Ep.3 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
      [Ep.5 - Corey Blackburn](episode5.md)
-     [Ep.6 - 켈리 오자](episode6.md)
+     [Ep.6 - Kelly Oja](episode6.md)
      [Ep.7 - Chris Diaz](episode7.md)
      [Ep.8 - 빈센트 리](episode8.md)
 + 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
