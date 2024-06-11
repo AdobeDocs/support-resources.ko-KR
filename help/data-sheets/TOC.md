@@ -3,10 +3,10 @@ user-guide-title: 성공 플랜 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 성공 플랜 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 100%
      [Ep.6 - Kelly Oja](episode6.md)
      [Ep.7 - Chris Diaz](episode7.md)
      [Ep.8 - Vincent Lee](episode8.md)
+     [Ep.9 - 렌 위트먼](episode9.md)
 + 2022년 6월 16일 이전의 Adobe 지원 플랜{#prior-plans}
    + [이전 Adobe 지원 플랜 개요](overview-prior-plans.md)
    + Experience Cloud 서비스 {#data-sheets}
