@@ -4,7 +4,7 @@ description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1123'
 ht-degree: 100%
 
 ---

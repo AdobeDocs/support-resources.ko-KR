@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보 (기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 긍정 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 부정 | [!BADGE 중단됨]{type=negative tooltip="This feature is now end of life"} |
-| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 주의 | [!BADGE 주목]{type=Caution tooltip="Yellow status"} |
+| 긍정 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 부정 | [!BADGE 중단됨]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 주의 | [!BADGE 주목]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 구문 예
 

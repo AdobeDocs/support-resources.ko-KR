@@ -3,7 +3,8 @@ title: 테스트 페이지 (숨김)
 description: 내부 테스트용 테스트 페이지
 hide: true
 hidefromtoc: true
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+exl-id: 40a9a186-54c4-409e-8afb-35e8e3c8503f
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 73%
@@ -16,17 +17,17 @@ ht-degree: 73%
 
 ## AEM EDS에 오신 것을 환영합니다!
 
-테스트 게시
+Publish 테스트
 
 ## 버튼
 
-[버튼 기본값](https://www.adobe.com/)
+[버튼 기본값](https://www.adobe.com/kr)
 
-**[버튼 기본](https://www.adobe.com/)**
+**[버튼 기본](https://www.adobe.com/kr)**
 
-_[버튼 보조](https://www.adobe.com/)_
+_[버튼 보조](https://www.adobe.com/kr)_
 
-**_[버튼 3차](https://www.adobe.com/)_**
+**_[버튼 3차](https://www.adobe.com/kr)_**
 
 ## 이미지 (EXLM-412)
 
@@ -197,7 +198,7 @@ _[버튼 보조](https://www.adobe.com/)_
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="공연" src="assets/package.png" width="40" height="40"/>
+       <img alt="성과" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
       <a href="/help/data-sheets/business.md"><strong>성능 모범 사례</strong></a>
@@ -238,7 +239,7 @@ _[버튼 보조](https://www.adobe.com/)_
        <img alt="엔터프라이즈" src="assets/package.png" width="40" height="40"/>
     </a>
     <div>
-      <a href="/help/data-sheets/business.md"><strong>규모에 맞는 상거래</strong></a>
+      규모에 맞는 <a href="/help/data-sheets/business.md"><strong>Commerce</strong></a>
       <p>Adobe Commerce와 Adobe Experience Manager를 사용하여 규모에 맞게 경험을 제공하는 방법에 대해 알아봅니다.</p>
     </div>
   </td>
@@ -310,7 +311,7 @@ _[버튼 보조](https://www.adobe.com/)_
   </td>
   <td valign="top">
     <a href="/help/data-sheets/business.md">
-       <img alt="공연" src="assets/package.png" width="40" height="40"/>
+       <img alt="성과" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
     <a href="/help/data-sheets/business.md"><strong>성능 모범 사례</strong></a>
@@ -347,7 +348,7 @@ _[버튼 보조](https://www.adobe.com/)_
        <img alt="엔터프라이즈" src="assets/package.png" width="40" height="40"/>
     </a>
     <br>
-    <a href="/help/data-sheets/business.md"><strong>규모에 맞는 상거래</strong></a>
+    <a href="/help/data-sheets/business.md"><strong>규모에 맞는 Commerce</strong></a>
     <p>Adobe Commerce와 Adobe Experience Manager를 사용하여 규모에 맞게 경험을 제공하는 방법에 대해 알아봅니다.</p>
   </td>
   <td valign="top">
