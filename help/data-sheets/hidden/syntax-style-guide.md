@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 3c1298d5ea119d7afb530a98efec4a46a8dc0ea6
 workflow-type: tm+mt
-source-wordcount: '4238'
+source-wordcount: '4237'
 ht-degree: 13%
 
 ---
@@ -948,7 +948,6 @@ iframe, 셀 범위, 포함된 테이블과 같은 어떤 테이블에서도 허�
 |--- |--- |
 | 빨강 | * <br> 읽기 * <br> 쓰기 * 연구 |
 | 파랑 | * 수영 <br> * 실행 <br> * 들어올리기 <br> **참고**: 스마트 교육을 해야 합니다. |
-.32
 
 
 ## 탭
