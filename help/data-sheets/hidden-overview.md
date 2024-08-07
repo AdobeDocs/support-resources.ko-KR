@@ -4,10 +4,10 @@ description: 이 페이지는 검색 및 TOC에서 숨겨짐
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 36e35c478069929b7c6a0aa2efc3f77daaa365ac
+source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 39%
+source-wordcount: '61'
+ht-degree: 40%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 39%
 
 지금 Publish을 클릭하지 않으므로, 이 메시지가 표시되면 자동 활성화가 작동한 것입니다.
 
-6월 6일 오후 7:12 PT
+2024년 8월 7일
