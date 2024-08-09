@@ -3,9 +3,9 @@ title: Adobe 성공 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 | **고급 클라우드 지원 추가 기능**<br> Adobe Experience Manager as a Cloud Service 고객에게 최고 수준의 관리 및 가치 보증을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **Mentor Sessions 추가 기능**<br>&#x200B;적시 교육 방식으로 기술 기반의 학습 과정을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
 | **Developer Boost 추가 기능**<br>&#x200B;파손 수리 작업을 지원할 수 있는 필드 엔지니어링 전문가에 대한 액세스를 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![포함된 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
-| **우선 순위 큐 번들 추가 기능**<br>&#x200B;더 빠른 응답 시간, 지원 활동에 대한 단일 연락 창구 및 성공 가속기에 대한 액세스 권한을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![포함된 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
+| **우선 순위 대기열 번들 추가 기능**<br>&#x200B;더 빠른 대응 시간, 지원 활동을 위한 단일 연락처, 성공 가속기에 대한 액세스 권한을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![포함된 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
 
 {style="table-layout:fixed"}
 
