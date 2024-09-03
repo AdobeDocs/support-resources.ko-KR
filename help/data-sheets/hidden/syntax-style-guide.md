@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 33707c7c1492ac85d1d634e752418b42c9f0aa55
+source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
 workflow-type: tm+mt
-source-wordcount: '4239'
+source-wordcount: '4300'
 ht-degree: 13%
 
 ---
@@ -513,22 +513,19 @@ Adobe 웹 사이트로 이동하려면 이 이미지를 클릭하십시오.
 
 [![이미지](assets/core-services_96.png)](https://www.adobe.com/kr/)
 
-<!--
-### Click-to-zoom images
+### 클릭하여 확대/축소하는 이미지
 
-Use the `zoomable` parameter to allow users to click an image to view an enlarged version of the image. When the user mouses over a zoomable image, the pointer becomes a magnifying glass. When clicked, the image expands to the full width of the browser. It can be dismissed with a close button.
+사용자가 이미지를 클릭하여 확대된 버전의 이미지를 볼 수 있도록 하려면 `zoomable` 매개 변수를 사용하십시오. 사용자가 확대/축소할 수 있는 이미지 위에 마우스를 올려 놓으면 포인터가 확대경이 됩니다. 클릭하면 이미지가 브라우저의 전체 너비로 확장됩니다. 닫기 버튼을 눌러 닫을 수 있습니다.
 
-**Example**
+**예**
 
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![다이빙 이미지](/help/data-sheets/hidden/assets/maui-dive.jpg "Maui에서 다이빙"){width="100" zoomable="yes"}
 
-**Syntax**
+**구문**
 
 ```
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 ```
-
--->
 
 ## 링크 및 상호 참조 {#links-and-cross-references}
 
