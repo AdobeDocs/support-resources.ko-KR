@@ -4,10 +4,10 @@ description: 이 페이지는 검색 및 TOC에서 숨겨짐
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 40%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 40%
 + [리디렉션 테스트](hidden/test-redirection.md)
 + [테스트 자동 활성화](hidden/autoactivate.md)
 
-## 새 섹션
+## 새 섹션 Akamai
 
-지금 Publish을 클릭하지 않으므로, 이 메시지가 표시되면 자동 활성화가 작동한 것입니다.
-
-2024년 8월 7일
+변경 사항이 AEM Live에 적용되는지 테스트합니다.
