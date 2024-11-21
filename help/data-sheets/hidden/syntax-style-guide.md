@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 13%
 
 ---
@@ -485,6 +485,8 @@ Bob: Check above no space char. (ignore the space; I can't add a codeblock insid
 ```
 
 렌더링됨:
+
+Bob - 너비 = 300픽셀 아래
 
 ![이미지 대체 텍스트 불러오기](assets/maui-dive.jpg "가리킨 텍스트 - Maui 불러오기 너비는 300픽셀이고 가운데에 배치됨"){width="300" align="center"}
 
