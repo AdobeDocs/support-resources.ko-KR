@@ -4,14 +4,14 @@ description: 이 페이지는 검색 및 TOC에서 숨겨짐
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: fd0ca6121b13a39bd3375dfbf0c3d90e2101aa5a
+source-git-commit: 35b37b154def58575a1d7fff82fbfa21d02e3b55
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 33%
 
 ---
 
-# 숨겨진 테스트 페이지 - Bob 3월 6일
+# 숨겨진 테스트 페이지 - Bob 3월 6일 - 오후
 
 + [버그 수정](hidden/bug-fixes.md)
 + [숨겨진 새 테스트](hidden-new-test.md)
