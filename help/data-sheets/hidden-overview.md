@@ -4,9 +4,9 @@ description: 이 페이지는 검색 및 TOC에서 숨겨짐
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 35b37b154def58575a1d7fff82fbfa21d02e3b55
+source-git-commit: e366d6c1e2dbeba4d81f837afa8e2d289f0db08a
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 33%
 
 ---
@@ -29,4 +29,4 @@ ht-degree: 33%
 
 SCCM이 계속 제대로 실행되고 있는지 테스트합니다.
 
-exl-pr은 매우 느립니까?
+Bob의 새 줄
