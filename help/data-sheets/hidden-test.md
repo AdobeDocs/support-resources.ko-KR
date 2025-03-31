@@ -6,16 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 100%
+source-wordcount: '1272'
+ht-degree: 99%
 
 ---
 
 # 숨겨진 테스트 페이지
 
-활성화됩니까? 오후 3시 10분 정도에 제출 여부를 다시 확인하십시오. 오후 3시 30분에 실시간 전송됩니까?
+미리 보기하시겠습니까? 젠킨스를 통해 오셔야 합니다. 3월 31일
 
 ## 이미지가 포함된 문제 테이블
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | 추가 기능 | Expert Success 플랜 | Ultimate Success 플랜 |
 |--- |--- |--- |
-| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 엔드 투 엔드 리더십 및 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
+| **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 전반적인 리더십과 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | ![사용 불가 아이콘](assets/Cross_red_circle.svg){width="20"} 사용 불가 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **고급 클라우드 지원 추가 기능**<br> Adobe Experience Manager as a Cloud Service 고객에게 최고 수준의 관리 및 가치 보증을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **Mentor Sessions 추가 기능**<br>&#x200B;적시 교육 방식으로 기술 기반의 학습 과정을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/green_checkmark.svg){width="20"} 포함됨 |
@@ -145,7 +145,7 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
 #### 인라인 배지
 
-자체 줄이나 제목, 표 또는 기타 페이지 요소에 배지 정보를 지정합니다.
+자체 줄이나 제목, 테이블 또는 기타 페이지 요소에 배지 정보를 지정합니다.
 
 베타 레이블, 파란색, URL 및 도구 설명이 포함된 인라인 배지의 구문은 다음과 같습니다.
 
@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보 (기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 긍정 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 부정 | [!BADGE 중단됨]{type=negative tooltip="This feature is now end of life"} |
-| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 주의 | [!BADGE 주목]{type=Caution tooltip="Yellow status"} |
+| 긍정 | [!BADGE 새로운 기능]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 부정 | [!BADGE 중단됨]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| 주의 | [!BADGE 주목]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 구문 예
 
