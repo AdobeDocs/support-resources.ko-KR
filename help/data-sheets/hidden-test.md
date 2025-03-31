@@ -6,16 +6,18 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
+source-git-commit: 44f293b1bf767eb485332d7766fc87ce00146da9
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1274'
 ht-degree: 99%
 
 ---
 
 # 숨겨진 테스트 페이지
 
-미리 보기하시겠습니까? 젠킨스를 통해 오셔야 합니다. 3월 31일
+미리보기 다시 시도하시겠습니까? 젠킨스를 통해 오셔야 합니다. 3월 31일
+
+오전 11:46
 
 ## 이미지가 포함된 문제 테이블
 
