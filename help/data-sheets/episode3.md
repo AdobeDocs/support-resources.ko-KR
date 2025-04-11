@@ -1,11 +1,11 @@
 ---
-title: Adode Crux Podcast
-description: CRUX 팟캐스트 시리즈의 에피소드 3
+title: Adode Crux 팟캐스트
+description: CRUX 팟캐스트 시리즈 에피소드 3
 exl-id: a4bff4e7-5dbd-47e7-8d27-b177f18793d2
 source-git-commit: 06aa435f34911cc5adf7cf40c8c8e15693178bda
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
