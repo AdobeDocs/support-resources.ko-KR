@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: d163b3a086aaabf98d75625ffab653a7cfd5bd67
+source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 12%
+source-wordcount: '36'
+ht-degree: 11%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 ## 코드 테이블
 
-직선 `<code>`
+스트레이트 코드
 
 <table>
     <tr>
@@ -31,7 +31,7 @@ ht-degree: 12%
     </tr>
   </table>
 
-`<pre lang="json"><code>` 포함
+사전 언어 코드 사용
 
 
 <table>
