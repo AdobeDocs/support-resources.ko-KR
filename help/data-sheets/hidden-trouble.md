@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
+source-git-commit: a9acc52cf5469ffeb9711ac6f4b52d54bb99086f
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 11%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,23 @@ ht-degree: 11%
 
 ## 코드 테이블
 
-스트레이트 코드
+**테이블 외부**
+
+```json
+PrimaryIdentities [
+  {"id": "ccid-2", "namespace": "CCID"},
+  {"id": "ecid-1", "namespace": "ECID"},
+  {"id": "ecid-2", "namespace": "ECID"}
+  ]
+NonPrimaryIdentities [
+  {"id": "ccid-1", "namespace": "CCID"},
+  {"id": "ecid-3", "namespace": "ECID"}
+  ]
+  "id": "ccid-1",
+    "namespace": "CCID"
+```
+
+테이블의 **스트레이트 코드**
 
 <table>
     <tr>
@@ -31,8 +47,7 @@ ht-degree: 11%
     </tr>
   </table>
 
-사전 언어 코드 사용
-
+**테이블에서 사전 언어 코드 사용**
 
 <table>
     <tr>
@@ -45,3 +60,10 @@ ht-degree: 11%
     </tr>
   </table>
 
+## 새 탭이 있는 딥링크
+
+여기를 클릭하세요. [새 탭에서 열린 문서에 대한 상대 링크](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+
+```
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+```
