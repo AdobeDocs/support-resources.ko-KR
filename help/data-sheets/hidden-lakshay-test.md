@@ -18,49 +18,49 @@ ht-degree: 7%
 
 ::: 랜딩 카드 컨테이너
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 제목 1
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 제목 1
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 제목 1
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 제목 1
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 제목 1
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
 
@@ -73,7 +73,7 @@ ht-degree: 7%
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
 
@@ -81,7 +81,7 @@ ht-degree: 7%
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
 
@@ -89,7 +89,7 @@ ht-degree: 7%
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
 
@@ -97,7 +97,7 @@ ht-degree: 7%
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::
 
@@ -105,6 +105,6 @@ ht-degree: 7%
 
 카드 설명입니다.
 카드 본문 콘텐츠입니다.
-[자세히 알아보기](https://experienceleague.adobe.com/)
+[자세히 알아보기](https://experienceleague.adobe.com/ko)
 :::
 :::

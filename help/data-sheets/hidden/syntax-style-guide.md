@@ -287,7 +287,7 @@ This is text inside a collapsible section.
 * 접을 수 있는 섹션 내에 제목을 추가할 수 있지만 권장되지는 않습니다.
 * [데스크톱의 복잡한 콘텐츠에 항상 아코디언이 해당되는 것은 아닙니다](https://www.nngroup.com/articles/accordions-complex-content/)
 * 축소 가능한 섹션의 한 가지 이전 단점은 **페이지에서 찾기**(Ctrl/Cmd+F)에서 축소된 텍스트를 무시한다는 것입니다. Safari에서는 여전히 적용되지만 Chrome에서는 적용되지 않습니다. 페이지에서 찾기는 Chrome에서 축소된 텍스트를 검색합니다.
-* 축소 가능한 섹션을 사용하는 [유지 관리 업데이트](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) 페이지의 예입니다.
+* 축소 가능한 섹션을 사용하는 [유지 관리 업데이트](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=ko) 페이지의 예입니다.
 
 ## 주석 및 비고
 

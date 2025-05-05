@@ -240,7 +240,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | 리소스 | 설명 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/) | Experience League를 통해 Adobe는 기업이 Adobe 투자에서 기대하는 가치를 달성하도록 지원합니다. 고객이 자기 주도 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 포함하는 개인 맞춤형 성공 경로를 따라가며 배우고, 교류하고, 성장할 수 있는 통합된 공간입니다. |
+| [Experience League](https://experienceleague.adobe.com/ko) | Experience League를 통해 Adobe는 기업이 Adobe 투자에서 기대하는 가치를 달성하도록 지원합니다. 고객이 자기 주도 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 포함하는 개인 맞춤형 성공 경로를 따라가며 배우고, 교류하고, 성장할 수 있는 통합된 공간입니다. |
 | [교육](https://training.adobe.com/training/) | Adobe 디지털 학습 서비스 과정은 Experience League에서 액세스할 수 있습니다. 학습 과정은 주문형 수업과 강의식 수업을 모두 통합합니다. 여기에서 시장 가치를 인정받은 기술을 습득하고 조직에 포지셔닝하여 성공을 이끌 수 있습니다. |
 | [생산 문제 및 시스템 중단](https://status.adobe.com/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [비즈니스 지원 웹 사이트](https://helpx.adobe.com/kr/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe 비즈니스 지원 웹 사이트입니다. |
