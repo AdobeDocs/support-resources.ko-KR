@@ -26,4 +26,4 @@ vendor/bin/magento-patches -n 상태 |grep &quot;27015\|상태&quot;
 
 이스케이프 처리된 백슬래시:
 
-vendor/bin/magento-patches -n 상태 |grep &quot;27015&amp;bsol;|상태&quot;
+vendor/bin/magento-patches -n 상태 |grep &quot;27015&bsol;|상태&quot;

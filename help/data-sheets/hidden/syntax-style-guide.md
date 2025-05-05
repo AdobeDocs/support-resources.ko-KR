@@ -132,7 +132,7 @@ There are two ways to create badges:
 
 문장에서 코드 일부를 인라인으로 렌더링하는 데 사용됩니다. 전체 펜싱된 코드 블록이 필요하지 않은 쿠키 이름, 파일 이름, 값 또는 명령을 호출하는 데 이상적입니다.
 
-의 코드 블록 내에 있는 콘텐츠는 그대로 렌더링되고 현지화되지 않습니다. (이 규칙의 한 가지 예외는 `!UICONTROL` 및 `!DNL` 구문이며, 게시를 위해 패키지하는 동안 제거됩니다.)
+의 코드 블록 내에 있는 콘텐츠는 그대로 렌더링되고 현지화되지 않습니다. (이 규칙의 한 가지 예외는 `` 및 `` 구문이며, 게시를 위해 패키지하는 동안 제거됩니다.)
 
 또한 유효성을 검사하지 않아야 하는 샘플 URL에 대해 코드 블록을 사용합니다. `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >텍스트를 삼중 백틱(&grave;&grave;&grave;&grave;)으로 래핑하여 인라인 코드 블록을 만들 수도 있습니다. 이 기능은 인라인 코드 블록 내에서 백틱 문자를 참조해야 할 때 특히 유용합니다. 예:
 >
-&grave;&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;&grave;
+>&grave;&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;&grave;
 
 ## 코드 블록(펜싱)
 
@@ -164,7 +164,7 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
-펜싱된 코드 블록을 만들 때 언어를 지정합니다. 언어를 지정하면 해당 언어와 관련된 구문을 강조 표시하고 사용자를 위한 **복사** 단추를 표시합니다. 언어를 지정하는 경우 줄 번호를 표시할 수도 있습니다.
+>펜싱된 코드 블록을 만들 때 언어를 지정합니다. 언어를 지정하면 해당 언어와 관련된 구문을 강조 표시하고 사용자를 위한 **복사** 단추를 표시합니다. 언어를 지정하는 경우 줄 번호를 표시할 수도 있습니다.
 
 **구문**
 
@@ -282,7 +282,7 @@ This is text inside a collapsible section.
 
 **참고**
 
-* 축소 가능한 섹션 내에 축소 가능한 섹션을 중첩하지 마십시오. 중첩된 축소 가능 섹션은 올바르게 렌더링되지 않습니다. 그러나 유효성 검사가 실패하지 않으므로 중첩된 섹션의 `+++` 구문이 표시됩니다.
++++* 축소 가능한 섹션 내에 축소 가능한 섹션을 중첩하지 마십시오. 중첩된 축소 가능 섹션은 올바르게 렌더링되지 않습니다. 그러나 유효성 검사가 실패하지 않으므로 중첩된 섹션의 `` 구문이 표시됩니다.
 * 축소 가능한 섹션 내에 글머리 기호 목록 및 코드 블록과 같은 항목 위아래에 빈 줄을 추가해야 합니다. 그렇지 않으면 유효성 검사 오류가 발생합니다.
 * 접을 수 있는 섹션 내에 제목을 추가할 수 있지만 권장되지는 않습니다.
 * [데스크톱의 복잡한 콘텐츠에 항상 아코디언이 해당되는 것은 아닙니다](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-블록 구성 요소(예: 글머리 기호 목록, 특히 중첩된 글머리 기호 목록) 내에 주석을 추가하지 마십시오. 주석은 글머리 기호 목록이 렌더링되는 방법을 변경할 수 있습니다.
+>블록 구성 요소(예: 글머리 기호 목록, 특히 중첩된 글머리 기호 목록) 내에 주석을 추가하지 마십시오. 주석은 글머리 기호 목록이 렌더링되는 방법을 변경할 수 있습니다.
 >
-TOC.md 파일에서 TOC 목록 가운데 있는 줄을 주석 처리하지 않습니다. 이렇게 하면 목차 목록이 손상되어 유효성 검사 오류가 발생할 수 있습니다. 대신 TOC의 주석을 파일의 끝으로 이동합니다.
+>TOC.md 파일에서 TOC 목록 가운데 있는 줄을 주석 처리하지 않습니다. 이렇게 하면 목차 목록이 손상되어 유효성 검사 오류가 발생할 수 있습니다. 대신 TOC의 주석을 파일의 끝으로 이동합니다.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 .zip 또는 기타 다운로드 가능한 파일을 assets 디렉터리에 업로드한 다음 연결합니다. .zip 파일인 경우 링크를 클릭하면 파일이 다운로드됩니다. PDF 또는 PNG와 같은 파일 형식으로 브라우저에서 열 수 있는 경우, 링크를 클릭하면 새 탭이 열립니다. 이러한 파일의 경우 압축하거나 링크를 마우스 오른쪽 버튼으로 클릭하고 다운로드하는 지침을 제공하는 것이 좋습니다.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 렌더링됨:
 
@@ -378,7 +378,7 @@ Cat
 
 >[!NOTE]
 >
-다운로드 파일 및 이미지의 최대 파일 크기는 100MB입니다. github.com 제한 사항입니다. git.corp.adobe.com 제한은 더 높지만(250MB) 파일을 github.com 미러에 복사할 수 있어야 합니다.
+>다운로드 파일 및 이미지의 최대 파일 크기는 100MB입니다. github.com 제한 사항입니다. git.corp.adobe.com 제한은 더 높지만(250MB) 파일을 github.com 미러에 복사할 수 있어야 합니다.
 
 ## 제목 {#headings}
 
@@ -497,7 +497,7 @@ Bob - 너비 = 300픽셀 아래
 
 >[!NOTE]
 >
-이미지의 최대 파일 크기는 100MB입니다. github.com 제한 사항입니다. git.corp.adobe.com 제한은 더 높지만(250MB) 파일을 github.com 미러에 복사할 수 있어야 합니다.
+>이미지의 최대 파일 크기는 100MB입니다. github.com 제한 사항입니다. git.corp.adobe.com 제한은 더 높지만(250MB) 파일을 github.com 미러에 복사할 수 있어야 합니다.
 
 ### 이미지 링크
 
@@ -626,8 +626,8 @@ description: This is the article description used for search optimization. Use c
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/kr/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/kr/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/kr/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/kr/support/audience-manager.html)
 
 ## 메모 / 지침
 
@@ -645,7 +645,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!NOTE]
 >
-표준 메모 블록입니다.
+>표준 메모 블록입니다.
 
 **구문**
 
@@ -659,7 +659,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!TIP]
 >
-표준 팁입니다.
+>표준 팁입니다.
 
 **구문**
 
@@ -673,7 +673,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!WARNING]
 >
-표준 경고 블록입니다.
+>표준 경고 블록입니다.
 
 **구문**
 
@@ -687,7 +687,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!IMPORTANT]
 >
-이는 표준 중요 블록입니다.
+>이는 표준 중요 블록입니다.
 
 **구문**
 
@@ -703,35 +703,35 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!NOTE]
 >
-표준 메모 블록입니다.
+>표준 메모 블록입니다.
 >
-여기에는 여러 단락이 포함됩니다.
+>여기에는 여러 단락이 포함됩니다.
 
 새로 지원되는 메모 유형:
 
 >[!ADMIN]
 >
-관리자 노트입니다. EXL 전용입니다.
+>관리자 노트입니다. EXL 전용입니다.
 
 >[!AVAILABILITY]
 >
-가용성 메모입니다. EXL 전용입니다.
+>가용성 메모입니다. EXL 전용입니다.
 
 >[!PREREQUISITES]
 >
-전제 조건 메모입니다. EXL 전용입니다.
+>전제 조건 메모입니다. EXL 전용입니다.
 
 >[!INFO]
 >
-정보 메모입니다. EXL 전용입니다.
+>정보 메모입니다. EXL 전용입니다.
 
 >[!ERROR]
 >
-오류 메모입니다. EXL 전용입니다.
+>오류 메모입니다. EXL 전용입니다.
 
 >[!SUCCESS]
 >
-성공 메모입니다. EXL 전용입니다.
+>성공 메모입니다. EXL 전용입니다.
 
 ## 번호 매기기 목록 및 글머리 기호 목록 {#lists}
 
@@ -827,7 +827,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ Markdown을 확장하여 메모, 팁, 중요 및 경고와 같은 다양한 유�
 
 >[!NOTE]
 >
-남용하지 마세요. 일반 표의 경우 콘텐츠 간에 일관된 디자인을 유지하려고 합니다.
+>남용하지 마세요. 일반 표의 경우 콘텐츠 간에 일관된 디자인을 유지하려고 합니다.
 
 ![테이블 팁](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ snippets.md 파일의 H2 참조: `{{id-name}}`
 
 >[!TIP]
 >
-[Markdown 표 비디오 보기](https://video.tv.adobe.com/v/26220)
+>[Markdown 표 비디오 보기](https://video.tv.adobe.com/v/26220)
 
 네이티브 테이블은 Markdown에서 더 잘 보이는 경우가 많습니다. 열은 콘텐츠에 따라 크기가 조정됩니다. HTML 테이블은 동일한 너비의 열로 렌더링됩니다.
 
@@ -888,7 +888,7 @@ snippets.md 파일의 H2 참조: `{{id-name}}`
 
 >[!IMPORTANT]
 >
-이러한 HTML 코드를 Markdown 표에 추가할 때는 주의하십시오. 구문이 올바르지 않으면 문제를 정확하게 설명하지 않는 혼동 유효성 검사 오류가 발생합니다. HTML 구문을 검사하여 형식이 올바른지 확인합니다.
+>이러한 HTML 코드를 Markdown 표에 추가할 때는 주의하십시오. 구문이 올바르지 않으면 문제를 정확하게 설명하지 않는 혼동 유효성 검사 오류가 발생합니다. HTML 구문을 검사하여 형식이 올바른지 확인합니다.
 
 iframe, 셀 범위, 포함된 테이블과 같은 어떤 테이블에서도 허용되지 않습니다.
 
@@ -1035,9 +1035,9 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 >[!NOTE]
 >
-메모 및 표와 같은 특정 페이지 요소의 강조 표시를 개선하는 작업이 아직 진행 중입니다. 부적절한 렌더링이 표시되면 언제든지 JIRA 버그를 기록할 수 있습니다. 진행 중입니다.
+>메모 및 표와 같은 특정 페이지 요소의 강조 표시를 개선하는 작업이 아직 진행 중입니다. 부적절한 렌더링이 표시되면 언제든지 JIRA 버그를 기록할 수 있습니다. 진행 중입니다.
 >
-VSC 미리 보기는 아직 강조 표시를 지원하지 않습니다.
+>VSC 미리 보기는 아직 강조 표시를 지원하지 않습니다.
 
 ## 비디오
 
@@ -1115,7 +1115,7 @@ HTML 엔터티의 전체 목록은 [Freeformatter 웹 사이트](https://www.fre
 
 >[!NOTE]
 >
-&quot;파일 선택 > 다른 이름으로 저장&quot;과 같은 체인 단계의 경우 `>`자가 다른 문자 옆에 있지 않으므로 이스케이프 처리할 필요가 없습니다. `<filename>`과(와) 같은 변수의 경우 코드 블록 `backticks` 또는 문자 코드(`&lt;filename&gt;`)를 사용하여 꺾쇠 괄호를 이스케이프하려고 합니다.
+>&quot;파일 선택 > 다른 이름으로 저장&quot;과 같은 체인 단계의 경우 `>`자가 다른 문자 옆에 있지 않으므로 이스케이프 처리할 필요가 없습니다. `<filename>`과(와) 같은 변수의 경우 코드 블록 `backticks` 또는 문자 코드(`&lt;filename&gt;`)를 사용하여 꺾쇠 괄호를 이스케이프하려고 합니다.
 
 코드 블록에서 HTML 엔티티를 사용하는 경우 엔티티 텍스트가 특수 문자로 변환되지 않습니다. 예를 들어 `&gt;`은(는) 코드 블록에 &quot; > &quot; 대신 &quot; `&gt;` &quot;(으)로 표시됩니다.
 
@@ -1158,4 +1158,4 @@ HTML 엔터티의 전체 목록은 [Freeformatter 웹 사이트](https://www.fre
 
 >[!NOTE]
 >
-세 개가 아닌 여섯 개 공백과 같이 너무 많이 들여쓰면 내용이 블록 따옴표로 렌더링됩니다. 콘텐츠를 실수로 블록 인용으로 렌더링하지 않으려면 적절한 들여쓰기 양을 사용합니다.
+>세 개가 아닌 여섯 개 공백과 같이 너무 많이 들여쓰면 내용이 블록 따옴표로 렌더링됩니다. 콘텐츠를 실수로 블록 인용으로 렌더링하지 않으려면 적절한 들여쓰기 양을 사용합니다.
