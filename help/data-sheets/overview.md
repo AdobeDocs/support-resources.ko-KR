@@ -1,24 +1,24 @@
 ---
-title: Adobe 성공 플랜 개요
+title: Adobe Success Plan 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
-workflow-type: ht
+source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
+workflow-type: tm+mt
 source-wordcount: '2203'
 ht-degree: 100%
 
 ---
 
-# Adobe 성공 플랜 개요
+# Adobe Success Plan 개요
 
-Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서 비즈니스 단계를 유지할 수 있는 새로운 종류의 개인화된 경험을 제공합니다. Adobe 팀은 심층적인 기술 전문 지식, 다양한 역량, 고급 방법론을 활용하여 귀사에 필요한 적절한 수준의 지원, 전문 지식, 기술 및 전략 지침을 제공합니다.
+Adobe Success Plan은 사후 문제 해결을 넘어 어떤 문제보다 앞서 비즈니스 단계를 유지할 수 있는 새로운 종류의 개인화된 경험을 제공합니다. Adobe 팀은 심층적인 기술 전문 지식, 다양한 역량, 고급 방법론을 활용하여 귀사에 필요한 적절한 수준의 지원, 전문 지식, 기술 및 전략 지침을 제공합니다.
 
 
-## Expert 및 Ultimate Success 플랜 비교
+## Expert 및 Ultimate Success Plan 비교
 
-|  | Expert Success 플랜 | Ultimate Success 플랜 |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | Expert Success 플랜을 사용하면 중요한 비즈니스 문제에 대한 기술 문제 해결 및 지침을 위해 **연중무휴 전문가 지원**&#x200B;을 이용할 수 있습니다. 또는 셀프 가이드 리소스, 전용 모범 사례, Adobe 전문가 및 동료의 온라인 커뮤니티를 활용하여 빠른 해결 방법을 찾을 수도 있습니다. <p> *모든 Adobe Experience Cloud 라이선스에 포함되어 있습니다.* | Ultimate Success 플랜을 통해 **전략적 지침과 사전 예방적 기술 상태를 경험하여 고성능 디지털 경험을 제공**&#x200B;할 수 있습니다. Adobe 환경은 귀사의 비즈니스를 잘 알고 비즈니스 영향에 대한 목표와 우선 순위에 맞는 로드맵 실행에 중점을 두는 전문가 팀의 지원을 받게 됩니다. |
+|  | Expert Success Plan을 사용하면 중요한 비즈니스 문제에 대한 기술 문제 해결 및 지침을 위해 **연중무휴 전문가 지원**&#x200B;을 이용할 수 있습니다. 또는 셀프 가이드 리소스, 전용 모범 사례, Adobe 전문가 및 동료의 온라인 커뮤니티를 활용하여 빠른 해결 방법을 찾을 수도 있습니다. <p> *모든 Adobe Experience Cloud 라이선스에 포함되어 있습니다.* | Ultimate Success Plan을 통해 **전략적 지침과 사전 예방적 기술 상태를 경험하여 고성능 디지털 경험을 제공**&#x200B;할 수 있습니다. Adobe 환경은 귀사의 비즈니스를 잘 알고 비즈니스 영향에 대한 목표와 우선 순위에 맞는 로드맵 실행에 중점을 두는 전문가 팀의 지원을 받게 됩니다. |
 | **성공 팀** | 지원 엔지니어로 구성된 팀 | 다음 포함 <ul><li> 지정된 기술 계정 관리자 </li><li> 지정된 고객 성공 관리자 </li><li> 지정된 지원 서비스 관리자</li><li> 성공 가속기를 제공하는 기술 엔지니어 및 전략 전문가로 구성된 팀 </li><li> 지원 엔지니어로 구성된 팀 </li></ul> |
 | **사전 예방적 기술 + 운영 지원** | ![포함되지 않음 아이콘](assets/Cross_red_circle.svg){width="20"} 포함되지 않음 | 다음 포함 <ul><li>업그레이드 및 마이그레이션 검토, 릴리스 준비 </li><li>제품 로드맵 검토</li><li> 기술 및 전략 로드맵 조정</li><li>주요 이벤트 준비 및 계획</li><li>적합하고 시기적절한 지원 계획</li><li>기술 모범 사례 및 업계 지침</li><li>제품 팀 지원/조정</li><li>주요 비즈니스 목표 달성을 위한 통합 계획 - MAP(Mutual Action Plan)</li></ul> |
 | **기술 지원** | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2, P3, P4**: 업무 시간 지원</li><li>표준 중단 관리</li><li>풀링된 에스컬레이션 관리</li></ul> | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2/P3**: 주중 24시간 문제 지원</li><li>**P4**: 업무 시간 지원</li><li>우선 중단 관리</li><li>지정된 전문가 에스컬레이션 관리</li></ul> |
@@ -29,7 +29,7 @@ Adobe 성공 플랜은 사후 문제 해결을 넘어 어떤 문제보다 앞서
 
 ## 추가 기능 지원
 
-| 추가 기능 | Expert Success 플랜 | Ultimate Success 플랜 |
+| 추가 기능 | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 전반적인 리더십과 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | ![사용 불가 아이콘](assets/Cross_red_circle.svg){width="20"} 사용 불가 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
@@ -145,7 +145,7 @@ Ultimate Support에서 고객은 AEC 제품당 최대 15명의 지정된 지원 
 
 ## Adobe Commerce on Managed Services(이전 명칭 Magento Commerce Pro: Managed Services)에 적용되는 추가 약관
 
-고객이 라이선스 기간의 시작 일자를 2021년 9월 20일 또는 그 이후로 지정하거나 갱신한 Adobe Commerce: Managed Services 제품에 대한 표준 지원에는 아래 표에 명시된 목표 응답 시간이 적용됩니다. 이는 위의 표에 명시된 지원에 대한 목표 응답 시간을 대체합니다. 아래 표에 명시된 경우를 제외하고 Adobe Commerce: Managed Services에 대한 기타 모든 나머지 지원 약관은 변경되지 않습니다. 다시 말해, 아래의 목표 응답 시간은 Adobe Commerce: Managed Services와 관련된 서비스 요청에만 적용되며 다른 AEC 제품에는 적용되지 않습니다.
+고객이 라이선스 기간의 시작 일자를 2021년 9월 20일 또는 그 이후로 지정하거나 갱신한 Adobe Commerce: Managed Services 제품에 대한 표준 지원에는 아래 테이블에 명시된 목표 응답 시간이 적용됩니다. 이는 위의 테이블에 명시된 지원에 대한 목표 응답 시간을 대체합니다. 아래 테이블에 명시된 경우를 제외하고 Adobe Commerce: Managed Services에 대한 기타 모든 나머지 지원 약관은 변경되지 않습니다. 다시 말해, 아래의 목표 응답 시간은 Adobe Commerce: Managed Services와 관련된 서비스 요청에만 적용되며 다른 AEC 제품에는 적용되지 않습니다.
 
 | 우선 순위 | 정의 | 목표 초기 응답 시간 | 고객 약속 |
 |---|---|---|---|
@@ -204,3 +204,4 @@ Ultimate Support에서 고객은 AEC 제품당 최대 15명의 지정된 지원 
 >[!NOTE]
 >
 >현장 서비스는 Adobe 컨설팅 업무를 대체하기 위한 것이 아닙니다. 현장 서비스는 고객의 LAS 구현 이후를 지원하고 대규모 컨설팅 업무를 보완합니다.
+
