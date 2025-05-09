@@ -18,9 +18,9 @@ ht-degree: 16%
 
 ::: 랜딩 카드 컨테이너
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ko)
 
 빠른 시작 안내서
 
@@ -28,9 +28,9 @@ ht-degree: 16%
 [자세히 알아보기](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ko)
 
 사용자 인터페이스
 
@@ -38,9 +38,9 @@ Journey Optimizer에서 경험을 탐색하고 최적화하는 방법을 알아�
 [자세히 알아보기](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ko)
 
 첫 여정 만들기
 
@@ -48,9 +48,9 @@ Journey Optimizer에서 경험을 탐색하고 최적화하는 방법을 알아�
 [자세히 알아보기](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 :::
 :::
-![대체 텍스트](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![대체 텍스트](https://experienceleague.adobe.com/ko/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ko)
 
 첫 번째 캠페인 시작
 
