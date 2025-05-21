@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ::: 랜딩 카드 컨테이너
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=ko)
 
 여정 활동 소개
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ko)
 
 일반 이벤트 사용
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ko)
 
 반응 이벤트
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=ko)
 
 대상 자격 이벤트
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=ko)
 
 조건 활동
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=ko)
 
 대기 활동
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ::: 랜딩 카드 컨테이너
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=ko)
 
 이메일 Designer 콘텐츠 구성 요소 사용
 
@@ -93,7 +93,7 @@ Adobe Journey Optimizer의 이메일 Designer에서 컨텐츠 구성 요소를 �
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=ko)
 
 이메일 디자인을 위한 시각적 조각 활용
 
@@ -103,7 +103,7 @@ Adobe Journey Optimizer의 이메일 Designer에서 컨텐츠 구성 요소를 �
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=ko)
 
 링크 추가 및 메시지 추적
 
@@ -113,7 +113,7 @@ Adobe Journey Optimizer의 이메일 Designer에서 컨텐츠 구성 요소를 �
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=ko)
 
 이메일에 개인화된 오퍼 추가
 
@@ -123,7 +123,7 @@ Adobe Journey Optimizer의 의사 결정 관리를 사용하여 이메일 콘텐
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=ko)
 
 이메일의 텍스트 버전 만들기 및 사용자 지정
 
@@ -133,7 +133,7 @@ HTML 콘텐츠를 표시할 수 없을 때 호환성을 보장하면서 이메�
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ko)
 
 이메일 콘텐츠에 메타데이터 추가
 
@@ -148,7 +148,7 @@ HTML 콘텐츠를 표시할 수 없을 때 호환성을 보장하면서 이메�
 
 ::: 랜딩 카드 컨테이너
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ko)
 
 승인 시작
 
@@ -158,7 +158,7 @@ Adobe Journey Optimizer에서 여정 및 캠페인에 대한 승인 워크플로
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ko)
 
 승인 정책 만들기 및 관리
 
@@ -168,7 +168,7 @@ Adobe Journey Optimizer에서 여정 및 캠페인에 대한 승인 워크플로
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ko)
 
 여정 및 캠페인에 대한 승인 요청
 
@@ -178,7 +178,7 @@ Adobe Journey Optimizer에서 여정 및 캠페인에 대한 승인 워크플로
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=ko)
 
 요청 검토 및 승인
 
@@ -193,7 +193,7 @@ Adobe Journey Optimizer에서 여정 및 캠페인에 대한 승인 워크플로
 
 ::: 랜딩 카드 컨테이너
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ko)
 
 향상된 보고 시작
 
@@ -203,7 +203,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ko)
 
 포괄적인 지표 목록
 
@@ -213,7 +213,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ko)
 
 보고서 관리
 
@@ -223,7 +223,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ko)
 
 캠페인 보고서 개요
 
@@ -233,7 +233,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ko)
 
 여정 보고서 개요
 
@@ -243,7 +243,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ko)
 
 캠페인 및 여정 개요 보고서
 
@@ -258,7 +258,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 
 ::: 랜딩 카드 컨테이너
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ko)
 
 의사 결정을 만들고 관리하는 방법
 
@@ -268,7 +268,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ko)
 
 오퍼 선택 구성 방법
 
@@ -278,7 +278,7 @@ Adobe Journey Optimizer의 향상된 보고 기능을 Customer Journey Analytics
 :::
 
 :::
-![아이콘](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![아이콘](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=ko)
 
 오퍼 결정 시뮬레이션
 
