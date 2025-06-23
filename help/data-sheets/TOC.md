@@ -1,20 +1,20 @@
 ---
-user-guide-title: 성공 플랜 리소스
-user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 성공 플랜 및 지원 리소스입니다.
+user-guide-title: Success Plan 리소스
+user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 Success Plan 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
 
-# 성공 플랜 리소스 {#data-sheets}
+# Success Plan 리소스 {#data-sheets}
 
-+ [Adobe 성공 플랜 개요](overview.md)
-+ The Crux Podcast{#crux-podcast}
++ [Adobe Success Plan 개요](overview.md)
++ 더 크룩스 팟캐스트{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [숨겨진 개요](hidden-overview.md)
 + [숨겨진 문제 해결](hidden-trouble.md)
-+ [숨겨진 Lakshay 테스트](hidden-lakshay-test.md)
 + [숨김 - 코드 블록의 슬래시](hidden/slashes-in-code-blocks.md)
 + [숨겨진 새 테스트](hidden-new-test.md)
 + [숨겨진 새 테스트 2](hidden-new-test-2.md)
@@ -59,6 +58,8 @@ ht-degree: 100%
    + [숨겨진 새 자동 활성화만](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
