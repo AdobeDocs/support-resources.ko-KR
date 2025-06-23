@@ -16,6 +16,7 @@ ht-degree: 92%
 + [Adobe Success Plan 개요](overview.md)
 + 더 크룩스 팟캐스트{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
+
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
