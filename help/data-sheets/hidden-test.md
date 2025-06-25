@@ -6,26 +6,24 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium 다운로드"
 badgeExam: label="시험 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # 숨겨진 테스트 페이지
 
-미리보기 다시 시도하시겠습니까? 젠킨스를 통해 오셔야 합니다. 3월 31일
-
-오후 3:02
+테스트를 게시합니다. 2025년 6월 25일 오전 10:20.
 
 ## 이미지가 포함된 문제 테이블
 
-## Expert 및 Ultimate Success 플랜 비교
+## Expert 및 Ultimate Success Plan 비교
 
-|  | Expert Success 플랜 | Ultimate Success 플랜 |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|  | Expert Success 플랜을 사용하면 중요한 비즈니스 문제에 대한 기술 문제 해결 및 지침을 위해 **연중무휴 전문가 지원**&#x200B;을 이용할 수 있습니다. 또는 셀프 가이드 리소스, 전용 모범 사례, Adobe 전문가 및 동료의 온라인 커뮤니티를 활용하여 빠른 해결 방법을 찾을 수도 있습니다. <p> *모든 Adobe Experience Cloud 라이선스에 포함되어 있습니다.* | Ultimate Success 플랜을 통해 **전략적 지침과 사전 예방적 기술 상태를 경험하여 고성능 디지털 경험을 제공**&#x200B;할 수 있습니다. Adobe 환경은 귀사의 비즈니스를 잘 알고 비즈니스 영향에 대한 목표와 우선 순위에 맞는 로드맵 실행에 중점을 두는 전문가 팀의 지원을 받게 됩니다. |
+|  | Expert Success Plan을 사용하면 중요한 비즈니스 문제에 대한 기술 문제 해결 및 지침을 위해 **연중무휴 전문가 지원**&#x200B;을 이용할 수 있습니다. 또는 셀프 가이드 리소스, 전용 모범 사례, Adobe 전문가 및 동료의 온라인 커뮤니티를 활용하여 빠른 해결 방법을 찾을 수도 있습니다. <p> *모든 Adobe Experience Cloud 라이선스에 포함되어 있습니다.* | Ultimate Success Plan을 통해 **전략적 지침과 사전 예방적 기술 상태를 경험하여 고성능 디지털 경험을 제공**&#x200B;할 수 있습니다. Adobe 환경은 귀사의 비즈니스를 잘 알고 비즈니스 영향에 대한 목표와 우선 순위에 맞는 로드맵 실행에 중점을 두는 전문가 팀의 지원을 받게 됩니다. |
 | **성공 팀** | 지원 엔지니어로 구성된 팀 | 다음 포함 <ul><li> 지정된 기술 계정 관리자 </li><li> 지정된 고객 성공 관리자 </li><li> 지정된 지원 서비스 관리자</li><li> 성공 가속기를 제공하는 기술 엔지니어 및 전략 전문가로 구성된 팀 </li><li> 지원 엔지니어로 구성된 팀 </li></ul> |
 | **사전 예방적 기술 + 운영 지원** | ![포함되지 않음 아이콘](assets/Cross_red_circle.svg){width="20"} 포함되지 않음 | 다음 포함 <ul><li>업그레이드 및 마이그레이션 검토, 릴리스 준비 </li><li>제품 로드맵 검토</li><li> 기술 및 전략 로드맵 조정</li><li>주요 이벤트 준비 및 계획</li><li>적합하고 시기적절한 지원 계획</li><li>기술 모범 사례 및 업계 지침</li><li>제품 팀 지원/조정</li><li>주요 비즈니스 목표 달성을 위한 통합 계획 - MAP(Mutual Action Plan)</li></ul> |
 | **기술 지원** | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2, P3, P4**: 업무 시간 지원</li><li>표준 중단 관리</li><li>풀링된 에스컬레이션 관리</li></ul> | 다음 포함 <ul><li>**P1**: 24x7 문제 지원</li><li>**P2/P3**: 주중 24시간 문제 지원</li><li>**P4**: 업무 시간 지원</li><li>우선 중단 관리</li><li>지정된 전문가 에스컬레이션 관리</li></ul> |
@@ -36,7 +34,7 @@ ht-degree: 99%
 
 ## 추가 기능 지원
 
-| 추가 기능 | Expert Success 플랜 | Ultimate Success 플랜 |
+| 추가 기능 | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 | **이벤트 관리 추가 기능**<br>&#x200B;주요 이벤트의 전체 라이프사이클을 관리하는 데 필요한 전반적인 리더십과 지원을 제공합니다. | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
 | **기술 계정 디렉터 추가 기능**<br>&#x200B;비즈니스 성과를 극대화하기 위해 리더십 감독을 제공하고, 경영진 참여를 주도하며, 거버넌스를 보장하는 리드 기술 리소스 | ![사용 불가 아이콘](assets/Cross_red_circle.svg){width="20"} 사용 불가 | ![사용 가능한 아이콘](assets/Plus_blue.svg){width="20"} 사용 가능 |
@@ -62,7 +60,7 @@ _[버튼 보조](https://www.adobe.com/kr)_
 
 다음 단락은 VSC 미리보기에서 제대로 렌더링되지 않습니다. 이유는 확실하지 않습니다.
 
-[!DNL Adobe]에서 암호를 관리하는 경우, [Adobe 계정의 암호를 변경](https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html){target="_blank"}할 수 있습니다.
+[!DNL Adobe]에서 암호를 관리하는 경우 [Adobe 계정에서 암호를 변경](https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html){target="_blank"}할 수 있습니다.
 
 ## 메모 유형
 
@@ -123,7 +121,7 @@ _[버튼 보조](https://www.adobe.com/kr)_
 
 [!BADGE 배지 예]
 
-두 가지 유형의 of 배지가 있으며 각각 다른 구문을 사용함:
+배지에는 각각 다른 구문을 가진 두 가지 유형이 있습니다.
 
 * **메타데이터** - 페이지 상단 근처에 배지를 표시합니다.
 * **인라인** - 구문이 있는 배지를 표시합니다.
@@ -160,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | 유형 | 배지 |
 |---|---|
 | 정보 (기본) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 긍정 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 부정 | [!BADGE 중단됨]{type=negative tooltip="This feature is now end of life"} |
-| 중립 | [!BADGE 부분 긍정]{type=Neutral tooltip="A rider fell off the horse..."} |
-| 주의 | [!BADGE 주목]{type=Caution tooltip="Yellow status"} |
+| 양수 | [!BADGE 새로운 기능]{type=Positive url="https://www.example.com" tooltip="example.com으로 이동"} |
+| 음수 | [!BADGE 중단됨]{type=negative tooltip="이 기능은 이제 지원되지 않음"} |
+| 중립 | [!BADGE 아마도]{type=Neutral tooltip="기수가 말에서 떨어졌는데..."} |
+| 주의 사항 | [!BADGE 주의]{type=Caution tooltip="노란색 상태"} |
 
 구문 예
 
