@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Success Plan 리소스 {#data-sheets}
 
 + [Adobe Success Plan 개요](overview.md)
-+ 더 크룩스 팟캐스트{#crux-podcast}
++ Crux 팟캐스트{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
-
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
