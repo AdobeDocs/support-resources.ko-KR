@@ -19,7 +19,7 @@ ht-degree: 0%
 
 <ol><li>'{{name}}' 변수를 사용하십시오.</li></ol>
 
-<ol><li>&amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace; 변수를 사용합니다.</li></ol>
+<ol><li>&lbrace;&lbrace;<code>name</code>&rbrace;&rbrace; 변수를 사용합니다.</li></ol>
 
 ## 중첩 테스트
 
