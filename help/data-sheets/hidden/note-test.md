@@ -4,9 +4,9 @@ title: 위젯 Data Warehouse에 연결
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,11 @@ ht-degree: 0%
 
 ## 새 테스트
 
+6월 27일
+
 <ol><li>'{{name}}' 변수를 사용하십시오.</li></ol>
 
-<ol><li>&lbrace;&lbrace;<code>name</code>&rbrace;&rbrace; 변수를 사용합니다.</li></ol>
+<ol><li>&amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace; 변수를 사용합니다.</li></ol>
 
 ## 중첩 테스트
 
@@ -44,13 +46,13 @@ ht-degree: 0%
 
 ## 위젯 액세스 링크 {#widget-access-link}
 
-위젯 데이터 웨어하우스에 액세스하려면 위젯 계정의 특정 URL로 이동해야 합니다.  Marketo Measure에 로그인한 다음 아래 단계에 따라 Data Warehouse 정보 페이지로 이동하여 이 액세스 링크를 찾을 수 있습니다.
+위젯 데이터 웨어하우스에 액세스하려면 위젯 계정의 특정 URL로 이동해야 합니다.  이 액세스 링크는 Marketo Measure에 로그인한 다음 아래 단계에 따라 Data Warehouse 정보 페이지로 이동하여 찾을 수 있습니다.
 
 1. Marketo Measure의 페이지 맨 위에서 **내 계정** > **설정**&#x200B;을 클릭합니다.
 
    ![](assets/adobe-logo-old.png)
 
-1. 왼쪽 메뉴에서 보안 아래의 **Data Warehouse**&#x200B;을 클릭합니다.
+1. 왼쪽 메뉴에서 보안 아래의 **Data Warehouse**&#x200B;을(를) 클릭합니다.
 
    ![](assets/adobe-logo-old.png)
 
@@ -60,7 +62,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이는 개별 사용자가 아닌 조직에서 사용할 수 있는 읽기 전용 계정입니다. 조직 내에서 Marketo Measure에 액세스할 수 있는 모든 사용자는 이 계정을 사용하여 위젯 Data Warehouse 판독기 계정에 로그인할 수 있습니다.
+   >이는 개별 사용자가 아닌 조직에서 사용할 수 있는 읽기 전용 계정입니다. 조직 내에서 Marketo Measure에 액세스할 수 있는 모든 사용자는 이 계정을 사용하여 Widget Data Warehouse reader 계정에 로그인할 수 있습니다.
 
 1. 위젯 URL에 제공된 링크를 클릭하면 사용자 이름과 암호를 입력할 수 있는 위젯 로그인 페이지로 이동합니다. _암호가 없는 경우 아래 단계를 참조하여 암호를 재설정하십시오_.
 
@@ -155,4 +157,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-위젯 UI에서 이러한 단계를 수행하는 자세한 지침 및 단계는 [위젯의 설명서를 직접](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}를 참조하십시오.
+위젯 UI에서 이러한 단계를 수행하는 자세한 지침 및 단계는 [위젯의 설명서](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}를 직접 참조하십시오.
