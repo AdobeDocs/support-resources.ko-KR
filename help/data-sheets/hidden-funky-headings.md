@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
+source-git-commit: 3f2ed618aa8e5d738315a0ff114551c183761a7d
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Granite, CQ 및 Sling 태그 라이브러리를 사용하면 템플릿 및 구�
 
 이것은 위의 굵은 제목입니다.
 
-2025년 7월 29일 수요일
+2025년 7월 30일 목요일
 
 ## *기울임꼴 머리글*
 
