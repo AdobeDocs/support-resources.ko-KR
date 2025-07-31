@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Granite, CQ 및 Sling 태그 라이브러리를 사용하면 템플릿 및 구�
 
 ## **굵은 머리글**
 
-굵은 제목입니다.
+이것은 위의 굵은 제목입니다.
+
+2025년 7월 29일 수요일
 
 ## *기울임꼴 머리글*
 
-이것은 이탤릭체로 된 머리글입니다
+이것은 위의 기울임꼴 제목입니다.
 
 ## Granite 태그 라이브러리 {#granite-tag-library}
 
