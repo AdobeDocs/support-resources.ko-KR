@@ -4,10 +4,10 @@ description: 이 페이지는 검색 및 TOC에서 숨겨짐
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
+source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 32%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 32%
 + [테스트 파일 2](hidden-test.md)
 + [리디렉션 테스트](hidden/test-redirection.md)
 + [테스트 자동 활성화](hidden/autoactivate.md)
+
+## 슬라이드 테스트
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## 새 섹션 1월 30일
 
