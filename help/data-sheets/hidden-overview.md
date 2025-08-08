@@ -35,7 +35,7 @@ ht-degree: 27%
 
 렌더링됨:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 구문 2:
@@ -48,7 +48,7 @@ ht-degree: 27%
 
 렌더링됨:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >[프로젝트 분석](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
