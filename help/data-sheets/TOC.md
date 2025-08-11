@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 98%
       + [엘리트](dme-elite.md)
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [숨겨진 개요](hidden-overview.md)
-+ [숨겨진 접기](hidden-collapse.md)
++ [숨겨진 축소](hidden-collapse.md)
 + [숨겨진 문제 해결](hidden-trouble.md)
 + [펑키 머리말 UGP-13342](hidden-funky-headings.md)
 + [숨김 - 코드 블록의 슬래시](hidden/slashes-in-code-blocks.md)
