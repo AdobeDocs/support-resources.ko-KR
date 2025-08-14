@@ -3,9 +3,9 @@ user-guide-title: Success Plan 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 Success Plan 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
 workflow-type: ht
-source-wordcount: '151'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [엔터프라이즈](dme-enterprise.md)
       + [엘리트](dme-elite.md)
 + [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [숨겨진 개요](hidden-overview.md)
-+ [숨겨진 축소](hidden-collapse.md)
-+ [숨겨진 문제 해결](hidden-trouble.md)
-+ [펑키 머리말 UGP-13342](hidden-funky-headings.md)
-+ [숨김 - 코드 블록의 슬래시](hidden/slashes-in-code-blocks.md)
-+ [숨겨진 새 테스트](hidden-new-test.md)
-+ [숨겨진 새 테스트 2](hidden-new-test-2.md)
-+ [숨겨진 테스트 파일](hidden-test.md)
-+ [숨겨진 버그 수정](hidden/bug-fixes.md)
-+ [숨겨진 EDS 테스트 파일](hidden/test-page.md)
-+ [숨겨진 리디렉션 테스트](hidden/test-redirection.md)
-+ [숨겨진 구문 안내서](hidden/syntax-style-guide.md)
-+ [숨겨진 테이블 테스트](hidden/tables.md)
-+ [숨겨진 테이블 나누기](hidden/table-breaks.md)
-+ [숨겨진 메모 테스트](hidden/note-test.md)
-+ [숨겨진 리디렉션](hidden/redirect-tests.md)
-+ 테스트 섹션 {#test-section}
-   + [숨겨진 새 자동 활성화만](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
