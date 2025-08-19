@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: e18697a41f107c4b09cd4e6453707e6512706db8
+source-git-commit: 4fda506e157d6a68f2eeb65c1b9e0bca698aa747
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '46'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 2%
 # Adobe 성공 포털 {#adobe-success-portal}
 
 - [Adobe 성공 포털 소개](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [고객 FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - 비즈니스 담당자 {#business-persona}
    - [비즈니스 담당자를 위한 주요 기능](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
 - 기술 담당자 {#technical-persona}
