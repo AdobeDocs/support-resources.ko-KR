@@ -6,20 +6,24 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 4fda506e157d6a68f2eeb65c1b9e0bca698aa747
+source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 2%
+source-wordcount: '52'
+ht-degree: 1%
 
 ---
 
 
 # Adobe 성공 포털 {#adobe-success-portal}
 
-- [Adobe 성공 포털 소개](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [ [!DNL Adobe Success] 포털 소개](/help/adobe-success-portal/adobe-success-portal-introduction.md)
 - [고객 FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - 비즈니스 담당자 {#business-persona}
    - [비즈니스 담당자를 위한 주요 기능](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
+   - [[!UICONTROL 주요 비즈니스 목표]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
+   - [[!UICONTROL 작업 계획]](/help/adobe-success-portal/business-persona/action-plan.md)
+   - [[!UICONTROL 값 추적기]](/help/adobe-success-portal/business-persona/value-tracker.md)
+   - [[!UICONTROL 참여 계획]](/help/adobe-success-portal/business-persona/engagement-plan.md)
 - 기술 담당자 {#technical-persona}
    - [기술 담당자를 위한 주요 기능](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - 지원 및 통찰력 {#support-and-insights}
