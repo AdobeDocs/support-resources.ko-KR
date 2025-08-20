@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
+source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 1%
 # Adobe 성공 포털 {#adobe-success-portal}
 
 - [ [!DNL Adobe Success] 포털 소개](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [ [!DNL Adobe Success] 포털에 액세스](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [고객 FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - 비즈니스 담당자 {#business-persona}
    - [비즈니스 담당자를 위한 주요 기능](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
@@ -28,4 +29,6 @@ ht-degree: 1%
    - [기술 담당자를 위한 주요 기능](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - 지원 및 통찰력 {#support-and-insights}
       - [지원 및 통찰력 개요](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
+      - [ [!DNL Adobe Success] 포털에서 서비스 케이스 만들기 및 관리](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [ [!DNL Adobe Success] 포털에서 검색 결과 관리](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [용어집](/help/adobe-success-portal/glossary.md)
