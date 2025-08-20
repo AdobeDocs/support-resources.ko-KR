@@ -1,10 +1,11 @@
 ---
 title: ' [!DNL Adobe Success] 포털 액세스'
 description: ' [!DNL Adobe Success] 포털에서 사례를 관리하는 방법을 알아봅니다.'
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 **[!UICONTROL 성공]** 포털 팀으로부터 액세스 확인 알림을 받게 됩니다. 이 메시지에는 로그인 세부 정보가 포함됩니다.
 
-1. https://experience.adobe.com/으로 이동합니다.
+1. [https://experience.adobe.com/](https://experience.adobe.com/)&#x200B;(으)로 이동합니다.
 1. Adobe ID으로 로그인합니다.
-1. [!DNL Adobe Success] 포털(Alpha) 아이콘을 선택합니다.
+1. **[!UICONTROL 성공 포털(Alpha)]** 아이콘을 선택합니다.
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ ht-degree: 0%
 >피드백 도구는 전용 지원 채널이 아닙니다. 긴급한 로그인 문제에는 적합하지 않습니다.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
