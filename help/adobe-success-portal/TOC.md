@@ -1,15 +1,15 @@
 ---
-user-guide-title: Adobe Success 포털 리소스
-user-guide-description: 자세한 내용은 다양한 Adobe Success 포털 리소스를 살펴보십시오.
+user-guide-title: Adobe Success 포털
+user-guide-description: 자세한 내용은 Adobe 성공 포털과 관련된 다양한 리소스를 참조하십시오.
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: fa00ad5094a6a85415c1f2033680eaedf05f5b07
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 55%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 

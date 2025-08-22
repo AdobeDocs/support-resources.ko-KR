@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL 작업 계획]'
 description: /[!UICONTROL Action Plan/]에서는 KBO가 어떻게 실행되고 있는지에 대한 구조화된 보기를 제공합니다. 여기에는 Adobe 팀이 계획, 완료 또는 진행 중인 활동을 통해 목표를 달성할 수 있도록 도와주는 관련 액셀러레이터 및 활동이 포함됩니다.
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL 작업 계획]
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 페이지는 두 개의 기본 탭으로 구성됩니다.
 
-## &#x200B;1. [!UICONTROL 주요 비즈니스 목표]
+## [!UICONTROL 주요 비즈니스 목표]
 
 이 탭에는 해당 액셀러레이터 및 활동과 함께 모든 KBO가 표시됩니다.
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL 활동]
+## [!UICONTROL 활동]
 
 이 탭에는 어떤 KBO와도 연결되지 않은 활동 목록이 표시됩니다. 각 활동에는 다음이 포함됩니다.
 
