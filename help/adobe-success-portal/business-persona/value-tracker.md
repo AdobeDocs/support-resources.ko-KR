@@ -1,27 +1,27 @@
 ---
-title: '[!UICONTROL 값 추적기]'
-description: '[!UICONTROL 값 추적기] 페이지에서는 KBO에서 구성한 [!UICONTROL 사용 사례]를 볼 수 있습니다.'
+title: '[!UICONTROL 가치 추적기]'
+description: '[!UICONTROL 가치 추적기] 페이지는 KBO에 따라 구성된 [!UICONTROL 사용 사례] 보기를 제공합니다.'
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
 source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 값 추적기]
+# [!UICONTROL 가치 추적기]
 
-**[!UICONTROL 값 추적기]** 페이지에서는 KBO에서 구성한 다양한 **[!UICONTROL 사용 사례]**&#x200B;를 볼 수 있습니다. 페이지 상단의 필터를 활용하여 이 보기에 표시되는 사용 사례를 필터링할 수 있습니다.
+**[!UICONTROL 가치 추적기]** 페이지는 KBO에 따라 구성된 다양한 **[!UICONTROL 사용 사례]** 보기를 제공합니다. 페이지 상단의 필터를 활용하여 이 보기에 표시되는 사용 사례를 필터링할 수 있습니다.
 
-**[!UICONTROL 값 추적기]**&#x200B;에 액세스하려면 포털 홈 페이지의 왼쪽 탐색 패널에서 ![값 추적기 아이콘](/help/adobe-success-portal/assets/value-tracker-icon.png) 아이콘을 클릭하십시오.
+**[!UICONTROL 가치 추적기]**&#x200B;에 액세스하려면 포털 홈 페이지 왼쪽 탐색 패널에서 ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) 아이콘을 클릭하십시오.
 
-![값 추적기 랜딩 페이지](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
+![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-**[!UICONTROL 사용 사례]** 카드를 클릭하여 다음 기능을 제공하는 사용 사례의 상세 보기를 엽니다.
+**[!UICONTROL 사용 사례]** 카드를 클릭하면 다음과 같이 상세한 사용 사례 보기가 열립니다.
 
 * *[!UICONTROL 성공 지표]*
 * *[!UICONTROL 대상자]*
-* *[!UICONTROL Call to action]*
+* *[!UICONTROL 콜 투 액션]*
 * *[!UICONTROL 활성화 채널]*
 * *[!UICONTROL Adobe 기능]*
 * *[!UICONTROL Go-Live 날짜]*

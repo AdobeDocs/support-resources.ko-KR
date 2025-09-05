@@ -1,32 +1,31 @@
 ---
-title: '[!UICONTROL 주요 비즈니스 목표]'
-description: /[!UICONTROL 주요 비즈니스 목표/]는 고객이 Adobe과의 파트너십을 통해 달성하고자 하는 높은 수준의 목표입니다.
-source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
-workflow-type: tm+mt
+title: '[!UICONTROL KBO (주요 비즈니스 목표)]'
+description: /[!UICONTROL 주요 사업 목표/]는 고객이 Adobe와의 파트너십을 통해 달성하고자 하는 높은 수준의 목표입니다.
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL 주요 비즈니스 목표] (KBO)
 
-# [!UICONTROL 주요 비즈니스 목표]&#x200B;(KBO)
+KBO는 포털 홈 페이지 상단에 수평 스크롤 뷰로 표시됩니다. 각 KBO 카드에는 다음 항목이 포함됩니다.
 
-포털 홈페이지 상단에 KBO가 가로 스크롤 보기로 표시된다. 각 KBO 카드에는 다음이 포함됩니다.
-
-* 간단한 설명
+* 간략한 설명
 * 현재 상태
-* 관련 사용 사례
-* 연결된 활동 및 액셀러레이터
+* 연관된 사용 사례
+* 연결된 활동 및 가속기
 
 ![kbo-home-page](/help/adobe-success-portal/assets/kbo-home-page.png)
 
-카드를 클릭하면 다음과 같이 KBO와 관련된 자세한 정보가 표시됩니다.
+카드를 클릭하면 다음과 같은 KBO 관련 정보를 자세히 볼 수 있습니다.
 
 * 상태
-* 주요 성과 지표([!UICONTROL KPI])
+* 주요 성과 지표 ([!UICONTROL KPI])
 * [!UICONTROL 사용 사례]
 * 관련 [!UICONTROL Adobe 솔루션]
-* 연결된 [!UICONTROL 바로 연결] 및 [!UICONTROL 활동] 목록
+* 관련 [!UICONTROL 가속기] 및 [!UICONTROL 활동 목록]
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
-
