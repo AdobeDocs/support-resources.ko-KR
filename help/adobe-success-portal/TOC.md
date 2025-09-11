@@ -1,16 +1,16 @@
 ---
 user-guide-title: Adobe Success 포털
-user-guide-description: 자세한 내용은 Adobe 성공 포털과 관련된 다양한 리소스를 참조하십시오.
+user-guide-description: 자세한 내용은 다양한 Adobe Success 포털 관련 리소스를 살펴보십시오.
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
 index: false
 role: User, Admin
-source-git-commit: 53a3354794afaf700613a073025129d641744fab
+source-git-commit: 058a02175c050cf5a1e351f95fbbc85962f7bb96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 82%
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
@@ -33,3 +33,5 @@ ht-degree: 82%
       - [ [!DNL Adobe Success] 포털에서 사례 만들기 및 관리](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
       - [ [!DNL Adobe Success] 포털에서 결과 관리](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [용어집](/help/adobe-success-portal/glossary.md)
+- [릴리스 정보](/help/adobe-success-portal/release-notes.md)
+
