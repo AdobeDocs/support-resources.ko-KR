@@ -3,9 +3,9 @@ title: '[!UICONTROL 행동 계획]'
 description: /[!UICONTROL 행동 계획/]은 KBO가 실행되는 방식을 구조화된 보기로 보여 줍니다. 여기에는 Adobe 팀이 사용자의 목표 달성을 돕기 위해 계획 또는 완료하거나 능동적으로 진행 중인 관련 가속기 및 활동이 포함됩니다.
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
 source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '202'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
