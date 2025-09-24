@@ -2,10 +2,10 @@
 title: ' [!DNL Adobe Success] 포털 액세스'
 description: ' [!DNL Adobe Success] 포털에서 사례를 관리하는 방법에 대해 알아봅니다.'
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 1. Adobe ID로 로그인합니다.
 1. **[!UICONTROL Success 포털 (Alpha)]** 아이콘을 선택합니다.
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   ![성공 포털 아이콘 및 레이블(Alpha)](assets/alpha-success-portal-alpha.png "성공 포털 액세스(Alpha)")
 
 
 
 1. 로그인하면 5개의 탭이 표시됩니다.
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Adobe 성공 포털 인터페이스의 사이드바](assets/adobe-success-portal-tabs.png "사이드바 탭")
 
 
    * 홈
@@ -44,4 +44,4 @@ ht-degree: 100%
 >
 >피드백 도구는 전담 지원 채널이 아닙니다. 긴급한 로그인 문제에 사용하기는 적합하지 않습니다.
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+![포털에 있는 Alpha 피드백 단추를 사용하여 피드백을 제출합니다](assets/adobe-success-portal-home.png "Alpha 피드백 단추")

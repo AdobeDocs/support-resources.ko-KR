@@ -2,10 +2,10 @@
 title: ' [!DNL Adobe Success] 포털에서 결과 관리'
 description: 이 안내서에서는 제품 성능, 보안 및 기능 위험을 사전에 관리하는 데 도움을 주기 위해  [!DNL Adobe Success] 포털에서 결과에 액세스하고 이를 해석하고 조치를 취하는 방법을 설명합니다.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Adobe 팀은 가장 일반적인 지원 문제와 트렌드를 정기적으로 �
 1. **[!UICONTROL 지원 및 인사이트]**&#x200B;로 이동합니다.
 1. 해당 제품 카드를 선택합니다. **[!UICONTROL 결과]** 탭을 선택합니다.
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Adobe Success Portal에서 AEM as Cloud Service 아래의 검색 결과 강조 표시 - 나열된 항목이 3개 있는 Assets](../../assets/asp-support-inisghts-findings.png "Cloud Service에서 AEM Assets에 대한 검색 결과 보기")
 
 
 1. 선택한 제품에 대한 모든 결과 목록이 나열됩니다.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![AEM Cloud Service - 캐싱 문제가 있는 Assets에 대한 결과 탭을 표시하는 Adobe 성공 포털](../../assets/adobe-success-portal-findings.png "Cloud Service에서 AEM Assets에 대한 캐싱 관련 결과 보기")
 
 1. 여기에서는 다음과 같은 작업을 수행할 수 있습니다.
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![Adobe에서 검색 창, 다운로드 단추 및 심각한 위험 검색 결과를 강조 표시하는 AEM Sites 성공 포털 인터페이스](../../assets/adobe-success-portal-download.png "Cloud Service에서 AEM Sites에 대한 검색 결과, 다운로드 또는 보기")
 
    * 특정 항목을 검색합니다.
    * **[!UICONTROL 결과 다운로드]**&#x200B;를 선택하여 결과 목록을 내보냅니다. 한 가지 결과에 대한 보고서를 내보내려면 **[!UICONTROL 결과 이름]** 열 아래의 해당 결과 옆에 있는 확인란을 선택합니다. 결과를 선택하지 않으면 기본적으로 PDF에 모든 결과 목록이 포함됩니다.
    * **[!UICONTROL 결과 이름]**&#x200B;에서 결과를 선택하여 권장 해결책을 포함한 결과 세부 정보를 확인합니다. 결과 세부 정보 페이지에는 선택한 결과가 추가 컨텍스트 및 권장 사항과 함께 표시됩니다. 이 보고서를 보려면 다운로드 화살표를 선택합니다.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![Adobe 성공 포털에서 검색 결과 세부 정보를 내보내는 다운로드 단추](../../assets/findings-details.png "이 검색 결과의 보고서 다운로드")
 
 
 ## 액션 결과
@@ -72,7 +72,7 @@ Adobe 팀은 가장 일반적인 지원 문제와 트렌드를 정기적으로 �
 1. **[!UICONTROL 결과 이름]**&#x200B;에서 항목을 선택합니다. 결과 세부 정보 페이지에서는 다음과 같은 작업을 수행할 수 있습니다.
    * 문제가 여전히 존재하는지 확인하려면 **[!UICONTROL 유효성 검사]**&#x200B;를 선택합니다. (**[!UICONTROL 유효성 검사]** 버튼은 문제가 해결되었음을 확인하는 용도로 설계되었습니다.)
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![결과 패널의 유효성 검사 단추를 사용하여 Adobe 성공 포털에서 문제 해결을 확인합니다](../../assets/adobe-success-portal-validate.png "유효성 검사 단추")
 
 
    * 문제가 여전히 있으면 다음 메시지가 표시됩니다. *[!UICONTROL 유효성 검사가 완료되었습니다. 결과가 여전히 감지됩니다]*. 조사하고 해결하려면 결과 세부 정보 페이지의 정보와 권장 사항을 활용하십시오.

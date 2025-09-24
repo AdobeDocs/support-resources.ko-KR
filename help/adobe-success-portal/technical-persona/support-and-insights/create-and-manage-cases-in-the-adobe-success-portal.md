@@ -2,10 +2,10 @@
 title: ' [!DNL Adobe Success] 포털에서 사례 만들기 및 관리'
 description: ' [!DNL Adobe Success] 포털에서 사례를 관리하는 방법에 대해 알아봅니다.'
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 61%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 1. **[!UICONTROL 진행 중인 사례]**&#x200B;를 선택합니다.
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Adobe 성공 포털의 새 서비스 케이스 만들기 섹션에서 서비스 케이스 열기 단추](../../assets/adobe-success-portal-home-page-open-case.png "서비스 케이스 열기 단추")
 
 
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Adobe 성공 포털의 지원 티켓 양식 하단에 있는 사례 제출 단추](../../assets/adobe-success-portal-submit-case.png "지원 요청을 제출")
 
 
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Adobe 성공 포털의 새 서비스 케이스 만들기 섹션에서 서비스 케이스 열기 단추](../../assets/adobe-success-portal-support-insights-open-case.png "서비스 케이스 열기 단추")
 
 
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Adobe 성공 포털의 새 사례 만들기 섹션에서 사례 보기 단추](../../assets/adobe-success-portal-view-cases.png "기존 지원 사례 보기")
 
 
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![AEM Cloud Service - Assets에 대한 지원 및 인사이트 섹션의 개설 및 마감 사례 표시기](../../assets/adobe-success-portal-open-case-closed-case.png "개설 및 마감된 지원 사례에 대한 요약 보기")
 
 
 
@@ -84,7 +84,7 @@ ht-degree: 100%
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Adobe 성공 포털의 지원 사례에 있는 사례 번호 링크](../../assets/adobe-success-portal-case-number.png "사례 세부 정보를 보려면 클릭")
 
 
 
@@ -96,7 +96,7 @@ ht-degree: 100%
 1. **[!UICONTROL 사례 보기]**&#x200B;를 선택합니다.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Adobe 성공 포털의 새 사례 만들기 섹션에서 사례 보기 단추](../../assets/adobe-success-portal-view-cases.png "기존 지원 사례 보기")
 
 
 1. 보려는 제품 카드를 선택한 다음 **[!UICONTROL 진행 중인 사례]** 또는 **[!UICONTROL 마감된 사례]**&#x200B;를 선택합니다.
@@ -105,8 +105,8 @@ ht-degree: 100%
    >
    >또한 **[!UICONTROL 지원 및 인사이트]** 탭을 선택하여 **[!UICONTROL 진행 중인 사례]** 또는 **[!UICONTROL 마감된 사례]** 링크가 있는 제품 카드에 빠르게 액세스할 수 있습니다.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![AEM Cloud Service - Assets에 대한 지원 및 인사이트 섹션의 개설 및 마감 사례 표시기](../../assets/adobe-success-portal-open-case-closed-case.png "개설 및 마감된 지원 사례에 대한 요약 보기")
 
 1. [제품] - 지원 사례 페이지에서 다운로드하려는 사례 옆에 있는 확인란을 선택하고 **[!UICONTROL 사례 다운로드]**&#x200B;를 선택합니다.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Adobe 성공 포털의 사례 관리 섹션에 있는 다운로드 사례 단추](../../assets/adobe-success-portal-download-cases.png "지원 사례 데이터 다운로드")
