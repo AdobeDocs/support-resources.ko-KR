@@ -3,10 +3,10 @@ title: Adobe Success 포털 릴리스 정보
 description: ' [!DNL Adobe Success portal]에 대한 최신 릴리스 정보입니다 '
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 31%
 
 ---
 
@@ -17,6 +17,18 @@ ht-degree: 36%
 ![신규](../adobe-success-portal/assets/new.svg) - 새로운 기능
 ![수정 사항](../adobe-success-portal/assets/fix.svg) - 수정 사항 및 개선 사항
 ![버그](../adobe-success-portal/assets/bug.svg) - 알려진 문제
+
+## 4.0
+
+_2025년 11월 11일_
+
+![수정](../adobe-success-portal/assets/fix.svg) 사례 세부 정보 페이지에서 자동으로 최신 메시지로 스크롤하도록 대화 순서를 최적화했습니다.
+
+![해결](../adobe-success-portal/assets/fix.svg) **Ctrl+클릭** / **Command+클릭**&#x200B;을 사용하여 새 탭에서 열 때 탐색 오류를 방지하기 위해 뒤로 단추를 제대로 사용할 수 없도록 사례 세부 정보를 업데이트했습니다.
+
+![버그](../adobe-success-portal/assets/bug.svg) **[!UICONTROL 지원 및 인사이트]**&#x200B;에서 **[!UICONTROL Adobe 상태]** 경고에 대해 잘못된 상태, 지역 또는 시간대 세부 정보가 표시되는 문제를 해결했습니다.
+
+![버그](../adobe-success-portal/assets/bug.svg) **[!UICONTROL 전략적 파트너]**&#x200B;에 연결된 **[!UICONTROL 바로 연결]** 및 **[!UICONTROL 활동]**&#x200B;에서 디스플레이 문제가 해결되었습니다.
 
 ## 3.0
 
