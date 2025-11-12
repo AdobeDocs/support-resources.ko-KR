@@ -3,10 +3,10 @@ user-guide-title: Success Plan 리소스
 user-guide-description: Adobe Experience Cloud 및 Adobe Experience Platform을 위한 Success Plan 및 지원 리소스입니다.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 93%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Success Plan 리소스 {#data-sheets}
 
 + [Adobe Success Plan 개요](overview.md)
++ [Adobe DX 솔루션 통합 휴일 준비 안내서](unified-holiday-readiness.md)
 + Crux 팟캐스트{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
      [Ep.2 - Karrie Benjamin](episode2.md)
