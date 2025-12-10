@@ -25,7 +25,7 @@ Adobe ID 및 Admin Console에 대한 자세한 검토를 위해 이 [지원 페�
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=ko
 -->
 
 또한 [여기](faq.md)에서 참조할 수 있는 FAQ가 있습니다.

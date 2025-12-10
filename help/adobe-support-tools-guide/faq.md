@@ -57,7 +57,7 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
 
 +++
 
