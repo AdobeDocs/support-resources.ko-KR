@@ -119,7 +119,7 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
    * 전송 시간
    * 오퍼 유형
    * 채널 혼합
-[AJO Experimentation Accelerator 모범 사례](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)를 참조하세요.
+[AJO Experimentation Accelerator 모범 사례](https://experienceleague.adobe.com/ko/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)를 참조하세요.
 * 엔드 투 엔드 여정 유효성 검사 수행:
    * 이벤트 트리거
    * 세분화 항목
