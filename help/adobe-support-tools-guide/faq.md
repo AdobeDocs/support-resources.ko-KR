@@ -2,24 +2,24 @@
 keywords: FAQ;자주 묻는 질문
 title: Adobe 비즈니스 플랫폼 및 Admin Console FAQ
 description: Adobe Workfront에 대해 자주 묻는 질문
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Adobe 비즈니스 플랫폼 및 Admin Console FAQ
+# [!DNL Adobe Business Platform] 및 Admin Console FAQ
 
 +++**Adobe ID와 Admin Console란 무엇입니까?**
 
-Adobe Business Platform을 사용하면 관리자와 작업 책임자가 맞춤형 Workfront 소프트웨어 버전을 관리할 수 있는 첨단 제어 콘솔을 사용할 수 있습니다.
+[!DNL Adobe Business Platform]은(는) 관리자와 기능 리더에게 사용자 지정된 Workfront 소프트웨어 버전을 관리할 수 있는 최신 제어 콘솔을 제공합니다.
 
 +++
 
 +++**고객이 Adobe ID 및 Admin Console(AAC)로 이동해야 하는 이유는 무엇입니까?**
 
-고객은 Adobe Business Platform으로 이동하여 더욱 안전하고 직관적인 관리 콘솔을 사용할 수 있습니다.
+고객은 [!DNL Adobe Business Platform]&#x200B;(으)로 이동하여 더욱 안전하고 직관적인 관리 콘솔을 사용할 수 있습니다.
 
 +++
 
@@ -57,7 +57,7 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
 
-&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++**이 작업이 Adobe 제품 외부의 Workfront 솔루션에 통합한 다른 기술에 영향을 미칩니까?**
 
-Fusion 애플리케이션을 사용하여 다른 서비스에 연결하는 고객은 Fusion 애플리케이션이 이러한 변경을 수행할 준비가 된 경우에만 이동됩니다.
+[!DNL Fusion] 응용 프로그램을 사용하여 다른 서비스에 연결하는 고객은 [!DNL Fusion] 응용 프로그램이 이 변경 작업을 수행할 준비가 되었을 때만 이동됩니다.
 
 +++
 
