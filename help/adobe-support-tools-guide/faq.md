@@ -2,9 +2,9 @@
 keywords: FAQ;자주 묻는 질문
 title: Adobe 비즈니스 플랫폼 및 Admin Console FAQ
 description: Adobe Workfront에 대해 자주 묻는 질문
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 11%
 
 ---
@@ -51,13 +51,13 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++**현재 Workfront 고객이 사용할 수 없는 AAC의 새로운 기능은 무엇입니까?**
 
-사용 가능한 몇 가지 새로운 기능을 강조 표시하는 [이 문서](overview.md)를 참조하십시오.
+
 
 +++
 
 +++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
 
-&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
