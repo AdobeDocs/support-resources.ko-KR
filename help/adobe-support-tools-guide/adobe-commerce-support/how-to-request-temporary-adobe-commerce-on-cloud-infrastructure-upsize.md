@@ -1,6 +1,6 @@
 ---
 title: 클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법
-description: 조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)을 제출하여 Adobe Commerce on cloud infrastructure store에 대한 임시 클라우드 용량을 요청할 수 있습니다.
+description: 조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)을 제출하여 Adobe Commerce on cloud infrastructure store에 대한 임시 클라우드 용량을 요청할 수 있습니다.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법
 
-조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받고 있는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)을 제출하여 클라우드 인프라 스토어에서 Adobe Commerce에 대한 임시 클라우드 용량을 추가로 요청할 수 있습니다.
+조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받고 있는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)을 제출하여 클라우드 인프라 스토어에서 Adobe Commerce에 대한 임시 클라우드 용량을 추가로 요청할 수 있습니다.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ New Relic 경고에서 기준 경고 조건을 사용하여 데이터의 비헤�
 
 이 링크를 따라 New Relic [Intelligence가 적용된 예외 항목 탐지](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/)에 대해 자세히 알아보십시오.
 
-트래픽이 많은 이벤트를 알리는 경고 알림을 받는 경우 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)하여 용량을 추가로 요청해야 할 수 있습니다. 아래 단계를 수행합니다.
+트래픽이 많은 이벤트를 알리는 경고 알림을 받는 경우 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)하여 용량을 추가로 요청해야 할 수 있습니다. 아래 단계를 수행합니다.
 
 ## 사이트 성능을 모니터링하는 방법
 
@@ -50,7 +50,7 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
 
 ## 임시 업사이징을 요청하는 단계
 
-임시 추가 클라우드 용량을 요청하려면 Adobe Commerce 지원 센터에서 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)에 다음 정보를 제출하십시오.
+임시 추가 클라우드 용량을 요청하려면 Adobe Commerce 지원 센터에서 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)에 다음 정보를 제출하십시오.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
 
 >[!NOTE]
 >
->업사이즈가 예약되면 자동화된 시스템에서 클라우드 인스턴스의 크기를 조정합니다. 절차가 완료되면 티켓 알림을 받지 못할 수 있습니다. Observation for Adobe Commerce 도구를 사용하여 AWS 또는 Azure 인스턴스 유형을 보고 [변경 내용을 확인](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)할 수 있습니다.
+>업사이즈가 예약되면 자동화된 시스템에서 클라우드 인스턴스의 크기를 조정합니다. 절차가 완료되면 티켓 알림을 받지 못할 수 있습니다. Observation for Adobe Commerce 도구를 사용하여 AWS 또는 Azure 인스턴스 유형을 보고 [변경 내용을 확인](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)할 수 있습니다.
 
 ## 업사이징 내역 보기
 
