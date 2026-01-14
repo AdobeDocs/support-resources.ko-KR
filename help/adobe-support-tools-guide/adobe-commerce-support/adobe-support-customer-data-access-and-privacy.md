@@ -20,7 +20,7 @@ Adobe 기술 지원에서 지원을 제공하려면 Adobe Commerce 관련 데이
 
 액세스 권한을 부여하려면 다음을 수행하십시오.
 
-1. [권한 있는 기본 사용자로 ](https://account.magento.com/customer/account/login)에 로그인합니다.
+1. [권한 있는 기본 사용자로 &#x200B;](https://account.magento.com/customer/account/login)에 로그인합니다.
 1. **[!UICONTROL 내 계정]** 페이지 > **[!UICONTROL 계정 설정]**&#x200B;에서 [계정 프로필](https://account.magento.com/customer/account/edit)을 완료했는지 확인하고 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 1. **[!UICONTROL 내 계정]** 페이지 > **[!UICONTROL 계정 설정]** > **[!UICONTROL 개인 정보 설정]**&#x200B;에서. Adobe 기술 지원 담당자에게 데이터에 대한 액세스 권한을 부여하는 동의 양식이 표시됩니다.
 1. 개인 정보 설정에 대한 정보를 검토한 후 **다음 기간 동안 내 데이터에 대한 액세스를 승인합니다.** 옆에 있는 확인란을 선택할지 여부를 선택합니다.
