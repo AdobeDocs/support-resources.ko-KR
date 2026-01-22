@@ -31,9 +31,9 @@ ht-degree: 6%
 - [!UICONTROL 연락처 정보]
 - [!UICONTROL 검토 및 제출]
 
-![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기: 실행 가능한 세부 정보를 캡처하고 문제 해결을 가속화하기 위해 필드를&#x200B;**재현[!UICONTROL 하는 새로 만들기 ]단계가 추가되었습니다**.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기: 실행 가능한 세부 정보를 캡처하고 문제 해결을 가속화하기 위해 필드를&#x200B;**재현[!UICONTROL 하는 새로 만들기 &#x200B;]단계가 추가되었습니다**.
 
-![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기 중요 세부 사항을 캡처하기 위해 자격이 있는 제품에 대한 추가 **환경 컨텍스트[!UICONTROL  필드를] 추가했습니다**.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기 중요 세부 사항을 캡처하기 위해 자격이 있는 제품에 대한 추가 **환경 컨텍스트[!UICONTROL &#x200B; 필드를] 추가했습니다**.
 
 - **Marketo**
    - Munchkin ID
