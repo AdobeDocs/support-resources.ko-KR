@@ -1,18 +1,18 @@
 ---
-title: 새로운 EXL 사례 양식 릴리스 정보
+title: 새로운 Experience League 사례 양식 릴리스 노트
 description: EXL 사례 양식에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 6%
 
 ---
 
 
-# 새로운 EXL 사례 양식 릴리스 정보
+# 새로운 Experience League 사례 양식 릴리스 노트
 
-새로운 사례 생성 환경에서는 문제 해결을 간소화하기 위해 새로 고침된 양식을 도입했으며 다음과 같은 내용이 포함됩니다.
+새로운 케이스 생성 경험 은 문제 해결을 간소화하도록 설계된 새로워진 양식을 도입하며 다음을 포함합니다.
 
 ![신규](../adobe-support-tools-guide/assets/new.svg) - 새로운 기능
 ![수정 사항](../adobe-support-tools-guide/assets/fix.svg) - 수정 사항 및 개선 사항
@@ -31,9 +31,9 @@ ht-degree: 6%
 - [!UICONTROL 연락처 정보]
 - [!UICONTROL 검토 및 제출]
 
-![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 실행 가능한 세부 정보를 캡처하고 문제 해결을 가속화하기 위해 **새 [!UICONTROL 재현 단계] 필드**&#x200B;를 추가했습니다.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기: 실행 가능한 세부 정보를 캡처하고 문제 해결을 가속화하기 위해 필드를&#x200B;**재현[!UICONTROL 하는 새로 만들기 ]단계가 추가되었습니다**.
 
-![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 권한 있는 제품에 대해 **추가 [!UICONTROL 환경 컨텍스트] 필드**&#x200B;를 추가하여 중요한 세부 정보를 캡처합니다.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기 중요 세부 사항을 캡처하기 위해 자격이 있는 제품에 대한 추가 **환경 컨텍스트[!UICONTROL  필드를] 추가했습니다**.
 
 - **Marketo**
    - Munchkin ID
@@ -43,8 +43,8 @@ ht-degree: 6%
 - **Adobe Analytics**
    - RSID
    - 사이트 URL(태그 속성 이름)/HAR 또는 Assurance 로그/cURL/디버그 로그
-   - Workspace 바로 가기 링크
-- **Adobe Journey Optimizer(AJO)**
+   - 단축 링크 작업 영역
+- **Adobe Systems Journey Optimizer(AJO)**
    - 여정 ID 또는 여정 URL
    - 프로필 예
 - **Real-Time Customer Data Platform(RTCDP)**
@@ -55,12 +55,12 @@ ht-degree: 6%
    - 태그 속성 이름
 
 
-![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 사례 만들기 흐름을 중단하지 않고 유용한 지침을 표시하기 위해 **AI 기반 [!UICONTROL 권장 사항 패널]**&#x200B;을 추가했습니다.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기 AI 기반 **추천 패널[!UICONTROL 이]**&#x200B;추가되어 사례 생성 흐름을 방해하지 않고 유용한 지침을 표시할 수 있습니다.
 
-![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 입력한 모든 정보를 통합적으로 볼 수 있도록 하고 사용자가 다음 작업을 수행할 수 있도록 하는 [!UICONTROL 검토 요약] 단계를 추가했습니다.
+![](../adobe-support-tools-guide/assets/new.svg) 새로 만들기 입력된 [!UICONTROL 모든 정보에 대한 통합 보기를 제공하고 사용자가 다음을 수행할 수 있도록 검토 요약] 단계가 추가되었습니다.
 
 - 한 곳에서 사례 세부 정보 검토
-- 편집하려면 이전 단계로 돌아가십시오.
+- 이전 단계로 돌아가 편집
 - 진행률을 잃지 않고 요약으로 돌아가기
 
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 대/소문자 설명 필드 이름이 *[!UICONTROL (으)로 바뀌었습니다. 명확성을 위해 문제를 설명&quot;]*&#x200B;하십시오.
