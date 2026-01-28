@@ -6,17 +6,18 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
+source-git-commit: 0c7a2b704888ab254ef69b5ae004014105ff702c
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 6%
 
 ---
 
 
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
-- [Experience League 지원 포털](adobe-customer-support-experience.md)
+- [Adobe 고객 지원 경험](adobe-customer-support-experience.md)
+- [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
 - [관리자 역할](admin-roles.md)
 - Adobe Workfront 지원 {#workfront}
