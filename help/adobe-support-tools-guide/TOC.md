@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 5459f5f3f9a6eaa2dd9defeec696b3dae22ba860
+source-git-commit: 3b0588fd01010fb40640362b7fe24c5b28fb5faf
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '99'
+ht-degree: 5%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 6%
    - [Adobe Commerce P1 알림 핫라인](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe 고객 데이터 액세스 및 개인정보 보호 지원](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+   - [Cloud pro 인프라에서 Adobe Commerce에 대한 모니터링 팩트시트](adobe-commerce-support/monitoring-whitepaper.md)
+   - [Adobe Commerce 소프트웨어 지원 종료 FAQ](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Adobe Commerce 지원 티켓 문제 사유 설명](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce 지원 도구 개요](adobe-commerce-support/support-tools-overview.md)
-
