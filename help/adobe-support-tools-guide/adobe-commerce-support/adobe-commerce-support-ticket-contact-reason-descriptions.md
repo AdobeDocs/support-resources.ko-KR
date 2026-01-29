@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce 지원 티켓 **[!UICONTROL 문제 원인]** 설명
+title: Adobe Commerce 지원 티켓 [!UICONTROL 문제 이유] 설명
 description: 이 문서에서는 지원 티켓 **[!UICONTROL 문제 원인]** 필드 옵션을 나열하고 각 옵션에 대한 자세한 설명을 제공합니다.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce 지원 티켓 **[!UICONTROL 문제 이유]** 설명
+# Adobe Commerce 지원 티켓 [!UICONTROL 문제 이유] 설명
 
 이 문서에서는 지원 티켓 **[!UICONTROL 문제 원인]** 필드 옵션을 나열하고 각 옵션에 대한 자세한 설명을 제공합니다.
 
@@ -55,4 +55,4 @@ ht-degree: 1%
 
 ## 관련 읽기
 
-* Adobe Commerce용 Experience League 지원 사용 안내서의 [지원 사례를 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case).
+* Adobe Commerce용 Experience League 지원 사용 안내서의 [지원 사례를 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case).
