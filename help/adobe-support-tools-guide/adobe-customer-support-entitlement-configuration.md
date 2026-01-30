@@ -1,24 +1,24 @@
 ---
 title: Adobe 고객 지원 권한 구성
-description: Adobe 고객이 지원 권한을 구성하여 사례 제출을 활성화하는 방법.
+description: Adobe 고객이 Admin Console에서 지원 권한을 설정 및 관리하여 사용자가 지원 리소스에 액세스하고, 문제를 제출하고, 사례 활동을 관리할 수 있는 방법입니다.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Adobe 고객 지원 권한
+# Adobe 고객 지원 권한 구성
 
 조직에 대한 지원 권한을 구성하려면 먼저 Admin Console을 통해 사용자를 추가하거나 초대합니다.
 
 ## 조직에 지원 권한 역할 추가
 
-지원 관리자 역할은 지원 관련 정보에 대한 액세스 권한이 있는 비관리 역할입니다. 지원 관리자는 문제 보고서를 보고 만들고 관리할 수 있습니다.
+**[!UICONTROL 지원 관리자]** 역할은 지원 관련 정보에 대한 액세스 권한이 있는 비관리 역할입니다. **[!UICONTROL 지원 관리자]**&#x200B;가 문제 보고서를 보고 만들고 관리할 수 있습니다.
 
 관리자를 추가하거나 초대하려면:
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다. 관리자 역할 목록이 나타납니다.
 
-사용자에게 지원 관리자 역할을 할당하려면(사용자가 지원에 문의할 수 있도록 활성화):
+사용자에게 **[!UICONTROL 지원 관리자]** 역할을 할당하려면(사용자가 지원 팀에 문의할 수 있도록 설정):
 
 1. **[!UICONTROL 관리자 지원]** 옵션을 선택하십시오.
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 ![관리자 권한 확인](assets/admin-rights-confirmation.png)
 
-자세한 내용은 관리 역할 설명서의 [Enterprise 관리자 역할 편집](admin-roles.md#add-enterprise-role) 지침을 참조하십시오. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 관리 계층에 대한 자세한 내용은 [관리 역할](admin-roles.md) 설명서를 참조하십시오.
+자세한 내용은 관리 역할 설명서의 [Enterprise 관리자 역할 편집](admin-roles.md#edit-enterprise-admin-role) 지침을 참조하십시오. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 관리 계층에 대한 자세한 내용은 [관리 역할](admin-roles.md) 설명서를 참조하십시오.
