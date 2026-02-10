@@ -36,7 +36,7 @@ ht-degree: 10%
 * [Adobe Commerce 기술 자료에서 사용자를 Commerce 클라우드 프로젝트에 추가할 수 없습니다](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html).
 * [Adobe Commerce 도움말 센터 사용 안내서: Commerce 기술 자료에서 액세스 공유](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access).
 
-[!DNL cloud project]에 추가되었지만 [!DNL Super User role]이(가) 없는 경우 [!DNL role]사용자 액세스 관리[에서 해당 ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)을(를) 업데이트합니다.
+[!DNL cloud project]에 추가되었지만 [!DNL Super User role]이(가) 없는 경우 [!DNL role]사용자 액세스 관리[에서 해당 &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)을(를) 업데이트합니다.
 
 팀원이 조직에 대해 열린 모든 경우에 감시자가 되도록 하려면 [지원 티켓](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support)을 제출하세요.
 
