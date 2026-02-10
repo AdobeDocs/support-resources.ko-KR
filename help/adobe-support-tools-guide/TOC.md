@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
+source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 4%
 - Adobe Workfront 지원 {#workfront}
    - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
+   - [보안 패치를 가져오고 적용하는 방법](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 알림 핫라인](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe 고객 데이터 액세스 및 개인정보 보호 지원](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
