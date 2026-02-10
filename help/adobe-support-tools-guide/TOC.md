@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: b7138e6466c90b6ada3137cfc2b85f236fa8d19c
+source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 4%
 
 ---
@@ -32,4 +32,5 @@ ht-degree: 4%
    - [Adobe Commerce 소프트웨어 지원 종료 FAQ](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Adobe Commerce 지원 티켓 문제 사유 설명](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce 지원 도구 개요](adobe-commerce-support/support-tools-overview.md)
+   - [지원 알림에 팀원을 포함하는 방법](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [클라우드 인프라 샌드박스 요청에 대한 파트너 Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
