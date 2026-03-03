@@ -32,13 +32,13 @@ ht-degree: 1%
 
 1. 사용자에게 [https://accounts.magento.cloud](https://accounts.magento.cloud)에 로그인하도록 요청하세요. 사용자는 이미 동일한 이메일 주소를 사용하여 Adobe에 등록해야 합니다.
    > **참고**\
-   > [https://account.adobe.com](https://account.adobe.com)에 계정을 만들거나 보유하고 있다고 해서 사용자가 [https://accounts.magento.cloud](https://accounts.magento.cloud)에 계정이 있는 것은 아닙니다. 사용자는 먼저 [Commerce 계정을 만들어야](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account) 합니다.
+   > [https://account.adobe.com](https://account.adobe.com)에 계정을 만들거나 보유하고 있다고 해서 사용자가 [https://accounts.magento.cloud](https://accounts.magento.cloud)에 계정이 있는 것은 아닙니다. 사용자는 먼저 [Commerce 계정을 만들어야](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account) 합니다.
 
-1. 사용자가 이미 Adobe 계정을 가지고 있지만 로그인할 수 없는 경우 [문제 이유](https://experienceleague.adobe.com/home#support)가 [!UICONTROL 사용자 관리]&#x200B;(으)로 설정된 *지원 요청*&#x200B;을 제출하도록 요청하세요.
+1. 사용자가 이미 Adobe 계정을 가지고 있지만 로그인할 수 없는 경우 [문제 이유](https://experienceleague.adobe.com/home?lang=ko#support)가 [!UICONTROL 사용자 관리]&#x200B;(으)로 설정된 *지원 요청*&#x200B;을 제출하도록 요청하세요.
 
-1. 사용자가 [https://accounts.magento.cloud](https://accounts.magento.cloud)에 성공적으로 로그인하면 사용자를 프로젝트에 추가할 수 있습니다. 자세한 단계는 Commerce on Cloud Infrastructure Guide에서 [사용자 추가 및 액세스 관리](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)를 참조하십시오.
+1. 사용자가 [https://accounts.magento.cloud](https://accounts.magento.cloud)에 성공적으로 로그인하면 사용자를 프로젝트에 추가할 수 있습니다. 자세한 단계는 Commerce on Cloud Infrastructure Guide에서 [사용자 추가 및 액세스 관리](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access)를 참조하십시오.
 
 ## 관련 읽기:
 
-* Commerce on Cloud Infrastructure 안내서의 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html).
-* [Adobe Commerce 지원 또는 클라우드 계정에 로그인할 수 없음](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
+* Commerce on Cloud Infrastructure 안내서의 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ko).
+* [Adobe Commerce 지원 또는 클라우드 계정에 로그인할 수 없음](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=ko)
