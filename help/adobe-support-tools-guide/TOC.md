@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 289022a25c4bc917797726cff8a03ff83206084a
+source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -38,3 +38,4 @@ ht-degree: 3%
    - [Adobe Commerce용 Experience League 지원 사용 안내서](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
    - [지원 알림에 팀원을 포함하는 방법](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
    - [클라우드 인프라 샌드박스 요청에 대한 파트너 Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
+   - [Adobe Commerce 클라우드 프로젝트에 사용자를 추가할 수 없음](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
