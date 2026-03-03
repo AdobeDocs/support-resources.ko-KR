@@ -2,7 +2,8 @@
 title: Adobe Commerce P1 알림 핫라인
 description: 이 문서에서는 P1 인시던트를 보고하려고 할 때 사용할 수 있는 Adobe Commerce용 P1 알림 핫라인 번호를 제공하고 제공할 정보를 설명합니다.
 solution: Commerce
-source-git-commit: f08fbf3920b6b80f2755598920c2a7ed82835510
+exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
+source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 ## P1 알림 핫라인 전화 정책
 
 * P1 알림 핫라인은 P1 수준 문제를 보고할 수 있습니다(이전 섹션의 P1 문제 정의 참조).
-* Adobe Commerce P1 알림 핫라인으로 전화하기 전에 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket).
+* Adobe Commerce P1 알림 핫라인으로 전화하기 전에 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket).
 * 조사, 문제 해결 및 커뮤니케이션은 지원 티켓 내에서만 이루어집니다.
 * 문의 전화 전에 티켓에 문제와 관련된 모든 추가 정보를 직접 추가합니다.
 * 전화하실 때는 티켓 번호를 꼭 지참하세요.
@@ -47,4 +48,4 @@ ht-degree: 0%
    * 말레이시아(유료): (+60) 1800 220 120(첫 번째 메뉴에서 Adobe Commerce P1 핫라인은 3번을 누르십시오)
    * 인도: (+91) 0008 004 402 107(첫 번째 메뉴에서 Adobe Commerce P1 핫라인은 3번을 누르십시오)
    * 홍콩: (+852) 30 713 107(첫 번째 메뉴에서 3번을 누르면 Adobe Commerce P1 핫라인)
-   * 일본: (+81) 120 071 300(첫 번째 메뉴에서 3번을 누르면 Adobe Commerce P1 핫라인)
+   * 일본: (+81) 0120 410 404(첫 번째 메뉴에서 3번을 누르면 Adobe Commerce P1 핫라인)
