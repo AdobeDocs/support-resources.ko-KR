@@ -43,7 +43,7 @@ ht-degree: 3%
 
 4. **[!UICONTROL 내보내기]**&#x200B;를 선택합니다. 내보내기 파일을 생성하는 데 몇 분 정도 걸릴 수 있습니다. 보고서가 완료되면 **[!UICONTROL Global Admin Console]** > **[!UICONTROL 인사이트]** > **[!UICONTROL 보고서 내보내기]**&#x200B;로 이동합니다.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > JSON 파일은 zip 형식으로 내보냅니다. zip 유틸리티 또는 운영 체제의 zip 기능을 사용하여 열 수 있습니다.
 
