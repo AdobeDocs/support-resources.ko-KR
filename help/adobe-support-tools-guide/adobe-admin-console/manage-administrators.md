@@ -18,7 +18,7 @@ ht-degree: 2%
 
 글로벌 관리자 기능을 탐색하고 각 개별 조직의 관리자에게 사용자, 제품 라이선스 및 그룹 관리를 위임하고 배포하는 방법을 알아봅니다.
 
-Global Admin Console에서 조직을 선택하고 **[!UICONTROL 관리자]** 탭으로 이동하여 관리자 권한을 추가, 편집 또는 제거할 수 있습니다. 자세한 내용은 [전역 관리 채택](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)을 참조하세요. 로그인하려면 [Global Admin Console](https://global-admin-console.adobe.com/)&#x200B;(으)로 이동하세요.
+Global Admin Console에서 조직을 선택하고 **[!UICONTROL 관리자]** 탭으로 이동하여 관리자 권한을 추가, 편집 또는 제거할 수 있습니다. 자세한 내용은 [전역 관리 채택](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html)을 참조하세요. 로그인하려면 [Global Admin Console](https://global-admin-console.adobe.com/)&#x200B;(으)로 이동하세요.
 
 
 Global Admin Console에서는 전역 관리자라는 역할을 도입했습니다. 이 역할은 시스템 관리자와는 다르며 다음을 수행할 수 있습니다.
@@ -154,7 +154,7 @@ Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있는 유연
 
    > [ !N참고]
    > 
-   > 조직은 계정 유형을 추가할 수 있는 제한을 가질 수 있습니다. [정책](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) 또는 조직의 다른 구성 매개 변수를 기반으로 할 수 있습니다. 조직에서 AdobeID 사용자와 BusinessID 사용자를 동시에 추가하는 것을 허용하지 않습니다. 일반적으로 조직에 두 가지 유형의 사용자가 모두 없어야 하지만 규칙이 설정되는 순서에 따라 특정 계정 유형의 사용자가 정책이나 규칙의 적용을 미리 예약할 수 있습니다.
+   > 조직은 계정 유형을 추가할 수 있는 제한을 가질 수 있습니다. [정책](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html) 또는 조직의 다른 구성 매개 변수를 기반으로 할 수 있습니다. 조직에서 AdobeID 사용자와 BusinessID 사용자를 동시에 추가하는 것을 허용하지 않습니다. 일반적으로 조직에 두 가지 유형의 사용자가 모두 없어야 하지만 규칙이 설정되는 순서에 따라 특정 계정 유형의 사용자가 정책이나 규칙의 적용을 미리 예약할 수 있습니다.
 
 1. **[!UICONTROL 관리자 권한]** 섹션에서 관리자 역할을 하나 이상 선택하십시오.
 
@@ -164,7 +164,7 @@ Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있는 유연
 
 1. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
-1. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택한 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [변경 내용을 실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+1. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택한 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [변경 내용을 실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 관리자 역할이 추가되면 사용자는 역할 변경을 알리는 이메일 알림을 받습니다.
 
@@ -182,7 +182,7 @@ Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있는 유연
 
 1. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다.
 
-추가 또는 제거된 각 관리자 역할에 대해 보류 중인 변경 목록에 별도의 명령이 표시됩니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+추가 또는 제거된 각 관리자 역할에 대해 보류 중인 변경 목록에 별도의 명령이 표시됩니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 ## 관리자 권한 제거
 
@@ -194,7 +194,7 @@ Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있는 유연
 
 1. 확인 대화 상자에서 **[!UICONTROL 확인]**&#x200B;을 선택합니다.
 
-1. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+1. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 관리자를 삭제하면 사용자는 해당 조직의 Admin Console에 대한 액세스 권한이 없음을 알리는 이메일 알림을 받게 됩니다.
 
