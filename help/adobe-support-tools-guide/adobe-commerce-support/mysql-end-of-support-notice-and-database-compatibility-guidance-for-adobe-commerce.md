@@ -13,7 +13,7 @@ ht-degree: 0%
 
 이 문서에서는 지원되는 Adobe Commerce 버전에 대한 MySQL EOS(지원 종료) 및 데이터베이스 호환성에 대한 중요한 정보를 제공합니다.
 Adobe은 판매자가 이 발표를 검토하고 플랫폼 안정성을 유지하고 지원 요구 사항을 준수하도록 조치를 취할 것을 강력히 권장합니다.
-[MariaDB에 대한 업그레이드 필수 구성 요소](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) 및 [시스템 요구 사항](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)에서 자세히 알아보세요.
+[MariaDB에 대한 업그레이드 필수 구성 요소](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) 및 [시스템 요구 사항](https://experienceleague.adobe.com/ko/docs/commerce-operations/installation-guide/system-requirements)에서 자세히 알아보세요.
 
 ## MySQL 8.0 지원 종료(EOS)
 
