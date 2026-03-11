@@ -15,7 +15,7 @@ ht-degree: 1%
 
 전역 관리자가 특정 날짜 범위에 대해 여러 조직 및 제품에 대한 세부 라이선스 보고서를 생성 및 다운로드하여 라이선스 프로비저닝의 정확한 추적을 용이하게 하는 방법에 대해 알아봅니다.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > 라이선스 할당 보고서를 만들고 보고 내보내려면 [Global Admin Console](https://global-admin-console.adobe.com/)에 로그인한 다음 **[!UICONTROL Insights]** > **[!UICONTROL 보고서]** > **[!UICONTROL 라이선스 할당]**&#x200B;으로 이동하십시오.
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 1. Global Admin Console의 **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** 탭으로 이동합니다.
 2. **[!UICONTROL 라이선스 할당]** 페이지에서 **[!UICONTROL 보고서 만들기]**&#x200B;를 선택합니다.
 3. 조직을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 선택합니다. **[!UICONTROL 모두 선택]** 단추를 사용하여 각 조직을 개별적으로 선택하거나 상위 조직 내에서 모든 하위 조직을 선택할 수 있습니다.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**특정 조직을 선택할 수 없는 이유를 알아보세요**:
    >하위 조직에 계약이 없거나 상위 조직과 동일한 제품을 가진 별도의 엔터프라이즈 계약이 있는 경우, 이 조직은 라이선스 할당 보고서를 생성할 수 없습니다. 예를 들어 상위 조직의 계약에 Adobe Acrobat이 있고 하위 조직의 계약이 다른 계약의 일부와 동일한 경우 제품은 할당으로 제한됩니다. 이로 인해 Global Admin Console에서의 보고서 생성도 제한됩니다. [각각의 Admin Console을 사용하여 이러한 조직의 프로비저닝을 추적하는 방법에 대해 알아봅니다](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ ht-degree: 1%
    >
    > 활성 계약이 있는 조직에 대해서만 지정 보고서를 생성할 수 있습니다.
 4. 보고서에 포함할 제품을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 선택하십시오.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**특정 제품을 선택할 수 없는 이유를 알아보세요**:
    >Global Admin Console에서 할당할 수 없는 제품은 보고서 작성에 포함되지 않습니다. 여기에는 현재 [!DNL Workfront], [!DNL Adobe Experience Manager], [!DNL Adobe Experience Platform]과(와) 같은 일부 Digital Experience 제품과 [!DNL Adobe Firefly Services], [!DNL Acrobat Sign], [!DNL Adobe Stock]과(와) 같은 제품도 포함됩니다. [Adobe Admin Console을 사용하여 이러한 제품에 대한 라이선스 프로비저닝 데이터를 찾습니다](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
