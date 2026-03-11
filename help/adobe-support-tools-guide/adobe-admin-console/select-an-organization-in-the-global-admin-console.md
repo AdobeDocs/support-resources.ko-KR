@@ -18,7 +18,7 @@ Global Admin Console 내에서 편집할 조직을 선택하는 방법에 대해
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access)에 대한 액세스 권한이 있으면 먼저 조직의 이름, 사용자 그룹, 제품 프로필, 관리자 및 조직 정책을 보고 관리할 조직을 선택할 수 있습니다. Global Admin Console에 로그인하려면 [여기를 클릭하세요](https://global-admin-console.adobe.com/).
+>[Global Admin Console](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html#request-access)에 대한 액세스 권한이 있으면 먼저 조직의 이름, 사용자 그룹, 제품 프로필, 관리자 및 조직 정책을 보고 관리할 조직을 선택할 수 있습니다. Global Admin Console에 로그인하려면 [여기를 클릭하세요](https://global-admin-console.adobe.com/).
 
 Global Admin Console은 Adobe 리소스에 대한 조직의 중앙 관리 허브 역할을 합니다. 전역 관리자는 다음과 같은 작업을 수행할 수 있습니다.
 
@@ -79,6 +79,6 @@ Global Admin Console에서는 [!UICONTROL 계층 구조 트리]에서 조직을 
 
 - 조직 경로 이름은 고유하지만 단순 이름은 형제간에서만 고유합니다. 조직 계층 구조의 다른 곳에 동일한 단순 이름을 가진 조직이 있을 수 있습니다.
 
-- 글로벌 Admin Console을 사용하여 선택한 조직에 연결된 도메인 목록만 볼 수 있습니다. 선택한 조직의 시스템 관리자인 경우 **[!UICONTROL Admin Console에서 열기]**&#x200B;를 선택하여 [도메인 관리](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)를 수행합니다. 도메인 탭에 표시되는 정보를 이해하려면 [스키마 내보내기 및 가져오기](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)를 참조하십시오.
+- 글로벌 Admin Console을 사용하여 선택한 조직에 연결된 도메인 목록만 볼 수 있습니다. 선택한 조직의 시스템 관리자인 경우 **[!UICONTROL Admin Console에서 열기]**&#x200B;를 선택하여 [도메인 관리](https://helpx.adobe.com/kr/enterprise/using/manage-domains-directories.html)를 수행합니다. 도메인 탭에 표시되는 정보를 이해하려면 [스키마 내보내기 및 가져오기](https://helpx.adobe.com/kr/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas)를 참조하십시오.
 
 - IE 11은 전역 관리 액세스에 지원되지 않습니다. 다른 브라우저 또는 최신 버전의 IE 브라우저를 사용합니다.
