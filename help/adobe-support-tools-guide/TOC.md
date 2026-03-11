@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 2%
 - [관리자 역할](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [여러 조직 및 제품에 대한 라이선스 할당 보고서 만들기](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [Global Admin Console에서 조직 선택](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [관리자 관리](adobe-admin-console/manage-administrators.md)
    - [조직 구조 및 제품 할당 내보내기 또는 가져오기](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Console에서 암호 만료 적용](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
