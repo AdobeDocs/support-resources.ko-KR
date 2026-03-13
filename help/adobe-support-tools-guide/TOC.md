@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
+source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 2%
@@ -15,7 +15,6 @@ ht-degree: 2%
 
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
-- [Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe 지원 및 도구 안내서 개요](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe 고객 지원 경험](adobe-customer-support-experience.md)
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
@@ -32,6 +31,7 @@ ht-degree: 2%
 - Adobe Workfront 지원 {#workfront}
    - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
+   - [Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [보안 패치를 가져오고 적용하는 방법](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 알림 핫라인](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
