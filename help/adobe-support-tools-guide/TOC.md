@@ -6,13 +6,12 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
+source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
-
 
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
@@ -24,6 +23,7 @@ ht-degree: 2%
 - [관리자 역할](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [조직 계층 관리](adobe-admin-console/set-up-organizations.md)
    - [여러 조직 및 제품에 대한 라이선스 할당 보고서 만들기](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Global Admin Console에서 조직 선택](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [관리자 관리](adobe-admin-console/manage-administrators.md)
