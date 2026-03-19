@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 2%
    - [보안 패치를 가져오고 적용하는 방법](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 알림 핫라인](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe Commerce Intelligence Essentials: 결제 방법 업데이트 또는 구독 취소](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobe 고객 데이터 액세스 및 개인정보 보호 지원](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Cloud pro 인프라에서 Adobe Commerce에 대한 모니터링 팩트시트](adobe-commerce-support/monitoring-whitepaper.md)
