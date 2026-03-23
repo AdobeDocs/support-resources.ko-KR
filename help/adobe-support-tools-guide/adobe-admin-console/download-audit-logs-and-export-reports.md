@@ -34,7 +34,7 @@ Enterprise에 적용됩니다.
 조직의 감사 로그를 보거나 다운로드하려면 다음을 수행하십시오.
 
 1. 전역 관리자로서 [Global Admin Console](https://global-admin-console.adobe.com/insights)에 로그인하십시오.
-1. **[!UICONTROL 인사이트]** > **[!UICONTROL 감사 로그]**를 선택합니다.
+1. **[!UICONTROL 인사이트]** > **[!UICONTROL 감사 로그]**&#x200B;를 선택합니다.
 감사 로그에는 필터링된 이벤트에 대한 다음 정보가 표시됩니다.
 
    | 필드 | 설명 |
