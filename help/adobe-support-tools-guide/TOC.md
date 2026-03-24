@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 0bbba5e7afa83bb40b57e3d4d648d0713100ab6f
+source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 1%
    - [조직 구조 및 제품 할당 내보내기 또는 가져오기](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Console에서 암호 만료 적용](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [감사 로그 다운로드 및 보고서 내보내기](adobe-admin-console/download-audit-logs-and-export-reports.md)
+   - [기존 사용자를 Adobe Admin Console으로 마이그레이션](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront 지원 {#workfront}
    - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
