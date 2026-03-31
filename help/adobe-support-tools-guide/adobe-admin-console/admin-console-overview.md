@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Adobe Admin Console은 조직 전체에서 Adobe 권한을 관리하기 위한 중앙 위치입니다. 이를 사용하여 라이선스, 사용자 및 결제를 관리할 수 있습니다. [Admin Console에 로그인](https://adminconsole.adobe.com)하려면 여기로 이동하세요. Adobe Admin Console 탐색에 대한 자세한 내용은 아래 비디오를 검토하십시오.
 
-[!V비디오](https://helpx.adobe.com/enterprise/using/admin-console.html)
+[ !V비디오](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
 Admin Console의 각 탭에서는 다양한 작업을 수행할 수 있습니다. 자세한 내용은 아래 제목을 선택하십시오.
 
@@ -157,8 +157,8 @@ Enterprise, VIP, VIP Marketplace 또는 Teams 등 계획에 따라 다음과 같
 
 저장소 관리자는 [자산 설정](https://helpx.adobe.com/enterprise/using/asset-settings.html) 및 [콘텐츠 로그](https://helpx.adobe.com/enterprise/using/content-logs.html)에만 액세스할 수 있습니다. 시스템 관리자는 계획에 따라 설정을 보거나 수정할 수 있습니다.
 
-[!N참고]
->>
+[ !N참고]
+&#x200B;>>
 Adobe은 최상위 수준 관리자가 현재 Admin Console 설정을 Adobe의 권장 보안 기본값과 비교할 수 있는 기본 기능을 제공하지 않습니다. 관리자는 Adobe의 권장 구성 지침을 참조하여 조직의 ID 공급자, 엔드포인트 관리 도구 및 내부 감사 프로세스를 사용하여 규정 준수를 확인할 수 있습니다.
 
 ## 개인 정보 및 보안 연락처 {#privacy-and-security-contacts}
