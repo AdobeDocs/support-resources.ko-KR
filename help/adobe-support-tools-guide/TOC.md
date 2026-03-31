@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 8a0f96df06da03ed2f125f183890ded7a6f707c6
+source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 1%
 - [관리자 역할](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Admin Console 개요](adobe-admin-console/admin-console-overview.md)
    - [Global Admin Console에서 사용자 그룹 관리](adobe-admin-console/manage-user-groups.md)
    - [Adobe Admin Console의 접근성](adobe-admin-console/admin-console-accessibility.md)
    - [Global Admin Console을 사용하여 하위 조직에 제품 할당](adobe-admin-console/allocate-products.md)
