@@ -18,7 +18,7 @@ ht-degree: 3%
 
 글로벌 관리자가 Global Admin Console의 내보내기 및 가져오기 기능을 통해 조직과 제품 관리를 간소화하는 방법에 대해 알아봅니다.
 
-조직 구조를 내보내거나 가져오려면 **[!UICONTROL Global Admin Console]**&#x200B;에서 [조직](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) 탭에 액세스하십시오. 할당 데이터를 보려면 **[!UICONTROL 제품 할당]** 탭으로 이동하십시오. **[!UICONTROL 추가 옵션]**(⋮) 아이콘을 선택한 다음 **[!UICONTROL 내보내기]** 또는 **[!UICONTROL 가져오기]**를 선택하십시오.
+조직 구조를 내보내거나 가져오려면 **[!UICONTROL Global Admin Console]**&#x200B;에서 [조직](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) 탭에 액세스하십시오. 할당 데이터를 보려면 **[!UICONTROL 제품 할당]** 탭으로 이동하십시오. **[!UICONTROL 추가 옵션]**(⋮) 아이콘을 선택한 다음 **[!UICONTROL 내보내기]** 또는 **[!UICONTROL 가져오기]**&#x200B;를 선택하십시오.
 [Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
 
 ## 조직 구조 내보내기

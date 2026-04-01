@@ -86,7 +86,7 @@ Enterprise에 적용됩니다.
 
 ## 조직의 상위 항목 변경
 
-[!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)로서 **[!UICONTROL 계층 변경]** 단추를 사용하여 조직 계층 구조에서 조직의 상위 항목을 다시 지정할 수 있습니다.
+[[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)로서 **[!UICONTROL 계층 변경]** 단추를 사용하여 조직 계층 구조에서 조직의 상위 항목을 다시 지정할 수 있습니다.
 
 조직의 상위 항목을 변경하면 다음과 같은 영향을 받습니다.
 
