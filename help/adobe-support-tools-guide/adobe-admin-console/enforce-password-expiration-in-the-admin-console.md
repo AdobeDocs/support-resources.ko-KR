@@ -26,4 +26,4 @@ ht-degree: 1%
 
 1. **[!UICONTROL 인증 수준]**&#x200B;을 검토하고 사용자에게 가장 적합한 인증 수준을 선택합니다. **[!UICONTROL 사용자에게 가장 쉽습니다]**, **[!UICONTROL 보다 안전합니다]**, **[!UICONTROL 가장 안전합니다]**.
 
-사용 가능한 인증 및 보안 정책에 대한 자세한 내용을 보려면 [인증 설정 Helpx](https://helpx.adobe.com/enterprise/using/authentication-settings.html)을(를) 방문하십시오.
+사용 가능한 인증 및 보안 정책에 대한 자세한 내용을 보려면 [인증 설정 Helpx](https://helpx.adobe.com/kr/enterprise/using/authentication-settings.html)을(를) 방문하십시오.

@@ -13,4 +13,4 @@ ht-degree: 1%
 
 Adobe Admin Console은 조직 전체에서 Adobe 권한을 관리하기 위한 중앙 위치입니다. 자세한 내용을 보려면 이 [비디오](https://youtu.be/hDOhQL9xPRY)를 시청하세요.
 
-Enterprise Administration Guide에서 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html)에 대해 자세히 알아봅니다.
+Enterprise Administration Guide에서 [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)에 대해 자세히 알아봅니다.
