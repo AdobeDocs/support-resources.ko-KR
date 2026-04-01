@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: d29553542d3e6ea7e12fbf4c1bd1e5f6600d42b0
+source-git-commit: 3cd8b197bd1676a54e8496442449f142cacf73b3
 workflow-type: tm+mt
-source-wordcount: '4425'
+source-wordcount: '4430'
 ht-degree: 3%
 
 ---
@@ -18,11 +18,12 @@ ht-degree: 3%
 
 글로벌 관리자가 Global Admin Console의 내보내기 및 가져오기 기능을 통해 조직과 제품 관리를 간소화하는 방법에 대해 알아봅니다.
 
-조직 구조를 내보내거나 가져오려면 **[!UICONTROL Global Admin Console]**&#x200B;에서 [조직](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html) 탭에 액세스하십시오. 할당 데이터의 **[!UICONTROL 제품 할당]** 탭으로 이동합니다. **[!UICONTROL 추가 옵션]** **⋮** 아이콘을 사용하여 내보내기 또는 가져오기를 선택하십시오. [Global Admin Console에 로그인](https://global-admin-console.adobe.com).
+조직 구조를 내보내거나 가져오려면 **[!UICONTROL Global Admin Console]**&#x200B;에서 [조직](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) 탭에 액세스하십시오. 할당 데이터를 보려면 **[!UICONTROL 제품 할당]** 탭으로 이동하십시오. **[!UICONTROL 추가 옵션]**(⋮) 아이콘을 선택한 다음 **[!UICONTROL 내보내기]** 또는 **[!UICONTROL 가져오기]**를 선택하십시오.
+[Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
 
 ## 조직 구조 내보내기
 
-[전역 관리자](https://helpx.adobe.com/kr/enterprise/global-admin-console/manage-administrators.html)로서 조직 계층 구조를 내보낼 수 있습니다. 전체 조직 계층 또는 해당 하위 집합의 JSON, CSV 또는 XLSX 표현을 다운로드할 수 있습니다. 그런 다음 분석 또는 수정에 이 데이터를 사용할 수 있습니다.
+[전역 관리자](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)로서 조직 계층 구조를 내보낼 수 있습니다. 전체 조직 계층 또는 해당 하위 집합의 JSON, CSV 또는 XLSX 표현을 다운로드할 수 있습니다. 그런 다음 분석 또는 수정에 이 데이터를 사용할 수 있습니다.
 
 선택한 내보내기 형식은 내보낸 데이터의 구조에 영향을 줍니다.
 
@@ -51,7 +52,7 @@ ht-degree: 3%
 
 ## 조직 구조 가져오기
 
-[전역 관리자](https://helpx.adobe.com/kr/enterprise/global-admin-console/manage-administrators.html)로서 잠재적으로 수정된 데이터를 가져올 수 있습니다. 업로드하면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 조직 계층에 적용됩니다. 모든 가져오기 작업은 조직 계층의 업데이트된 사본에서 수행됩니다. 보류 중인 변경 사항이 있으면 계층의 보류 중인 변경 사항 위에 가져오기 변경 사항이 추가됩니다.
+[전역 관리자](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)로서 잠재적으로 수정된 데이터를 가져올 수 있습니다. 업로드하면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 조직 계층에 적용됩니다. 모든 가져오기 작업은 조직 계층의 업데이트된 사본에서 수행됩니다. 보류 중인 변경 사항이 있으면 계층의 보류 중인 변경 사항 위에 가져오기 변경 사항이 추가됩니다.
 
 ### 가져오기 단계
 
@@ -59,7 +60,7 @@ ht-degree: 3%
 2. **[!UICONTROL 추가 옵션]** **⋮** 아이콘을 선택하고 **[!UICONTROL 가져오기]**&#x200B;를 선택합니다. 가져오기 파일의 크기와 복잡성에 따라 처리 시간이 몇 초에서 몇 분 정도 걸릴 수 있습니다.
 3. **[!UICONTROL 파일 선택]**&#x200B;을 선택하고 업로드할 JSON, CSV 또는 XLSX 파일을 선택하십시오. CSV의 경우 한 번에 하나의 조직 세부 사항만 가져올 수 있으며 제품 가져오기는 지원되지 않습니다. 가져온 변경 사항은 데이터를 수동으로 편집한 것처럼 표시됩니다.
 4. **[!UICONTROL 닫기]**&#x200B;를 선택합니다.
-5. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 그런 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다. 변경 사항을 실행하기 전에 보류 중인 작업은 Global Admin Console에서 수동으로 편집할 때와 동일한 방식으로 표시됩니다.
+5. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 그런 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다. 변경 사항을 실행하기 전에 보류 중인 작업은 Global Admin Console에서 수동으로 편집할 때와 동일한 방식으로 표시됩니다.
 
 ## 스키마 내보내기 및 가져오기
 
@@ -629,7 +630,7 @@ XLSX 파일에는 제품용 시트 및 리소스용 시트 등 두 개의 시트
 
 ## 제품 할당 데이터 가져오기 및 내보내기
 
-[전역 관리자](https://helpx.adobe.com/kr/enterprise/global-admin-console/manage-administrators.html)로서 제품 할당 데이터를 JSON 또는 CSV 파일로 내보낼 수 있습니다. 그런 다음 이 데이터를 조작하고 다시 업로드하여 변경 내용을 가져올 수 있습니다. 수정될 가능성이 있는 데이터가 업로드되면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 제품 할당 데이터에 적용됩니다. 그런 다음 보류 중인 변경 내용을 검토하고 제출하여 적용할 수 있습니다.
+[전역 관리자](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)로서 제품 할당 데이터를 JSON 또는 CSV 파일로 내보낼 수 있습니다. 그런 다음 이 데이터를 조작하고 다시 업로드하여 변경 내용을 가져올 수 있습니다. 수정될 가능성이 있는 데이터가 업로드되면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 제품 할당 데이터에 적용됩니다. 그런 다음 보류 중인 변경 내용을 검토하고 제출하여 적용할 수 있습니다.
 
 ## 제품 할당 모델 내보내기
 
@@ -645,7 +646,7 @@ XLSX 파일에는 제품용 시트 및 리소스용 시트 등 두 개의 시트
 1. [Global Admin Console](https://global-admin-console.adobe.com/)에 로그인하고 **[!UICONTROL 제품 할당]** 탭으로 이동합니다.
 2. **[!UICONTROL 추가 옵션]** ⋮ 아이콘을 선택하고 **[!UICONTROL 가져오기]**&#x200B;를 선택합니다.
 3. 업로드할 JSON 또는 CSV 파일을 선택하십시오.
-4. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 변경 내용을 검토한 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
+4. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 변경 내용을 검토한 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 ## 제품 할당을 위한 내보내기 및 가져오기 형식
 
