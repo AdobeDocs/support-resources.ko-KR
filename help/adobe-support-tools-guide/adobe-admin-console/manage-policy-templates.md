@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)에서 편집할 조직을 선택하고 **정책 템플릿** 탭으로 이동하여 설정을 간소화하고 조직 간 일관된 정책 관리를 용이하게 합니다.
+>[Global Admin Console](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html)에서 편집할 조직을 선택하고 **정책 템플릿** 탭으로 이동하여 설정을 간소화하고 조직 간 일관된 정책 관리를 용이하게 합니다.
 >
 > [Global Admin Console에 로그인](https://global-admin-console.adobe.com/)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Global Admin Console에서 수행한 다른 변경 사항과 달리, 정책 템플릿에 대한 편집 내용은 **[!UICONTROL 보류 중인 변경 내용 검토 - 제출]** 프로세스를 진행할 필요 없이 즉시 적용됩니다. 그러나 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 [제출](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)해야 합니다.
+>Global Admin Console에서 수행한 다른 변경 사항과 달리, 정책 템플릿에 대한 편집 내용은 **[!UICONTROL 보류 중인 변경 내용 검토 - 제출]** 프로세스를 진행할 필요 없이 즉시 적용됩니다. 그러나 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 [제출](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)해야 합니다.
 
 ## 정책 템플릿 만들기
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 템플릿에 포함된 각 정책에 대해 다음 두 가지 설정을 구성합니다.
 
-* **허용/허용되지 않음:** 슬라이더를 원하는 값으로 설정합니다. [정책 세부 정보](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)에 대해 알아보세요.
+* **허용/허용되지 않음:** 슬라이더를 원하는 값으로 설정합니다. [정책 세부 정보](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html#policy-details)에 대해 알아보세요.
 * **잠금 값:** 다음 옵션 중 하나를 사용하여 정책의 잠금 상태를 수정합니다.
    * **잠금** - 템플릿 적용 후 정책이 잠깁니다.
    * **잠금 해제** - 템플릿 적용 후 정책이 잠금 해제됩니다.
@@ -78,7 +78,7 @@ ht-degree: 0%
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. **[!UICONTROL 템플릿 적용]**&#x200B;을 선택합니다.
-1. 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+1. 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 선택한 조직의 모든 정책 값이 템플릿의 값과 이미 일치하는 경우 변경 사항이 없음을 알리는 메시지가 나타납니다. 또한 보류 중인 다른 편집 내용이 없으면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 사용할 수 없습니다.
 
@@ -89,7 +89,7 @@ ht-degree: 0%
    ![사진5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. 정책 템플릿을 업데이트하고 **[!UICONTROL 지금 업데이트]**&#x200B;를 선택합니다.
-1. 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+1. 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 ## 템플릿 삭제
 

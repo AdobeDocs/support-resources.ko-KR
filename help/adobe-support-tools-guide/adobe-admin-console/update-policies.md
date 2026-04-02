@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)에서 계층에서 조직을 선택하고 **정책** 탭으로 이동하여 정책을 허용하거나 허용하지 않거나 잠급니다.
+>[Global Admin Console](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html)에서 계층에서 조직을 선택하고 **정책** 탭으로 이동하여 정책을 허용하거나 허용하지 않거나 잠급니다.
 >
 > [Global Admin Console에 로그인](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 조직의 정책을 수정하려면 다음을 수행합니다.
 
-1. Global Admin Console에서 [편집할 조직을 선택](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)한 다음 **[!UICONTROL 정책]** 탭으로 이동합니다.
-1. 관련 정책에 대한 토글을 선택하여 허용하거나 허용하지 않습니다. [선택한 조직](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)의 전역 관리자 또는 상위 조직을 제외한 다른 사람이 정책을 변경하거나 잠금 해제할 수 없도록 정책을 잠글 수도 있습니다.
+1. Global Admin Console에서 [편집할 조직을 선택](https://helpx.adobe.com/kr/enterprise/global-admin-console/overview.html)한 다음 **[!UICONTROL 정책]** 탭으로 이동합니다.
+1. 관련 정책에 대한 토글을 선택하여 허용하거나 허용하지 않습니다. [선택한 조직](https://helpx.adobe.com/kr/enterprise/global-admin-console/overview.html)의 전역 관리자 또는 상위 조직을 제외한 다른 사람이 정책을 변경하거나 잠금 해제할 수 없도록 정책을 잠글 수도 있습니다.
 1. 정책을 잠그려면 **[!UICONTROL 잠금]** ![잠금](./assets/lock.png) 아이콘을 선택하십시오. 잠금 상태에서 마우스를 가져가면 선택한 조직의 이름이 표시됩니다. [정책 잠금](#policy-locks)에 대해 자세히 알아보세요.
-1. 조직 편집을 마친 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
+1. 조직 편집을 마친 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 ## 정책 잠금 {#policy-locks}
 
-정책이 잠겨 있으면 정책의 잠금이 해제될 때까지 해당 값을 변경할 수 없습니다. Global Admin Console은 조직 선택기에서 [선택한 조직](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)을(를) 정책이 잠긴 조직으로 기억합니다. 선택한 조직 또는 트리에서 상위 조직의 전역 관리자는 정책의 잠금을 해제할 수 있는 권한이 있습니다. 해당 조직보다 범위가 낮은 전역 관리자에게는 정책 값을 잠금 해제하고 변경할 수 있는 권한이 없습니다.
+정책이 잠겨 있으면 정책의 잠금이 해제될 때까지 해당 값을 변경할 수 없습니다. Global Admin Console은 조직 선택기에서 [선택한 조직](https://helpx.adobe.com/kr/enterprise/global-admin-console/overview.html)을(를) 정책이 잠긴 조직으로 기억합니다. 선택한 조직 또는 트리에서 상위 조직의 전역 관리자는 정책의 잠금을 해제할 수 있는 권한이 있습니다. 해당 조직보다 범위가 낮은 전역 관리자에게는 정책 값을 잠금 해제하고 변경할 수 있는 권한이 없습니다.
 
 잠긴 환경을 생성하려면 하위 조직에서 원하는 정책 값을 설정한 다음 잠급니다. 이러한 하위 조직의 전역 관리자는 정책 값을 편집할 수 없습니다.
 
