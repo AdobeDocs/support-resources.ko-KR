@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
+source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 3%
+source-wordcount: '872'
+ht-degree: 2%
 
 ---
 
@@ -24,12 +24,12 @@ Enterprise에 적용됩니다.
 
 글로벌 관리자는 Global Admin Console에서 수행한 변경 사항에 대한 모든 가시성을 갖습니다. 발생한 시간 및 수행한 사용자를 포함하여 지난 90일 동안 수행한 작업에 대한 감사 로그를 모든 조직에서 검색할 수 있습니다.
 - 감사 로그는 부적절한 시스템 액세스를 방지하고 조직 내에서 의심스러운 행동을 감사하여 지속적인 규정 준수를 보장하는 데 도움이 됩니다.
-- Global Admin Console에서 사용할 수 있는 로그에는 전역 관리자가 액세스할 수 있는 이벤트만 포함됩니다. 사용자 할당 또는 사용자 이벤트는 포함되지 않습니다. 각 콘솔에서 제공하는 다양한 기능에 대해 [자세히 알아보세요](https://helpx.adobe.com/kr/enterprise/using/admin-console.html).
+- Global Admin Console에서 사용할 수 있는 로그에는 전역 관리자가 액세스할 수 있는 이벤트만 포함됩니다. 사용자 할당 또는 사용자 이벤트는 포함되지 않습니다. 각 콘솔에서 제공하는 다양한 기능에 대해 [자세히 알아보세요](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview).
 - 로그는 계층의 모든 조직에 대한 이벤트를 다루므로 모든 조직의 감사 로그를 한 번에 검색할 수 있습니다.
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com) 조직의 시스템 관리자는 [감사 로그](https://helpx.adobe.com/kr/enterprise/using/audit-logs.html)를 사용하여 사용자 할당 및 사용자 이벤트를 검토할 수 있습니다. 선택한 조직의 하위 조직에서 시스템 관리자가 수행한 작업도 감사 로그에 포함됩니다. 시스템 관리자가 Admin Console에서 변경한 내용을 [추적](https://helpx.adobe.com/kr/enterprise/using/audit-logs.html)하는 방법에 대해 자세히 알아보세요.
+> [Adobe Admin Console](https://adminconsole.adobe.com) 조직의 시스템 관리자는 [감사 로그](https://helpx.adobe.com/enterprise/using/audit-logs.html)를 사용하여 사용자 할당 및 사용자 이벤트를 검토할 수 있습니다. 선택한 조직의 하위 조직에서 시스템 관리자가 수행한 작업도 감사 로그에 포함됩니다. 시스템 관리자가 Admin Console에서 변경한 내용을 [추적](https://helpx.adobe.com/enterprise/using/audit-logs.html)하는 방법에 대해 자세히 알아보세요.
 
 조직의 감사 로그를 보거나 다운로드하려면 다음을 수행하십시오.
 
@@ -106,7 +106,7 @@ Enterprise에 적용됩니다.
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/insights)에 로그인하고 **[!UICONTROL 인사이트]** > **[!UICONTROL 보고서 내보내기]**&#x200B;로 이동합니다.
 
-   지난 90일 동안 생성된 보고서가 표시됩니다. 90일이 완료되면 보고서를 다시 생성할 수 있습니다. [조직 구조](https://helpx.adobe.com/kr/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)에 대한 보고서를 생성하는 방법을 알아봅니다.
+   지난 90일 이내에 생성된 보고서가 표시됩니다. 90일 후 보고서를 다시 생성할 수 있습니다. [조직 구조](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)에 대한 보고서를 생성하는 방법을 알아봅니다.
 
 
    | 필드 | 설명 |

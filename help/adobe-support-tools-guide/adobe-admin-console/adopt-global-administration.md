@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Enterprise에 적용됩니다.
 
 Global Admin Console 사용의 이점에 대해 알아보고 액세스 방법을 알아보십시오. [자세히 알아보기](#request-access-to-the-global-admin-console).
 
-Adobe Admin Console에서 지원 사례를 만들어 Global Admin Console 액세스를 요청합니다. [Global Admin Console](https://adminconsole.adobe.com/support)에 로그인합니다.
+Adobe Admin Console에서 지원 사례를 만들어 Global Admin Console 액세스를 요청합니다. [Global Admin Console](https://global-admin-console.adobe.com)에 로그인합니다.
 
 ## 소개
 
-[Global Admin Console](https://adminconsole.adobe.com/support)은(는) 관리 콘솔이 많거나 기본 Admin Console을 여러 콘솔로 분리하려는 복잡한 조직 구조를 가진 고객을 위한 것입니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다. 기존 Admin Console을 조직 차트와 같은 계층 구조로 중첩하여 분산된 기업 전체에 걸쳐 투명성을 제공합니다.
+[Global Admin Console](https://global-admin-console.adobe.com)은(는) 관리 콘솔이 많거나 기본 Admin Console을 여러 콘솔로 분리하려는 복잡한 조직 구조를 가진 고객을 위한 것입니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다. 기존 Admin Console을 조직 차트와 같은 계층 구조로 중첩하여 분산된 기업 전체에 걸쳐 투명성을 제공합니다.
 
 Global Admin Console은 기존 Admin Console의 기능을 대체하거나 변경하지 않습니다. 이 워크플로우는 맨 위에 루트 조직이 있고 해당 루트 조직 아래에 모든 콘솔이 중첩된 계층 구조로 작동합니다. Admin Console이 루트 콘솔로 작동하는 계층 구조를 구매하고 만드는 데 중점을 둔 선택 기준이 있습니다.
 
@@ -44,7 +44,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 - 제품 프로필 및 사용자 그룹을 만들고, 편집하고, 삭제합니다.
 - 보고를 위해 또는 다른 프로세스에서 사용하기 위해 조직 정보를 내보냅니다.
 - 조직에 대한 업데이트 및 조직 계층에 대한 변경 사항을 가져옵니다.
-- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
+- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
 
 ## 자격 기준
 
