@@ -44,7 +44,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 - 제품 프로필 및 사용자 그룹을 만들고, 편집하고, 삭제합니다.
 - 보고를 위해 또는 다른 프로세스에서 사용하기 위해 조직 정보를 내보냅니다.
 - 조직에 대한 업데이트 및 조직 계층에 대한 변경 사항을 가져옵니다.
-- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
+- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
 
 ## 자격 기준
 
