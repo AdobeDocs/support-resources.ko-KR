@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 1%
 - [Adobe 고객 지원 경험](adobe-customer-support-experience.md)
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
-- [관리자 역할](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Admin Console 개요](adobe-admin-console/admin-console-overview.md)
+   - [관리자 역할](adobe-admin-console/admin-roles.md)
    - [Global Admin Console에서 사용자 그룹 관리](adobe-admin-console/manage-user-groups.md)
    - [Adobe Admin Console의 접근성](adobe-admin-console/admin-console-accessibility.md)
    - [Global Admin Console을 사용하여 하위 조직에 제품 할당](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 1%
    - [Global Admin Console에서 조직 선택](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [관리자 관리](adobe-admin-console/manage-administrators.md)
    - [Global Admin Console에서 제품 프로필 관리](adobe-admin-console/manage-product-profiles.md)
+   - [Global Admin Console에서 조직 정책 업데이트](adobe-admin-console/update-policies.md)
+   - [Global Admin Console에서 정책 템플릿 관리](adobe-admin-console/manage-policy-templates.md)
    - [조직 구조 및 제품 할당 내보내기 또는 가져오기](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Console에서 암호 만료 적용](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [감사 로그 다운로드 및 보고서 내보내기](adobe-admin-console/download-audit-logs-and-export-reports.md)
