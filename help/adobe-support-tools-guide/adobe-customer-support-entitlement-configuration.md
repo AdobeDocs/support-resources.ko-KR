@@ -4,13 +4,13 @@ description: Adobe 고객이 Admin Console에서 지원 권한을 설정 및 관
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Adobe 고객 지원 권한 구성
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 ![관리자 권한 확인](assets/admin-rights-confirmation.png)
 
-자세한 내용은 관리 역할 설명서의 [Enterprise 관리자 역할 편집](admin-roles.md#edit-enterprise-admin-role) 지침을 참조하십시오. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 관리 계층에 대한 자세한 내용은 [관리 역할](admin-roles.md) 설명서를 참조하십시오.
+자세한 내용은 관리 역할 설명서의 [Enterprise 관리자 역할 편집](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) 지침을 참조하십시오. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 관리 계층에 대한 자세한 내용은 [관리 역할](adobe-admin-console/admin-roles.md) 설명서를 참조하십시오.
