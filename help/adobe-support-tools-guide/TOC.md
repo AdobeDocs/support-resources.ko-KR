@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
+source-git-commit: 782bc1d8c2c594978dee3e0c8fada48d0f910242
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
    - [Global Admin Console에서 정책 템플릿 관리](adobe-admin-console/manage-policy-templates.md)
    - [조직 구조 및 제품 할당 내보내기 또는 가져오기](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Console에서 암호 만료 적용](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [IP 주소로 제품 액세스 제한](adobe-admin-console/adobe-ip-based-access.md)
    - [감사 로그 다운로드 및 보고서 내보내기](adobe-admin-console/download-audit-logs-and-export-reports.md)
    - [기존 사용자를 Adobe Admin Console으로 마이그레이션](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront 지원 {#workfront}
