@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 495afde702c6c20c567ac812a2b17a02dbd58232
+source-git-commit: 00c7788ac17cf2de2f09867ae68c7cd351b80776
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 1%
 - Adobe Workfront 지원 {#workfront}
    - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
+   - [Adobe Commerce 지원 개요](adobe-commerce-support/adobe-commerce-support-overview.md)
    - [Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [보안 패치를 가져오고 적용하는 방법](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
