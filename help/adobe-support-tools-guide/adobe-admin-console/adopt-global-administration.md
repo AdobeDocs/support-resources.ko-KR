@@ -1,13 +1,13 @@
 ---
 title: 글로벌 관리 채택
 description: Global Admin Console 정의 및 액세스 요청 방법을 알아봅니다.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 
 ## 주요 이점
 
-다음은 [!DNL Global Admin Console]의 몇 가지 주요 장점입니다.
+다음은 Global Admin Console의 몇 가지 주요 장점입니다.
 
 - Adobe 제품 사용 및 클라우드 스토리지의 관리를 부서, 부서 또는 현장 사무실에 위임함으로써 중앙 집중식 관리의 필요성을 줄입니다.
 - 각 엔티티에 대한 조직을 생성하고 계층 구조로 관리합니다. 조직을 삭제할 수도 있습니다.
@@ -44,7 +44,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 - 제품 프로필 및 사용자 그룹을 만들고, 편집하고, 삭제합니다.
 - 보고를 위해 또는 다른 프로세스에서 사용하기 위해 조직 정보를 내보냅니다.
 - 조직에 대한 업데이트 및 조직 계층에 대한 변경 사항을 가져옵니다.
-- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
+- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
 
 ## 자격 기준
 
@@ -59,7 +59,7 @@ Adobe은 조직이 다음 기준 중 하나 이상을 충족하는 경우 전역
 
 ## Global Admin Console 액세스 요청
 
-[Global Admin Console](https://adminconsole.adobe.com/support/)에 대한 액세스를 요청하려면 Adobe 담당자에게 문의하고 아래 단계를 따르십시오.
+[Global Admin Console](https://global-admin-console.adobe.com)에 대한 액세스를 요청하려면 Adobe 담당자에게 문의하고 아래 단계를 따르십시오.
 
 1. [Admin Console](https://adminconsole.adobe.com/support/)에서 **[!UICONTROL 지원]** > **[!UICONTROL 지원 요약]**&#x200B;으로 이동합니다.
 
