@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 782bc1d8c2c594978dee3e0c8fada48d0f910242
+source-git-commit: 495afde702c6c20c567ac812a2b17a02dbd58232
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 - [지원 전화번호 업데이트](phone-numbers.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [보류 중인 작업 실행](adobe-admin-console/execute-jobs.md)
    - [Admin Console 개요](adobe-admin-console/admin-console-overview.md)
    - [관리자 역할](adobe-admin-console/admin-roles.md)
    - [Global Admin Console에서 사용자 그룹 관리](adobe-admin-console/manage-user-groups.md)
