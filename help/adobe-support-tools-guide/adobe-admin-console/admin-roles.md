@@ -1,9 +1,11 @@
 ---
 title: 관리자 역할
 description: 조직은 Adobe Admin Console을 사용하여 유연한 관리 계층 구조를 정의하여 Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있습니다.
+feature-set: Experience Cloud Services
 solution: Admin Console
+feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '1645'
 ht-degree: 0%
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->관리 계층은 팀 고객에게 적용되지 않습니다. Teams 고객은 단일 **시스템 관리자** 역할을 가지고 있습니다. 계약 소유자(_이전 이름:**기본 관리자**&#x200B;_)는 계약 세부 정보 및 청구 기록에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자인 경우 기존 시스템 관리자(_&#x200B;이전에 **보조 관리자**&#x200B;_)를 계약 소유자로 지정할 수 있습니다.
+>관리 계층은 팀 고객에게 적용되지 않습니다. Teams 고객은 단일 **시스템 관리자** 역할을 가지고 있습니다. 계약 소유자(_이전 이름:**기본 관리자**_)는 계약 세부 정보 및 청구 기록에 액세스할 수 있는 시스템 관리자입니다. 현재 계약 소유자인 경우 기존 시스템 관리자(_&#x200B;이전에 **보조 관리자**_)를 계약 소유자로 지정할 수 있습니다.
 
 ![관리 이미지](../assets/storage_admin.png)
 
