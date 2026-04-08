@@ -21,7 +21,7 @@ ht-degree: 0%
    1. **단계 편집**: 조직을 변경하거나 제품을 할당합니다.
    2. **실행 단계**: 보류 중인 변경 내용을 검토하고 실행하여 적용하십시오.
 
-- [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)의 모든 변경 내용이 구현되고 적용되도록 하려면 **[!UICONTROL 작업 실행]** 탭을 선택하고 보류 중인 변경 내용 실행을 계속하십시오.
+- [[!DNL Global Admin Console]](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html)의 모든 변경 내용이 구현되고 적용되도록 하려면 **[!UICONTROL 작업 실행]** 탭을 선택하고 보류 중인 변경 내용 실행을 계속하십시오.
 
   [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)에 로그인합니다.
 
