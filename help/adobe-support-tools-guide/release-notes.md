@@ -3,7 +3,7 @@ title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
 
-## 2026년 4월 9일 - 콜백 요청 기능 확장
+## 2026년 4월 8일 - 콜백 요청 기능 확장
 
 이제 Marketo 제품 사용자가 콜백 요청 기능을 사용할 수 있습니다.
 
