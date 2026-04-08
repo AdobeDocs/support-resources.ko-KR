@@ -2,13 +2,13 @@
 title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 2%
 
 ---
-
 
 # Experience League 지원 릴리스 노트
 
@@ -17,6 +17,10 @@ ht-degree: 2%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 4월 9일 - 콜백 요청 기능 확장
+
+이제 Marketo 제품 사용자가 콜백 요청 기능을 사용할 수 있습니다.
 
 ## 2026년 3월 30일 - 고급 사례 양식
 
@@ -78,6 +82,7 @@ ht-degree: 2%
 ## 2026년 3월 18일 - 콜백 요청 기능 확장
 
 이제 Experience League에서 콜백 요청 옵션을 제공하여 화면 공유 기능을 통해 셀프 서비스 웹 모임 일정을 활성화하여 문제를 보다 빠르게 해결할 수 있습니다.
+
 - 이 기능은 Adobe Experience Manager, Campaign 및 Workfront에서 사용할 수 있습니다.
 - 고객은 자신의 편의에 따라 모임을 예약할 수 있고, 즉석 초대장도 받을 수 있다.
 - Adobe Experience Manager P1 사례의 경우 즉각적인 콜백을 통해 중요한 문제 중에 더 빠른 참여를 보장하므로 다운타임과 비즈니스 영향을 최소화하는 데 도움이 됩니다.
