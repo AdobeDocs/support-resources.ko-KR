@@ -17,11 +17,11 @@ ht-degree: 3%
 
 이 문제 중 하나를 직면하고 있습니까? 문제를 선택하여 해결 방법을 확인하십시오.
 
-- [관리자 역할 관리](https://helpx.adobe.com/enterprise/using/admin-roles.html)
-- [다운로드 설치 문제](https://helpx.adobe.com/download-install.html)
-- [Enterprise ID 사용자 암호 재설정](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#faq)
-- [Federated ID 오류 해결](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [사용자 삭제 또는 삭제된 사용자 복원](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
+- [관리자 역할 관리](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html)
+- [다운로드 설치 문제](https://helpx.adobe.com/kr/download-install.html)
+- [Enterprise ID 사용자 암호 재설정](https://helpx.adobe.com/kr/enterprise/kb/enterprise-id-faq.html#faq)
+- [Federated ID 오류 해결](https://helpx.adobe.com/kr/enterprise/kb/tshoot-fed-id.html)
+- [사용자 삭제 또는 삭제된 사용자 복원](https://helpx.adobe.com/kr/enterprise/using/manage-directory-users.html)
 
 **Adobe Admin Console - 사용자** — [YouTube 시청](https://youtu.be/w8b36YX2TEM)
 
@@ -37,7 +37,7 @@ Adobe enterprise 및 teams는 크게 두 가지 유형의 사용자를 정의합
 
 Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행합니다. 관리자를 추가하여 Adobe 제품 액세스, 사용 및 기타 관리 작업을 세분화하고 관리할 수 있는 유연한 관리 계층 구조를 정의할 수 있습니다.
 
-모든 관리자를 Admin Console에 추가해야 합니다. 관리자 권한을 추가하면 해당 [관리자 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html)을(를) 기반으로 합니다.
+모든 관리자를 Admin Console에 추가해야 합니다. 관리자 권한을 추가하면 해당 [관리자 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html)을(를) 기반으로 합니다.
 
 ### 최종 사용자
 
@@ -49,7 +49,7 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 
 >[!NOTE]
 >
->새로운 Adobe 엔터프라이즈 또는 팀 고객의 경우 Admin Console에서 사용자 관리를 시작하기 전에 이 표를 살펴보는 것이 좋습니다. 기존 고객은 특히 한 ID 유형에서 다른 ID 유형으로 마이그레이션하려는 경우 이를 사용할 수 있습니다([ID 유형 편집](https://helpx.adobe.com/enterprise/using/switch-user-identity.html) 참조).
+>새로운 Adobe 엔터프라이즈 또는 팀 고객의 경우 Admin Console에서 사용자 관리를 시작하기 전에 이 표를 살펴보는 것이 좋습니다. 기존 고객은 특히 한 ID 유형에서 다른 ID 유형으로 마이그레이션하려는 경우 이를 사용할 수 있습니다([ID 유형 편집](https://helpx.adobe.com/kr/enterprise/using/switch-user-identity.html) 참조).
 
 <table>
 <thead>
@@ -77,23 +77,23 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 </tr>
 <tr>
 <th scope="row"><strong>사용자 추가</strong></th>
-<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users">자세히 보기</a>.</td>
-<td><strong>Admin Console</strong>에서 <strong>CSV로 사용자 추가</strong>를 사용하십시오. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>에서 사용자를 추가하십시오. 또는 <strong>Admin Console</strong>을 통해 게시할 수 있습니다.</td>
+<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭 <a href="https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html#add-users">자세히 보기</a>.</td>
+<td><strong>Admin Console</strong>에서 <strong>CSV로 사용자 추가</strong>를 사용하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html">Google</a>에서 사용자를 추가하십시오. 또는 <strong>Admin Console</strong>을 통해 게시할 수 있습니다.</td>
 <td colspan="2">조직의 LDAP에 사용자를 추가해야 합니다.</td>
 </tr>
 <tr>
 <th scope="row"><strong>사용자 제거</strong></th>
-<td><strong>Admin Console</strong>에서 사용자를 선택하고 제거합니다. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#remove-users">자세히 보기</a>.</td>
-<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭에서 <strong>CSV로 사용자 제거</strong>를 선택합니다. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#remove-users">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>에서 사용자를 제거해야 합니다.</td>
+<td><strong>Admin Console</strong>에서 사용자를 선택하고 제거합니다. <a href="https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html#remove-users">자세히 보기</a>.</td>
+<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭에서 <strong>CSV로 사용자 제거</strong>를 선택합니다. <a href="https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html#remove-users">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html">Google</a>에서 사용자를 제거해야 합니다.</td>
 <td colspan="2">사용자 정보가 동기화 상태인지 확인하십시오. <strong>주의:</strong> 조직의 LDAP에 없는 사용자는 Admin Console에서 제거됩니다.</td>
 </tr>
 <tr>
 <th scope="row"><strong>사용자 세부 정보 편집</strong></th>
-<td>사용자를 선택한 다음 Admin Console에서 <strong>사용자 세부 정보 편집</strong>을 선택하십시오. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#edit-user-details">자세히 보기</a>.</td>
-<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭에서 <strong>CSV로 사용자 세부 정보 편집</strong>을 선택합니다. <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#edit-user-details">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>에서 모든 사용자 정보를 변경해야 합니다.</td>
+<td>사용자를 선택한 다음 Admin Console에서 <strong>사용자 세부 정보 편집</strong>을 선택하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html#edit-user-details">자세히 보기</a>.</td>
+<td><strong>Admin Console</strong>의 <strong>사용자</strong> 탭에서 <strong>CSV로 사용자 세부 정보 편집</strong>을 선택합니다. <a href="https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html#edit-user-details">자세히 보기</a>. <em>(기본 CSV 템플릿 사용)</em></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html">Azure</a> 또는 <a href="https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html">Google</a>에서 모든 사용자 정보를 변경해야 합니다.</td>
 <td colspan="2">사용자 정보가 동기화 상태인지 확인하십시오.</td>
 </tr>
 <tr>
@@ -130,12 +130,12 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">
+      <a href="https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html">
         사용자 관리 | CSV 일괄 업로드
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
+      <a href="https://helpx.adobe.com/kr/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
         대량 사용자 CSV 업로드 문제 해결
       </a>
     </li>
@@ -145,12 +145,12 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">
+      <a href="https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html">
         Azure AD 커넥터
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">
+      <a href="https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html">
         Google 페더레이션 커넥터
       </a>
     </li>
@@ -170,7 +170,7 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/enterprise/using/user-sync.html">
+      <a href="https://helpx.adobe.com/kr/enterprise/using/user-sync.html">
         단계별 안내서
       </a>
     </li>
@@ -189,8 +189,8 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 
 라이선스 방법에 따라 최종 사용자에게 라이선스를 할당합니다.
 
-- **명명된 사용자 라이선스:** 이러한 사용자를 **제품**([팀의 경우](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)) 또는 **제품 프로필**([기업의 경우](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html))에 추가하여 Adobe 제품 및 서비스 권한을 부여합니다. 자세한 내용은 [지정 사용자 라이선스 패키지를 만드는 방법](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) 및 [제품 프로필](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)을 참조하세요.
-- **공유 장치 라이선스:** [추가된 사용자](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)는 **조직 사용자만 액세스할 수 있는 구성된 공유 장치를 사용할 수 있습니다**. 자세한 내용은 [SDL 패키지 만들기](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)를 참조하십시오.
+- **명명된 사용자 라이선스:** 이러한 사용자를 **제품**([팀의 경우](https://helpx.adobe.com/kr/enterprise/using/assign-licenses-to-teams-users.html)) 또는 **제품 프로필**([기업의 경우](https://helpx.adobe.com/kr/enterprise/using/manage-product-profiles.html))에 추가하여 Adobe 제품 및 서비스 권한을 부여합니다. 자세한 내용은 [지정 사용자 라이선스 패키지를 만드는 방법](https://helpx.adobe.com/kr/enterprise/using/create-nul-packages.html) 및 [제품 프로필](https://helpx.adobe.com/kr/enterprise/using/manage-product-profiles.html#create-product-profile)을 참조하세요.
+- **공유 장치 라이선스:** [추가된 사용자](https://helpx.adobe.com/kr/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)는 **조직 사용자만 액세스할 수 있는 구성된 공유 장치를 사용할 수 있습니다**. 자세한 내용은 [SDL 패키지 만들기](https://helpx.adobe.com/kr/enterprise/using/create-sdl-packages.html)를 참조하십시오.
 
 ### 패키지 배포
 
@@ -199,18 +199,18 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 - 클라이언트 시스템으로 이동하여 패키지 파일(Windows 또는 macOS)을 두 번 클릭합니다.
 - Windows 명령 프롬프트 또는 macOS 터미널을 사용합니다.
 - 타사 도구 사용:
-   - [Microsoft Intune](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [SCCM(Microsoft System Center Configuration Manager)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Apple 원격 데스크톱(ARD)](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [뭉키](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-munki.html)
+   - [Microsoft Intune](https://helpx.adobe.com/kr/enterprise/kb/deploy-packages-using-ms-intune.html)
+   - [SCCM(Microsoft System Center Configuration Manager)](https://helpx.adobe.com/kr/enterprise/kb/deploy-packages-using-sccm.html)
+   - [Apple 원격 데스크톱(ARD)](https://helpx.adobe.com/kr/enterprise/kb/deploy-packages-using-ard.html)
+   - [JAMF Pro](https://helpx.adobe.com/kr/enterprise/kb/deploy-packages-using-jamf-pro.html)
+   - [뭉키](https://helpx.adobe.com/kr/enterprise/kb/deploy-packages-using-munki.html)
 
 ## 관련 읽기
 
 - [사용자 관리 | 개별적으로](https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html)
-- [사용자 관리 | 일괄 CSV 업로드](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
-- [디렉터리 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
-- [관리 콘솔](https://helpx.adobe.com/enterprise/using/admin-console.html)
-- [사용자를 제품 프로필에 할당(기업 및 기관의 경우)](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#assign-users)
-- [팀 사용자에게 라이선스 할당](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [비즈니스 저장소 모델](https://helpx.adobe.com/enterprise/kb/business-storage-model-introduction.html)
+- [사용자 관리 | 일괄 CSV 업로드](https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html)
+- [디렉터리 사용자 관리](https://helpx.adobe.com/kr/enterprise/using/manage-directory-users.html)
+- [관리 콘솔](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)
+- [사용자를 제품 프로필에 할당(기업 및 기관의 경우)](https://helpx.adobe.com/kr/enterprise/using/manage-product-profiles.html#assign-users)
+- [팀 사용자에게 라이선스 할당](https://helpx.adobe.com/kr/enterprise/using/assign-licenses-to-teams-users.html)
+- [비즈니스 저장소 모델](https://helpx.adobe.com/kr/enterprise/kb/business-storage-model-introduction.html)
