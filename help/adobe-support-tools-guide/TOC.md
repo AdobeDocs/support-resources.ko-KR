@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 650652f81a0b148c1557d2bdf7983536225eef19
+source-git-commit: bdfcda00d58f8583ab6562c4702f335193ee4a45
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 1%
    - [Global Admin Console에서 정책 템플릿 관리](adobe-admin-console/manage-policy-templates.md)
    - [조직 구조 및 제품 할당 내보내기 또는 가져오기](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Console에서 암호 만료 적용](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Adobe Admin Console 사용자](adobe-admin-console/adobe-admin-console-users.md)
    - [ID 개요](adobe-admin-console/adobe-identity-overview.md)
    - [IP 주소로 제품 액세스 제한](adobe-admin-console/adobe-ip-based-access.md)
    - [감사 로그 다운로드 및 보고서 내보내기](adobe-admin-console/download-audit-logs-and-export-reports.md)
