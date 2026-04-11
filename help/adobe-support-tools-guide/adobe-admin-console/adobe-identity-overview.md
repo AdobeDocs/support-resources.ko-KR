@@ -124,7 +124,7 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 <tr>
 <th scope="row"><strong>시작하기</strong></th>
 <td><a href="https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html">ID 설정</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">클레임 도메인</a></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/add-domains-directories.html#claim-domains">클레임 도메인</a></td>
 <td><a href="https://helpx.adobe.com/kr/enterprise/using/users.html#add-users">사용자 추가</a></td>
 </tr>
 </tbody>
