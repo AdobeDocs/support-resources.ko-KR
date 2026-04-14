@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Admin Console에서는 광범위하게 사용되는 여러 운영 체제의 접�
 
 ## 키보드 지원
 
-Admin Console의 대화형 콘텐츠 대부분은 키보드만 사용하여 탐색하고 작동할 수 있습니다. 예를들어 탐색 및 컨트롤에 **[!UICONTROL Tab]** 또는 **[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;을 사용할 수 있습니다. 올바른 링크 또는 단추로 이동한 후 **[!UICONTROL Enter]** 또는 **[!UICONTROL Return]** 키를 눌러 선택합니다. [접근성 적합성 보고서](https://www.adobe.com/accessibility/compliance.html)에 설명된 대로 일부 예외가 있을 수 있습니다(_영어만_).
+Admin Console의 대화형 콘텐츠 대부분은 키보드만 사용하여 탐색하고 작동할 수 있습니다. 예를들어 탐색 및 컨트롤에 **[!UICONTROL Tab]** 또는 **[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;을 사용할 수 있습니다. 올바른 링크 또는 단추로 이동한 후 **[!UICONTROL Enter]** 또는 **[!UICONTROL Return]** 키를 눌러 선택합니다. [접근성 적합성 보고서](https://www.adobe.com/accessibility/compliance.html)에 설명된 대로 일부 예외가 있을 수 있습니다(*영어만*).
 
 ## 보조 기술 지원
 
