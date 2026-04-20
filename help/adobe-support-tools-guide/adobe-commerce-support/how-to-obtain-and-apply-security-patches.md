@@ -1,9 +1,10 @@
 ---
 title: '[!UICONTROL 보안 패치]를 가져오고 적용하는 방법'
 description: 이 문서에서는 릴리스된 [!UICONTROL 보안 패치]를 가져오고 적용하는 방법에 대한 지침을 제공하지만 해당 지침을 사용할 수 없습니다.
-source-git-commit: 93ee9bd110930e244befca682fadd3edc24d138a
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
+source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -24,12 +25,18 @@ Adobe Commerce 온-프레미스 및 클라우드 인프라 - 지원되는 모든
 
 대부분의 [!UICONTROL 보안 패치]은(는) 적용할 격리된 패치나 핫픽스 없이 릴리스되며 [!UICONTROL 보안 패치] 릴리스로 업그레이드해야 합니다.
 
+Adobe Commerce 보안 게시판의 경우, Adobe은 게시판 릴리스의 일부로 명시적으로 게시/언급되는 경우에만 별도의 물리적 패치/핫픽스 파일을 제공합니다. 게시판에 격리된 패치/핫픽스 패키지가 포함되어 있지 않은 경우 사후 패키지를 생성하여 제공할 수 없습니다.
+
+이는 보안 수정 사항이 지원되는 보안 릴리스(예: 패치 릴리스)의 일부로 개발, 테스트 및 함께 제공되며, 불완전한 적용 범위 또는 회귀 위험 없이 개별 CVE 패치 파일로 깔끔하게 분리/분리되지 않도록 설계되지 않았기 때문입니다.
+
+지원되는 업데이트 관리 경로는 버전 라인에 대한 공식 보안 업데이트를 적용하거나 수정 사항이 포함된 버전으로 업그레이드하는 상태로 유지됩니다.
+
 ## 솔루션
 
 
 ### 사례 I:
 
-* 격리된 패치 파일/핫픽스가 [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)에 언급되어 있으면 [https://account.magento.com](https://account.magento.com/downloads/view/)의 다운로드 섹션에서 파일을 다운로드하십시오. 공유 액세스 사용자에게는 먼저 계정 소유자/라이선스 소유자가 다운로드 권한을 부여해야 합니다.
+* 격리된 패치 파일/핫픽스가 [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)에 언급되어 있으면 [https://account.magento.com](https://account.magento.com/downloads/view/)의 다운로드 섹션에서 파일을 다운로드하십시오. 공유 액세스 사용자에게는 먼저 계정 소유자/라이선스 소유자가 다운로드 권한을 부여해야 합니다.
 
 **주의 사항:**
 
@@ -49,15 +56,15 @@ Adobe Commerce 온-프레미스 및 클라우드 인프라 - 지원되는 모든
 
 * **클라우드:**
 
-1. 일부 [!UICONTROL 보안 패치]는 Commerce용 클라우드 패치 아래의 ECE 도구(Cloud Tools Suite) 최신 버전에 포함/릴리스될 수 있습니다. [릴리스 정보](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)를 확인하고 릴리스에 보안 수정 사항이 언급되면 해당 버전으로 패키지를 업그레이드하십시오.
+1. 일부 [!UICONTROL 보안 패치]는 Commerce용 클라우드 패치 아래의 ECE 도구(Cloud Tools Suite) 최신 버전에 포함/릴리스될 수 있습니다. [릴리스 정보](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)를 확인하고 릴리스에 보안 수정 사항이 언급되면 해당 버전으로 패키지를 업그레이드하십시오.
 1. 릴리스 정보에서 보안 수정 사항이 언급되지 않은 경우 계속 읽으십시오.
 
 * **클라우드 인프라 또는 온-프레미스:**
 
-* 격리된 패치 파일/핫픽스를 사용할 수 없는 경우 [클라우드 인프라의 Adobe Commerce 버전을 업그레이드하십시오](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X를 최신 패치 버전 2.4.X-pY로 업그레이드하십시오.
-* 격리된 패치 파일/핫픽스를 사용할 수 없는 경우 [Adobe Commerce 버전 On-Premise](https://experienceleague.adobe.com/ko/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X를 최신 패치 버전 2.4.X-pY로 업그레이드하십시오.
+* 격리된 패치 파일/핫픽스를 사용할 수 없는 경우 [클라우드 인프라의 Adobe Commerce 버전을 업그레이드하십시오](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X를 최신 패치 버전 2.4.X-pY로 업그레이드하십시오.
+* 격리된 패치 파일/핫픽스를 사용할 수 없는 경우 [Adobe Commerce 버전 On-Premise](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X를 최신 패치 버전 2.4.X-pY로 업그레이드하십시오.
 
 ## 관련 읽기
 
-* [Commerce Cloud on Cloud Infrastructure Guide](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)의 *Adobe Commerce Tools Suite 릴리스 정보*&#x200B;를 참조하십시오.
-* [Adobe Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)의 *Adobe Commerce 버전 업그레이드*&#x200B;를 참조하십시오.
+* [Commerce Cloud on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)의 *Adobe Commerce Tools Suite 릴리스 정보*&#x200B;를 참조하십시오.
+* [Adobe Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)의 *Adobe Commerce 버전 업그레이드*&#x200B;를 참조하십시오.
