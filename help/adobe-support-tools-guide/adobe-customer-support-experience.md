@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe 고객 지원 경험
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 
 1. **[!UICONTROL 홈]** 메뉴에서 **[!UICONTROL 지원 티켓 열기]**, **[!UICONTROL 사례 보기 및 관리]**, **[!UICONTROL 콜백 요청]**&#x200B;하거나 추가 학습 리소스에 액세스할 수 있습니다.
 
-   **[!UICONTROL 콜백 요청]** 옵션을 사용하면 화면 공유로 웹 모임을 예약하여 보다 빠르고 효율적인 문제 해결을 수행할 수 있습니다. Adobe Experience Manager, Campaign, Marketo 및 Workfront에서 사용할 수 있습니다. 고객의 편의에 따라 만남을 예약할 수 있으며, 즉석 초대가 제공된다. Adobe Experience Manager P1 사례의 경우 즉각적인 콜백이 보장되므로 중요한 문제 중에 신속하게 대처할 수 있으므로 다운타임과 비즈니스 영향을 최소화하는 데 도움이 됩니다.
+   **[!UICONTROL 콜백 요청]** 옵션을 사용하면 화면 공유로 웹 모임을 예약하여 보다 빠르고 효율적인 문제 해결을 수행할 수 있습니다. Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target 및 Workfront에서 사용할 수 있습니다. 고객의 편의에 따라 만남을 예약할 수 있으며, 즉석 초대가 제공된다. Adobe Experience Manager P1 사례의 경우 즉각적인 콜백이 보장되므로 중요한 문제 중에 신속하게 대처할 수 있으므로 다운타임과 비즈니스 영향을 최소화하는 데 도움이 됩니다.
 
    ![Experience league 홈 메뉴](./assets/home-menu.png)
 
