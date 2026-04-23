@@ -3,9 +3,9 @@ title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 2%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 4월 23일 - 콜백 요청 기능 확장
+
+이제 Analytics, Admin Console, Audience Manager 및 Target 제품 사용자가 콜백 요청 기능을 사용할 수 있습니다.
 
 ## 2026년 4월 8일 - 콜백 요청 기능 확장
 
