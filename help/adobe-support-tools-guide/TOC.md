@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
+source-git-commit: b03f18c76d51510337daa563e3473c77d9734027
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
 - [Adobe 지원 및 도구 안내서 개요](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League 지원 릴리스 노트](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League 지원 릴리스 노트](/help/adobe-support-tools-guide/release-notes.md)
 - [Adobe 고객 지원 경험](adobe-customer-support-experience.md)
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
