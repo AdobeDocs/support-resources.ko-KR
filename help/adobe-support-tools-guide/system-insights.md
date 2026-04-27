@@ -1,9 +1,9 @@
 ---
 title: 시스템 통찰력
 description: 시스템 인사이트는 Adobe Commerce 환경에서 발생할 수 있는 문제를 사전에 식별합니다. 사례 생성 중 통찰력을 검토하면 해결 시간을 줄이고, 중단을 방지하고, 안정적이고 안전한 배포를 지원합니다.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -32,15 +32,15 @@ Adobe 팀은 일반적인 지원 문제와 새로운 트렌드를 지속적으�
 
 ## 가용성 및 범위
 
-시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 이러한 통찰력은 Experience League 지원에서 사례 만들기 프로세스 중에 나타나며 [사이트 전체 분석 도구(SWAT)](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/site-wide-analysis-tool/intro)를 통해서도 사용할 수 있습니다.
+시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 이러한 통찰력은 Experience League 지원에서 사례 만들기 프로세스 중에 나타나며 [사이트 전체 분석 도구(SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro)를 통해서도 사용할 수 있습니다.
 
-> [ !Note]
+>[!Note]
 >
 >시스템 인사이트는 프로덕션 환경에 대한 데이터만 표시합니다.
 
 ## 시스템 통찰력 액세스
 
-시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
+시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
 
 패널에는 특정 프로젝트 인스턴스의 범위가 지정되는 인사이트의 스크롤할 수 있는 목록이 표시됩니다. 범위 지정은 **[!UICONTROL 프로젝트 URL]** 필드에 입력한 정보를 기반으로 합니다. 인사이트가 올바른 환경을 반영하도록 하려면 **[!UICONTROL 프로젝트 URL]**&#x200B;을(를) 정확하게 입력하십시오.
 
