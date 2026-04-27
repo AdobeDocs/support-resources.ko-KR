@@ -16,7 +16,7 @@ ht-degree: 2%
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
 - [Adobe 지원 및 도구 안내서 개요](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League 지원 릴리스 노트](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League 지원 릴리스 노트](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe 고객 지원 경험](adobe-customer-support-experience.md)
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
