@@ -7,9 +7,9 @@ type: Documentation
 hide: true
 index: false
 role: User, Admin
-source-git-commit: 8285250504fa382b9c28a58e759e325e58cf8e8f
+source-git-commit: b03f18c76d51510337daa563e3473c77d9734027
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -33,5 +33,5 @@ ht-degree: 100%
       - [ [!DNL Adobe Success] 포털에서 사례 만들기 및 관리](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
       - [ [!DNL Adobe Success] 포털에서 결과 관리](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [용어집](/help/adobe-success-portal/glossary.md)
-- [릴리스 정보](./release-notes.md)
+- [릴리스 정보](/help/adobe-success-portal/release-notes.md)
 
