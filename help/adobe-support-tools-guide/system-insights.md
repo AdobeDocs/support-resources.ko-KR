@@ -34,7 +34,7 @@ Adobe 팀은 일반적인 지원 문제와 새로운 트렌드를 지속적으�
 
 시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 이러한 통찰력은 Experience League 지원에서 사례 만들기 프로세스 중에 나타나며 [사이트 전체 분석 도구(SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro)를 통해서도 사용할 수 있습니다.
 
-> [!Note]
+> [ !Note]
 >
 >시스템 인사이트는 프로덕션 환경에 대한 데이터만 표시합니다.
 
@@ -56,9 +56,9 @@ Adobe 팀은 일반적인 지원 문제와 새로운 트렌드를 지속적으�
 - Insight 이름
 - insight에 플래그가 지정된 Adobe 제품
 - 다음과 같이 분류된 insight 유형:
-   - [UICONTROL 기능]
-   - [UICONTROL 성능]
-   - [UICONTROL 보안]
+   - [!UICONTROL 기능]
+   - [!UICONTROL 성능]
+   - [!UICONTROL 보안]
 - 심각도를 나타내는 [!UICONTROL 위험 수준]
 - [!UICONTROL 마지막 확인 실행]은 검색 결과가 검색된 시기를 나타냅니다.
 - [!UICONTROL Insight Source], 사이트 전체 분석 도구(SWAT) 제공
