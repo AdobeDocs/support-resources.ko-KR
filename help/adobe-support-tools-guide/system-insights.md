@@ -1,7 +1,8 @@
 ---
 title: 시스템 통찰력
 description: 시스템 인사이트는 Adobe Commerce 환경에서 발생할 수 있는 문제를 사전에 식별합니다. 사례 생성 중 통찰력을 검토하면 해결 시간을 줄이고, 중단을 방지하고, 안정적이고 안전한 배포를 지원합니다.
-source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
+hide: true
+source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
