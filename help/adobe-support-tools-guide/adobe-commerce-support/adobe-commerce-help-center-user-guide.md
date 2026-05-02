@@ -5,16 +5,16 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
 
 # Adobe Commerce용 Experience League 지원 사용 안내서
 
-이 안내서에서는 [Experience League 지원](https://experienceleague.adobe.com/home?lang=ko#support)에 지원 티켓을 제출하고 Adobe Commerce 계정에 대한 공유 액세스 권한을 제공하는 방법에 대해 알아봅니다.
+이 안내서에서는 [Experience League 지원](https://experienceleague.adobe.com/home#support)에 지원 티켓을 제출하고 Adobe Commerce 계정에 대한 공유 액세스 권한을 제공하는 방법에 대해 알아봅니다.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->현재 Adobe Commerce 도움말 센터에서 이전에 제출한 사례를 보려면 https://support.magento.com/hc/en-us/requests으로 이동해야 합니다. 이러한 사례는 새 지원 티켓 시스템으로 마이그레이션되지 않았기 때문입니다. 도움말 센터가 이제 읽기 전용입니다. 원래 문제에 대한 지원을 계속 받으려면 [Experience League 지원](https://experienceleague.adobe.com/home?lang=ko#support)에 추가 티켓을 제출해야 합니다.
+>현재 Adobe Commerce 도움말 센터에서 이전에 제출한 사례를 보려면 https://support.magento.com/hc/en-us/requests으로 이동해야 합니다. 이러한 사례는 새 지원 티켓 시스템으로 마이그레이션되지 않았기 때문입니다. 도움말 센터가 이제 읽기 전용입니다. 원래 문제에 대한 지원을 계속 받으려면 [Experience League 지원](https://experienceleague.adobe.com/home#support)에 추가 티켓을 제출해야 합니다.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    * [Adobe Experience League 시작 페이지](#experience-league-start-page)
    * [Adobe Commerce 계정 페이지](#submit-case-adobe-commerce-account-page)
-   * [*이메일 주소를 확인하십시오.*](#verify-email-address-error)
+   * [Adobe Commerce 계정 페이지에서 *메일 주소를 확인하세요* 오류](#verify-email-address-error)
 
 * [지원 사례 추적](#track-support-cases)
 * [서비스 케이스의 댓글](#comments-in-your-case)
@@ -77,7 +77,7 @@ Adobe Experience League 지원 사례 관리를 사용하면 계약에 따라 �
 
 Adobe Experience League 지원에 로그인하려면 다음 단계를 따르십시오.
 
-1. [experienceleague.adobe.com](https://experienceleague.adobe.com/ko)&#x200B;(으)로 이동합니다.
+1. [experienceleague.adobe.com](https://experienceleague.adobe.com/)&#x200B;(으)로 이동합니다.
 1. Adobe 로그인 자격 증명을 사용하여 로그인합니다.
 
 ![experience-league에 로그인](/help/adobe-support-tools-guide/assets/experience_league_sign_in.png)
@@ -100,7 +100,7 @@ Adobe Experience League 지원에 로그인하려면 다음 단계를 따르십�
 
 #### Adobe Experience League 시작 페이지 {#experience-league-start-page}
 
-Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를 제출하려면 [Experience League으로 지원 티켓 만들기](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league)를 참조하세요.
+Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를 제출하려면 [Experience League으로 지원 티켓 만들기](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league)를 참조하세요.
 
 >[!INFO]
 >
@@ -116,7 +116,7 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 
 >[!NOTE]
 >
->제품으로 선택된 &quot;**[!DNL Commerce]&quot; 클라우드 인프라의 &quot;**&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;를 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 메모를 티켓에 추가하십시오.<br>Managed Services에서 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고** 클라우드 인프라에서 **[!DNL Commerce]에 있지만** 클라우드 인프라에서 **[!DNL Commerce]을(를) 사용 가능한 제품으로 보지 않는 경우:** 1. <br> **[!UICONTROL 사례 제목]**&#x200B;에 문제의 제목을 입력하십시오.<br>2. **[!UICONTROL 사례 설명]**&#x200B;에 문제에 대한 설명을 입력하십시오.<br>3. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
+>제품으로 선택된 &quot;**&quot; 클라우드 인프라의 &quot;**[!DNL Commerce]&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 티켓에 메모를 추가하세요.<br>Managed Services에 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고**[!DNL Commerce] 클라우드 인프라에 있는 경우&#x200B;****&#x200B;이지만 사용 가능한 제품으로 **클라우드 인프라에 있는**[!DNL Commerce]&#x200B;은(는) 표시되지 않습니다.<br>1. **[!UICONTROL 사례 제목]**.<br>2에 문제의 제목을 입력하십시오. **[!UICONTROL 사례 설명]**.<br>3에 문제에 대한 설명을 입력하십시오. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
 
 >[!IMPORTANT]
 >
@@ -125,7 +125,7 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 >1. accounts.magento.com 로 이동한 다음 Adobe Experience League에서 지원 사례를 관리하는 데 사용할 동일한 프로필(회사, 학교 또는 개인)로 로그인합니다.
 >1. accounts.magento.com 프로필에 성공적으로 로그인했으면 experienceleague.adobe.com으로 다시 이동하여 로그인합니다.
 >1. 조직 드롭다운 메뉴에서 조직을 선택합니다.
->1. 조직이 여전히 나타나지 않으면 Commerce 관리자에게 문의하여 지원 위임 권한을 받으십시오. 자세한 내용은 [Commerce 계정 공유](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/commerce-account/commerce-account-share) 도움말 문서를 참조하십시오.
+>1. 조직이 여전히 나타나지 않으면 Commerce 관리자에게 문의하여 지원 위임 권한을 받으십시오. 자세한 내용은 [Commerce 계정 공유](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share) 도움말 문서를 참조하십시오.
 
 >[!NOTE]
 >
@@ -153,11 +153,11 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 >* Commerce 권한이 만료되었거나 비활성 상태입니다(예: 미해결 청구 또는 라이선스 문제로 인해).
 >* PaaS(Adobe Commerce on cloud infrastructure)에서 호스팅되는 인스턴스의 경우 클라우드 프로젝트에 추가되지 않았습니다.
 >
->클라우드 프로젝트의 Adobe Commerce에 대해서는 계정 소유자에게 연락하여 적절한 클라우드 프로젝트에 추가하도록 요청하십시오. 자세한 내용은 클라우드 인프라의 Adobe Commerce에 대한 [사용자 액세스 관리](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/user-access)를 참조하십시오.
+>클라우드 프로젝트의 Adobe Commerce에 대해서는 계정 소유자에게 연락하여 적절한 클라우드 프로젝트에 추가하도록 요청하십시오. 자세한 내용은 클라우드 인프라의 Adobe Commerce에 대한 [사용자 액세스 관리](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)를 참조하십시오.
 >
 >공유 액세스 권한이 부여되고 클라우드 프로젝트에 추가되면:
 >
->1. [Adobe 지원](https://experienceleague.adobe.com/home?lang=ko#support) 페이지로 이동합니다.
+>1. [Adobe 지원](https://experienceleague.adobe.com/home?lang=en#support) 페이지로 이동합니다.
 >1. 왼쪽의 조직 드롭다운에서 이름이 **(Commerce)**(으)로 끝나는 조직을 선택합니다.
 >1. 해당 제품에 대한 티켓을 제출하고 고급 보고와 관련된 문제에 대해서는 **Commerce 보고**&#x200B;를 선택하지 마십시오.
 
@@ -174,14 +174,14 @@ https://account.magento.com에 이미 계정이 있지만 로그인할 수 없�
 
 Adobe Commerce 계정 페이지를 사용하여 새 지원 티켓을 제출하려면 다음 단계를 따르십시오.
 
-1. Adobe Commerce 계정에 로그인합니다. 사용 안내서에서 [자세한 지침](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=ko#create-a-commerce-account)을 참조하세요.
+1. Adobe Commerce 계정에 로그인합니다. 사용 안내서에서 [자세한 지침](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=en#create-a-commerce-account)을 참조하세요.
 1. **지원** 탭을 클릭합니다.
 
    ![magento_account_support_tab](/help/adobe-support-tools-guide/assets/magento_account_support_tab.png){width="800"}
 
 1. Adobe Experience League 지원 페이지가 로드됩니다.
 1. 왼쪽 메뉴에서 **[!UICONTROL 티켓 열기]**&#x200B;를 선택합니다.
-1. [필드](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)를 입력합니다.
+1. [필드](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)를 입력합니다.
 1. **제출을 클릭합니다**.
 
 #### Adobe Commerce 계정 페이지에서 *메일 주소를 확인하세요* 오류 {#verify-email-address-error}
@@ -209,13 +209,9 @@ Adobe Commerce 계정 페이지를 사용하여 새 지원 티켓을 제출하�
 
 ![지원 사례 보기](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### Adobe Commerce 도움말 센터에서 이전 사례 보기
-
-Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200B;에 있는 Adobe Commerce 도움말 센터에서 [이전 사례를 보기](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center)하는 방법에 대해 자세히 알아보세요.
-
 #### 시청한 사례 보기
 
-왼쪽 메뉴에서 *내 조직의 서비스 케이스*&#x200B;를 클릭하여 **[!UICONTROL 감시자로 추가]**&#x200B;한 Commerce 서비스 케이스를 볼 수 있습니다.
+왼쪽 메뉴에서 **[!UICONTROL 내 조직의 서비스 케이스]**&#x200B;를 클릭하여 *감시자로 추가*&#x200B;한 Commerce 서비스 케이스를 볼 수 있습니다.
 
 <!-- TODO: Add image here -->
 
@@ -230,7 +226,7 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 케이스에 더 많은 주의가 필요하고 초기 응답 시간이 경과했다고 생각되면 케이스를 에스컬레이션할 수 있습니다. 그러려면,
 
-1. 화면 오른쪽의 **[!UICONTROL 사례 세부 정보]** 패널 오른쪽 하단에 있는 *[!UICONTROL 관리로 에스컬레이션]*&#x200B;을 클릭합니다.
+1. 화면 오른쪽의 *[!UICONTROL 사례 세부 정보]* 패널 오른쪽 하단에 있는 **[!UICONTROL 관리로 에스컬레이션]**&#x200B;을 클릭합니다.
 
    ![관리 에스컬레이션](/help/adobe-support-tools-guide/assets/escalate_to_management.png)
 
@@ -254,7 +250,7 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 >[!NOTE]
 >
->서비스 케이스에 대한 감시자를 추가하고 제거하는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하십시오.
+>서비스 케이스에 대한 감시자를 추가하고 제거하는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하십시오.
 
 ### 서비스 케이스의 댓글 {#comments-in-your-case}
 
@@ -268,19 +264,19 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 ### 서비스 케이스 닫기 {#close-case}
 
-서비스 케이스를 닫으려면 **[!UICONTROL 서비스 케이스 세부 정보]** 패널의 오른쪽 하단에 있는 *[!UICONTROL 서비스 케이스 닫기]*&#x200B;를 클릭하세요.
+서비스 케이스를 닫으려면 *[!UICONTROL 서비스 케이스 세부 정보]* 패널의 오른쪽 하단에 있는 **[!UICONTROL 서비스 케이스 닫기]**&#x200B;를 클릭하세요.
 
 ![대소문자 구분 안 함](/help/adobe-support-tools-guide/assets/close_case.png)
 
 >[!NOTE]
 >
->서비스 케이스를 닫는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하십시오.
+>서비스 케이스를 닫는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하십시오.
 
 ### 서비스 케이스 다시 열기 {#reopen-case}
 
 >[!NOTE]
 >
->**서비스 케이스는 종료된 후 14일 이내에만 다시 열 수 있습니다.** 서비스 케이스를 종료한 지 14일이 지났지만 문제에 대한 도움을 요청하려면 새 서비스 케이스를 열어야 합니다.<br>서비스 케이스를 닫거나 다시 여는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하세요.
+>**서비스 케이스는 종료된 후 14일 이내에만 다시 열 수 있습니다.** 서비스 케이스를 종료한 후 14일이 지났지만 문제에 대한 도움을 요청하려면 새 케이스를 열어야 합니다.<br>서비스 케이스를 닫거나 다시 여는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하세요.
 
 >[!NOTE]
 >
@@ -294,16 +290,16 @@ Cloud Console을 사용하여 새 지원 티켓을 제출하려면 다음 단계
 1. 사용자 메뉴에서 **[!UICONTROL 지원]**&#x200B;을 선택합니다.
 1. **[!UICONTROL 내 티켓]** 페이지가 로드됩니다.
 1. 오른쪽 상단의 **[!UICONTROL 티켓 제출]**&#x200B;을 클릭합니다.
-1. [필드](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)를 입력합니다.
+1. [필드](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)를 입력합니다.
 1. **[!UICONTROL 제출을 클릭합니다]**.
 
 ### Adobe Commerce 핫라인 {#P1-hotline}
 
-[Adobe Commerce P1 핫라인](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html?lang=ko) 문서에서는 P1 문제 중에 도움을 요청할 때 Adobe Commerce에 대한 P1 핫라인 번호를 제공하고 제공할 정보를 설명합니다.
+[Adobe Commerce P1 핫라인](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html) 문서에서는 P1 문제 중에 도움을 요청할 때 Adobe Commerce에 대한 P1 핫라인 번호를 제공하고 제공할 정보를 설명합니다.
 
 ### Adobe Commerce 공유 책임 운영 모델 {#shared-responsibility-operational-model}
 
-[Adobe Commerce 공유 책임 운영 모델](https://experienceleague.adobe.com/ko/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary)에 대한 문서를 참조하십시오.
+[Adobe Commerce 공유 책임 운영 모델](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary)에 대한 문서를 참조하십시오.
 이는 Pro 인프라 서비스에만 대한 운영 책임을 명확히 하는 것을 목표로 합니다.
 
 ### 후속 티켓 열기 {#follow-up}
@@ -328,17 +324,17 @@ Cloud Console을 사용하여 새 지원 티켓을 제출하려면 다음 단계
 
 ### 공유 액세스 권한 제공 {#provide-shared-access}
 
-공유 계정 설정에 대한 자세한 단계는 Adobe Commerce 시작 안내서의 [Commerce 계정 공유](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/commerce-account/commerce-account-share) 섹션을 참조하십시오.
+공유 계정 설정에 대한 자세한 단계는 Adobe Commerce 시작 안내서의 [Commerce 계정 공유](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share) 섹션을 참조하십시오.
 
 >[!NOTE]
 >
->사용자에게 공유 액세스 권한을 부여하려면 사용자에게 기존 계정이 있어야 합니다. 자세한 내용은 [Commerce 계정 만들기](https://experienceleague.adobe.com/ko/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account)를 참조하세요.
+>사용자에게 공유 액세스 권한을 부여하려면 사용자에게 기존 계정이 있어야 합니다. 자세한 내용은 [Commerce 계정 만들기](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account)를 참조하세요.
 
 새 사용자에 대한 공유 액세스를 제공한 후 관련 정보는 Adobe Commerce 계정 페이지의 **공유 액세스** > **권한 관리**&#x200B;에서 사용할 수 있습니다.
 
 >[!NOTE]
 >
->공유 액세스는 Commerce Cloud 콘솔에 대한 액세스 권한을 자동으로 부여하지 않습니다. [사용자를 클라우드 프로젝트에 별도로 추가](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project)해야 합니다.
+>공유 액세스는 Commerce Cloud 콘솔에 대한 액세스 권한을 자동으로 부여하지 않습니다. [사용자를 클라우드 프로젝트에 별도로 추가](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project)해야 합니다.
 
 ![magento-account-shared-manage-permissions](/help/adobe-support-tools-guide/assets/magento_account_shared_manage_permissions.png)
 
@@ -346,7 +342,7 @@ Cloud Console을 사용하여 새 지원 티켓을 제출하려면 다음 단계
 
 1. [https://account.magento.com](https://account.magento.com/)에서 Adobe Commerce 계정에 로그인합니다.
 1. 왼쪽 패널의 공유 액세스에서 **권한 관리**&#x200B;를 선택합니다.
-1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(![작업](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"} 열)에서 **제거 아이콘**&#x200B;을 클릭합니다.
+1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(**작업** 열)에서 ![제거 아이콘](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}을 클릭합니다.
 1. 액세스를 취소하려면 **사용자 삭제**&#x200B;를 클릭하고, 취소를 취소하려면 상단 모서리의 X를 클릭합니다.
 
    ![revoke_shared_access](/help/adobe-support-tools-guide/assets/revoke_shared_access.png){width="800"}
@@ -381,20 +377,20 @@ Adobe Commerce Cloud 프로젝트가 있거나 있고 프로젝트에 사용자�
 
 1. [https://account.magento.com](https://account.magento.com/)에서 Adobe Commerce 계정에 로그인합니다.
 1. 왼쪽 패널의 **[!UICONTROL 공유 액세스]**&#x200B;에서 **[!UICONTROL 권한 관리]**&#x200B;를 선택합니다.
-1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(**[!UICONTROL 작업]** 열)에서 *[!UICONTROL 편집]*&#x200B;을 클릭합니다.
+1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(*[!UICONTROL 작업]* 열)에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 1. **[!UICONTROL 계정 권한 부여]**&#x200B;에서 모든 리소스 선택을 취소합니다.
 1. 사용자에게 **[!UICONTROL 클라우드 공유 액세스]**&#x200B;가 있는지 여부에 대해 혼동을 방지하기 위해 **[!UICONTROL 공유 이름]**&#x200B;을(를) 다음과 같은 이름으로 수정해야 합니다. 예: *클라우드 공유 액세스 취소 - 삭제할 수 없음*.
 
 ![grant-account-permissions-image](/help/adobe-support-tools-guide/assets/help-center-user-guide-grant-account-permissions-image.png){width="800"}
 
-자세한 내용은 Commerce on Cloud Infrastructure 안내서의 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ko#manage-users-from-the-project-web-interface) 설명서를 참조하십시오.
+자세한 내용은 Commerce on Cloud Infrastructure 안내서의 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html#manage-users-from-the-project-web-interface) 설명서를 참조하십시오.
 
 ### 공유 계정 액세스(계정 전환) {#switch-accounts}
 
 >[!NOTE]
 >
 >이 단계는 Adobe Commerce에 대한 티켓을 제출할 필요가 없습니다.
->Adobe Commerce 티켓 제출에 대한 데모는 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/ko/playlists/support-requests).
+>Adobe Commerce 티켓 제출에 대한 데모는 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/en/playlists/support-requests).
 
 제공된 공유 액세스를 사용하려면 다음 단계를 따르십시오.
 
@@ -407,4 +403,4 @@ Adobe Commerce Cloud 프로젝트가 있거나 있고 프로젝트에 사용자�
 
 ### 공유 액세스 문제 해결 {#troubleshooting-shared-access}
 
-지원 기술 자료에서 [공유 액세스 문제 해결 문서](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting)를 참조하십시오.
+지원 기술 자료에서 [공유 액세스 문제 해결 문서](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting)를 참조하십시오.
