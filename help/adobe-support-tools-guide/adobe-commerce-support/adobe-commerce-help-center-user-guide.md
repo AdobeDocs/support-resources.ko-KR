@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    * [Adobe Experience League 시작 페이지](#experience-league-start-page)
    * [Adobe Commerce 계정 페이지](#submit-case-adobe-commerce-account-page)
-   * [*이메일 주소를 확인하십시오.*](#verify-email-address-error)
+   * [Adobe Commerce 계정 페이지에서 *메일 주소를 확인하세요* 오류](#verify-email-address-error)
 
 * [지원 사례 추적](#track-support-cases)
 * [서비스 케이스의 댓글](#comments-in-your-case)
@@ -116,7 +116,7 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 
 >[!NOTE]
 >
->제품으로 선택된 &quot;**[!DNL Commerce]&quot; 클라우드 인프라의 &quot;**&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;를 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 메모를 티켓에 추가하십시오.<br>Managed Services에서 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고** 클라우드 인프라에서 **[!DNL Commerce]에 있지만** 클라우드 인프라에서 **[!DNL Commerce]을(를) 사용 가능한 제품으로 보지 않는 경우:** 1. <br> **[!UICONTROL 사례 제목]**&#x200B;에 문제의 제목을 입력하십시오.<br>2. **[!UICONTROL 사례 설명]**&#x200B;에 문제에 대한 설명을 입력하십시오.<br>3. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
+>제품으로 선택된 &quot;**&quot; 클라우드 인프라의 &quot;**&#x200B;[!DNL Commerce]&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 티켓에 메모를 추가하세요.<br>Managed Services에 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고**&#x200B;[!DNL Commerce] 클라우드 인프라에 있는 경우&#x200B;**&#x200B;**&#x200B;이지만 사용 가능한 제품으로 **클라우드 인프라에 있는**&#x200B;[!DNL Commerce]&#x200B;은(는) 표시되지 않습니다.<br>1. **[!UICONTROL 사례 제목]**.<br>2에 문제의 제목을 입력하십시오. **[!UICONTROL 사례 설명]**.<br>3에 문제에 대한 설명을 입력하십시오. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
 
 >[!IMPORTANT]
 >
@@ -209,13 +209,9 @@ Adobe Commerce 계정 페이지를 사용하여 새 지원 티켓을 제출하�
 
 ![지원 사례 보기](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### Adobe Commerce 도움말 센터에서 이전 사례 보기
-
-Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200B;에 있는 Adobe Commerce 도움말 센터에서 [이전 사례를 보기](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center)하는 방법에 대해 자세히 알아보세요.
-
 #### 시청한 사례 보기
 
-왼쪽 메뉴에서 *내 조직의 서비스 케이스*&#x200B;를 클릭하여 **[!UICONTROL 감시자로 추가]**&#x200B;한 Commerce 서비스 케이스를 볼 수 있습니다.
+왼쪽 메뉴에서 **[!UICONTROL 내 조직의 서비스 케이스]**&#x200B;를 클릭하여 *감시자로 추가*&#x200B;한 Commerce 서비스 케이스를 볼 수 있습니다.
 
 <!-- TODO: Add image here -->
 
@@ -230,7 +226,7 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 케이스에 더 많은 주의가 필요하고 초기 응답 시간이 경과했다고 생각되면 케이스를 에스컬레이션할 수 있습니다. 그러려면,
 
-1. 화면 오른쪽의 **[!UICONTROL 사례 세부 정보]** 패널 오른쪽 하단에 있는 *[!UICONTROL 관리로 에스컬레이션]*&#x200B;을 클릭합니다.
+1. 화면 오른쪽의 *[!UICONTROL 사례 세부 정보]* 패널 오른쪽 하단에 있는 **[!UICONTROL 관리로 에스컬레이션]**&#x200B;을 클릭합니다.
 
    ![관리 에스컬레이션](/help/adobe-support-tools-guide/assets/escalate_to_management.png)
 
@@ -268,7 +264,7 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 ### 서비스 케이스 닫기 {#close-case}
 
-서비스 케이스를 닫으려면 **[!UICONTROL 서비스 케이스 세부 정보]** 패널의 오른쪽 하단에 있는 *[!UICONTROL 서비스 케이스 닫기]*&#x200B;를 클릭하세요.
+서비스 케이스를 닫으려면 *[!UICONTROL 서비스 케이스 세부 정보]* 패널의 오른쪽 하단에 있는 **[!UICONTROL 서비스 케이스 닫기]**&#x200B;를 클릭하세요.
 
 ![대소문자 구분 안 함](/help/adobe-support-tools-guide/assets/close_case.png)
 
@@ -280,7 +276,7 @@ Adobe Commerce 기술 자료의 **Adobe Commerce 도움말 센터 제거**&#x200
 
 >[!NOTE]
 >
->**서비스 케이스는 종료된 후 14일 이내에만 다시 열 수 있습니다.** 서비스 케이스를 종료한 지 14일이 지났지만 문제에 대한 도움을 요청하려면 새 서비스 케이스를 열어야 합니다.<br>서비스 케이스를 닫거나 다시 여는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하세요.
+>**서비스 케이스는 종료된 후 14일 이내에만 다시 열 수 있습니다.** 서비스 케이스를 종료한 후 14일이 지났지만 문제에 대한 도움을 요청하려면 새 케이스를 열어야 합니다.<br>서비스 케이스를 닫거나 다시 여는 방법에 대한 자세한 내용은 [감시자 추가 및 제거, 티켓 닫기 및 다시 열기](https://experienceleague.adobe.com/ko/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)를 참조하세요.
 
 >[!NOTE]
 >
@@ -346,7 +342,7 @@ Cloud Console을 사용하여 새 지원 티켓을 제출하려면 다음 단계
 
 1. [https://account.magento.com](https://account.magento.com/)에서 Adobe Commerce 계정에 로그인합니다.
 1. 왼쪽 패널의 공유 액세스에서 **권한 관리**&#x200B;를 선택합니다.
-1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(![작업](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"} 열)에서 **제거 아이콘**&#x200B;을 클릭합니다.
+1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(**작업** 열)에서 ![제거 아이콘](/help/adobe-support-tools-guide/assets/remove_icon.png){width="25"}을 클릭합니다.
 1. 액세스를 취소하려면 **사용자 삭제**&#x200B;를 클릭하고, 취소를 취소하려면 상단 모서리의 X를 클릭합니다.
 
    ![revoke_shared_access](/help/adobe-support-tools-guide/assets/revoke_shared_access.png){width="800"}
@@ -381,7 +377,7 @@ Adobe Commerce Cloud 프로젝트가 있거나 있고 프로젝트에 사용자�
 
 1. [https://account.magento.com](https://account.magento.com/)에서 Adobe Commerce 계정에 로그인합니다.
 1. 왼쪽 패널의 **[!UICONTROL 공유 액세스]**&#x200B;에서 **[!UICONTROL 권한 관리]**&#x200B;를 선택합니다.
-1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(**[!UICONTROL 작업]** 열)에서 *[!UICONTROL 편집]*&#x200B;을 클릭합니다.
+1. 공유 액세스를 취소할 사용자를 찾아 해당 사용자의 행(*[!UICONTROL 작업]* 열)에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 1. **[!UICONTROL 계정 권한 부여]**&#x200B;에서 모든 리소스 선택을 취소합니다.
 1. 사용자에게 **[!UICONTROL 클라우드 공유 액세스]**&#x200B;가 있는지 여부에 대해 혼동을 방지하기 위해 **[!UICONTROL 공유 이름]**&#x200B;을(를) 다음과 같은 이름으로 수정해야 합니다. 예: *클라우드 공유 액세스 취소 - 삭제할 수 없음*.
 

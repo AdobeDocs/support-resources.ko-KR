@@ -4,13 +4,13 @@ description: 조직의 ID 유형(Federated ID, Enterprise ID, Adobe ID 및 Perso
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # ID 개요
 
@@ -167,7 +167,7 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 </tr>
 <tr>
 <th scope="row"><strong>암호 재설정</strong></th>
-<td><a href="https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html">계정 암호를 다시 설정합니다.</a> 아래 메모 섹션에서 지점 2를 참조하세요.</td>
+<td><a href="https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html">계정 암호를 다시 설정합니다.</a>  아래의 참고 섹션에서 2번 포인트를 참조하십시오.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud for enterprise 및 Document Cloud for enterprise</strong></th>
@@ -202,10 +202,10 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 >1. [엔터프라이즈 스토리지](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)를 사용하는 기업 고객을 위한 Creative Cloud의 경우 관리자는 Admin Console에 Adobe ID 사용자를 추가할 수 있지만 제품 프로필에 추가할 수는 없습니다. 관리자는 Adobe ID 사용자를 다른 ID 유형으로 마이그레이션해야 합니다.
 >1. **Adobe 라이선스 웹 사이트와 같이** Adobe ID만 지원하는 일부 제품 및 서비스가 있습니다.
 
-## 비슷한 항목 더 보기
+## 다음과 같음
 
 - [ID 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html)
 - [사용자 ID 전환](https://helpx.adobe.com/kr/enterprise/using/switch-user-identity.html)
-- [Admin Console 개요](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [교육 FAQ](https://helpx.adobe.com/enterprise/using/education-faq.html)
+- [Admin Console 개요](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [교육 FAQ](https://helpx.adobe.com/kr/x-productkb/policy-pricing/education-faq.html)
 - [사용자 추가 및 관리](https://helpx.adobe.com/kr/enterprise/using/users.html)
