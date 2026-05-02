@@ -116,7 +116,7 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 
 >[!NOTE]
 >
->제품으로 선택된 &quot;**&quot; 클라우드 인프라의 &quot;**[!DNL Commerce]&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 티켓에 메모를 추가하세요.<br>Managed Services에 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고**[!DNL Commerce] 클라우드 인프라에 있는 경우&#x200B;****&#x200B;이지만 사용 가능한 제품으로 **클라우드 인프라에 있는**[!DNL Commerce]&#x200B;은(는) 표시되지 않습니다.<br>1. **[!UICONTROL 사례 제목]**.<br>2에 문제의 제목을 입력하십시오. **[!UICONTROL 사례 설명]**.<br>3에 문제에 대한 설명을 입력하십시오. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
+>제품으로 선택된 &quot;**&quot; 클라우드 인프라의 &quot;**&#x200B;[!DNL Commerce]&quot;이(가) 있는 티켓을 제출하는 경우 조직에 여러 프로젝트가 나열되어 있으면 적절한 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 선택하라는 메시지가 표시됩니다. 원하는 **[!UICONTROL 프로젝트 ID]**&#x200B;을(를) 찾을 수 없는 경우 다른 &quot;프로젝트 X&quot;에 대한 지원을 요청하는 티켓에 메모를 추가하세요.<br>Managed Services에 &quot;**[!DNL Commerce]&quot; 티켓을 제출하려 하고**&#x200B;[!DNL Commerce] 클라우드 인프라에 있는 경우&#x200B;**&#x200B;**&#x200B;이지만 사용 가능한 제품으로 **클라우드 인프라에 있는**&#x200B;[!DNL Commerce]&#x200B;은(는) 표시되지 않습니다.<br>1. **[!UICONTROL 사례 제목]**.<br>2에 문제의 제목을 입력하십시오. **[!UICONTROL 사례 설명]**.<br>3에 문제에 대한 설명을 입력하십시오. 이 두 항목을 모두 입력하면 아래의 **[!UICONTROL 클라우드 프로젝트 URL]** 필드가 표시됩니다.
 
 >[!IMPORTANT]
 >
