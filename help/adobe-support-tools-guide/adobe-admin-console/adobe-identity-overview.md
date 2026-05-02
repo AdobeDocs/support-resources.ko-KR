@@ -25,7 +25,7 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 다음 표는 조직에 가장 적합한 ID 모델을 선택하는 방법을 안내합니다.
 
 >[!NOTE]
->조직이 Adobe의 엔터프라이즈 스토리지 모델로 업데이트되지 않았으며 개인 사용자에 대해 Adobe ID를 계속 사용하고 있는 경우 아래 [ID 유형 표](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id)의 설명을 참조하십시오.
+>조직이 Adobe의 엔터프라이즈 스토리지 모델로 업데이트되지 않았으며 개인 사용자에 대해 Adobe ID를 계속 사용하고 있는 경우 아래 [ID 유형 표](https://helpx.adobe.com/kr/enterprise/using/identity.html#using-personal-adobe-id)의 설명을 참조하십시오.
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 <th scope="row"><strong>주요 서비스</strong></th>
 <td>조직에서 만들고, 소유하고, 관리합니다. 조직은 사용자 자격 증명을 관리하고 SAML2 ID 공급자(IdP)를 통해 SSO(Single Sign-On)를 사용합니다.</td>
 <td>조직에서 만들고, 소유하고, 관리합니다. 조직은 확인된 도메인에 사용자 계정을 만들 수 있는 배타적 권한을 갖습니다.</td>
-<td>최종 사용자가 생성, 소유 및 관리합니다. Adobe에서 인증을 수행하고 최종 사용자가 id를 관리합니다. <a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html">저장소 모델</a>에 따라 사용자 또는 기업이 파일 및 데이터를 계속 제어합니다. Adobe ID 계정은 확인되지 않은 도메인, 공개 도메인 또는 신뢰할 수 있는 도메인에서 만들어집니다. 아래의 노트 섹션의 포인트 2를 참조하십시오.</td>
+<td>최종 사용자가 생성, 소유 및 관리합니다. Adobe에서 인증을 수행하고 최종 사용자가 id를 관리합니다. <a href="https://helpx.adobe.com/kr/enterprise/using/storage-for-business.html">저장소 모델</a>에 따라 사용자 또는 기업이 파일 및 데이터를 계속 제어합니다. Adobe ID 계정은 확인되지 않은 도메인, 공개 도메인 또는 신뢰할 수 있는 도메인에서 만들어집니다. 아래의 노트 섹션의 포인트 2를 참조하십시오.</td>
 </tr>
 <tr>
 <th scope="row"><strong>계정 및 데이터 소유권</strong></th>
@@ -81,7 +81,7 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 <tr>
 <th scope="row"><strong>암호 재설정</strong></th>
 <td colspan="2">지원되지 않음</td>
-<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">계정 암호 재설정</a></td>
+<td><a href="https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html">계정 암호 재설정</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud for enterprise 및 Document Cloud for enterprise</strong></th>
@@ -124,8 +124,8 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 <tr>
 <th scope="row"><strong>시작하기</strong></th>
 <td><a href="https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html">ID 설정</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">클레임 도메인</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">사용자 추가</a></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/add-domains-directories.html#claim-domains">클레임 도메인</a></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/users.html#add-users">사용자 추가</a></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +133,7 @@ ID 유형을 사용하면 조직이 사용자의 계정 및 데이터를 다양�
 >[!NOTE]
 >
 >1. 팀의 Creative Cloud에 대한 암호 정책은 개인의 Creative Cloud에 대한 암호 정책과 동일합니다.
->1. Adobe ID 사용자는 Adobe ID 자격 증명 또는 소유 조직의 인증 모델(SSO, 2FA 등)을 통해 인증합니다. 이러한 시나리오에서는 사용자가 소유 조직의 SSO 페이지로 리디렉션됩니다. 인증 후 사용자는 [비즈니스 프로필을 선택](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)해야 할 수 있습니다.
+>1. Adobe ID 사용자는 Adobe ID 자격 증명 또는 소유 조직의 인증 모델(SSO, 2FA 등)을 통해 인증합니다. 이러한 시나리오에서는 사용자가 소유 조직의 SSO 페이지로 리디렉션됩니다. 인증 후 사용자는 [비즈니스 프로필을 선택](https://helpx.adobe.com/kr/enterprise/kb/enterprise-id-faq.html#choose-profile)해야 할 수 있습니다.
 
 ## 개인 Adobe ID 사용
 
@@ -167,7 +167,7 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 </tr>
 <tr>
 <th scope="row"><strong>암호 재설정</strong></th>
-<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">계정 암호를 다시 설정합니다.</a>  아래의 참고 섹션에서 2번 포인트를 참조하십시오.</td>
+<td><a href="https://helpx.adobe.com/kr/manage-account/using/change-or-reset-password.html">계정 암호를 다시 설정합니다.</a>  아래의 참고 섹션에서 2번 포인트를 참조하십시오.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud for enterprise 및 Document Cloud for enterprise</strong></th>
@@ -191,7 +191,7 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 </tr>
 <tr>
 <th scope="row"><strong>시작하기</strong></th>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">사용자 추가</a></td>
+<td><a href="https://helpx.adobe.com/kr/enterprise/using/users.html#add-users">사용자 추가</a></td>
 </tr>
 </tbody>
 </table>
@@ -199,13 +199,13 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 >[!NOTE]
 >
 >1. 팀의 Creative Cloud에 대한 암호 정책은 개인의 Creative Cloud에 대한 암호 정책과 동일합니다.
->1. [엔터프라이즈 스토리지](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)를 사용하는 기업 고객을 위한 Creative Cloud의 경우 관리자는 Admin Console에 Adobe ID 사용자를 추가할 수 있지만 제품 프로필에 추가할 수는 없습니다. 관리자는 Adobe ID 사용자를 다른 ID 유형으로 마이그레이션해야 합니다.
+>1. [엔터프라이즈 스토리지](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)를 사용하는 기업 고객을 위한 Creative Cloud의 경우 관리자는 Admin Console에 Adobe ID 사용자를 추가할 수 있지만 제품 프로필에 추가할 수는 없습니다. 관리자는 Adobe ID 사용자를 다른 ID 유형으로 마이그레이션해야 합니다.
 >1. **Adobe 라이선스 웹 사이트와 같이** Adobe ID만 지원하는 일부 제품 및 서비스가 있습니다.
 
 ## 다음과 같음
 
 - [ID 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html)
-- [사용자 ID 전환](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
-- [Admin Console 개요](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
-- [교육 FAQ](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
+- [사용자 ID 전환](https://helpx.adobe.com/kr/enterprise/using/switch-user-identity.html)
+- [Admin Console 개요](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [교육 FAQ](https://helpx.adobe.com/kr/x-productkb/policy-pricing/education-faq.html)
 - [사용자 추가 및 관리](https://helpx.adobe.com/kr/enterprise/using/users.html)
