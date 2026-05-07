@@ -3,9 +3,9 @@ title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ ht-degree: 1%
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
 
+## 2026년 5월 7일 - 콜백 요청 기능 확장
+
+이제 Adobe Commerce 및 Adobe GenStudio 모두에서 콜백 요청 기능을 사용할 수 있습니다. Adobe Commerce 고객은 자신에게 가장 적합한 시점에 콜백을 편리하게 예약할 수 있는 반면, Adobe GenStudio 고객은 즉시 또는 예약된 콜백을 요청할 수 있는 옵션이 있습니다.
 
 ## 2026년 4월 27일 - Adobe Commerce에 대한 에스컬레이션 관리 및 시스템 통찰력 향상
 
