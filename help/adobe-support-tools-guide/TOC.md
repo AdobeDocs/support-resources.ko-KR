@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d487b7e82a01bf0d7e847a541be1eb3ca6e1c527
+source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '338'
 ht-degree: 2%
 
 ---
@@ -66,3 +66,4 @@ ht-degree: 2%
    - [클라우드 인프라 샌드박스 요청에 대한 파트너 Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [Adobe Commerce 클라우드 프로젝트에 사용자를 추가할 수 없음](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
    - [Adobe에서 제공하는 작성기 패치를 적용하는 방법](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+   - [지원 도구 개요](adobe-commerce-support/overview.md)
