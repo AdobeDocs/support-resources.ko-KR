@@ -11,10 +11,11 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 579
-ht-degree: 1%
+source-wordcount: 758
+ht-degree: 0%
 
 ---
 
@@ -80,10 +81,10 @@ ht-degree: 1%
 
 ## 관련 읽기
 
-- [전역 관리 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
+- [글로벌 관리 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
 - [관리자 관리](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
 - [사용자 그룹 관리](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
 - [하위 조직에 제품 할당](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
 - [보류 중인 작업 실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)
-- [서비스 사용/사용 안 함](https://helpx.adobe.com/kr/enterprise/using/enable-disable-services.html)
+- [서비스 활성화/비활성화](https://helpx.adobe.com/kr/enterprise/using/enable-disable-services.html)
 - [Admin Console 개요](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)

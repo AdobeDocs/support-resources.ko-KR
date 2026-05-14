@@ -2,13 +2,21 @@
 title: Adobe 고객 데이터 액세스 및 개인정보 보호 지원
 description: Adobe 기술 지원에서 지원을 제공하려면 Adobe Commerce 관련 데이터에 액세스해야 할 수 있습니다. 기본 Adobe Commerce 계정 보유자가 Adobe Commerce 계정 개인 정보 보호 설정에서 권한을 제공하도록 선택한 경우에만 해당 권한을 제공할 수 있습니다. 지원 요청 생성 전에 이 액세스 권한을 허용하면 문제를 제대로 조사하고 해결 속도를 높이는 데 도움이 됩니다. Adobe Commerce Cloud 프로젝트의 "프로젝트 소유자"가 기본 Adobe Commerce 계정 소유자가 아닐 수 있습니다.
 solution: Commerce
-source-git-commit: e1d8ce29eb1c0487f7f9ec9d2baacb6e5a49c517
+exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
+TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 0%
+source-wordcount: 472
+ht-degree: 1%
 
 ---
-
 
 # Adobe 고객 데이터 액세스 및 개인정보 보호 지원
 

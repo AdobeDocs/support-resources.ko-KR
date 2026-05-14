@@ -1,10 +1,20 @@
 ---
 title: Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트
 description: 이 문서에서는 Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트에 대한 정보를 제공합니다.
-source-git-commit: 07cbbe6bd668849c89e5490e331569be8dbcbffe
+exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
+TQID: https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 46%
+source-wordcount: 546
+ht-degree: 39%
 
 ---
 
@@ -47,6 +57,6 @@ ht-degree: 46%
 ## 관련 읽기
 
 * [지원 티켓 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [&quot;티켓 제출&quot; 링크가 Adobe Commerce 도움말 센터 시작 페이지에 표시되지 않음](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [Adobe Commerce 도움말 센터 시작 페이지에 &quot;티켓 제출&quot; 링크가 표시되지 않음](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
 * [티켓 제출 양식: 판매자가 조직 드롭다운에 표시되지 않음](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Adobe 성공 계획 개요: 지원 사례 수명 주기](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [Adobe 성공 계획 개요: 지원 사례 라이프사이클](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)

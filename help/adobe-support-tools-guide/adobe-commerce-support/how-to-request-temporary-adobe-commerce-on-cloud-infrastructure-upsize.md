@@ -3,10 +3,25 @@ title: 클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청
 description: 조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)을 제출하여 Adobe Commerce on cloud infrastructure store에 대한 임시 클라우드 용량을 요청할 수 있습니다.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 0%
+source-wordcount: 1136
+ht-degree: 1%
 
 ---
 
@@ -61,20 +76,20 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
    * [!DNL Commerce Cloud]
    * [!DNL Commerce on Managed Service]
 
-1. 다음 필드를 완료합니다. 
+1. 다음 필드를 완료합니다.
    * **[!UICONTROL 사례 제목]**
    * **[!UICONTROL 사례 설명]** *(문제와 컨텍스트를 명확하게 설명하는지 확인)*
 
-1. *문제 이유* 드롭다운 메뉴에서 **[!UICONTROL 인프라 변경 요청]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 문제 이유]** 드롭다운 메뉴에서 *인프라 변경 요청*&#x200B;을 선택합니다.
 
 1. 드롭다운 메뉴에서 **[!UICONTROL 환경]**&#x200B;을(를) 선택합니다.
 
 1. 드롭다운 메뉴에서 적절한 **[!UICONTROL 제품 버전]**&#x200B;을(를) 선택합니다.
 
-1. *오늘 변경할 인프라 변경* 드롭다운 메뉴에서 **[!UICONTROL 클라우드 프로젝트 크기 조정(vCPU)]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 오늘 변경할 인프라 변경]** 드롭다운 메뉴에서 *클라우드 프로젝트 크기 조정(vCPU)*&#x200B;을 선택합니다.
 
 1. **[!UICONTROL 아키텍처 선택]**:
-   * *기본 아키텍처:* *크기 선택* 드롭다운 메뉴에서 **다음 사용 가능한 크기**&#x200B;를 선택합니다.
+   * *기본 아키텍처:* **크기 선택** 드롭다운 메뉴에서 *다음 사용 가능한 크기*&#x200B;를 선택합니다.
    * *크기 조정된 아키텍처:* 이 옵션을 선택하면 화면이 두 개의 추가 필드를 표시하도록 변경됩니다.
       * *웹 노드의 크기*
       * *서비스 노드의 크기* *(각 노드에 대해 원하는 크기를 입력하십시오.)*

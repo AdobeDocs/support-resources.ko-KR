@@ -3,10 +3,18 @@ title: Adobe Success 포털 릴리스 정보
 description: ' [!DNL Adobe Success portal]에 대한 최신 릴리스 정보입니다.'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,8 +22,8 @@ ht-degree: 83%
 
 이 릴리스 노트에는 [!DNL Adobe Success portal]의 업데이트 정보 및 다음과 같은 내용이 포함됩니다.
 
-![신규](../adobe-success-portal/assets/new.svg) - 새로운 기능
-![수정 사항](../adobe-success-portal/assets/fix.svg) - 수정 사항 및 개선 사항
+![새로운 기능](../adobe-success-portal/assets/new.svg) - 새로운 기능
+![수정](../adobe-success-portal/assets/fix.svg) - 수정 사항 및 개선 사항
 ![버그](../adobe-success-portal/assets/bug.svg) - 알려진 문제
 
 ## 4.0
@@ -26,7 +34,7 @@ _2025년 11월 11일_
 
 ![해결](../adobe-success-portal/assets/fix.svg) **Ctrl+클릭** / **Command+클릭**&#x200B;을 사용하여 새 탭에서 열 때 탐색 오류를 방지하기 위해 뒤로 단추를 제대로 사용할 수 없도록 사례 세부 정보를 업데이트했습니다.
 
-![버그](../adobe-success-portal/assets/bug.svg) **[!UICONTROL 지원 및 인사이트]**&#x200B;에서 **[!UICONTROL Adobe 상태]** 경고에 대해 잘못된 상태, 지역 또는 시간대 세부 정보가 표시되는 문제를 해결했습니다.
+![버그](../adobe-success-portal/assets/bug.svg) **[!UICONTROL 지원 및 인사이트]**&#x200B;에서 **[!UICONTROL Adobe Status]** 경고에 대해 잘못된 상태, 지역 또는 시간대 세부 정보가 표시되는 문제를 해결했습니다.
 
 ![버그](../adobe-success-portal/assets/bug.svg) **[!UICONTROL 전략적 파트너]**&#x200B;에 연결된 **[!UICONTROL 바로 연결]** 및 **[!UICONTROL 활동]**&#x200B;에서 디스플레이 문제가 해결되었습니다.
 
@@ -43,9 +51,9 @@ _2025년 10월 9일_
 * 각 **[!UICONTROL 가속기]**/ **[!UICONTROL 활동]**&#x200B;은 이름, 상태, 시작/종료 날짜(*XX월*, *YYYY년* 형식)를 표시합니다.
 * 이벤트 카드를 클릭하면 이벤트 세부 정보가 있는 페이지가 열립니다. 뒤로 버튼을 클릭하면 (으)로 돌아갑니다.
 * 이벤트는 다음과 같이 색상으로 구분됩니다. 파란색: **[!UICONTROL 가속기]**, 초록색: **[!UICONTROL 활동]**. KBO는 세로로 스크롤하고 주 또는 월은 가로로 스크롤합니다.
-* 도구 설명은 텍스트가 잘렸을 때 전체 이름을 표시하고 스크롤 중에도 타임라인이 계속 표시됩니다.
+* 도구 설명은 텍스트가 잘렸을 때 전체 이름을 표시해 주며 스크롤하는 중에 타임라인이 계속 표시되도록 해 줍니다.
 * 기본 보기는 현재 주를 표시합니다. 탐색 화살표를 사용해 다른 주로 이동할 수 있습니다.
-* 월별 보기는 진행 중인 작업과 계획된 작업에 대한 명확한 타임라인을 제공합니다.
+* 월별 보기는 진행 중인 작업과 계획된 작업에 대한 명확한 타임라인을 제공해 줍니다.
 
 ![수정](../adobe-success-portal/assets/fix.svg) 완료 날짜에 대한 도구 설명을 표시하도록 **[!UICONTROL 행동 계획]**&#x200B;의 **[!UICONTROL KBO(주요 비즈니스 목표)]** 및 **[!UICONTROL 활동]** 페이지를 개선해 타임라인의 가시성을 강화했습니다.
 
@@ -58,7 +66,7 @@ _2025년 10월 9일_
 
 ![수정](../adobe-success-portal/assets/fix.svg) 계정과 연결된 모든 **[!UICONTROL 전략적 파트너]**&#x200B;를 기본 연락처에 대한 지표와 함께 표시합니다.
 
-![수정](../adobe-success-portal/assets/fix.svg) **[!UICONTROL 경고 및 Adobe 상태]**&#x200B;의 시간대가 로그인한 사용자의 프로필을 올바르게 반영하지 못하는 문제를 해결했습니다.
+![수정](../adobe-success-portal/assets/fix.svg) **[!UICONTROL 경고 및 Adobe Status]**&#x200B;의 시간대가 로그인한 사용자의 프로필을 올바르게 반영하지 못하는 문제를 해결했습니다.
 
 ![수정](../adobe-success-portal/assets/fix.svg) **[!UICONTROL 경고 및 Adobe 상태]**&#x200B;의 필터가 정상적으로 함께 작동하지 않는 문제를 해결했습니다.
 
@@ -78,7 +86,7 @@ _2025년 9월 11일_
 * **[!UICONTROL Adobe 소유자]**: 해당 활동의 지정된 Adobe 소유자를 표시합니다.
 * **[!UICONTROL 클라이언트 소유자]**: 고객 측 소유자를 표시합니다.
 * **[!UICONTROL 다음 단계]**: 활동에 대해 캡처된 다음 작업을 표시합니다.
-* **[!UICONTROL Adobe 솔루션]**: 해당 활동과 관련된 Adobe 솔루션을 나타냅니다.
+* **[!UICONTROL Adobe 솔루션]**: 해당 활동과 관련된 Adobe 솔루션을 나타내 줍니다.
 
 ![수정 사항](../adobe-success-portal/assets/fix.svg) **[!UICONTROL 주요 비즈니스 목표]** 및 **[!UICONTROL 활동]** 페이지 내의 **[!UICONTROL 행동 계획]**&#x200B;을 개선해 각 액셀러레이터 및 활동의 완료 일자를 표시하도록 하여 타임라인에 대한 가시성을 강화했습니다.
 

@@ -2,9 +2,14 @@
 title: 비즈니스 지원
 description: Adobe Experience Cloud 비즈니스 지원 서비스는 Adobe의 기술 지원 팀과 계정 관리를 위한 계정 지원 리드에 대한 완전한 액세스를 제공합니다.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: 905
 ht-degree: 100%
 
 ---
@@ -126,7 +131,7 @@ Adobe Experience Cloud 비즈니스 지원 서비스는 Adobe의 기술 지원 �
 
 | 우선 순위 | 온라인 지원 | 비즈니스 지원 |
 |--- |--- |--- |
-| <b>우선 순위 1</b><br>고객의 생산 비즈니스 기능이 다운되었거나 심각한 데이터 손실 또는 서비스 저하가 발생했으며 기능 및 사용성을 복원하기 위해 즉각적인 주의가 필요합니다. | 24x7/<br>1시간 | 24x7/<br>1시간 |
+| <b>우선 순위 1</b><br>고객의 프로덕션 비즈니스 기능이 다운되었거나 심각한 데이터 손실 또는 서비스 저하가 발생했으며 기능 및 사용성을 복원하기 위해 즉각적인 주의가 필요합니다. | 24x7/<br>1시간 | 24x7/<br>1시간 |
 | <b>우선 순위 2</b><br>고객의 비즈니스 기능에 심각한 서비스 저하 또는 잠재적인 데이터 손실이 있거나 주요 기능이 영향을 받습니다. | 업무 시간/<br>4시간 | 업무 시간/<br>2시간 |
 | <b>우선 순위 3</b><br>고객의 비즈니스 기능에 약간의 서비스 저하가 있지만 비즈니스 기능을 계속할 수 있게 하는 솔루션/해결 방법이 있습니다. | 업무 시간/<br>6시간 | 업무 시간/<br> 4시간 |
 | <b>우선 순위 4</b><br>현재 제품 기능에 관한 일반적인 질문 또는 개선 요청입니다. | 업무일/<br>3일 | 업무일/<br>1일 |
@@ -242,7 +247,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/ko) | Experience League를 통해 Adobe는 기업이 Adobe 투자에서 기대하는 가치를 달성하도록 지원합니다. 고객이 자기 주도 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 포함하는 개인 맞춤형 성공 경로를 따라가며 배우고, 교류하고, 성장할 수 있는 통합된 공간입니다. |
 | [교육](https://training.adobe.com/training/) | Adobe 디지털 학습 서비스 과정은 Experience League에서 액세스할 수 있습니다. 학습 과정은 주문형 수업과 강의식 수업을 모두 통합합니다. 여기에서 시장 가치를 인정받은 기술을 습득하고 조직에 포지셔닝하여 성공을 이끌 수 있습니다. |
-| [생산 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
+| [프로덕션 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [비즈니스 지원 웹 사이트](https://helpx.adobe.com/kr/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe 비즈니스 지원 웹 사이트입니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 

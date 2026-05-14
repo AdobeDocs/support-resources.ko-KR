@@ -11,9 +11,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: 758
 ht-degree: 0%
 
 ---
@@ -49,8 +50,8 @@ ht-degree: 0%
 ## 정책 템플릿 만들기
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)에서 편집할 조직을 선택한 다음 **[!UICONTROL 정책 템플릿]** 탭으로 이동합니다.
-1. **[!UICONTROL 템플릿 만들기]**.<br> 선택
-   ![Pic1](./assets/DXSKB-3209-1-ga_14.png)
+1. **[!UICONTROL 템플릿 만들기]**&#x200B;를 선택합니다.<br>
+   ![사진1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
 1. **[!UICONTROL 정책 템플릿 만들기]** 대화 상자에서 정책 템플릿에 대한 **이름** 및 **설명**&#x200B;을 입력합니다.<br>정책 템플릿의 이름은 최대 100자까지 가능합니다.
 1. 템플릿에 포함할 정책을 선택합니다.
@@ -76,7 +77,7 @@ ht-degree: 0%
    ![Pic3](./assets/DXSKB-3209-3-ga_15.png)
    <br>
 1. 템플릿을 적용할 조직을 선택합니다. 여러 조직을 선택할 수 있습니다.<br>
-   ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
+   ![사진4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. **[!UICONTROL 템플릿 적용]**&#x200B;을 선택합니다.
 1. 정책 템플릿이 적용되는 조직에서 보류 중인 변경 내용을 구현하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. 검토 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을(를) 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
