@@ -3,9 +3,14 @@ title: '[!DNL Adobe Success] 포털: 고객 FAQ'
 description: 이 FAQ 문서는  [!DNL Adobe Success] 포털에 대한 자주 묻는 질문에 답합니다.
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 661
@@ -16,6 +21,7 @@ ht-degree: 93%
 # [!DNL Adobe Success] 포털: 고객 FAQ
 
  
+
 ## [!DNL Adobe Success] 포털의 범위는 무엇입니까?
 
 [!DNL Adobe Success] 포털은 지원, 성공, 참여 전반에 걸쳐 판매 후 경험을 통합하도록 설계된 Adobe의 새로운 중앙 집중식 고객 중심 플랫폼입니다. Alpha 릴리스는 이전에 여러 플랫폼에 분산되어 있던 도구와 워크플로(예: 지원 포털, 수동 Ultimate Success 아티팩트)를 통합하는 조화로운 경험을 제공하는 데 중점을 둡니다. 목표는 온보딩부터 갱신까지 고객 라이프사이클 전반에서 Adobe와 상호작용하는 방식을 간소화하는 동시에 투명성, 셀프서비스 및 가치 실현을 개선하는 것입니다.
@@ -38,7 +44,7 @@ Alpha 범위에는 두 개의 기본 경험 트랙이 있으며 Ultimate 고객�
 
 ## 포털에 어떻게 액세스할 수 있습니까?
 
-[!DNL Adobe Success] 포털은 Adobe Experience Cloud에 호스팅되어 있습니다. Experience Cloud에 액세스하려면 IMS 조직 수준에서 설정되는 [!DNL Adobe Success] 포털에 액세스해야 합니다. 포털에 액세스하는 방법에 대한 단계별 안내를 보려면 [ [!DNL Adobe Success] 포털 액세스](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)를 참조하십시오.
+[!DNL Adobe Success] 포털은 Adobe Experience Cloud에 호스팅되어 있습니다. Experience Cloud에 액세스하려면 IMS 조직 수준에서 설정되는 [!DNL Adobe Success] 포털에 액세스해야 합니다. 포털에 액세스하는 방법에 대한 단계별 안내를 보려면 [&#x200B; [!DNL Adobe Success] 포털 액세스](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)를 참조하십시오.
 
 Alpha 포털 액세스는 Alpha 프로그램에 참여하는 것으로 확인된 미리 정해진 사용자로만 제한됩니다. 조직에서 누가 액세스할 수 있는지 자세히 알아보고 추가 사용자에게 액세스 권한을 제공할 것을 요청하려면 [Alpha 팀 채널](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)을 사용하여 제품 팀에 문의하십시오.
 

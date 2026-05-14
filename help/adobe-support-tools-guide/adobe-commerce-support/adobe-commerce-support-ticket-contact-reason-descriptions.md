@@ -3,9 +3,15 @@ title: Adobe Commerce 지원 티켓 [!UICONTROL 문제 이유] 설명
 description: 이 문서에서는 지원 티켓 **[!UICONTROL 문제 원인]** 필드 옵션을 나열하고 각 옵션에 대한 자세한 설명을 제공합니다.
 exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
 TQID: https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 256

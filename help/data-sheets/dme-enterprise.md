@@ -3,8 +3,10 @@ title: Creative Cloud 및 Adobe Document Cloud에 대한 엔터프라이즈 지�
 description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 엔터프라이즈 지원 플랜으로 향상되었습니다.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 TQID: https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 958

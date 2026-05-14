@@ -3,8 +3,11 @@ title: 온라인 지원
 description: Adobe Experience Cloud 온라인 지원 서비스는 제한된 전화 지원 액세스를 제공합니다.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 791

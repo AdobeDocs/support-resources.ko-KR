@@ -3,9 +3,14 @@ title: 비즈니스 페르소나를 위한 주요 기능
 description: /[!DNL Adobe Success/] 포털은 비즈니스 페르소나를 위한 기능을 제공하여 주요 비즈니스 목표에 대한 가치 측정, 진행 상황 추적, 쉽게 접근 가능한 보기를 통한 인사이트 제공을 가능하게 합니다.
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 TQID: https://experienceleague.adobe.com/DhUGTnT-ENmeY-Rg65TJLonVqvaSU7dwGrXvsTJV0dk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 142

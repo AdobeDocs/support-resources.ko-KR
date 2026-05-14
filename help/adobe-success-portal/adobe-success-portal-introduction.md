@@ -3,8 +3,11 @@ title: ' [!DNL Adobe Success] 포털 소개'
 description: /[!DNL Adobe Success/] 포털은 고객이 사례를 제출하고, 티켓 진행 상황을 조회하고, 지원 및 계획 수립 도구에 액세스할 수 있는 통합 포털입니다.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
 TQID: https://experienceleague.adobe.com/Tar9AsnKRvEDBwWaWSpzvVt-haJ9Z1qBDfN7F2a8AU8
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 81

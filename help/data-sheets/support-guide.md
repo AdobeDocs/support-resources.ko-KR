@@ -3,7 +3,8 @@ title: Experience Cloud 고객 지원 안내서
 description: 이 고객 지원 안내서를 활용하여 당사의 Experience Cloud 지원 제공 사항, 프로그램, 서비스, 절차를 숙지하고 전 세계에서 당사와 소통하는 방법에 대해 알아보십시오.
 exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
 TQID: https://experienceleague.adobe.com/EeIsQd53EZtvNzuLo5M4Tgo6Q56cfQFvbpq0Mq-y2vo
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 142

@@ -3,7 +3,8 @@ title: 이전 Adobe 지원 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
 TQID: https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 165
