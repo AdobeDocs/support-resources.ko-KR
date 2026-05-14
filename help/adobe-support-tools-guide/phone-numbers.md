@@ -2,9 +2,13 @@
 title: 기본 지원 전화 번호 지정
 description: Adobe 지원 전화 번호를 업데이트합니다. 선호하는 지원 전화 번호를 지정하십시오.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
-source-git-commit: 54d988983935a9825f2cf530fc6188b510765dde
+TQID: https://experienceleague.adobe.com/m0Q85GrXnxzxzAH3zOj07ik7WDSHFTEGBomdBTsttEI
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 152
 ht-degree: 0%
 
 ---
@@ -19,7 +23,7 @@ ht-degree: 0%
 
 선호하는 전화 번호를 지정하려면:
 
-1. **[!UICONTROL 을(를) 사용하여 로그인하려면]**&#x200B;계정 프로필`account.adobe.com` 링크를 클릭하세요.
+1. `account.adobe.com`을(를) 사용하여 로그인하려면 **[!UICONTROL 계정 프로필]** 링크를 클릭하세요.
 
    ![로그인](assets/sign-in.png)
 

@@ -2,9 +2,13 @@
 title: 엔터프라이즈 지원
 description: Adobe Experience Cloud 엔터프라이즈 지원 서비스는 향상된 지원 서비스 수준 목표(SLT), 기술 전문 지식의 이점 및 지정 지원 엔지니어 형태의 지지를 제공합니다.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+TQID: https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: 1230
 ht-degree: 100%
 
 ---
@@ -316,9 +320,9 @@ Adobe 솔루션 전문가는 고객과 구현 파트너에 대한 모범 사례 
 
 | 리소스 | 설명 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/ko) | Experience League를 통해 Adobe는 기업이 Adobe 투자에서 기대하는 가치를 달성하도록 지원합니다. 고객이 자기 주도 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 포함하는 개인 맞춤형 성공 경로를 따라가며 배우고, 교류하고, 성장할 수 있는 통합된 공간입니다. |
+| [Experience League](https://experienceleague.adobe.com/) | Experience League를 통해 Adobe는 기업이 Adobe 투자에서 기대하는 가치를 달성하도록 지원합니다. 고객이 자기 주도 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 포함하는 개인 맞춤형 성공 경로를 따라가며 배우고, 교류하고, 성장할 수 있는 통합된 공간입니다. |
 | [교육](https://training.adobe.com/training/) | Adobe 디지털 학습 서비스 과정은 Experience League에서 액세스할 수 있습니다. 학습 과정은 주문형 수업과 강의식 수업을 모두 통합합니다. 여기에서 시장 가치를 인정받은 기술을 습득하고 조직에 포지셔닝하여 성공을 이끌 수 있습니다. |
-| [생산 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
+| [프로덕션 문제 및 시스템 중단](https://status.adobe.com/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 
 ## Adobe 지원의 지역적 범위, 로컬 운영 시간 및 언어 지원

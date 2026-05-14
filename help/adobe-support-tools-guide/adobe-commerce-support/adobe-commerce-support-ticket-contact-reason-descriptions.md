@@ -1,9 +1,14 @@
 ---
 title: Adobe Commerce 지원 티켓 [!UICONTROL 문제 이유] 설명
 description: 이 문서에서는 지원 티켓 **[!UICONTROL 문제 원인]** 필드 옵션을 나열하고 각 옵션에 대한 자세한 설명을 제공합니다.
-source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
+exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
+TQID: https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: 256
 ht-degree: 1%
 
 ---
@@ -48,11 +53,11 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>인프라 문제</td>
-    <td>중단 배포, [!DNL New Relic] 액세스, SSH/sFTP 액세스, 서비스 업그레이드([!DNL OpenSearch], [!DNL MariaDB]/[!DNL MySQL], [!DNL Redis], [!DNL RabbitMQ], PHP 제외), SSL 인증서 등과 같은 클라우드 인프라의 Adobe Commerce에 대한 도움이 필요합니다.<strong>([!DNL Live Search]에 적용되지 않음)</strong></td>
+    <td>중단 배포, [!DNL New Relic] 액세스, SSH/sFTP 액세스, 서비스 업그레이드([!DNL OpenSearch], [!DNL MariaDB]/[!DNL MySQL], [!DNL Redis], [!DNL RabbitMQ], PHP 제외), SSL 인증서 등<strong>([!DNL Live Search]에는 적용되지 않음)</strong>과(와) 같은 클라우드 인프라의 Adobe Commerce에 대한 도움이 필요합니다.</td>
   </tr>  
 </tbody>
 </table>
 
 ## 관련 읽기
 
-* Adobe Commerce용 Experience League 지원 사용 안내서의 [지원 사례를 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case).
+* Adobe Commerce용 Experience League 지원 사용 안내서의 [지원 사례를 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case).

@@ -2,9 +2,13 @@
 title: Creative Cloud 및 Adobe Document Cloud에 대한 엘리트 지원
 description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 엘리트 지원 플랜으로 향상되었습니다.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
@@ -149,7 +153,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
 </thead>
 <tbody>
   <tr>
-    <td><strong>우선 순위 1</strong><br>고객의 생산 비즈니스 기능이 다운되었거나 심각한 데이터 손실 또는 서비스 저하가 발생했으며 기능 및 사용성을 복원하기 위해 즉각적인 주의가 필요합니다.</td>
+    <td><strong>우선 순위 1</strong><br>고객의 프로덕션 비즈니스 기능이 다운되었거나 심각한 데이터 손실 또는 서비스 저하가 발생했으며 기능 및 사용성을 복원하기 위해 즉각적인 주의가 필요합니다.</td>
     <td>24x7/<br>30분</td>
     <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>해당하는 Adobe 제품 및 서비스에 대한 지원 플랜을 구매하는 고객은 Adobe의 지원 엔지니어에게 사례를 빠르게 처리할 수 있는 우선 순위 사례 라우팅을 받게 됩니다.</td>
   </tr>
@@ -316,7 +320,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
 |--- |--- |
 | [엔터프라이즈 학습 및 지원](https://helpx.adobe.com/kr/enterprise.html) | 엔터프라이즈 학습 및 지원은 Adobe 고객이 Adobe Creative Cloud 및 Document Cloud 제품 선택에 대한 자가 진단 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 찾을 수 있는 공간입니다. |
 | [Adobe 지원 커뮤니티](https://community.adobe.com/) | Adobe 지원 커뮤니티는 질문을 올리고, 답변을 얻고, 전문가의 의견을 구하고, 지식을 공유할 수 있는 공간입니다. |
-| [생산 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
+| [프로덕션 문제 및 시스템 중단](https://status.adobe.com/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 
 {style="table-layout:auto"}

@@ -1,13 +1,17 @@
 ---
 title: ' [!DNL Adobe Commerce on cloud pro infrastructure]에 대한 팩트 시트 모니터링'
 description: 이 문서에서는 Adobe Commerce 인프라 모니터링 및 알림에 대한 정보를 제공합니다.
-source-git-commit: a04a7a5669938aeea7e994df5f5700c084650851
+exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
+TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: 511
 ht-degree: 0%
 
 ---
-
 
 # [!DNL Adobe Commerce on cloud pro infrastructure]에 대한 팩트 시트 모니터링
 
@@ -30,11 +34,11 @@ Adobe Commerce 인스턴스는 일반적으로 사용자 지정 코드 및 구�
 | 사이트 가용성 | 설명 |
 |------------|------------|
 | **목표 모니터링** | 사이트 가용성을 추적하려면 |
-| **계측된 날짜** | 높은 [!DNL URL]에 대해 단일 [!DNL SLA]이(가) 선택되었습니다. |
+| **계측된 날짜** | 높은 [!DNL SLA]에 대해 단일 [!DNL URL]이(가) 선택되었습니다. |
 | **설명** | 사이트 가용성은 측정 단위에 대해 구성된 임계값을 기반으로 결정됩니다. 10분 동안 검사가 실패하고 진행 중인 활성 배포가 없는 경우 사이트 중단 알림이 트리거됩니다. |
 | **알림 받는 사람** | 판매자/파트너 및 Adobe. |
 | Adobe의 **작업** | Adobe Commerce 인프라에 문제가 있는 경우 평가 및 수정을 담당합니다. |
-| 판매자별 **작업** | 판매자/파트너가 도입한 사용자 지정 코드 또는 변경 사항으로 인해 문제가 발생한 경우 이 문제를 해결할 책임이 있습니다. 문제 해결은 [사이트 작동 중지 문제 해결사](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html?lang=ko)를 참조하세요. |
+| 판매자별 **작업** | 판매자/파트너가 도입한 사용자 지정 코드 또는 변경 사항으로 인해 문제가 발생한 경우 이 문제를 해결할 책임이 있습니다. 문제 해결은 [사이트 작동 중지 문제 해결사](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html)를 참조하세요. |
 
 ## 디스크 공간 모니터링
 
@@ -46,4 +50,4 @@ Adobe Commerce 인스턴스는 일반적으로 사용자 지정 코드 및 구�
 | **설명** | 알림은 호스트에 대해 사용 가능한 디스크 공간 주위에 구성된 임계값을 기반으로 전송됩니다. 추가 디스크 공간이 관련 마운트([!DNL MySQL] 또는 미디어)에 한 번 자동으로 추가되어 사이트 중단이 발생하지 않도록 하고 판매자가 디스크 공간을 지우고 빠른 디스크 사용량 증가를 유발하는 모든 코드 또는 로그를 식별하고 해결할 수 있는 시간을 제공합니다. |
 | **알림 받는 사람** | 판매자/파트너 및 Adobe. |
 | Adobe의 **작업** | 사이트 중단을 방지하기 위해 지원 티켓을 자동으로 높이고 추가 디스크 공간을 관련 마운트([!DNL MySQL] 또는 미디어)에 자동으로 추가합니다. |
-| 판매자별 **작업** | 진행 중인 경고 수준의 디스크 공간 경고를 받으려면 다음을 참조하십시오. <ul><li>[[!DNL Managed alerts for Adobe Commerce]: 디스크 경고 경고](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: 디스크 위험 경고](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
+| 판매자별 **작업** | 진행 중인 경고 수준의 디스크 공간 경고를 받으려면 다음을 참조하십시오. <ul><li>[[!DNL Managed alerts for Adobe Commerce]: 디스크 경고 경고](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: 디스크 위험 경고](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
