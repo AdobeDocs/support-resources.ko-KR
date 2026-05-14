@@ -1,6 +1,6 @@
 ---
 title: 클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법
-description: 조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)을 제출하여 Adobe Commerce on cloud infrastructure store에 대한 임시 클라우드 용량을 요청할 수 있습니다.
+description: 조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)을 제출하여 Adobe Commerce on cloud infrastructure store에 대한 임시 클라우드 용량을 요청할 수 있습니다.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
 TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 # 클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법
 
-조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받고 있는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)을 제출하여 클라우드 인프라 스토어에서 Adobe Commerce에 대한 임시 클라우드 용량을 추가로 요청할 수 있습니다.
+조직에서 트래픽이 많을 것으로 예상하는 온라인 이벤트를 계획하고 있거나, 갑자기 사이트가 높은 트래픽 이벤트를 받고 있는 경우 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)을 제출하여 클라우드 인프라 스토어에서 Adobe Commerce에 대한 임시 클라우드 용량을 추가로 요청할 수 있습니다.
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ New Relic 경고에서 기준 경고 조건을 사용하여 데이터의 비헤�
 
 이 링크를 따라 New Relic [Intelligence가 적용된 예외 항목 탐지](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/)에 대해 자세히 알아보십시오.
 
-트래픽이 많은 이벤트를 알리는 경고 알림을 받는 경우 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)하여 용량을 추가로 요청해야 할 수 있습니다. 아래 단계를 수행합니다.
+트래픽이 많은 이벤트를 알리는 경고 알림을 받는 경우 [지원 티켓을 제출](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)하여 용량을 추가로 요청해야 할 수 있습니다. 아래 단계를 수행합니다.
 
 ## 사이트 성능을 모니터링하는 방법
 
@@ -62,11 +62,11 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
 
 업계 모범 사례를 기반으로 이러한 정책은 성능에 영향을 주는 경고 및 중요 조건에 대한 임계값을 설정합니다. 경고 임계값을 트리거하는 인프라 또는 애플리케이션 문제가 사이트에 발생하면 New Relic에서 사전 예방적으로 문제를 해결할 수 있도록 경고 알림을 보냅니다. 이러한 정책을 사용하려면 경고 메시지를 수신하도록 알림 채널을 구성해야 합니다.
 
-[성능 기반 경고를 구성](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service#monitor-performance-with-managed-alerts)하는 방법을 알아보려면 이 링크를 따르십시오.
+[성능 기반 경고를 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service#monitor-performance-with-managed-alerts)하는 방법을 알아보려면 이 링크를 따르십시오.
 
 ## 임시 업사이징을 요청하는 단계
 
-임시 추가 클라우드 용량을 요청하려면 Adobe Commerce 지원 센터에서 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket)에 다음 정보를 제출하십시오.
+임시 추가 클라우드 용량을 요청하려면 Adobe Commerce 지원 센터에서 [지원 티켓](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#submit-ticket)에 다음 정보를 제출하십시오.
 
 >[!NOTE]
 >
@@ -116,7 +116,7 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
 
 >[!NOTE]
 >
->업사이즈가 예약되면 자동화된 시스템에서 클라우드 인스턴스의 크기를 조정합니다. 절차가 완료되면 티켓 알림을 받지 못할 수 있습니다. Adobe Commerce용 관찰 도구를 사용하여 AWS 또는 Azure 인스턴스 유형을 보고 [변경 내용을 확인](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)할 수 있습니다.
+>업사이즈가 예약되면 자동화된 시스템에서 클라우드 인스턴스의 크기를 조정합니다. 절차가 완료되면 티켓 알림을 받지 못할 수 있습니다. Adobe Commerce용 관찰 도구를 사용하여 AWS 또는 Azure 인스턴스 유형을 보고 [변경 내용을 확인](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce)할 수 있습니다.
 
 ## 업사이징 내역 보기
 
@@ -134,10 +134,10 @@ Adobe은 다음과 같은 주요 성능 지표를 추적하기 위해 클라우�
 
 * 사이트 성과를 측정하고 개선하는 방법에 대한 통찰력, 방법 및 예는 지원 기술 자료에서 다음 심층 문서를 참조하십시오.
    * [클라우드에서 Adobe Commerce에 대한 CPU 할당 계산](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
-   * [클라우드에서 Adobe Commerce에 대해 호스트 인스턴스의 업사이징이 필요한지 확인](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
-   * [클라우드에서 Adobe Commerce에 대한 호스트의 CPU 구성 확인](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
-* 중단을 식별하는 방법에 대한 자세한 내용은 지원 기술 자료에서 [클라우드에서 Adobe Commerce에 대한 중단 식별 및 측정](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages)을 참조하세요.
+   * [클라우드에서 Adobe Commerce에 대해 호스트 인스턴스의 업사이징이 필요한지 확인](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
+   * [클라우드에서 Adobe Commerce에 대한 호스트의 CPU 구성 확인](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
+* 중단을 식별하는 방법에 대한 자세한 내용은 지원 기술 자료에서 [클라우드에서 Adobe Commerce에 대한 중단 식별 및 측정](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages)을 참조하세요.
 * 용량 증가를 활용할 필요가 없도록 사이트 성능을 개선하는 방법에 대한 자세한 내용은 개발자 설명서에서 다음 문서를 참조하십시오.
-   * [이미지 크기 조정](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
-   * [전체 페이지 캐싱](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
-   * [ECE-Tools](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
+   * [이미지 크기 조정](https://experienceleague.adobe.com/ko/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
+   * [전체 페이지 캐싱](https://experienceleague.adobe.com/ko/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [ECE-Tools](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
