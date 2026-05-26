@@ -91,7 +91,7 @@ ht-degree: 2%
 
 ## 제품 상태 경고
 
-섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
+섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
 
 ![제품 상태 경고 섹션](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
 
@@ -117,7 +117,7 @@ ht-degree: 2%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
 
-Adobe [상태 사이트](https://status.adobe.com/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
