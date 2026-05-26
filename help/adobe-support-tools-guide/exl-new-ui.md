@@ -1,15 +1,14 @@
 ---
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
 
 ---
 
-# Experience League 지원 포털 - 새 사용자 인터페이스
+# Experience League 지원 포털 - 새로운 사용자 인터페이스
 
 ## 개요
 
