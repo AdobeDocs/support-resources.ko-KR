@@ -4,16 +4,12 @@ description: Experience League 지원에 대한 최신 릴리스 정보입니다
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +21,24 @@ ht-degree: 1%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 5월 26일 - Experience League 지원 포털 UI 업데이트
+
+1. 새로운 중앙 집중식 홈 페이지는 우선 순위별 사례 수, 응답 대기 중인 사례, 실시간 제품 상태 및 단일 대시보드의 시스템 경고 등 지원 활동을 한 눈에 볼 수 있는 보기를 제공합니다.
+
+1. 왼쪽 상단 모서리의 **[!UICONTROL 조직 전환기]**&#x200B;를 사용하면 조직 간에 전환할 수 있으며, 포털은 선택한 조직에 대한 사례 데이터, 제품 상태 및 지원 정보를 자동으로 업데이트합니다.
+
+1. 포털 토글을 사용하면 언제든지 다시 디자인된 포털과 현재 Experience League 지원 포털 간을 전환할 수 있습니다. 두 경험은 완전히 동기화된 상태로 유지되므로 사례 데이터가 최신 상태로 유지됩니다.
+
+1. 조직에 권한이 부여된 모든 Adobe 제품에 대한 실시간 작동 상태를 모니터링하고 주요, 부수적, 잠재적, 유지 관리 및 공지를 포함하여 이벤트 유형별로 시스템 경고를 필터링할 수 있습니다.
+
+1. Ultimate Success plan 고객은 이제 전용 **[!UICONTROL 내 성공]** 페이지에 액세스하여 성공 팀에 대한 세부 정보와 Adobe 참여를 지원할 수 있는 리소스를 확인할 수 있습니다.
+
+1. 새롭게 디자인된 지원 포털은 Adobe Commerce을 제외한 모든 제품에 사용할 수 있습니다.
+
+>[!NOTE]
+>
+>사례 만들기, 사례 세부 정보 및 내 사례 페이지에 대한 업데이트는 향후 릴리스에 예정되어 있습니다. 그때까지 이러한 페이지는 현재 Experience League 지원 포털에서 계속 사용할 수 있습니다.
 
 ## 2026년 5월 7일 - 콜백 요청 기능 확장
 
