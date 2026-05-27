@@ -1,7 +1,7 @@
 ---
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
-source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
+source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 **[!UICONTROL 홈]** 페이지는 지원 활동을 위한 중앙 허브 역할을 합니다. 지원 환경에 대한 개요와 주요 기능에 대한 빠른 액세스를 제공합니다.
 
-![새 EXL UI에 대한 홈 페이지](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+![새 EXL UI에 대한 홈 페이지](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 왼쪽 탐색 패널에서는 다음 섹션에 액세스할 수 있습니다.
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 **[!UICONTROL 서비스 분석]** 섹션에서 지원 사례 활동에 대한 요약을 제공합니다. **[!UICONTROL 내 사례]**&#x200B;와(과) **[!UICONTROL 내 조직 사례]** 보기 간에 전환합니다. **[!UICONTROL 내 사례]** 보기에는 개인별 사례 통계가 표시되고 **[!UICONTROL 내 조직 사례]** 보기에는 조직 전체의 사례 통계가 표시됩니다.
 
-![서비스 분석 섹션](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![서비스 분석 섹션](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 다음 지표를 사용할 수 있습니다.
 
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 이 섹션에는 우선 순위 수준별 지원 사례에 대한 시각적 분류가 표시됩니다.
 
-우선 순위 섹션별 ![사례 수](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+우선 순위 섹션별 ![사례 수](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 **[!UICONTROL 내 서비스 케이스]** 및 **[!UICONTROL 내 조직 서비스 케이스]** 선택이 이 차트에 적용되어 개인 또는 조직 수준에서 볼 수 있습니다.
 
@@ -85,7 +85,7 @@ ht-degree: 2%
 - 제출 날짜
 - 상태
 
-![내 제출된 사례 섹션](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![내 제출된 사례 섹션](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 현재 Experience League 지원 포털에서 서비스 케이스 세부 정보를 보려면 **[!UICONTROL 서비스 케이스 ID]**&#x200B;를 선택하십시오. 전체 서비스 케이스 목록을 보려면 **[!UICONTROL 모든 서비스 케이스 보기]**&#x200B;를 선택하십시오.
 
@@ -93,7 +93,7 @@ ht-degree: 2%
 
 섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
 
-![제품 상태 경고 섹션](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![제품 상태 경고 섹션](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## 시스템 상태 경고
 
@@ -115,7 +115,7 @@ ht-degree: 2%
 
 추가 세부 정보를 확장하고 보려면 경고를 선택합니다.
 
-![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
 Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
@@ -131,7 +131,7 @@ Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 
 >  
 >이 페이지는 **[!UICONTROL Ultimate Success]** 플랜의 고객만 사용할 수 있습니다.
 
-![내 성공 페이지](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![내 성공 페이지](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 이 페이지에는 다음이 포함됩니다.
 
@@ -148,4 +148,4 @@ Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 
 
 이 섹션에는 전담 Adobe 성공 팀이 표시됩니다. 전자 메일을 보내려면 팀원 옆의 **[!UICONTROL 연락처]**&#x200B;를 선택하세요.
 
-![Adobe 성공 팀 섹션](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Adobe 성공 팀 섹션](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
