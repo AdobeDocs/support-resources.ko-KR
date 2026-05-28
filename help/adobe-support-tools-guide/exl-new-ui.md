@@ -1,7 +1,7 @@
 ---
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 포털의 토글을 사용하여 다시 디자인된 Experience League 지원 포털과 현재 포털 사이를 전환할 수 있습니다.
 
-![새 UI](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![새 UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 두 포털 모두 동기화된 상태로 유지되므로 사례 데이터와 지원 정보가 경험 간에 일관되게 유지됩니다.
 
@@ -91,7 +91,7 @@ ht-degree: 2%
 
 ## 제품 상태 경고
 
-섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
+섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
 
 ![제품 상태 경고 섹션](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
@@ -117,7 +117,7 @@ ht-degree: 2%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+Adobe [상태 사이트](https://status.adobe.com/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
