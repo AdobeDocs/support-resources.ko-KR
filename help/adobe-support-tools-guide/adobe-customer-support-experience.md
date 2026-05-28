@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
 workflow-type: tm+mt
-source-wordcount: 1499
+source-wordcount: 1510
 ht-degree: 0%
 
 ---
@@ -92,9 +92,9 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 
 1. **[!UICONTROL 홈]** 메뉴에서 **[!UICONTROL 지원 티켓 열기]**, **[!UICONTROL 사례 보기 및 관리]**, **[!UICONTROL 콜백 요청]**&#x200B;하거나 추가 학습 리소스에 액세스할 수 있습니다.
 
-**[!UICONTROL 콜백 요청]** 옵션을 사용하면 P2 및 P3 사례에 대한 화면 공유로 웹 모임을 예약할 수 있으므로 보다 빠르고 효율적인 문제 해결을 수행할 수 있습니다. Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target 및 Workfront에서 사용할 수 있습니다. 고객의 편의에 따라 회의를 예약할 수 있습니다. 또한 Adobe Commerce을 제외한 위에 언급된 모든 제품에서 P1 사례에 대한 즉각적인 전화 콜백을 제공합니다.
+   **[!UICONTROL 콜백 요청]** 옵션을 사용하면 P2 및 P3 사례에 대한 화면 공유로 웹 모임을 예약할 수 있으므로 보다 빠르고 효율적인 문제 해결을 수행할 수 있습니다. Adobe Experience Manager, Admin Console, Adobe Journey Optimizer, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, GenStudio, Marketo, Real-Time Customer Data Platform, Target 및 Workfront에서 사용할 수 있습니다. 고객의 편의에 따라 회의를 예약할 수 있습니다. 또한 Adobe Commerce을 제외한 위에 언급된 모든 제품에서 P1 사례에 대한 즉각적인 전화 콜백을 제공합니다.
 
-![Experience league 홈 메뉴](./assets/home-menu.png)
+   ![Experience league 홈 메뉴](./assets/home-menu.png)
 
 1. 사례를 제출하려면 **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택하세요. 사이드바 메뉴에서 **[!UICONTROL 티켓 열기]**&#x200B;를 선택할 수도 있습니다.
 
