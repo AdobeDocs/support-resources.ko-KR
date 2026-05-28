@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 1%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 5월 28일 - [!UICONTROL 콜백 요청] 기능 확장
+
+이제 Adobe Journey Optimizer, Customer Journey Analytics 및 Real-Time Customer Data Platform 제품 사용자가 **[!UICONTROL 콜백 요청]** 기능을 사용할 수 있습니다.
 
 ## 2026년 5월 26일 - Experience League 지원 포털 UI 업데이트
 
@@ -44,7 +48,7 @@ ht-degree: 1%
 >
 >사례 만들기, 사례 세부 정보 및 내 사례 페이지에 대한 업데이트는 향후 릴리스에 예정되어 있습니다. 그때까지 이러한 페이지는 현재 Experience League 지원 포털에서 계속 사용할 수 있습니다.
 
-## 2026년 5월 7일 - 콜백 요청 기능 확장
+## 2026년 5월 7일 - [!UICONTROL 콜백 요청] 기능 확장
 
 이제 Adobe Commerce 및 Adobe GenStudio 모두에서 콜백 요청 기능을 사용할 수 있습니다. Adobe Commerce 고객은 자신에게 가장 적합한 시점에 콜백을 편리하게 예약할 수 있는 반면, Adobe GenStudio 고객은 즉시 또는 예약된 콜백을 요청할 수 있는 옵션이 있습니다.
 
@@ -78,13 +82,13 @@ ht-degree: 1%
 
 1. 사용자는 개별 인사이트에 대한 피드백을 제출하여 Adobe이 시스템 인사이트의 정확성과 관련성을 지속적으로 개선할 수 있도록 지원할 수 있습니다.
 
-## 2026년 4월 23일 - 콜백 요청 기능 확장
+## 2026년 4월 23일 - [!UICONTROL 콜백 요청] 기능 확장
 
-이제 Analytics, Admin Console, Audience Manager 및 Target 제품 사용자가 콜백 요청 기능을 사용할 수 있습니다.
+이제 Analytics, Admin Console, Audience Manager 및 Target 제품 사용자가 **[!UICONTROL 콜백 요청]** 기능을 사용할 수 있습니다.
 
-## 2026년 4월 8일 - 콜백 요청 기능 확장
+## 2026년 4월 8일 - [!UICONTROL 콜백 요청] 기능 확장
 
-이제 Marketo 제품 사용자가 콜백 요청 기능을 사용할 수 있습니다.
+이제 Marketo 제품 사용자가 **[!UICONTROL 콜백 요청]** 기능을 사용할 수 있습니다.
 
 ## 2026년 3월 30일 - 고급 사례 양식
 
@@ -143,9 +147,9 @@ ht-degree: 1%
 
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 별표(*)를 필수 필드 표시기로 추가하여 완전성을 보장하고 제출 오류를 줄입니다.
 
-## 2026년 3월 18일 - 콜백 요청 기능 확장
+## 2026년 3월 18일 - [!UICONTROL 콜백 요청] 기능 확장
 
-이제 Experience League에서 콜백 요청 옵션을 제공하여 화면 공유 기능을 통해 셀프 서비스 웹 모임 일정을 활성화하여 문제를 보다 빠르게 해결할 수 있습니다.
+이제 Experience League에서 **[!UICONTROL 콜백 요청]** 옵션을 제공하여 화면 공유 기능을 통해 셀프 서비스 웹 모임 일정을 활성화하여 문제를 더 빠르게 해결할 수 있습니다.
 
 - 이 기능은 Adobe Experience Manager, Campaign 및 Workfront에서 사용할 수 있습니다.
 - 고객은 자신의 편의에 따라 모임을 예약할 수 있고, 즉석 초대장도 받을 수 있다.
