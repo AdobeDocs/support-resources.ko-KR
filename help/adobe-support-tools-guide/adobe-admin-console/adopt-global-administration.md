@@ -1,13 +1,13 @@
 ---
 title: 글로벌 관리 채택
-description: Global Admin Console 정의 및 액세스 요청 방법을 알아봅니다.
+description: Global Admin Console이 Adobe Admin Consoles를 그룹화하는 방법, 하위 Admin Consoles의 정의 및 액세스를 요청하는 방법에 대해 알아봅니다.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,19 @@ ht-degree: 0%
 
 Enterprise에 적용됩니다.
 
-Global Admin Console 사용의 이점에 대해 알아보고 액세스 방법을 알아보십시오. [자세히 알아보기](#request-access-to-the-global-admin-console).
+Global Admin Console 사용의 이점에 대해 알아보고 액세스 방법을 알아보십시오. [자세히 알아보기](#request-access-to-the-global-admin-console)
 
 Adobe Admin Console에서 지원 사례를 만들어 Global Admin Console 액세스를 요청합니다. [Global Admin Console](https://global-admin-console.adobe.com)에 로그인합니다.
 
 ## 소개
 
-[Global Admin Console](https://global-admin-console.adobe.com)은(는) 관리 콘솔이 많거나 기본 Admin Console을 여러 콘솔로 분리하려는 복잡한 조직 구조를 가진 고객을 위한 것입니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다. 기존 Admin Console을 조직 차트와 같은 계층 구조로 중첩하여 분산된 기업 전체에 걸쳐 투명성을 제공합니다.
+[Global Admin Console](https://global-admin-console.adobe.com)이(가) 여러 [Adobe Admin Consoles](https://adminconsole.adobe.com)을(를) 하나의 계층 구조로 그룹화합니다. 해당 계층의 각 조직은 Adobe Admin Console입니다. 관리자는 각 콘솔에서 동일한 핵심 기능을 사용하여 해당 조직의 사용자, 라이선스 및 설정을 관리합니다. Global Admin Console은 하위 Admin Console 구성, 제품 및 라이선스 계층 할당, 그룹 전반에 조직 수준 정책 적용 등의 콘솔 간 관리를 추가합니다.
 
-Global Admin Console은 기존 Admin Console의 기능을 대체하거나 변경하지 않습니다. 이 워크플로우는 맨 위에 루트 조직이 있고 해당 루트 조직 아래에 모든 콘솔이 중첩된 계층 구조로 작동합니다. Admin Console이 루트 콘솔로 작동하는 계층 구조를 구매하고 만드는 데 중점을 둔 선택 기준이 있습니다.
+Global Admin Console은 복잡한 조직 구조를 가진 고객 중 Admin Console이 많거나 기본 Admin Console을 여러 콘솔로 분할하려는 고객을 위한 것입니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다. 기존 Admin Console을 조직 차트와 같은 계층 구조로 중첩하여 분산된 기업 전체에 걸쳐 투명성을 제공합니다.
+
+하위 Admin Console(Global Admin Console에서는 *하위 조직*&#x200B;이라고 함)는 계층 구조의 다른 콘솔 아래에 중첩된 모든 Adobe Admin Console입니다. Global Admin Console에 연결된 Admin Console만 이러한 의미에서 하위 콘솔이며 전 세계의 모든 Adobe Admin Console은 아닙니다.
+
+Global Admin Console은 기존 Admin Console에서 일상적인 기능을 대체하거나 변경하지 않습니다. 이는 계층 구조로 작동하며 맨 위에 루트 조직이 있고 그 아래에 모든 연결된 콘솔이 중첩되어 있습니다. 루트 콘솔은 구매 및 조직 설정을 기반으로 결정됩니다.
 
 Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Global Admin Console 백서](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)를 참조하고 다음 [비디오](https://youtu.be/FLBWR78wpok)를 시청하십시오.
 
@@ -44,7 +48,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 - 제품 프로필 및 사용자 그룹을 만들고, 편집하고, 삭제합니다.
 - 보고를 위해 또는 다른 프로세스에서 사용하기 위해 조직 정보를 내보냅니다.
 - 조직에 대한 업데이트 및 조직 계층에 대한 변경 사항을 가져옵니다.
-- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
+- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
 
 ## 자격 기준
 
@@ -78,7 +82,7 @@ Adobe은 조직이 다음 기준 중 하나 이상을 충족하는 경우 전역
 1. **[!UICONTROL 직면한 문제의 특성 설명]**&#x200B;에서 조직이 Global Admin Console 액세스를 요청한다고 명시하고 다음 세부 정보를 포함하십시오.
 
    - Admin Console의 **이름 및 콘솔 ID**(URL에서 &quot;@AdobeOrg&quot; 앞에 있는 일련의 숫자 및 문자로 표시됨)을(를) 사용하여 *루트(상위)* 조직으로 지정하거나 새 콘솔을 요청하고 원하는 이름을 지정하십시오.
-- 경우에 따라 새 콘솔이 기본 옵션입니다. Adobe 담당자가 안내할 수 있습니다. 나중에 변경할 수 없으므로 *루트* 조직을 신중하게 선택하십시오.
+- 경우에 따라 새 콘솔이 기본 옵션입니다. Adobe 담당자가 안내할 수 있습니다. 나중에 변경하기가 어렵기 때문에 *루트* 조직을 신중하게 선택하십시오.
    - 최소 한 명 이상의 현재 시스템 관리자를 전역 관리자 역할에 할당합니다. 나중에 관리자를 추가할 수 있습니다.
    - Adobe 담당자 또는 Customer Success Manager의 이름 및 이메일 주소.
 
