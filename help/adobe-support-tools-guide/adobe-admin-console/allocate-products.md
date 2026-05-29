@@ -51,7 +51,7 @@ Global Admin Console의 **[!UICONTROL 제품 할당]** 탭에는 조직 계층 �
 1. 드롭다운 목록에서 제품을 선택하여 제품이 다른 조직에 어떻게 할당되는지 확인합니다.\
    조직에 현재 제품이 없는 경우 **[!UICONTROL 추가 +]** 아이콘이 나타납니다.
 
-   >[!Note]
+   >[ !Note]
    >
    >하위 조직이 이미 구매 계약을 가지고 있는 경우 상위 조직에서 해당 하위 조직으로의 제품 할당이 제한될 수 있습니다. [자세히 알아보기](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)
 
@@ -101,7 +101,7 @@ KBA(기술 자료 인증) 및 PA(전화 인증)와 같은 인증 추가 기능�
 
 ![제품 할당](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!I중요]
+>[ !I중요]
 >
 >계층 구조의 일부인 ETLA 계약이 비활성화되면 **[!UICONTROL 개요]** 및 **[!UICONTROL 제품 할당]** 페이지에서 제품이 제거됩니다.
 
