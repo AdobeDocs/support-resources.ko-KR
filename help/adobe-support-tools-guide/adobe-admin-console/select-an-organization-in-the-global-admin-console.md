@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '705'
 ht-degree: 1%
 
 ---
@@ -20,11 +20,11 @@ Global Admin Console 내에서 편집할 조직을 선택하는 방법에 대해
 >
 >[Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)에 대한 액세스 권한이 있으면 먼저 조직의 이름, 사용자 그룹, 제품 프로필, 관리자 및 조직 정책을 보고 관리할 조직을 선택할 수 있습니다. 로그인하려면 [Global Admin Console](https://global-admin-console.adobe.com/)&#x200B;(으)로 이동하세요.
 
-Global Admin Console은 Adobe 리소스에 대한 조직의 중앙 관리 허브 역할을 합니다. 전역 관리자는 다음과 같은 작업을 수행할 수 있습니다.
+Global Admin Console은 계층 구조에서 Adobe Admin Console을 그룹화합니다. 선택하는 각 조직은 하나의 Adobe Admin Console입니다. 전역 관리자는 다음과 같은 작업을 수행할 수 있습니다.
 
-- 조직 아래에 하위 조직 만들기
-- 이들을 관리할 시스템 관리자 할당
-- 하위 조직에 자원을 분배하여 해당 조직의 사용자에게 관리 및 지정합니다.
+- 조직 아래에 하위 Admin Console(하위 조직) 만들기
+- 각 하위 콘솔을 관리하도록 시스템 관리자 할당
+- 시스템 관리자가 하위 Admin Console에 지원되는 제품 리소스/라이선스를 할당하여 해당 콘솔의 사용자에게 할당합니다
 
 >[!NOTE]
 >

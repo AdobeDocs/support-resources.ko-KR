@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 글로벌 관리자 기능을 탐색하고 각 개별 조직의 관리자에게 사용자, 제품 라이선스 및 그룹 관리를 위임하고 배포하는 방법을 알아봅니다.
 
-Global Admin Console에서 조직을 선택하고 **[!UICONTROL 관리자]** 탭으로 이동하여 관리자 권한을 추가, 편집 또는 제거할 수 있습니다. 자세한 내용은 [전역 관리 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)을 참조하세요. [Admin Console에 로그인](https://adminconsole.adobe.com)하려면 여기로 이동하세요.
-
+Global Admin Console에서 조직을 선택하고 **[!UICONTROL 관리자]** 탭으로 이동하여 관리자 권한을 추가, 편집 또는 제거할 수 있습니다. 계층 구조의 각 조직은 Adobe Admin Console입니다. Global Admin Console에서 해당 콘솔을 그룹화하는 방법은 [전역 관리 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)을 참조하십시오. 계층 전체 작업을 수행하려면 [Global Admin Console](https://global-admin-console.adobe.com)에 로그인하고, 단일 조직 내 작업을 수행하려면 [Adobe Admin Console](https://adminconsole.adobe.com)에 로그인하십시오.
 
 Global Admin Console에서는 전역 관리자라는 역할을 도입했습니다. 이 역할은 시스템 관리자와는 다르며 다음을 수행할 수 있습니다.
 
@@ -44,20 +43,20 @@ Global Admin Console은 여러 조직과 Admin Console에서 작동하도록 디
 <tr>
     <td colspan="2">하위 조직 생성, 재상위 및 삭제</td>
     <td align="center">예</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
   </tr>
 
 <tr>
     <td colspan="2">여러 조직과 작업</td>
     <td align="center">예</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
   </tr>
 
 <tr>
     <td rowspan="2" valign="middle">관리자 관리</td>
     <td>하나 이상의 조직용</td>
     <td align="center">예</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
   </tr>
 
 <tr>
@@ -75,42 +74,42 @@ Global Admin Console은 여러 조직과 Admin Console에서 작동하도록 디
 <tr>
     <td colspan="2">정책 정의 및 관리</td>
     <td align="center">예</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
   </tr>
 
 <tr>
     <td colspan="2">조직 전체에 제품 할당</td>
     <td align="center">예</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
   </tr>
 
 <tr>
     <td colspan="2">사용자에게 제품 할당</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
     <td align="center">예</td>
   </tr>
 
 <tr>
     <td colspan="2">사용자 관리</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
     <td align="center">예</td>
   </tr>
 
 <tr>
     <td colspan="2">패키지 관리</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
     <td align="center">예</td>
   </tr>
 
 <tr>
     <td colspan="2">도메인 및 디렉터리 설정</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
     <td align="center">예</td>
   </tr>
 
 <tr>
     <td colspan="2">엔터프라이즈 스토리지 및 암호화 관리</td>
-    <td align="center">아니요</td>
+    <td align="center">아니오</td>
     <td align="center">예</td>
   </tr>
 </table>

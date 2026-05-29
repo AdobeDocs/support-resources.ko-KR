@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Enterprise에 적용됩니다.
 
-글로벌 관리자가 리소스를 하위 조직에 분배하여 각 조직 내에서 효과적인 리소스 관리와 사용자 할당을 가능하게 하는 방법을 알아봅니다.
+전역 관리자가 하위 조직(계층 구조의 하위 Admin Console)에 리소스를 분배하여 각 콘솔의 시스템 관리자가 사용자에게 라이선스를 할당하는 방법을 알아봅니다.
 
-[Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)에서 **[!UICONTROL 제품 할당]** 탭으로 이동한 다음 하위 조직에 할당할 제품을 선택하십시오.
+[Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)에서 **[!UICONTROL 제품 할당]** 탭으로 이동한 다음 하위 조직에 할당할 제품을 선택하십시오. 글로벌 관리자는 제품을 계층 구조에 할당하지만 최종 사용자에게 라이센스를 할당하지 않습니다. 이러한 작업은 각 하위 Adobe Admin Console에 유지됩니다.
 
 [Global Admin Console](https://global-admin-console.adobe.com)에 로그인합니다.
 
@@ -36,10 +36,10 @@ Enterprise에 적용됩니다.
 
 이는 Admin Console에 스토리지 탭이 있는 고객에게 적용됩니다. 스토리지 탭이 표시되지 않으면 Admin Console이 엔터프라이즈 스토리지 모델로 아직 업데이트되지 않은 것입니다. 조직이 마이그레이션되면 다음과 같은 변경 사항이 표시됩니다.
 
-- 전역 관리자는 계층 전체에서 저장소 할당량 및 사용에 액세스할 수 있으며 **[!UICONTROL Global Admin Console]**&#x200B;의 [제품 할당](https://adminconsole.adobe.com/) 탭을 사용하여 조직에 저장소를 할당할 수 있습니다.
-- 시스템 관리자와 스토리지 관리자는 조직 전체에 걸쳐 스토리지를 완벽하게 제어하고 파악할 수 있습니다. **[!UICONTROL Adobe Admin Console]**&#x200B;의 [저장소](https://adminconsole.adobe.com/) 탭을 사용하여 저장소를 추적하고 관리할 수 있습니다.
+- 전역 관리자는 계층 전체에서 저장소 할당량 및 사용에 액세스할 수 있으며 [Global Admin Console](https://adminconsole.adobe.com/)의 **[!UICONTROL 제품 할당]** 탭을 사용하여 조직에 저장소를 할당할 수 있습니다.
+- 시스템 관리자와 스토리지 관리자는 조직 전체에 걸쳐 스토리지를 완벽하게 제어하고 파악할 수 있습니다. [Adobe Admin Console](https://adminconsole.adobe.com/)의 **[!UICONTROL 저장소]** 탭을 사용하여 저장소를 추적하고 관리할 수 있습니다.
 
-Adobe Creative Cloud 스토리지에 대한 업데이트를 통해 최종 사용자는 조직에서 구매한 스토리지 용량까지 스토리지 할당량을 유연하게 선택할 수 있습니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html).
+Adobe Creative Cloud 스토리지에 대한 업데이트를 통해 최종 사용자는 조직에서 구매한 스토리지 용량까지 스토리지 할당량을 유연하게 선택할 수 있습니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)
 
 ## 제품 할당
 
@@ -51,9 +51,9 @@ Global Admin Console의 **[!UICONTROL 제품 할당]** 탭에는 조직 계층 �
 1. 드롭다운 목록에서 제품을 선택하여 제품이 다른 조직에 어떻게 할당되는지 확인합니다.\
    조직에 현재 제품이 없는 경우 **[!UICONTROL 추가 +]** 아이콘이 나타납니다.
 
-   >[ !N참고]
+   >[ !Note]
    >
-   >하위 조직이 이미 구매 계약을 가지고 있는 경우 상위 조직에서 해당 하위 조직으로의 제품 할당이 제한될 수 있습니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
+   >하위 조직이 이미 구매 계약을 가지고 있는 경우 상위 조직에서 해당 하위 조직으로의 제품 할당이 제한될 수 있습니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)
 
 1. 제품을 할당하려면 관련 조직의 **[!UICONTROL 추가 +]** 아이콘을 선택하십시오.\
    일부 제품에는 할당 가능한 리소스가 두 개 이상 포함되어 있습니다. 이 경우 대화 상자에 여러 리소스가 나열되며 각 리소스에 대한 값을 제공해야 합니다. 예를 들어 Adobe Stock에는 Adobe Stock 이미지 크레딧과 프리미엄 크레딧이 포함될 수 있습니다.
@@ -81,7 +81,7 @@ KBA(기술 자료 인증) 및 PA(전화 인증)와 같은 인증 추가 기능�
 이러한 경우 상위 조직에서 하위 조직으로의 할당은 제한됩니다.
 
 - 두 조직에 서로 다른 계약이 있고 할당하려는 제품이 두 조직에 모두 있는 경우 계약 간에 동일한 오퍼를 혼합할 수 없습니다.
-- 두 조직에 동일한 계약이 있는 경우 Adobe 담당자에게 연락하거나 Global Admin Console의 [제품 할당](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html)이 차단되도록 지정하는 **[!UICONTROL 지원 제출]** 사례를 통해 제품 할당 권한을 요청할 수 있습니다.
+- 두 조직에 동일한 계약이 있는 경우 Adobe 담당자에게 연락하거나 Global Admin Console의 **[!UICONTROL 제품 할당]**&#x200B;이 차단되도록 지정하는 [지원 제출](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html) 사례를 통해 제품 할당 권한을 요청할 수 있습니다.
 
 ## 초과 할당
 

@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 1%
+source-wordcount: '2011'
+ht-degree: 3%
 
 ---
 
@@ -43,11 +43,11 @@ Admin Console에 로그인할 수 없는 경우 [Adobe 계정 로그인 문제 �
 
 ![Admin Console 조직 선택](assets/admin-console-select-your-org.png "조직 선택기")
 
-조직이 Global Admin Console의 일부인 경우 조직 이름 옆에 계층 아이콘이 표시됩니다. 또한 조직의 경로를 보고 계층 내에서 조직의 배치를 결정할 수 있습니다. 예를 들어 스크린샷에서 관리자는 조직 B의 멤버이고 이 조직의 Global Admin Console 경로는 A > B입니다. 여기서 B는 조직 A의 하위 항목입니다.
+조직이 Global Admin Console의 일부인 경우 조직 이름 옆에 계층 아이콘이 표시됩니다. 또한 조직의 경로를 보고 계층 내에서 조직의 배치를 결정할 수 있습니다. 예를 들어 스크린샷에서 관리자는 최상위 조직의 멤버이고 하위 조직에는 상위 조직 > 하위 조직과 같은 Global Admin Console 경로가 있습니다. 이 경로에서는 하위 조직이 상위 아래에 중첩됩니다. 이 맥락에서 경로의 각 조직은 Adobe Admin Console이고, 하위 조직은 계층 구조의 하위 Admin Console입니다.
 
 ![Admin Console에서 자식 조직을 선택](assets/admin-console-select-your-org-hierarchy.png "Global Admin Console의 계층에서 조직 배치")
 
-복잡한 조직 구조에 많은 Admin Console이 있거나 기본 Admin Console을 여러 콘솔로 나누려는 경우 [Global Admin Console을 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)할 수 있습니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다. Global Admin Console은 기존 Admin Console을 조직 차트와 같은 계층 구조로 중첩하여 분산 엔터프라이즈 전반에 걸쳐 투명성을 제공합니다.
+복잡한 조직 구조에 많은 Admin Console이 있거나 기본 Admin Console을 여러 콘솔로 나누려는 경우 [Global Admin Console을 채택](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)할 수 있습니다. Global Admin Console은 이러한 Adobe Admin Consoles를 조직도와 같은 계층 구조로 그룹화하므로 글로벌 관리자는 하위 콘솔을 관리하고 시스템 관리자가 각 콘솔에서 일상적인 관리를 지속하는 동안 해당 콘솔에 제품을 할당할 수 있습니다. 예를 들어, 다국적 기업, 교육 컨소시엄, 대규모 학군, 대형 정부 기관 등이 이에 해당한다.
 
 ## [!UICONTROL 제품] {#products}
 
@@ -55,7 +55,7 @@ Admin Console에 로그인할 수 없는 경우 [Adobe 계정 로그인 문제 �
 
 **Enterprise**
 
-**[!UICONTROL Admin Console]**&#x200B;의 [제품](https://adminconsole.adobe.com) 페이지에서는 제품 및 제품 프로필을 관리하는 옵션을 제공합니다. 제품 프로필을 사용하면 플랜에서 사용할 수 있는 Adobe 애플리케이션 및 서비스의 전체 또는 하위 집합을 활성화하고 제공된 제품 또는 플랜과 관련된 설정을 사용자 지정할 수 있습니다. 그런 다음 제품 관리자라는 관리자를 제품 프로필에 할당할 수 있습니다. 이러한 관리자는 관리하는 제품 프로필에 최종 사용자를 추가합니다.
+[Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 제품]** 페이지에서는 제품 및 제품 프로필을 관리하는 옵션을 제공합니다. 제품 프로필을 사용하면 플랜에서 사용할 수 있는 Adobe 애플리케이션 및 서비스의 전체 또는 하위 집합을 활성화하고 제공된 제품 또는 플랜과 관련된 설정을 사용자 지정할 수 있습니다. 그런 다음 제품 관리자라는 관리자를 제품 프로필에 할당할 수 있습니다. 이러한 관리자는 관리하는 제품 프로필에 최종 사용자를 추가합니다.
 
 자세한 내용은 다음 문서를 참조하십시오.
 
@@ -64,7 +64,7 @@ Admin Console에 로그인할 수 없는 경우 [Adobe 계정 로그인 문제 �
 
 **팀**
 
-**[!UICONTROL Admin Console]**&#x200B;의 [제품](https://adminconsole.adobe.com) 페이지에서 사용자에게 제품 라이선스를 할당할 수 있습니다. 사용자 또는 그룹에 제품 라이선스를 할당하려면 **[!UICONTROL 제품]** 페이지에서 원하는 제품을 선택하고 **[!UICONTROL 사용자 추가]**&#x200B;를 클릭하십시오.
+[Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 제품]** 페이지에서 사용자에게 제품 라이선스를 할당할 수 있습니다. 사용자 또는 그룹에 제품 라이선스를 할당하려면 **[!UICONTROL 제품]** 페이지에서 원하는 제품을 선택하고 **[!UICONTROL 사용자 추가]**&#x200B;를 클릭하십시오.
 
 사용자의 이름 또는 이메일 주소를 입력합니다. 유효한 이메일 주소를 지정하고 화면에 정보를 입력하여 기존 사용자를 검색하거나 사용자를 추가할 수 있습니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 애플리케이션에 대한 액세스를 확인하는 이메일이 사용자 또는 그룹에 전송됩니다.
 
@@ -75,7 +75,7 @@ Admin Console에 로그인할 수 없는 경우 [Adobe 계정 로그인 문제 �
 
 ## [!UICONTROL 사용자] {#users}
 
-**[!UICONTROL Admin Console]**&#x200B;의 [사용자](https://adminconsole.adobe.com) 페이지에서는 사용자 계정을 만들고, 검색하고, 업데이트하고, 제거할 수 있습니다. 이러한 사용자 계정은 조직의 최종 사용자에게 Adobe 제품 및 서비스 권한을 부여합니다. 워크플로우 벌크 편집 을 사용하여 사용자를 추가하거나 사용자 세부 사항 및 라이선스 할당을 수정할 수도 있습니다.
+[Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 사용자]** 페이지에서는 사용자 계정을 만들고, 검색하고, 업데이트하고, 제거할 수 있습니다. 이러한 사용자 계정은 조직의 최종 사용자에게 Adobe 제품 및 서비스 권한을 부여합니다. 워크플로우 벌크 편집 을 사용하여 사용자를 추가하거나 사용자 세부 사항 및 라이선스 할당을 수정할 수도 있습니다.
 
 자세한 내용은 다음 문서를 참조하십시오.
 
@@ -120,7 +120,7 @@ Enterprise, VIP, VIP Marketplace 또는 Teams 등 계획에 따라 다음과 같
 
 이 탭을 볼 수 있는 사람: 시스템 관리자 및 스토리지 관리자([풀링된 스토리지 모델로 마이그레이션한 고객만 해당](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)).
 
-**[!UICONTROL Admin Console]**&#x200B;의 [저장소 페이지](https://adminconsole.adobe.com)을(를) 통해 Creative Cloud 응용 프로그램 전반의 저장소를 볼 수 있습니다. 스토리지 할당량은 조직에서 구매한 스토리지 용량까지 최종 사용자가 유연하게 사용할 수 있습니다.
+[Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 저장소 페이지]**&#x200B;을(를) 통해 Creative Cloud 응용 프로그램 전반의 저장소를 볼 수 있습니다. 스토리지 할당량은 조직에서 구매한 스토리지 용량까지 최종 사용자가 유연하게 사용할 수 있습니다.
 
 개별 사용자가 사용한 할당량과 모든 사용자가 사용한 전체 할당량을 볼 수도 있습니다.
 
@@ -130,7 +130,7 @@ Enterprise, VIP, VIP Marketplace 또는 Teams 등 계획에 따라 다음과 같
 
 시스템 관리자 및 배포 관리자 탭을 볼 수 있는 사람.
 
-**[!UICONTROL Admin Console]**&#x200B;의 [패키지](https://adminconsole.adobe.com) 페이지에서는 다음 기능을 제공합니다. 조직의 최종 사용자에게 데스크탑 애플리케이션을 배포하려는 경우 사용합니다.
+[Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 패키지]** 페이지에서는 다음 기능을 제공합니다. 조직의 최종 사용자에게 데스크탑 애플리케이션을 배포하려는 경우 사용합니다.
 
 - [Adobe 템플릿](https://helpx.adobe.com/kr/enterprise/using/package-templates.html)을(를) 사용하여 미리 구성된 패키지를 다운로드합니다.
 - 최종 사용자에게 제공할 구성 및 응용 프로그램을 사용하여 사용자 지정 [명명된 사용자 라이선스](https://helpx.adobe.com/kr/enterprise/using/create-nul-packages.html) 또는 [공유 장치](https://helpx.adobe.com/kr/enterprise/using/create-sdl-packages.html) 라이선스(교육 기관용)를 만듭니다.

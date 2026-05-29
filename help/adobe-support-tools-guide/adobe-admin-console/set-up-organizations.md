@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1547'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ Enterprise에 적용됩니다.
 
 [Global Admin Console에 액세스](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)한 후 새 조직을 만들고, 기존 조직을 계층에 추가하고, 조직을 삭제하고, 상위 조직을 변경할 수 있습니다. [Global Admin Console에 로그인](https://global-admin-console.adobe.com/)하려면 여기로 이동하세요.
 
-조직은 Adobe 제품 및 사용자를 관리하는 데 사용되는 구조입니다. [Adobe Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)을(를) 통해 관리자는 조직의 제품 및 사용자의 배포 및 구성을 관리할 수 있습니다. [Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)을(를) 사용하면 전역 관리자가 여러 조직을 만들고, 관리하고, 삭제할 수 있습니다.
+Global Admin Console에서 조직은 기업의 한 엔터티에 대해 Adobe 제품 및 사용자를 관리하는 데 사용되는 구조인 Adobe Admin Console입니다. [Adobe Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)을(를) 통해 시스템 관리자는 해당 콘솔 내의 배포, 사용자 및 라이선스를 관리할 수 있습니다. [Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)을(를) 사용하면 글로벌 관리자가 계층에서 하위 Admin Console(하위 조직)을 만들고, 다시 상위 및 삭제하고, 상위 항목에서 하위 콘솔에 제품을 할당할 수 있습니다.
 
 ## 하위 조직 만들기
+
+>[!NOTE]
+>
+> 하위 조직은 하위 Adobe Admin Console입니다. 콘솔을 만들면 Global Admin Console 계층에 새 콘솔이 추가됩니다.
 
 [전역 관리자](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 계층 구조에 있는 조직의 하위 조직을 만들고 이름, 국가, 사용자 그룹, 제품, 제품 프로필, 관리자 및 정책을 설정할 수 있습니다.
 
