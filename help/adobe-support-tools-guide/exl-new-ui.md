@@ -2,19 +2,13 @@
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
 workflow-type: tm+mt
-source-wordcount: 1083
+source-wordcount: 1084
 ht-degree: 1%
 
 ---
@@ -74,7 +68,7 @@ ht-degree: 1%
 - **[!UICONTROL 내 서비스 케이스]** — 개인별 서비스 케이스 통계를 표시합니다.
 - **[!UICONTROL 내 조직 사례]** — 선택한 조직의 사례 통계를 표시합니다.
 
-선택한 보기는 [[!UICONTROL 우선 순위별 사례 수]](#cases-count-by-priority) 및 [[!UICONTROL 내 제출된 사례]](#my-submitted-cases)섹션을 포함하여 이 섹션의 모든 지표 및 차트에 적용됩니다.
+선택한 보기는 [[!UICONTROL 우선 순위별 사례 수]](#cases-count-by-priority) 및 [[!UICONTROL 내 제출된 사례]](#my-submitted-cases) 섹션을 포함하여 이 섹션의 모든 지표 및 차트에 적용됩니다.
 
 ![서비스 분석](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
@@ -162,7 +156,7 @@ ht-degree: 1%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+Adobe [상태 사이트](https://status.adobe.com/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
