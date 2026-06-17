@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
+source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
 workflow-type: tm+mt
-source-wordcount: 1083
+source-wordcount: 1084
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 1%
 - **[!UICONTROL 내 서비스 케이스]** — 개인별 서비스 케이스 통계를 표시합니다.
 - **[!UICONTROL 내 조직 사례]** — 선택한 조직의 사례 통계를 표시합니다.
 
-선택한 보기는 [[!UICONTROL 우선 순위별 사례 수]](#cases-count-by-priority) 및 [[!UICONTROL 내 제출된 사례]](#my-submitted-cases)섹션을 포함하여 이 섹션의 모든 지표 및 차트에 적용됩니다.
+선택한 보기는 [[!UICONTROL 우선 순위별 사례 수]](#cases-count-by-priority) 및 [[!UICONTROL 내 제출된 사례]](#my-submitted-cases) 섹션을 포함하여 이 섹션의 모든 지표 및 차트에 적용됩니다.
 
 ![서비스 분석](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
