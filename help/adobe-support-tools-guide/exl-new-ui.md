@@ -162,7 +162,7 @@ ht-degree: 1%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Adobe [상태 사이트](https://status.adobe.com/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
