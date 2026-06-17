@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +69,37 @@ ht-degree: 2%
 
 ## 서비스 분석
 
-**[!UICONTROL 서비스 분석]** 섹션에서 지원 사례 활동에 대한 요약을 제공합니다. **[!UICONTROL 내 사례]**&#x200B;와(과) **[!UICONTROL 내 조직 사례]** 보기 간에 전환합니다. **[!UICONTROL 내 사례]** 보기에는 개인별 사례 통계가 표시되고 **[!UICONTROL 내 조직 사례]** 보기에는 조직 전체의 사례 통계가 표시됩니다.
+**[!UICONTROL 서비스 분석]** 섹션에는 지원 사례 활동의 요약이 표시됩니다. 보기 선택기를 사용하여 **[!UICONTROL 내 사례]**&#x200B;와(과) **[!UICONTROL 내 조직 사례]** 간을 전환합니다.
 
-![서비스 분석 섹션](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL 내 서비스 케이스]** — 개인별 서비스 케이스 통계를 표시합니다.
+- **[!UICONTROL 내 조직 사례]** — 선택한 조직의 사례 통계를 표시합니다.
 
-다음 지표를 사용할 수 있습니다.
+선택한 보기는 [[!UICONTROL 우선 순위별 사례 수]](#cases-count-by-priority) 및 [[!UICONTROL 내 제출된 사례]](#my-submitted-cases)섹션을 포함하여 이 섹션의 모든 지표 및 차트에 적용됩니다.
 
-**[!UICONTROL 보류 중인 응답 사례]** - 현재 응답 대기 중인 사례 수
-**[!UICONTROL 제출된 사례]** - 제출된 총 사례 수
+![서비스 분석](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+**[!UICONTROL 서비스 분석]** 섹션은 다음 지표를 제공합니다.
+
+- **[!UICONTROL 보류 중인 응답 사례]** — 응답을 대기 중인 사례 수를 표시합니다.
+- **[!UICONTROL 제출된 사례]** — 제출된 총 사례 수를 표시합니다.
 
 ## 우선 순위별 서비스 케이스 수
 
 이 섹션에는 우선 순위 수준별 지원 사례에 대한 시각적 분류가 표시됩니다.
 
-우선 순위 섹션별 ![사례 수](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+우선 순위별 ![사례 수](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-**[!UICONTROL 내 서비스 케이스]** 및 **[!UICONTROL 내 조직 서비스 케이스]** 선택이 이 차트에 적용되어 개인 또는 조직 수준에서 볼 수 있습니다.
+**[!UICONTROL 서비스 분석]** 섹션에서 **[!UICONTROL 내 사례]** 및 **[!UICONTROL 내 조직 사례]** 선택을 사용하면 이 차트에 적용되며 개인 또는 조직 수준에서 볼 수 있습니다.
+
+우선 순위 세그먼트 위로 마우스를 가져가면 다음과 같은 도구 설명이 표시됩니다.
+
+- 해당 우선 순위 수준에 대한 총 사례 수
+- 진행 중인 서비스 케이스 수
+- 종료된 서비스 케이스 수
 
 ## 내 제출된 사례
 
-이 섹션에는 다음 세 가지 최신 지원 사례가 표시됩니다.
+이 섹션에는 다음을 포함하여 가장 최근에 제출된 세 가지 지원 사례가 표시됩니다.
 
 - 사례 ID
 - 서비스 케이스 제목
@@ -96,15 +107,38 @@ ht-degree: 2%
 - 제출 날짜
 - 상태
 
-![내 제출된 사례 섹션](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![내 제출된 사례](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-현재 Experience League 지원 포털에서 서비스 케이스 세부 정보를 보려면 **[!UICONTROL 서비스 케이스 ID]**&#x200B;를 선택하십시오. 전체 서비스 케이스 목록을 보려면 **[!UICONTROL 모든 서비스 케이스 보기]**&#x200B;를 선택하십시오.
+**[!UICONTROL 내 서비스 케이스]**&#x200B;를 선택하면 이 섹션에는 가장 최근에 제출된 3개의 서비스 케이스가 표시됩니다. **[!UICONTROL 서비스 분석]** 섹션에서 **[!UICONTROL 내 조직 사례]**&#x200B;을(를) 선택하면 조직에 가장 최근에 제출된 세 개의 사례가 표시됩니다.
+
+![내 서비스 케이스](/help/adobe-support-tools-guide/assets/my-case.png)
+
+현재 Experience League 지원 포털에서 서비스 케이스 세부 정보를 보려면 **[!UICONTROL 서비스 케이스 ID]**&#x200B;를 선택하십시오.
+
+![사례 ID 선택](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+**[!UICONTROL 모든 사례 보기]**&#x200B;를 선택하여 현재 Experience League 지원 포털에서 **[!UICONTROL 내 사례]** 페이지를 엽니다.
+
+![모든 서비스 케이스 보기](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+**[!UICONTROL 서비스 분석]**&#x200B;에서 **[!UICONTROL 내 사례]**&#x200B;을(를) 선택하면 **[!UICONTROL 내 사례(모두)]**&#x200B;이(가) 미리 선택되고 Experience League 지원 포털에서 열립니다. **[!UICONTROL 내 조직 사례]**&#x200B;를 선택하면 Experience League 지원 포털에서 **[!UICONTROL 내 조직의 사례(모두)]**&#x200B;가 미리 선택됩니다.
 
 ## 제품 상태 경고
 
-섹션에는 조직에 지정된 Adobe 제품의 현재 작동 상태가 표시됩니다. **[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다. Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 추가 세부 정보를 보려면 제품 카드를 선택하십시오.
+이 섹션에는 조직에 할당된 Adobe 제품의 현재 운영 상태가 표시됩니다.
 
-![제품 상태 경고 섹션](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![제품 상태 경고](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+**[!UICONTROL 사용 가능]** 상태는 활성 중단 없이 제품이 완전히 작동하고 있음을 나타냅니다. 문제가 하나 이상 있는 경우 제품 카드에 총 활성 문제 수가 표시됩니다.
+
+제품은 다음 순서로 표시됩니다.
+
+1. 활성 문제가 있는 제품
+1. 알파벳순으로 나열된 나머지 제품
+
+이러한 우선 순위를 통해 주의가 필요한 제품을 신속하게 식별하고 우선 순위를 지정할 수 있습니다. **[!UICONTROL 홈]** 페이지의 **[!UICONTROL 시스템 상태 알림]**&#x200B;에서 경고를 필터링할 제품 카드를 하나 이상 선택할 수 있습니다.
+
+![경고 필터](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## 시스템 상태 경고
 
@@ -151,7 +185,7 @@ Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 
 - 다음을 포함한 플랜의 주요 구성 요소
    - **[!UICONTROL 성공 팀]**
    - **[!UICONTROL 성공 가속기]**
-   - **[!UICONTROL 상호 작업 계획]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 또한 Experience League, Experience League 커뮤니티 및 Premium 학습 구독과 같은 학습 리소스에 대한 액세스 권한도 제공합니다.
 
