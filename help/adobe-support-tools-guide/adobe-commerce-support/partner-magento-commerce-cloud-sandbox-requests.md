@@ -5,20 +5,20 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
 # 클라우드 인프라 샌드박스 요청에 대한 파트너 Adobe Commerce
 
-이 FAQ 문서에는 클라우드 인프라 샌드박스 요청에 있는 Adobe Commerce에 유용한 리소스에 대한 링크가 포함되어 있습니다. 또한 파트너가 고객을 대신하여 활동하지 않을 경우 고객의 조직 아래에 티켓을 제출해서는 안 된다는 점을 명확히 합니다.
+이 FAQ 문서에는 클라우드 인프라 샌드박스 요청에 있는 Adobe Commerce에 유용한 리소스에 대한 링크가 포함되어 있습니다. 또한 파트너가 고객을 대신하여 업무를 수행하지 않을 경우 고객의 조직에 티켓을 제출해서는 안 된다는 점을 명확히 설명합니다.
 
 ## Adobe Commerce on cloud infrastructure 샌드박스에서 서비스를 업그레이드하려면 어떻게 해야 합니까? {#how-do-i-upgrade-services-cloud-sandbox}
 
-대부분의 샌드박스 프로젝트는 [Cloud Pro](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow)이(가) 아닌 [Cloud Starter 프로젝트](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment)과(와) 같이 설정됩니다.
+대부분의 샌드박스 프로젝트는 [Cloud Pro](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment)이(가) 아닌 [Cloud Starter 프로젝트](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow)과(와) 같이 설정됩니다.
 
 이러한 스타터 스타일의 샌드박스 프로젝트의 경우 필요에 따라 서비스를 직접 업그레이드해야 합니다.
 
@@ -36,8 +36,7 @@ Pro 스타일의 샌드박스 프로젝트가 있는 경우 [SPPHelp@adobe.com](
 
 Partner Sandbox Cloud 프로젝트가 있는 파트너는 Experience League의 [지원 섹션](https://experienceleague.adobe.com/ko/support?support-tab=home#home)을 통해 샌드박스 관련 문제에 대한 티켓을 제출할 수 없습니다. 이러한 티켓은 판매자의 계정을 사용하여 제출하면 판매자를 대신하여 제출되어 혼동을 일으킬 수 있으므로 사용하지 마십시오.
 
-> **예:**
-> 이 섹션에서는 Adobe Commerce Cloud 샌드박스 계정에 대해 설명하지만 파트너가 특정 고객이 아닌 내부 환경에서 작업할 때 동일한 요구 사항이 적용됩니다. 파트너는 고객을 대신하여 적극적으로 관여하지 않는 한 고객 조직에 대한 지원 요청을 제출해서는 안 됩니다.
+이 요구 사항은 파트너가 특정 고객이 아닌 내부 환경에서 작업하는 경우에도 적용됩니다. 파트너는 고객을 대신하여 적극적으로 관여하지 않는 한 고객 조직에 대한 지원 요청을 제출해서는 안 됩니다.
 
 공유 액세스 권한이 부여되지 않은 판매자를 대신하여 티켓을 제출하는 경우 계정 소유자에게 액세스 권한을 요청하십시오. 액세스 요청 방법에 대한 단계는 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하십시오.
 
