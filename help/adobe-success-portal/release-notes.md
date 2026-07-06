@@ -4,14 +4,10 @@ description: ' [!DNL Adobe Success portal]에 대한 최신 릴리스 정보입�
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +39,7 @@ _2025년 11월 11일_
 _2025년 10월 9일_
 
 ![신규](../adobe-success-portal/assets/new.svg) **[!UICONTROL 주요 비즈니스 목표]**(KBO)와 연결된 **[!UICONTROL 가속기]** 및 **[!UICONTROL 활동]**&#x200B;의 타임라인 시각화를 위해 **[!UICONTROL 행동 계획]** 모듈에 캘린더 보기를 추가했습니다.
+
 * 행동 계획 KBO 페이지 또는 **[!UICONTROL KBO]**/**[!UICONTROL 가속기]**/**[!UICONTROL 활동]** 세부 정보 페이지로부터 캘린더에 액세스합니다(KBO에 연결된 경우에만).
 * 목록 보기(기본값) 및 캘린더 보기 간에 전환합니다.
 * 캘린더에는 다음과 같이 각 KBO에 대한 축소할 수 있는 섹션이 표시됩니다.
