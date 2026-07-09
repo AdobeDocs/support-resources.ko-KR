@@ -5,18 +5,12 @@ description: Adobe 고객 지원 경험
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League 지원 티켓
 
-이제 [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)을 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 지침은 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션을 검토하십시오.
+이제 [Experience League](https://experienceleague.adobe.com/home#support)을 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 지침은 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션을 검토하십시오.
 
 Adobe 고객 지원 팀과 상호 작용하는 방법을 개선하기 위해 노력하고 있습니다. 당사의 비전은 Experience League을 사용하여 단일 진입점으로 이동하여 지원 경험을 간소화하는 것입니다. 라이브 상태가 되면 조직은 Adobe 고객 지원 센터에 쉽게 액세스하고, 제품 간 공통 시스템을 통해 서비스 내역을 보다 잘 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅을 통해 도움을 요청할 수 있습니다.
 
-Adobe Commerce 사용자인 경우 Adobe Commerce에 대한 Experience League 지원 사용 안내서의 [지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)을 참조하세요.
+Adobe Commerce 사용자인 경우 Adobe Commerce에 대한 Experience League 지원 사용 안내서의 [지원 사례 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)을 참조하세요.
 
 ## 사례 제출에 필요한 권한 있는 역할 지원 {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home?lang=ko#support)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리 역할은 지원 관리자 역할을 할당할 수 없으며 지원 티켓을 제출하는 데 사용되는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](adobe-admin-console/admin-roles.md)을 참조하세요.
+[Experience League](https://experienceleague.adobe.com/home#support)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리 역할은 지원 관리자 역할을 할당할 수 없으며 지원 티켓을 제출하는 데 사용되는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](adobe-admin-console/admin-roles.md)을 참조하세요.
 
-Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권한을 공유하는 프로세스가 다릅니다. 자세한 내용은 Adobe Commerce용 Experience League 지원 사용 안내서의 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하십시오.
+Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권한을 공유하는 프로세스가 다릅니다. 자세한 내용은 Adobe Commerce용 Experience League 지원 사용 안내서의 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하십시오.
 
 ### 조직에 지원 권한 추가
 
@@ -82,11 +76,11 @@ Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
 >[!NOTE]
 >
-> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com/ko-kr) 사이트에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com) 사이트에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
 
 Experience League은 자격이 있는 고객에게 개인화된 지원과 사용하기 쉬운 경험을 제공하기 위해 설계된 셀프서비스 지원 포털입니다.
 
-1. [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)에서 티켓을 만들려면 위쪽 탐색에서 **[!UICONTROL 지원]** 탭을 선택하십시오.
+1. [Experience League](https://experienceleague.adobe.com/home#support)에서 티켓을 만들려면 위쪽 탐색에서 **[!UICONTROL 지원]** 탭을 선택하십시오.
 
    ![Experience league 지원 탭](./assets/experience-league-support-tab.png)
 
@@ -167,7 +161,7 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 
    ![Experience league 우선 순위 및 비즈니스 영향](./assets/priority-business-impact.png)
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
 
 1. **[!UICONTROL 연락처 정보 및 감시자 목록]** 섹션에서 시간대를 선택하고 전화 번호를 입력한 다음 감시자를 추가하고 필요한 경우 파일을 첨부한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
@@ -196,3 +190,78 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 >[!NOTE]
 >
 > 이 문제로 인해 프로덕션 시스템이 중단되거나 심각하게 중단되는 경우 즉각적인 지원을 위해 전화 번호가 제공됩니다.
+
+### 사례 생성 경험의 AI 채팅
+
+Experience League 지원은 지원 사례를 만들고 관리할 수 있는 대체 방법으로 AI 기반 채팅 인터페이스를 제공합니다. AI 채팅 경험은 옵트인이며 클래식 사례 만들기 워크플로를 대체하지 않습니다.
+
+>[!NOTE]
+>
+> AI 채팅은 현재 베타 기능으로 사용할 수 있습니다. 클래식 케이스 만들기 양식은 언제든지 완전히 사용할 수 있고 액세스할 수 있는 상태로 유지됩니다.
+
+AI 채팅에 액세스하려면 아래 단계를 따르십시오.
+
+1. **[!UICONTROL 홈]**(으)로 이동한 다음 **[!UICONTROL 지원 티켓 열기]**&#x200B;를 선택합니다. 사이드바 메뉴에서 **[!UICONTROL 티켓 열기]**&#x200B;를 선택할 수도 있습니다.
+
+   ![Experience league 제품 선택](./assets/product-selection.png)
+
+1. 제품 이름을 클릭하여 영향을 받는 제품을 선택한 후 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 오른쪽 상단 모서리에서 **[!UICONTROL AI 채팅]**&#x200B;을 선택합니다.
+
+   ![AI 채팅](./assets/ai-chat.png)
+
+**[!UICONTROL 클래식 양식]**&#x200B;과(와) **[!UICONTROL AI 채팅]** 간을 전환하려면 오른쪽 상단의 토글을 사용하십시오. 전환할 때 현재 진행 상황을 이월하지는 않지만 완료된 사례 또는 작업은 영향을 받지 않습니다.
+
+### AI 채팅 시작
+
+AI 채팅을 열면 다음 옵션이 표시됩니다.
+
+* **[!UICONTROL 질문하기]**
+* **[!UICONTROL 기존 서비스 케이스에서 작업]**
+* **[!UICONTROL 새 서비스 케이스 열기]**
+
+  ![대화하기](./assets/chat-with-us.png)
+
+텍스트 필드에 입력하거나 음성을 텍스트로 변환하여 문제를 설명할 수 있습니다.
+
+#### 질문하기
+
+**[!UICONTROL 질문하기]**&#x200B;를 선택하여 지원 사례를 열지 않고도 채팅 내에서 바로 제품, Adobe 서비스 및 지원 관련 질문에 대한 즉각적인 답변을 얻을 수 있습니다.
+
+AI는 Adobe 기술 자료를 기반으로 쿼리를 기반으로 관련 답변, 설명서 링크 및 알려진 솔루션을 제공합니다.
+
+AI가 채팅에서 직접 쿼리를 해결할 수 없는 경우 Adobe 지원 팀과 연결할 수 있는 새 지원 사례를 여는 방법을 안내합니다.
+
+#### 기존 서비스 케이스 작업
+
+채팅 내에서 직접 기존 지원 사례를 관리하고 업데이트를 받으려면 **[!UICONTROL 기존 사례에 대한 작업]**&#x200B;을 선택하십시오.
+
+AI가 진행 중인 서비스 케이스 목록을 표시합니다. 목록의 위치 또는 서비스 케이스 번호로 서비스 케이스를 참조하여 작업할 서비스 케이스를 선택할 수 있습니다.
+
+사례를 선택하면 다음 작업을 수행할 수 있습니다.
+
+* 요약 요청
+* 업데이트 확인
+* 동일한 채팅 경험 내에서 사례를 확대하거나 콜백을 요청하는 등의 후속 조치를 취합니다.
+
+#### 새 서비스 케이스 열기
+
+구조화된 양식 필드를 채우는 대신 **[!UICONTROL 새 서비스 케이스 열기]**&#x200B;를 선택하여 자신의 단어로 문제를 설명하십시오.
+
+AI는 타깃팅된 후속 질문을 통해 필요한 세부 정보를 수집하고 응답을 기반으로 플로우를 동적으로 조정함으로써 사례 만들기 프로세스를 안내합니다.
+
+AI는 다음과 같은 필수 정보를 수집합니다.
+
+* 제품 세부 사항
+* 문제 유형
+* 재생 단계
+
+제출 시 정보를 즉시 사용할 수 없는 경우 옵션 필드를 건너뛸 수 있습니다.
+
+충분한 정보가 수집되면 AI는 다음과 같은 대화를 기반으로 구조화된 사례 요약을 자동으로 생성합니다.
+
+* 서비스 케이스 제목
+* 설명
+* 재생 단계
+
+제출하기 전에 초안을 검토하여 모든 세부 정보가 정확한지 확인할 수 있으며 사례 작성 대화 중 또는 후에 언제든지 첨부 파일, 로그, 스크린샷 및 기타 추가 세부 정보를 추가하여 지원 팀에 필요한 전체 컨텍스트를 제공할 수 있습니다.
