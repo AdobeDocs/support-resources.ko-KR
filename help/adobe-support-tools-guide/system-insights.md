@@ -51,7 +51,7 @@ Adobe 팀은 일반적인 지원 문제와 새로운 트렌드를 지속적으�
 
 ## 시스템 통찰력 액세스
 
-시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
+시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
 
 패널에는 특정 프로젝트 인스턴스의 범위가 지정되는 인사이트의 스크롤할 수 있는 목록이 표시됩니다. 범위 지정은 **[!UICONTROL 프로젝트 URL]** 필드에 입력한 정보를 기반으로 합니다. 인사이트가 올바른 환경을 반영하도록 하려면 **[!UICONTROL 프로젝트 URL]**&#x200B;을(를) 정확하게 입력하십시오.
 
