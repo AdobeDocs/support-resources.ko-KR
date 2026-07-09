@@ -3,16 +3,10 @@ title: 시스템 통찰력
 description: 시스템 인사이트는 Adobe Commerce 환경에서 발생할 수 있는 문제를 사전에 식별합니다. 사례 생성 중 통찰력을 검토하면 해결 시간을 줄이고, 중단을 방지하고, 안정적이고 안전한 배포를 지원합니다.
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 1%
@@ -45,13 +39,13 @@ Adobe 팀은 일반적인 지원 문제와 새로운 트렌드를 지속적으�
 
 시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 이러한 통찰력은 Experience League 지원에서 사례 만들기 프로세스 중에 나타나며 [사이트 전체 분석 도구(SWAT)](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/site-wide-analysis-tool/intro)를 통해서도 사용할 수 있습니다.
 
->[ !Note]
+>[!Note]
 >
 >시스템 인사이트는 프로덕션 환경에 대한 데이터만 표시합니다.
 
 ## 시스템 통찰력 액세스
 
-시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
+시스템 인사이트는 서비스 케이스 만들기 워크플로우 전체에 나타납니다. 문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 **[!UICONTROL 시스템 인사이트]** 패널이 나타납니다. AI 기반 권장 사항에 대한 자세한 내용은 Adobe 고객 지원 경험 문서에서 [지원 티켓 작성](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)을 참조하십시오.
 
 패널에는 특정 프로젝트 인스턴스의 범위가 지정되는 인사이트의 스크롤할 수 있는 목록이 표시됩니다. 범위 지정은 **[!UICONTROL 프로젝트 URL]** 필드에 입력한 정보를 기반으로 합니다. 인사이트가 올바른 환경을 반영하도록 하려면 **[!UICONTROL 프로젝트 URL]**&#x200B;을(를) 정확하게 입력하십시오.
 
@@ -118,3 +112,4 @@ insight의 ![작업](/help/adobe-support-tools-guide/assets/issue-resolved.png)
    - insight이 유용하지 않은 경우 **아래로** 아이콘
 5. (선택 사항) 추가 설명을 입력합니다.
 6. 피드백을 보내려면 **[!UICONTROL 제출]**&#x200B;을 선택하고, 제출하지 않고 피드백 섹션을 닫으려면 **[!UICONTROL 취소]**&#x200B;를 선택하십시오.
+

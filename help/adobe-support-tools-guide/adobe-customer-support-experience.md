@@ -5,16 +5,10 @@ description: Adobe 고객 지원 경험
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 8631501b570117aec52510142df2d9594366c00c
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 2033
 ht-degree: 0%
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League 지원 티켓
 
-이제 [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)을 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 지침은 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션을 검토하십시오.
+이제 [Experience League](https://experienceleague.adobe.com/home#support)을 통해 지원 티켓이 제출되었습니다. 지원 티켓을 제출하는 방법에 대한 지침은 [지원 티켓 제출](#create-a-support-ticket-with-experience-league) 섹션을 검토하십시오.
 
 Adobe 고객 지원 팀과 상호 작용하는 방법을 개선하기 위해 노력하고 있습니다. 당사의 비전은 Experience League을 사용하여 단일 진입점으로 이동하여 지원 경험을 간소화하는 것입니다. 라이브 상태가 되면 조직은 Adobe 고객 지원 센터에 쉽게 액세스하고, 제품 간 공통 시스템을 통해 서비스 내역을 보다 잘 파악할 수 있으며, 단일 포털을 통해 전화, 웹 및 채팅을 통해 도움을 요청할 수 있습니다.
 
-Adobe Commerce 사용자인 경우 Adobe Commerce에 대한 Experience League 지원 사용 안내서의 [지원 사례 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)을 참조하세요.
+Adobe Commerce 사용자인 경우 Adobe Commerce에 대한 Experience League 지원 사용 안내서의 [지원 사례 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)을 참조하세요.
 
 ## 사례 제출에 필요한 권한 있는 역할 지원 {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home?lang=ko#support)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리 역할은 지원 관리자 역할을 할당할 수 없으며 지원 티켓을 제출하는 데 사용되는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](adobe-admin-console/admin-roles.md)을 참조하세요.
+[Experience League](https://experienceleague.adobe.com/home#support)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 조직의 시스템 관리자만 이 역할을 할당할 수 있습니다. 제품, 제품 프로필 및 기타 관리 역할은 지원 관리자 역할을 할당할 수 없으며 지원 티켓을 제출하는 데 사용되는 **[!UICONTROL 사례 만들기]** 옵션을 볼 수 없습니다. 다양한 유형의 관리자 역할과 해당 권한에 대한 자세한 내용은 [관리자 역할](adobe-admin-console/admin-roles.md)을 참조하세요.
 
-Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권한을 공유하는 프로세스가 다릅니다. 자세한 내용은 Adobe Commerce용 Experience League 지원 사용 안내서의 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하십시오.
+Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권한을 공유하는 프로세스가 다릅니다. 자세한 내용은 Adobe Commerce용 Experience League 지원 사용 안내서의 [공유 액세스: 다른 사용자가 계정에 액세스할 수 있는 권한 부여](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)를 참조하십시오.
 
 ### 조직에 지원 권한 추가
 
@@ -82,11 +76,11 @@ Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 
 >[!NOTE]
 >
-> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com/ko-kr) 사이트에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+> 지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com) 사이트에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
 
 Experience League은 자격이 있는 고객에게 개인화된 지원과 사용하기 쉬운 경험을 제공하기 위해 설계된 셀프서비스 지원 포털입니다.
 
-1. [Experience League](https://experienceleague.adobe.com/home?lang=ko#support)에서 티켓을 만들려면 위쪽 탐색에서 **[!UICONTROL 지원]** 탭을 선택하십시오.
+1. [Experience League](https://experienceleague.adobe.com/home#support)에서 티켓을 만들려면 위쪽 탐색에서 **[!UICONTROL 지원]** 탭을 선택하십시오.
 
    ![Experience league 지원 탭](./assets/experience-league-support-tab.png)
 
@@ -167,7 +161,7 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 
    ![Experience league 우선 순위 및 비즈니스 영향](./assets/priority-business-impact.png)
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 성공 계획 리소스 설명서에서 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을(를) 참조하십시오.
 
 1. **[!UICONTROL 연락처 정보 및 감시자 목록]** 섹션에서 시간대를 선택하고 전화 번호를 입력한 다음 감시자를 추가하고 필요한 경우 파일을 첨부한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
