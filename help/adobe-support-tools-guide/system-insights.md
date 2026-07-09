@@ -12,7 +12,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 1%
@@ -118,3 +118,4 @@ insight의 ![작업](/help/adobe-support-tools-guide/assets/issue-resolved.png)
    - insight이 유용하지 않은 경우 **아래로** 아이콘
 5. (선택 사항) 추가 설명을 입력합니다.
 6. 피드백을 보내려면 **[!UICONTROL 제출]**&#x200B;을 선택하고, 제출하지 않고 피드백 섹션을 닫으려면 **[!UICONTROL 취소]**&#x200B;를 선택하십시오.
+
