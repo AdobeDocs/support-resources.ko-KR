@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ ht-degree: 0%
 * [Experience League 지원에 로그인](#sign-in-experience-support)
 * [지원 사례 제출](#support-case)
 
-   * [Adobe Experience League 시작 페이지](#experience-league-start-page)
-   * [Adobe Commerce 계정 페이지](#submit-case-adobe-commerce-account-page)
-   * [Adobe Commerce 계정 페이지에서 *메일 주소를 확인하세요* 오류](#verify-email-address-error)
+  * [Adobe Experience League 시작 페이지](#experience-league-start-page)
+  * [Adobe Commerce 계정 페이지](#submit-case-adobe-commerce-account-page)
+  * [Adobe Commerce 계정 페이지에서 *메일 주소를 확인하세요* 오류](#verify-email-address-error)
 
 * [지원 사례 추적](#track-support-cases)
 * [서비스 케이스의 댓글](#comments-in-your-case)
@@ -55,7 +55,7 @@ ht-degree: 0%
 * [공유 액세스 권한 제공](#provide-shared-access)
 * [공유 액세스 취소(삭제)](#revoke-shared-access)
 
-   * [Cloud 프로젝트를 통해 공유 액세스 권한이 부여된 사용자를 삭제하는 방법](#remove-cloud-shared-access-users)
+  * [Cloud 프로젝트를 통해 공유 액세스 권한이 부여된 사용자를 삭제하는 방법](#remove-cloud-shared-access-users)
 
 * [공유 계정 액세스(계정 전환)](#switch-accounts)
 * [공유 액세스 문제 해결](#troubleshooting-shared-access)
@@ -148,6 +148,8 @@ Adobe Experience League의 시작 페이지를 사용하여 새 지원 사례를
 >
 >조직에 Adobe Commerce Intelligence/Commerce 보고(MBI)에 대한 권한이 있지만 고급 보고에 대한 지원이 필요한 경우 **Commerce 보고**&#x200B;를 제품으로 선택하지 마십시오. Commerce 보고 팀에서는 고급 보고 문제를 지원하지 않습니다.
 >
+>문제가 결제 관련 문제인 경우 기본적으로 결제 서비스를 선택하지 마십시오. 결제 서비스는 특히 Adobe 결제 서비스 모듈을 의미합니다. 일반적으로 납입 문제에 대해 선택하는 것은 범위와 적절한 조사 경로에 대한 혼란을 초래할 수 있다.
+>
 >다른 제품을 선택할 수 없는 경우(예: **[!UICONTROL 제품 선택]** 드롭다운이 비어 있거나 표시되지 않음) 일반적으로 다음 이유 중 하나로 인해 발생합니다.
 >
 >* Commerce 권한이 만료되었거나 비활성 상태입니다(예: 미해결 청구 또는 라이선스 문제로 인해).
@@ -201,7 +203,7 @@ Adobe Commerce 계정 페이지를 사용하여 새 지원 티켓을 제출하�
 >[!NOTE]
 >
 >Commerce 이외의 다른 Adobe 제품에 제출된 지원 사례가 있는 경우 동일한 화면에서 해당 티켓을 추적할 수 없습니다. 먼저 제품 권한과 연결된 조직으로 전환해야 합니다.
->예를 들어 이전에 Commerce 사례를 추적하기 위해 &quot;(Commerce)&quot;로 끝나는 조직을 선택한 반면, AEP 지원 사례도 있습니다. 이러한 사례는 여기에 표시되지 않습니다.
+>예를 들어 이전에 Commerce 사례를 추적하기 위해 &quot;(Commerce)&quot;로 끝나는 조직을 선택했으며 AEP 지원 사례도 여기에 표시되지 않습니다.
 
 #### 서비스 케이스 보기
 
@@ -390,7 +392,7 @@ Adobe Commerce Cloud 프로젝트가 있거나 있고 프로젝트에 사용자�
 >[!NOTE]
 >
 >이 단계는 Adobe Commerce에 대한 티켓을 제출할 필요가 없습니다.
->Adobe Commerce 티켓 제출에 대한 데모는 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/ko/playlists/support-requests).
+>Adobe Commerce 티켓 제출에 대한 데모를 보려면 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/ko/playlists/support-requests).
 
 제공된 공유 액세스를 사용하려면 다음 단계를 따르십시오.
 
