@@ -2,19 +2,14 @@
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**[!UICONTROL 사례 만들기]**, **[!UICONTROL 내 사례]** 및 **[!UICONTROL 사례 세부 정보]**&#x200B;는 다시 디자인된 포털에서 사용할 수 없습니다. 현재 Experience League 지원 포털로 전환하여 사례를 만들고 관리합니다. 두 포털은 동기화된 상태로 유지되므로 전체 경험에서 사례 데이터가 최신 상태로 유지됩니다.
+>다시 설계된 포털에서 지원 사례를 만들고 관리하려면 [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
 
 ## 홈 페이지
 
@@ -38,7 +33,8 @@ ht-degree: 1%
 왼쪽 탐색 패널에서는 다음 섹션에 액세스할 수 있습니다.
 
 - **[!UICONTROL 홈]**&#x200B;이 기본 랜딩 페이지로 열리고 지원 활동에 대한 중앙 보기가 표시됩니다.
-- **[!UICONTROL 서비스 케이스를 열고]** **[!UICONTROL 내 서비스 케이스]**&#x200B;를 만들고 관리하려면 현재 Experience League 지원 포털로 리디렉션합니다.
+- **[!UICONTROL 대/소문자 열기]**&#x200B;는 다시 디자인된 포털에서 대/소문자 만들기 워크플로를 엽니다. [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
+- **[!UICONTROL 내 서비스 케이스]**&#x200B;가 다시 디자인된 포털에서 서비스 케이스 목록을 엽니다. [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
 - **[!UICONTROL 내 성공]**&#x200B;은(는) Ultimate Success plan 고객에게만 제공됩니다.
 
 ## 조직 전환
@@ -61,11 +57,11 @@ ht-degree: 1%
 
 **[!UICONTROL Home]** 페이지 맨 위에서 다음 빠른 작업을 사용할 수 있습니다.
 
-1. **[!UICONTROL 지원 사례를 엽니다]** - 새 사례를 만들려면 현재 Experience League 지원 포털의 **[!UICONTROL 티켓 열기]** 모듈로 리디렉션합니다. **[!UICONTROL 시작하기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 지원 사례 열기]** — 다시 디자인된 포털에서 사례 만들기 워크플로를 엽니다. **[!UICONTROL 시작하기]**&#x200B;를 선택합니다.
 
-2. **[!UICONTROL 서비스 케이스 보기 및 관리]** - 현재 Experience League 지원 포털의 **[!UICONTROL 내 서비스 케이스]** 모듈로 리디렉션됩니다. 액세스하려면 **[!UICONTROL 지금 이동]**&#x200B;을 선택하세요.
+1. **[!UICONTROL 서비스 케이스 보기 및 관리]** — 다시 디자인된 포털에서 **[!UICONTROL 내 서비스 케이스]** 페이지를 엽니다. **[!UICONTROL 지금 이동]**&#x200B;을 선택합니다.
 
-3. **[!UICONTROL 콜백 요청]** - Adobe 전문가와 서비스 케이스에 대한 호출을 예약합니다. P1(위험) 사례의 경우 즉시 콜백을 요청합니다. P2 및 P3 사례의 경우 편리한 날짜와 시간에 지원 엔지니어와의 웹 회의를 예약하십시오. 시작하려면 **[!UICONTROL 지금 요청]**&#x200B;을 선택하세요.
+1. **[!UICONTROL 콜백 요청]** - Adobe 전문가와 서비스 케이스에 대한 호출을 예약합니다. P1(위험) 사례의 경우 즉시 콜백을 요청합니다. P2 및 P3 사례의 경우 편리한 날짜와 시간에 지원 엔지니어와의 웹 회의를 예약하십시오. 시작하려면 **[!UICONTROL 지금 요청]**&#x200B;을 선택하세요.
 
 ## 서비스 분석
 
@@ -109,15 +105,15 @@ ht-degree: 1%
 
 ![내 제출된 사례](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-**[!UICONTROL 내 서비스 케이스]**&#x200B;를 선택하면 이 섹션에는 가장 최근에 제출된 3개의 서비스 케이스가 표시됩니다. **[!UICONTROL 서비스 분석]** 섹션에서 **[!UICONTROL 내 조직 사례]**&#x200B;을(를) 선택하면 조직에 가장 최근에 제출된 세 개의 사례가 표시됩니다.
+**[!UICONTROL 서비스 분석]**&#x200B;에서 **[!UICONTROL 내 사례]**&#x200B;을(를) 선택하면 이 섹션에는 가장 최근에 제출된 세 가지 사례가 표시됩니다. **[!UICONTROL 서비스 분석]** 섹션에서 **[!UICONTROL 내 조직 사례]**&#x200B;을(를) 선택하면 조직에 가장 최근에 제출된 세 개의 사례가 표시됩니다.
 
 ![내 서비스 케이스](/help/adobe-support-tools-guide/assets/my-case.png)
 
-현재 Experience League 지원 포털에서 서비스 케이스 세부 정보를 보려면 **[!UICONTROL 서비스 케이스 ID]**&#x200B;를 선택하십시오.
+다시 설계된 Experience League 지원 포털에서 사례 세부 정보를 보려면 **[!UICONTROL 사례 ID]**&#x200B;을(를) 선택하십시오.
 
 ![사례 ID 선택](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-**[!UICONTROL 모든 사례 보기]**&#x200B;를 선택하여 현재 Experience League 지원 포털에서 **[!UICONTROL 내 사례]** 페이지를 엽니다.
+**[!UICONTROL 모든 사례 보기]**&#x200B;를 선택하여 다시 디자인된 Experience League 지원 포털에서 **[!UICONTROL 내 사례]** 페이지를 엽니다.
 
 ![모든 서비스 케이스 보기](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -162,7 +158,7 @@ ht-degree: 1%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+Adobe [상태 사이트](https://status.adobe.com/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
@@ -183,9 +179,9 @@ Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 
 - Ultimate Success이 어떻게 높은 성과를 보이는 디지털 경험을 제공하기 위해 전략적 리더십과 사전 예방적 기술 상태 지원을 제공하는지에 대한 개요를 제공하는 환영 메시지입니다
 - 플랜에 대해 자세히 알아보려면 **[!UICONTROL 비디오 보기]** 옵션을 선택하세요.
 - 다음을 포함한 플랜의 주요 구성 요소
-   - **[!UICONTROL 성공 팀]**
-   - **[!UICONTROL 성공 가속기]**
-   - **[!UICONTROL Mutual Action Plan]**
+  - **[!UICONTROL 성공 팀]**
+  - **[!UICONTROL 성공 가속기]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 또한 Experience League, Experience League 커뮤니티 및 Premium 학습 구독과 같은 학습 리소스에 대한 액세스 권한도 제공합니다.
 
