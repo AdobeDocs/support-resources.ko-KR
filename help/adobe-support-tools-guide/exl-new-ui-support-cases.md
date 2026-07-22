@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # 지원 사례 만들기 및 관리
 
-[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
+[Experience League](https://experienceleague.adobe.com/ko/support?support-tab=home#home)에서 지원 티켓을 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
 
 ## 새 사용자 인터페이스로 지원 티켓 만들기
 
 >[!NOTE]
 >
->지원 티켓을 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+>지원 티켓을 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
 
 Experience League에서 티켓을 만들려면 아래 단계를 따르십시오.
 
@@ -79,7 +79,7 @@ Experience League에서 티켓을 만들려면 아래 단계를 따르십시오.
 
    ![문제 설명 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
+   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
 
    ![AI 채팅](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +94,7 @@ Experience League에서 티켓을 만들려면 아래 단계를 따르십시오.
 
 1. **[!UICONTROL 우선 순위 및 비즈니스 영향]** 섹션에서 서비스 케이스 우선 순위(P4 - 사소, P3 - 중요, P2 - 긴급, P1 - 중요)를 선택합니다. 선택한 우선 순위가 P1 - 위험 수준인 경우 비즈니스 영향 세부 정보를 제공한 다음 **[!UICONTROL 다음]**&#x200B;을(를) 선택하십시오.
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
 
    ![우선 순위 및 비즈니스 영향 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
