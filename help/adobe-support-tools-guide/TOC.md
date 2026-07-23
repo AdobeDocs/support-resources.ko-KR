@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: b4e4a208cbcabf9934facfb39279a36cbe4e848e
+source-git-commit: 61cdf015dfe42f1bc2c32e8402d767c22200bdbd
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 2%
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
 - [에스컬레이션 관리](/help/adobe-support-tools-guide/escalation-management.md)
-- Experience League 지원 포털 - 새로운 사용자 인터페이스 {#exl-new-ui}
-  - [개요](/help/adobe-support-tools-guide/exl-new-ui.md)
+- [Experience League 지원 포털 - 새로운 사용자 인터페이스](/help/adobe-support-tools-guide/exl-new-ui.md)
 - [시스템 통찰력](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
