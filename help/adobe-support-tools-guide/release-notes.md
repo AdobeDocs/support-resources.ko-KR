@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
+source-wordcount: 1757
 ht-degree: 0%
 
 ---
@@ -30,6 +24,14 @@ ht-degree: 0%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 7월 23일 - 다시 설계된 Experience League 지원 포털의 영구 포털 기본 설정
+
+1. 이제 포털 환경 설정이 마지막 **[!UICONTROL 새 홈 페이지를 사용해 보기]** 전환 선택을 기준으로 자동으로 저장됩니다.
+
+2. 마지막 세션 중에 토글이 켜져 있으면 다음 로그인 시 다시 디자인된 포털로 바로 이동하며 기존 포털이 로드되지 않습니다.
+
+3. 토글이 꺼지면 평소대로 레거시 포털에 계속 도달합니다.
 
 ## 2026년 7월 9일 - Experience League 지원 AI 채팅
 
@@ -51,7 +53,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->AI 채팅의 초기 베타 버전입니다. 모든 사람이 이용할 수 있지만, 일관된 데이터 수집 목표를 유지하면서 AI 반응과 대화 흐름이 세션마다 조금씩 달라질 수 있다. AI가 생성한 모든 응답을 행동으로 확인하기 전에 다시 확인하십시오.
+>이 AI 채팅은 초기 베타 버전입니다. 모든 사람이 이용할 수 있지만, 일관된 데이터 수집 목표를 유지하면서 AI 반응과 대화 흐름이 세션마다 조금씩 달라질 수 있다. AI가 생성한 모든 응답을 사용한 후 응답합니다.
 
 ## 2026년 6월 17일 - 새롭게 디자인된 Experience League 지원 포털의 업데이트
 
@@ -61,7 +63,7 @@ ht-degree: 0%
 
 1. 이제 **[!UICONTROL 우선 순위별 사례 수]** 차트에서 마우스로 가리키면 더 자세한 분류를 제공합니다. 우선 순위 세그먼트 위로 마우스를 가져가면 열려 있는 서비스 케이스 수와 닫힌 서비스 케이스 수와 함께 총 서비스 케이스 수를 표시하는 도구 설명이 표시됩니다.
 
-1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com/ko-kr)&#x200B;(으)로 리디렉션되지 않습니다.
+1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com)&#x200B;(으)로 리디렉션되지 않습니다.
 
 1. 이제 **[!UICONTROL 제품 상태]** 위젯에 보다 직관적인 순서로 제품이 나열됩니다. 활성 문제가 있는 제품이 먼저 나타나고 그 다음에 나머지 제품이 알파벳순으로 정렬됩니다.
 
@@ -149,30 +151,30 @@ ht-degree: 0%
 ![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 권한 있는 제품에 대해 **추가 [!UICONTROL 환경 컨텍스트] 필드**&#x200B;를 추가하여 중요한 세부 정보를 캡처합니다.
 
 - **Marketo**
-   - Munchkin ID
+  - Munchkin ID
 - **Adobe Target**
-   - 활동 이름
-   - 사이트 URL(태그 속성 이름)
+  - 활동 이름
+  - 사이트 URL(태그 속성 이름)
 - **Adobe Analytics**
-   - RSID
-   - 사이트 URL(태그 속성 이름) / cURL
-   - Workspace Shortlink
+  - RSID
+  - 사이트 URL(태그 속성 이름) / cURL
+  - Workspace Shortlink
 - **Adobe Journey Optimizer(AJO)**
-   - 여정 ID 또는 URL/캠페인 ID 또는 URL/채널 ID 또는 URL/Offer Decisioning ID 또는 URL
-   - 프로필 예
-   - 샌드박스 이름
+  - 여정 ID 또는 URL/캠페인 ID 또는 URL/채널 ID 또는 URL/Offer Decisioning ID 또는 URL
+  - 프로필 예
+  - 샌드박스 이름
 - **Real-Time Customer Data Platform(RTCDP)**
-   - 영향을 받는 구성 요소 ID(대상 ID/대상 ID/데이터 세트 ID/데이터 흐름 ID/병합 정책 ID/스키마 ID/Source ID/배치 ID)
-   - 프로필 예
-   - 샌드박스 이름
+  - 영향을 받는 구성 요소 ID(대상 ID/대상 ID/데이터 세트 ID/데이터 흐름 ID/병합 정책 ID/스키마 ID/Source ID/배치 ID)
+  - 프로필 예
+  - 샌드박스 이름
 - **Adobe Experience Platform(AEP)**
-   - 영향을 받는 구성 요소 ID(대상 ID/대상 ID/데이터 세트 ID/데이터 흐름 ID/병합 정책 ID/스키마 ID/Source ID/배치 ID)
-   - 프로필 예
-   - 샌드박스 이름
+  - 영향을 받는 구성 요소 ID(대상 ID/대상 ID/데이터 세트 ID/데이터 흐름 ID/병합 정책 ID/스키마 ID/Source ID/배치 ID)
+  - 프로필 예
+  - 샌드박스 이름
 - **Customer Journey Analytics(CJA)**
-   - Workspace 프로젝트 URL
-   - 연결 ID/오류 메시지/코드
-   - 데이터 보기 ID
+  - Workspace 프로젝트 URL
+  - 연결 ID/오류 메시지/코드
+  - 데이터 보기 ID
 
 ![새로 만들기](../adobe-support-tools-guide/assets/new.svg) 사례 만들기 흐름을 중단하지 않고 유용한 지침을 표시하기 위해 **AI 기반 [!UICONTROL 권장 사항 패널]**&#x200B;을 추가했습니다.
 
