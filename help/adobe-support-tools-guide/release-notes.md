@@ -2,22 +2,17 @@
 title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
 workflow-type: tm+mt
-source-wordcount: 1757
+source-wordcount: 2140
 ht-degree: 0%
 
 ---
@@ -31,6 +26,36 @@ ht-degree: 0%
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
 
+## 2026년 8월 19일 - 이제 새롭게 디자인된 Experience League 지원 포털에서 사례 만들기, 내 사례 및 사례 세부 정보를 사용할 수 있습니다.
+
+1. **[!UICONTROL 서비스 케이스 열기]**&#x200B;를 이제 다시 디자인된 Experience League 지원 포털에서 바로 사용할 수 있습니다. 고객은 다시 설계된 포털을 종료하지 않고도 사례를 만들고 제출할 수 있습니다.
+
+2. 이제 다시 설계된 포털의 서비스 케이스 만들기 경험에 **[!UICONTROL AI 채팅]**&#x200B;이 포함되어 있으므로 고객이 서비스 케이스를 만드는 동안 대화를 통해 문제를 설명하고 안내식 지원을 받을 수 있습니다. 이 AI 채팅 경험은 현재 Experience League 지원 포털에서 이전에 사용할 수 있었던 것과 동일합니다(아래 2026년 7월 9일 항목 참조).
+
+3. **[!UICONTROL 내 사례]** 페이지가 현재 Experience League 지원 포털과 구별되는 새 인터페이스로 새로 고쳐졌습니다. **[!UICONTROL 내 서비스 케이스]**&#x200B;와 **[!UICONTROL 내 조직 서비스 케이스]**&#x200B;의 두 가지 토글을 사용하면 귀하가 제출한 서비스 케이스와 귀사에서 제출한 모든 서비스 케이스 간에 전환할 수 있습니다.
+
+4. **[!UICONTROL 내 사례]** 페이지에서 새 필터를 여러 개 사용할 수 있습니다. 현재 포털에서 사용 가능한 필터링 옵션을 업그레이드했습니다.
+
+5. 기본적으로 **[!UICONTROL 내 서비스 케이스]** 페이지에는 모든 서비스 케이스가 표시됩니다. 사용 가능한 필터를 사용하여 필요에 따라 사례를 좁히고 목록에 추가합니다.
+
+6. 이제 **[!UICONTROL 내 사례]** 페이지에서 로드 시간이 빨라지면서 성능이 향상되었습니다.
+
+7. 페이지 로드 성능을 개선하기 위해 **[!UICONTROL 시간 범위]** 필터가 추가되었으며 기본값은 지난 3개월입니다. 필터를 조정하여 이 기본 범위를 벗어난 사례를 봅니다.
+
+8. 현재 포털의 **[!UICONTROL 열림/닫힘 날짜]** 열은 다시 디자인된 **[!UICONTROL 내 사례]** 페이지에서 **[!UICONTROL 열림 날짜]**&#x200B;과(와) **[!UICONTROL 닫힘 날짜]**&#x200B;의 두 열로 분할되었습니다.
+
+9. 새 **[!UICONTROL 마지막 업데이트]** 열이 **[!UICONTROL 내 사례]** 페이지에 추가되어 각 사례에 대한 가장 최근 활동의 날짜가 표시됩니다.
+
+10. 이제 사례 활동 피드의 맨 위에서 주요 업데이트에 쉽게 액세스할 수 있도록 **[!UICONTROL 사례 세부 정보]** 페이지에 주석을 고정할 수 있습니다.
+
+>[!NOTE]
+>
+>다시 설계된 Experience League 지원 포털에서 [!UICONTROL AI 채팅]의 초기 베타 버전입니다. 모든 사람이 이용할 수 있지만, 일관된 데이터 수집 목표를 유지하면서 AI 반응과 대화 흐름이 세션마다 조금씩 달라질 수 있다. AI가 생성한 모든 응답을 사용한 후 응답합니다.
+
+>[!NOTE]
+>
+>이 업데이트는 [!UICONTROL 사례 만들기], [!UICONTROL 내 사례] 및 [!UICONTROL 사례 세부 정보]를 다시 디자인된 Experience League 지원 포털(위의 2026년 5월 26일 항목 참조)로 가져오는 계획을 이행합니다. 이러한 페이지는 현재 Experience League 지원 포털에서만 사용할 수 있습니다.
+
 ## 2026년 7월 23일 - 다시 설계된 Experience League 지원 포털의 영구 포털 기본 설정
 
 1. 이제 포털 환경 설정이 마지막 **[!UICONTROL 새 홈 페이지를 사용해 보기]** 전환 선택을 기준으로 자동으로 저장됩니다.
@@ -41,7 +66,7 @@ ht-degree: 0%
 
 ## 2026년 7월 9일 - Experience League 지원 AI 채팅
 
-1. 이제 새로운 AI 채팅 인터페이스를 Experience League 지원에서 클래식 사례 만들기 양식 대신 옵트인으로 사용할 수 있으므로 고객이 구조화된 필드를 채우는 대신 대화형으로 문제를 설명할 수 있습니다. 클래식 양식은 계속 사용할 수 있으며 이 경험으로 대체되지 않습니다.
+1. 이제 새로운 AI 채팅 인터페이스를 Experience League 지원에서 클래식 사례 만들기 양식 대신 옵트인으로 사용할 수 있으므로 고객이 구조화된 필드를 채우는 대신 대화형으로 문제를 설명할 수 있습니다. 클래식 양식은 계속 사용할 수 있으며 이 경험은 클래식 양식을 대체하지 않습니다.
 
 1. AI 채팅은 입력된 입력과 음성을 텍스트로 변환하는 기능을 모두 지원하므로 핸즈프리로 인터랙션을 활성화하여 보다 접근성이 높고 유연한 사례 생성 경험을 제공할 수 있습니다.
 
@@ -69,7 +94,7 @@ ht-degree: 0%
 
 1. 이제 **[!UICONTROL 우선 순위별 사례 수]** 차트에서 마우스로 가리키면 더 자세한 분류를 제공합니다. 우선 순위 세그먼트 위로 마우스를 가져가면 열려 있는 서비스 케이스 수와 닫힌 서비스 케이스 수와 함께 총 서비스 케이스 수를 표시하는 도구 설명이 표시됩니다.
 
-1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com/ko-kr)&#x200B;(으)로 리디렉션되지 않습니다.
+1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com)&#x200B;(으)로 리디렉션되지 않습니다.
 
 1. 이제 **[!UICONTROL 제품 상태]** 위젯에 보다 직관적인 순서로 제품이 나열됩니다. 활성 문제가 있는 제품이 먼저 나타나고 그 다음에 나머지 제품이 알파벳순으로 정렬됩니다.
 
