@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 - **[!UICONTROL 제품]** — 조직에 할당된 제품
 - **[!UICONTROL 우선 순위]** — P4 - 약함, P3 - 중요, P2 - 긴급, P1 - 중요
 
-케이스 테이블에는 케이스 개설, 케이스 번호, 케이스 제목, 상태, 제품, 우선순위, 요청자, 마감, 최종 업데이트, 케이스 요약 및 추가 도움말이 표시됩니다. **[!UICONTROL 사례 요약]** 열에서 **[!UICONTROL 보기]**&#x200B;를 선택하여 AI가 생성한 사례 요약을 엽니다. 서비스 케이스에 대한 추가 지원이 필요하면 **[!UICONTROL 도움말 받기]**&#x200B;를 선택하십시오.
-
-사례 세부 정보 페이지를 열려면 **[!UICONTROL 사례 번호]**&#x200B;을(를) 선택하십시오.
+케이스 테이블에는 케이스 개설, 케이스 번호, 케이스 제목, 상태, 제품, 우선순위, 요청자, 마감, 최종 업데이트, 케이스 요약 및 추가 도움말이 표시됩니다. **[!UICONTROL 사례 요약]** 열에서 **[!UICONTROL 보기]**&#x200B;를 선택하여 AI가 생성한 사례 요약을 엽니다. 서비스 케이스에 대한 추가 지원이 필요하면 **[!UICONTROL 도움말 받기]**&#x200B;를 선택하십시오. **[!UICONTROL 사례 번호]**&#x200B;를 선택하여 사례 세부 정보 페이지를 열 수 있습니다.
 
 ![사례 요약](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 

@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 다시 디자인된 Experience League 지원 포털은 Adobe 지원 활동을 관리할 수 있는 통일되고 직관적인 환경을 제공합니다. 지원 사례 추적, 제품 상태 모니터링, 사례 인사이트 액세스 및 성공 팀과의 연결을 포함한 필수 기능에 대한 빠른 액세스를 제공합니다.
 
->[!NOTE]
->
->다시 설계된 포털에서 지원 사례를 만들고 관리하려면 [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
-
 ## 홈 페이지
 
 **[!UICONTROL 홈]** 페이지는 지원 활동을 위한 중앙 허브 역할을 합니다. 지원 환경에 대한 개요와 주요 기능에 대한 빠른 액세스를 제공합니다.
@@ -39,8 +34,8 @@ ht-degree: 1%
 왼쪽 탐색 패널에서는 다음 섹션에 액세스할 수 있습니다.
 
 - **[!UICONTROL 홈]**&#x200B;이 기본 랜딩 페이지로 열리고 지원 활동에 대한 중앙 보기가 표시됩니다.
-- **[!UICONTROL 대/소문자 열기]**&#x200B;는 다시 디자인된 포털에서 대/소문자 만들기 워크플로를 엽니다. [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
-- **[!UICONTROL 내 서비스 케이스]**&#x200B;가 다시 디자인된 포털에서 서비스 케이스 목록을 엽니다. [지원 사례 만들기 및 관리](exl-new-ui-support-cases.md)를 참조하세요.
+- **[!UICONTROL 사례 열기]**&#x200B;를 통해 현재 Experience League 지원 포털에서 사례 만들기 워크플로를 열 수 있습니다.
+- **[!UICONTROL 내 서비스 케이스]**&#x200B;가 현재 Experience League 지원 포털에서 서비스 케이스 목록을 엽니다.
 - **[!UICONTROL 내 성공]**&#x200B;은(는) Ultimate Success plan 고객에게만 제공됩니다.
 
 ## 조직 전환
@@ -59,13 +54,17 @@ ht-degree: 1%
 
 ![이전 UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>포털 환경 설정이 자동으로 저장됩니다. 마지막으로 사용한 포털이 향후 로그인을 위한 기본 포털이 됩니다. 다시 설계된 포털을 마지막으로 사용한 경우 기존 포털을 로드하지 않고 바로 열립니다. 레거시 포털을 마지막으로 사용한 경우 레거시 포털이 열립니다.
+
 홈 페이지에는 Experience League 지원 포털에서 검색할 수 있도록 해 주는 글로벌 검색 창이 있는 개인화된 시작 배너가 포함되어 있습니다.
 
 **[!UICONTROL Home]** 페이지 맨 위에서 다음 빠른 작업을 사용할 수 있습니다.
 
-1. **[!UICONTROL 지원 사례 열기]** — 다시 디자인된 포털에서 사례 만들기 워크플로를 엽니다. **[!UICONTROL 시작하기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL 지원 사례를 엽니다]** — 레거시 지원 포털에서 사례 만들기 워크플로를 엽니다. **[!UICONTROL 시작하기]**&#x200B;를 선택합니다.
 
-1. **[!UICONTROL 서비스 케이스 보기 및 관리]** — 다시 디자인된 포털에서 **[!UICONTROL 내 서비스 케이스]** 페이지를 엽니다. **[!UICONTROL 지금 이동]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 서비스 케이스 보기 및 관리]** — 레거시 지원 포털에서 **[!UICONTROL 내 서비스 케이스]** 페이지를 엽니다. **[!UICONTROL 지금 이동]**&#x200B;을 선택합니다.
 
 1. **[!UICONTROL 콜백 요청]** - Adobe 전문가와 서비스 케이스에 대한 호출을 예약합니다. P1(위험) 사례의 경우 즉시 콜백을 요청합니다. P2 및 P3 사례의 경우 편리한 날짜와 시간에 지원 엔지니어와의 웹 회의를 예약하십시오. 시작하려면 **[!UICONTROL 지금 요청]**&#x200B;을 선택하세요.
 
@@ -115,11 +114,11 @@ ht-degree: 1%
 
 ![내 서비스 케이스](/help/adobe-support-tools-guide/assets/my-case.png)
 
-다시 설계된 Experience League 지원 포털에서 사례 세부 정보를 보려면 **[!UICONTROL 사례 ID]**&#x200B;을(를) 선택하십시오.
+현재 Experience League 지원 포털에서 서비스 케이스 세부 정보를 보려면 **[!UICONTROL 서비스 케이스 ID]**&#x200B;를 선택하십시오.
 
 ![사례 ID 선택](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-**[!UICONTROL 모든 사례 보기]**&#x200B;를 선택하여 다시 디자인된 Experience League 지원 포털에서 **[!UICONTROL 내 사례]** 페이지를 엽니다.
+**[!UICONTROL 모든 서비스 케이스 보기]**&#x200B;를 선택하여 현재 Experience League 지원 포털에서 **[!UICONTROL 내 서비스 케이스]** 페이지를 엽니다.
 
 ![모든 서비스 케이스 보기](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -163,8 +162,6 @@ ht-degree: 1%
 추가 세부 정보를 확장하고 보려면 경고를 선택합니다.
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
 
 ## 플랜 정보
 
