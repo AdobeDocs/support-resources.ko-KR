@@ -2,21 +2,15 @@
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1061
-ht-degree: 1%
+source-wordcount: 1325
+ht-degree: 0%
 
 ---
 
@@ -164,7 +158,54 @@ ht-degree: 1%
 
 ![시스템 상태 알림 섹션](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Adobe [상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 제품에 대한 알림 환경 설정을 구성하려면 **[!UICONTROL 구독 관리]**&#x200B;를 선택하십시오.
+### 구독 관리
+
+**[UICONTROL 구독 관리]**&#x200B;를 사용하여 Adobe 제품 및 서비스 상태 이벤트에 대한 이메일 알림을 구성하십시오. 구독을 통해 Adobe에서 선택한 제품 및 지역에 대해 이벤트를 생성, 업데이트 또는 해결할 때 알림을 받을 수 있습니다.
+
+1. **[!UICONTROL 시스템 상태 알림]** 섹션에서 **[!UICONTROL 구독 관리]**&#x200B;를 선택합니다.
+
+   ![구독 관리](assets/manage-subscriptions.png)
+
+1. **[!UICONTROL 구독 관리]** 페이지에서 **[!UICONTROL 구독 만들기]**&#x200B;를 선택합니다.
+
+   ![구독 만들기](assets/create-subscriptions.png)
+
+1. **[!UICONTROL 클라우드를 선택하십시오]**&#x200B;에서 모니터링할 제품이 포함된 Adobe 클라우드를 선택하십시오.
+1. **[!UICONTROL 제품 및 서비스를 선택하십시오]**&#x200B;에서 알림을 받을 제품을 선택하십시오.
+1. **[!UICONTROL 지역을 선택하십시오]**&#x200B;에서 모니터링할 지역을 하나 이상 선택하십시오.
+1. **[!UICONTROL 이벤트 유형을 선택하십시오]**&#x200B;에서 다음 이벤트 유형 중 하나 이상을 선택하십시오.
+
+   * 주요 서비스 문제
+   * 부수적 서비스 문제
+   * 서비스 유지 관리
+   * 공지
+
+   ![구독 페이지 만들기](assets/create-subscription-page.png)
+
+1. 언어 및 표준 시간대를 포함한 기본 알림 설정을 검토합니다.
+1. **[!UICONTROL 계속]**&#x200B;을 선택하세요.
+1. 선택한 클라우드, 제품, 서비스, 지역 및 이벤트 유형을 포함한 구독 세부 정보를 검토하십시오.
+1. **[!UICONTROL 확인]**&#x200B;을 선택하여 구독을 만드십시오.
+
+   ![구독 세부 정보 확인](assets/confirm-subscription.png)
+
+1. 확인 메시지가 나타나고 구독이 생성됩니다.
+
+구독이 만들어지면 Adobe에서 선택한 제품, 지역 및 이벤트 유형 기준과 일치하는 이벤트가 만들어지거나 업데이트되거나 해결되면 이메일 알림을 보냅니다.
+
+>[!NOTE]
+>
+>이메일은 상태 알림에 대한 기본 통신 채널입니다. 구독 환경 설정은 선택한 제품, 지역 및 이벤트 유형에만 적용됩니다.
+
+다음에 **[!UICONTROL 구독 관리]**&#x200B;를 열면 선택한 클라우드, 제품, 서비스, 지역 및 이벤트 유형을 포함한 현재 구독 세부 정보가 페이지에 표시됩니다.
+
+![기존 구독 관리](assets/edit-subscriptions.png)
+
+이 페이지에서 다음 작업을 수행할 수 있습니다.
+
+* 기존 구독을 수정하려면 **[!UICONTROL 구독 편집]**&#x200B;을 선택하십시오.
+* 모든 구독을 제거하려면 **[!UICONTROL 모두 구독 취소]**&#x200B;를 선택하십시오.
+* 구독 옆에 있는 삭제 아이콘을 선택하여 개별 구독을 제거합니다.
 
 ## 플랜 정보
 

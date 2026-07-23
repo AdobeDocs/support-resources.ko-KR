@@ -3,25 +3,24 @@ title: 지원 사례 만들기 및 관리
 description: 다시 설계된 Experience League 지원 포털에서 지원 사례를 만들고, 보고, 관리하는 방법을 알아봅니다.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
 
 # 지원 사례 만들기 및 관리
 
-[Experience League](https://experienceleague.adobe.com/ko/support?support-tab=home#home)에서 지원 사례를 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
+[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)에서 지원 사례를 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
 
 ## 새로운 사용자 인터페이스로 지원 사례 만들기
 
 >[!NOTE]
 >
->지원 사례를 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+>지원 사례를 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
 
 Experience League에서 지원 사례를 만들려면 아래 단계를 수행하십시오.
 
@@ -79,7 +78,7 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
    ![문제 설명 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
+   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
 
    ![AI 채팅](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -93,7 +92,7 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
 4. **[!UICONTROL 우선 순위 및 비즈니스 영향]** 섹션에서 서비스 케이스 우선 순위(P4 - 사소, P3 - 중요, P2 - 긴급, P1 - 중요)를 선택합니다. 선택한 우선 순위가 P1 - 위험 수준인 경우 비즈니스 영향 세부 정보를 제공한 다음 **[!UICONTROL 다음]**&#x200B;을(를) 선택하십시오.
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
 
    ![우선 순위 및 비즈니스 영향 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -143,9 +142,7 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 - **[!UICONTROL 제품]** — 조직에 할당된 제품
 - **[!UICONTROL 우선 순위]** — P4 - 약함, P3 - 중요, P2 - 긴급, P1 - 중요
 
-케이스 테이블에는 케이스 개설, 케이스 번호, 케이스 제목, 상태, 제품, 우선순위, 요청자, 마감, 최종 업데이트, 케이스 요약 및 추가 도움말이 표시됩니다. **[!UICONTROL 사례 요약]** 열에서 **[!UICONTROL 보기]**&#x200B;를 선택하여 AI가 생성한 사례 요약을 엽니다. 서비스 케이스에 대한 추가 지원이 필요하면 **[!UICONTROL 도움말 받기]**&#x200B;를 선택하십시오.
-
-사례 세부 정보 페이지를 열려면 **[!UICONTROL 사례 번호]**&#x200B;을(를) 선택하십시오.
+케이스 테이블에는 케이스 개설, 케이스 번호, 케이스 제목, 상태, 제품, 우선순위, 요청자, 마감, 최종 업데이트, 케이스 요약 및 추가 도움말이 표시됩니다. **[!UICONTROL 사례 요약]** 열에서 **[!UICONTROL 보기]**&#x200B;를 선택하여 AI가 생성한 사례 요약을 엽니다. 서비스 케이스에 대한 추가 지원이 필요하면 **[!UICONTROL 도움말 받기]**&#x200B;를 선택하십시오. **[!UICONTROL 사례 번호]**&#x200B;를 선택하여 사례 세부 정보 페이지를 열 수 있습니다.
 
 ![사례 요약](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 

@@ -7,7 +7,7 @@ type: Documentation
 index: true
 role: User, Admin
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
 - [에스컬레이션 관리](/help/adobe-support-tools-guide/escalation-management.md)
-- [Experience League 지원 포털 - 새 사용자 인터페이스]{#exl-new-ui}
+- Experience League 지원 포털 - 새로운 사용자 인터페이스 {#exl-new-ui}
   - [개요](/help/adobe-support-tools-guide/exl-new-ui.md)
   - [지원 사례 만들기 및 관리](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - [시스템 통찰력](/help/adobe-support-tools-guide/system-insights.md)
