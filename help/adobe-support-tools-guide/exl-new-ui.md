@@ -2,10 +2,16 @@
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
 workflow-type: tm+mt
 source-wordcount: 1370
@@ -178,10 +184,10 @@ ht-degree: 0%
 1. **[!UICONTROL 지역을 선택하십시오]**&#x200B;에서 모니터링할 지역을 하나 이상 선택하십시오.
 1. **[!UICONTROL 이벤트 유형을 선택하십시오]**&#x200B;에서 다음 이벤트 유형 중 하나 이상을 선택하십시오.
 
-   * 주요 서비스 문제
-   * 부수적 서비스 문제
-   * 서비스 유지 관리
-   * 공지
+   &#x200B;* 주요 서비스 문제
+   &#x200B;* 부수적 서비스 문제
+   &#x200B;* 서비스 유지 관리
+   &#x200B;* 공지
 
    ![구독 페이지 만들기](assets/create-subscription-page.png)
 
@@ -206,9 +212,9 @@ ht-degree: 0%
 
 이 페이지에서 다음 작업을 수행할 수 있습니다.
 
-* 기존 구독을 수정하려면 **[!UICONTROL 구독 편집]**&#x200B;을 선택하십시오.
-* 모든 구독을 제거하려면 **[!UICONTROL 모두 구독 취소]**&#x200B;를 선택하십시오.
-* 구독 옆에 있는 삭제 아이콘을 선택하여 개별 구독을 제거합니다.
+&#x200B;* 기존 구독을 수정하려면 **[!UICONTROL 구독 편집]**&#x200B;을 선택하십시오.
+&#x200B;* 모든 구독을 제거하려면 **[!UICONTROL 모두 구독 취소]**&#x200B;를 선택하십시오.
+&#x200B;* 구독 옆에 있는 삭제 아이콘을 선택하여 개별 구독을 제거합니다.
 
 ## 플랜 정보
 

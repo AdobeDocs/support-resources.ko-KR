@@ -3,7 +3,8 @@ title: 지원 사례 만들기 및 관리
 description: 다시 설계된 Experience League 지원 포털에서 지원 사례를 만들고, 보고, 관리하는 방법을 알아봅니다.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
 hide: true
 source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
