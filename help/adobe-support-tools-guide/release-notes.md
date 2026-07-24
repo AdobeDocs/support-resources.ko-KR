@@ -6,17 +6,11 @@ hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -100,7 +94,7 @@ ht-degree: 0%
 
 1. 이제 **[!UICONTROL 우선 순위별 사례 수]** 차트에서 마우스로 가리키면 더 자세한 분류를 제공합니다. 우선 순위 세그먼트 위로 마우스를 가져가면 열려 있는 서비스 케이스 수와 닫힌 서비스 케이스 수와 함께 총 서비스 케이스 수를 표시하는 도구 설명이 표시됩니다.
 
-1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com/ko-kr)&#x200B;(으)로 리디렉션되지 않습니다.
+1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com)&#x200B;(으)로 리디렉션되지 않습니다.
 
 1. 이제 **[!UICONTROL 제품 상태]** 위젯에 보다 직관적인 순서로 제품이 나열됩니다. 활성 문제가 있는 제품이 먼저 나타나고 그 다음에 나머지 제품이 알파벳순으로 정렬됩니다.
 
@@ -232,3 +226,4 @@ ht-degree: 0%
 - 이 기능은 Adobe Experience Manager, Campaign 및 Workfront에서 사용할 수 있습니다.
 - 고객은 자신의 편의에 따라 모임을 예약할 수 있고, 즉석 초대장도 받을 수 있다.
 - Adobe Experience Manager P1 사례의 경우 즉각적인 콜백을 통해 중요한 문제 중에 더 빠른 참여를 보장하므로 다운타임과 비즈니스 영향을 최소화하는 데 도움이 됩니다.
+
