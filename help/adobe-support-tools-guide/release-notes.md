@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
+source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,4 +232,3 @@ ht-degree: 0%
 - 이 기능은 Adobe Experience Manager, Campaign 및 Workfront에서 사용할 수 있습니다.
 - 고객은 자신의 편의에 따라 모임을 예약할 수 있고, 즉석 초대장도 받을 수 있다.
 - Adobe Experience Manager P1 사례의 경우 즉각적인 콜백을 통해 중요한 문제 중에 더 빠른 참여를 보장하므로 다운타임과 비즈니스 영향을 최소화하는 데 도움이 됩니다.
-
