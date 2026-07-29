@@ -27,7 +27,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->질문이 있거나 지원이 필요한 경우 [지원](https://experienceleague.adobe.com/en/support#home) 페이지로 이동하여 지원 사례를 여십시오.
+>질문이 있거나 지원이 필요한 경우 [지원](https://experienceleague.adobe.com/ko/support#home) 페이지로 이동하여 지원 사례를 여십시오.
 
 Adobe Success Plan은 사후 문제 해결을 넘어 어떤 문제보다 앞서 비즈니스 단계를 유지할 수 있는 새로운 종류의 개인화된 경험을 제공합니다. Adobe 팀은 심층적인 기술 전문 지식, 다양한 역량, 고급 방법론을 활용하여 귀사에 필요한 적절한 수준의 지원, 전문 지식, 기술 및 전략 지침을 제공합니다.
 
