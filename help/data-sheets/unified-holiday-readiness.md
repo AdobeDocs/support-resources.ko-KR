@@ -9,8 +9,8 @@ index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
 workflow-type: tm+mt
-source-wordcount: '3827'
-ht-degree: 1%
+source-wordcount: '4803'
+ht-degree: 3%
 
 ---
 
@@ -70,8 +70,8 @@ Adobe은 사용자 환경이 휴일 트래픽에 대비할 수 있도록 다음�
 Adobe은 작동 제한 내에서 유지하고 서비스 중단을 방지하려면 다음 수집 및 프로필 보호 기능을 권장합니다.
 
 * [스트리밍 처리량 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-platform/landing/license/capacity#suggestions)
-* [데이터 수집을 위한 보호 기능](https://experienceleague.adobe.com/ko/docs/experience-platform/ingestion/guardrails)
-* [실시간 고객 프로필 데이터 및 세분화를 위한 기본 보호 기능](https://experienceleague.adobe.com/ko/docs/experience-platform/profile/guardrails)
+* [데이터 수집 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/ingestion/guardrails)
+* [실시간 고객 프로필 데이터 및 세분화를 위한 기본 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/profile/guardrails)
 * [AEP 블루프린트: 가드레일](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/architecture-overview/guardrails)
 
 ### 보안 및 관리
@@ -94,9 +94,9 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
 ### 수요 예측
 
 * 휴가철 압축률과 더 무거운 캠페인 양에 따라 다음을 예상하십시오.
-   * 실시간 이벤트 및 트리거된 여정(장바구니 포기, 마지막 순간 오퍼)의 스파이크
-   * 메시지 포화 위험(옵트아웃 증가, 피로)
-   * 크로스 채널 복잡성 증가(이메일 + 푸시 + SMS + 인앱)
+  * 실시간 이벤트 및 트리거된 여정(장바구니 포기, 마지막 순간 오퍼)의 스파이크
+  * 메시지 포화 위험(옵트아웃 증가, 피로)
+  * 크로스 채널 복잡성 증가(이메일 + 푸시 + SMS + 인앱)
 * 지난 해의 지표 (열기/클릭/옵트아웃 비율, 여정 시작 볼륨)를 사용하여 예상되는 로드를 모델링하고 메시징 시스템에 대한 임계값을 설정합니다.
 * &quot;조용한 창&quot; 또는 성능이 낮은 기간(예: 주말, 공휴일)을 식별하고 그에 따라 볼륨을 전송하기로 계획합니다.
 
@@ -107,27 +107,27 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
 * 채널/여정 규칙 집합 구성: [규칙 집합 작업](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets)을 참조하세요.
 * 데이터 위생/실시간 이벤트 스트림 및 세그멘테이션 프레임워크를 준비합니다.
 * 다음과 같이 휴일 캠페인에 대한 타겟 대상을 정의했는지 확인합니다.
-   * 가치가 높은 고객
-   * 단골 세그먼트
-   * 장바구니 포기 사용자
-   * 최초 구매자
+  * 가치가 높은 고객
+  * 단골 세그먼트
+  * 장바구니 포기 사용자
+  * 최초 구매자
 * 휴일 여정을 위한 템플릿을 미리 로드하거나 준비하고, 의사 결정 논리(오퍼/제한)를 활용하여 인벤토리, 시간에 민감한 오퍼 및 채널 환경 설정에 따라 동적으로 조정할 수 있습니다. [오퍼에 제약 조건 추가](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints) 문서에서 예제를 참조하십시오.
 * 기술 준비: API/끝점 로드 용량, 사용자 지정 작업 및 외부 통합에 대한 스로틀/캡핑 규칙을 확인합니다. [보호 기능 및 제한 사항](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/get-started/guardrails)을 참조하세요.
 
 ### 테스트 및 유효성 검사
 
 * 실험 프레임워크를 사용하여 주요 변수 변경 사항을 테스트합니다.
-   * 전송 시간
-   * 오퍼 유형
-   * 채널 혼합
-[AJO Experimentation Accelerator 모범 사례](https://experienceleague.adobe.com/ko/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)를 참조하세요.
+  * 전송 시간
+  * 오퍼 유형
+  * 채널 혼합
+    [AJO Experimentation Accelerator 모범 사례](https://experienceleague.adobe.com/ko/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices)를 참조하세요.
 * 엔드 투 엔드 여정 유효성 검사 수행:
-   * 이벤트 트리거
-   * 세분화 항목
-   * 여정 경로 흐름
-   * 개인화 논리
-   * 오퍼 제한
-   * 종료 기준
+  * 이벤트 트리거
+  * 세분화 항목
+  * 여정 경로 흐름
+  * 개인화 논리
+  * 오퍼 제한
+  * 종료 기준
 * 최대 가용량 및 충돌 규칙을 확인합니다. [여정 제한 및 중재](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/conflict-prioritization/journey-capping) 문서를 참조하세요.
 * 최대 전송 또는 스파이크에 대한 스트레스 테스트 크기 조정된 볼륨: 높은 트리거 볼륨을 시뮬레이션하여 로드 중 시스템 동작의 유효성을 검사합니다.
 * 전달성의 유효성 확인: 이메일 도메인/보낸 사람을 미리 정리하고, 모바일 푸시 구성을 확인하고, SMS/인앱에 대한 대체 채널을 확인합니다.
@@ -145,7 +145,7 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
 ### 보안 및 관리
 
 * 필요한 사용자만 여정을 배포하거나 비즈니스 규칙을 수정할 수 있도록 액세스 제어 및 권한이 구성되어 있는지 확인합니다.
-* API 호출/연결 한도 모니터링 및 적용: 예를 들어 [한도 API를 참조하십시오. | Adobe Journey Optimizer](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/connect-systems/external-systems/capping) 문서입니다.
+* API 호출/연결 한도 모니터링 및 적용: 예를 들어 [한도 API를 참조하십시오. | Adobe Journey Optimizer](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/connect-systems/external-systems/capping) 문서.
 * 깔끔한 자사 데이터를 사용하고 메시징이 중복/잘못 정렬되지 않도록 적절한 ID 결합을 보장합니다.
 * 게재 기능 도메인이 따뜻하고 스팸 방지 조치가 적절히 배치되었는지 확인합니다. 특히 대량 휴일 전송인 경우 더욱 그렇습니다.
 * 피크 시즌 동안 감사 로그 및 여정 변경 사항을 자주 검토하여 잘못된 실행 또는 잘못된 여정을 조기에 감지합니다.
@@ -171,7 +171,7 @@ Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준�
 * CJA 연결 및 데이터 보기를 검토하고 향상된 모니터링 및 프로비저닝이 필요한 연결 및 데이터 보기를 설정합니다.
 * 프로비저닝이 휴일 확장에 충분한지 확인하고, 필요에 따라 중요한 연결 및 데이터 보기를 확장하십시오. 자세한 내용은 [연결 관리](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-connections/manage-connections)를 참조하십시오.
 
-### 성능 모니터링
+### 성과 모니터링
 
 * RAM([[!UICONTROL Reporting Activity Manager] 개요](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview))을 활용하여 활성 및 대기 중인 보고 요청을 실시간으로 모니터링하고, 용량별 연결을 식별하고, 병목 현상을 파악할 수 있습니다.
 * [오류 및 문제 해결 안내서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) 및 [알려진 제한 사항](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations) 문서를 사용하여 최대 로드 중 지연 시간이 늘어나는지 확인하십시오.
@@ -209,7 +209,7 @@ Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준�
 
 ### 크기 조정 준비
 
-[계획 및 피벗: Adobe Commerce(및 선택 사항인 Adobe Experience Cloud 도구)를 사용하여 가장 바쁜 시기에 뛰어난 고객 경험을 계획, 피벗 및 제공하는 실용적인 전략을 제공하는 2025년 성수기에 대한 전략적 접근](https://experienceleague.adobe.com/ko/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025) 안내서의 권장 사항을 따르십시오.
+가장 바쁜 시기에 우수한 고객 경험을 계획, 피벗 및 제공하는 데 도움이 되는 Adobe Commerce(및 선택 사항인 Adobe Experience Cloud 도구)를 사용하여 실행 가능한 전략을 제공하는 [계획 및 피벗: 2025년 성수기에 대한 전략적 접근](https://experienceleague.adobe.com/ko/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025) 안내서의 권장 사항을 따르십시오.
 
 ### 모범 사례
 
@@ -232,8 +232,8 @@ Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준�
 
 * Adobe Experience Manager Cloud Services를 사용하여 높은 트래픽을 준비하는 방법에 대한 자세한 인사이트 및 지침은 다음 링크를 참조하십시오.
 
-   * AEM as a Cloud Service의 [CDN](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
-   * [AEM as a Cloud Service 캐싱](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/caching/overview)
+  * [AEM as a Cloud Service의 CDN](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
+  * [AEM as a Cloud Service 캐싱](https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/caching/overview)
 
 * Ultimate Success 고객이고 최근에 Adobe 계정 팀과 거래량 예측 정보를 공유한 경우 이미 보기가 있으므로 다시 당사에 전송하는 것에 대해 걱정하지 마십시오.
 
@@ -250,8 +250,8 @@ AEM 웹 사이트 트래픽 보안/보호에 대한 자세한 내용은 AEM as a
 Adobe은 중요한 휴일 기간 동안 중단 없는 서비스를 보장하기 위해 유지 관리 제외 기간을 예약했습니다.
 
 * **자동 업데이트가 없음**:
-   * 2025년 11월 24일 - 2025년 12월 2일
-   * 2025년 12월 15일 - 2026년 1월 2일
+  * 2025년 11월 24일 - 2025년 12월 2일
+  * 2025년 12월 15일 - 2026년 1월 2일
 
 이렇게 하면 트래픽이 많은 기간 동안 안정성이 보장됩니다. 전체 릴리스 일정 및 유지 관리 기간은 [AEM 릴리스 로드맵](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap)을 참조하세요.
 
@@ -289,11 +289,11 @@ Adobe Marketo을 사용하여 성공적인 휴일 캠페인을 위해서는 팀�
 **[!UICONTROL 보내기]**&#x200B;를 누르기 전에 전자 메일이 의도한 대로 정확하게 표시되고 수행되는지 확인하십시오.
 
 * Marketo은 이메일 모양을 테스트하여 이메일 모양이 사용자가 의도한 대로 표시되는지 확인하는 여러 가지 방법을 제공합니다.
-   * **[!UICONTROL 미리 보기]** 함수를 사용하여 세그먼테이션 또는 개별 리드를 미리 보고 다이내믹 콘텐츠와 토큰이 올바르게 렌더링되도록 하십시오. [다이내믹 콘텐츠로 이메일 미리 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content) 문서를 참조하십시오.
-   * 테스트 레코드에 다이렉트 이메일을 빠르고 쉽게 보내 다양한 클라이언트/디바이스에서 이메일이 어떻게 표시되는지 확인합니다. [스마트 목록에서 단일 흐름 단계 실행](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list) 문서를 참조하십시오.
-   * [!DNL Litmus] 사용자의 경우 계정을 통합하고 전자 메일 편집기에서 바로 렌더링 테스트를 시작하는 것이 이전보다 더 쉬워졌습니다. [테스트 전자 메일 렌더링 사용 [!DNL Litmus]](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) 문서를 참조하십시오.
+  * **[!UICONTROL 미리 보기]** 함수를 사용하여 세그먼테이션 또는 개별 리드를 미리 보고 다이내믹 콘텐츠와 토큰이 올바르게 렌더링되도록 하십시오. [다이내믹 콘텐츠로 이메일 미리 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content) 문서를 참조하십시오.
+  * 테스트 레코드에 다이렉트 이메일을 빠르고 쉽게 보내 다양한 클라이언트/디바이스에서 이메일이 어떻게 표시되는지 확인합니다. [스마트 목록에서 단일 흐름 단계 실행](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list) 문서를 참조하십시오.
+  * [!DNL Litmus] 사용자의 경우 계정을 통합하고 전자 메일 편집기에서 바로 렌더링 테스트를 시작하는 것이 이전보다 더 쉬워졌습니다. [테스트 전자 메일 렌더링 사용 [!DNL Litmus]](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) 문서를 참조하십시오.
 * [!DNL SpamAssassin]과(와) 통합되어 이메일의 콘텐츠를 검토하고 받은 편지함에 도달하거나 *스팸*(으)로 표시될 가능성에 대한 점수를 할당하는 이메일 스팸 보고서 기능을 확인하십시오. [이메일 스팸 보고서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report) 문서를 참조하십시오.
-* [!UICONTROL 캠페인 큐]를 주시하여 캠페인이 처리 중인지 확인하고 긴급도가 높은 항목의 우선 순위를 올바르게 지정하세요. [이(가) 실행 중인지 확인하십시오.](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) 문서.
+* [!UICONTROL 캠페인 큐]를 주시하여 캠페인이 처리 중인지 확인하고 긴급도가 높은 항목의 우선 순위를 올바르게 지정하세요. [내 캠페인이 실행 중인지 확인하십시오.](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) 기사.
 
 ### 지원 환경 간소화
 
@@ -323,9 +323,9 @@ Adobe Marketo을 사용하여 성공적인 휴일 캠페인을 위해서는 팀�
 Workfront 릴리스에 대한 최신 정보를 확인하고 샌드박스 환경에서 새로운 기능을 테스트하십시오.
 
 * [Adobe Workfront 릴리스 준비](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-readiness)
-* [Workfront 릴리스 노트 보관](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases)
+* [Workfront 릴리스 노트 아카이브](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025년 1분기 릴리스 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront 릴리스 웨비나 녹화](https://experienceleague.adobe.com/ko/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront 릴리스 웨비나 녹화](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 모범 사례
 
@@ -347,7 +347,7 @@ Workfront 릴리스에 대한 최신 정보를 확인하고 샌드박스 환경�
 
 ### 연말연시 캠페인을 돋보이게 할 수 있는 전문가의 팁
 
-연말연시 선물 준비를 미리 시작할수록 좋은 것처럼, 대성공을 거둬야 하는 연말연시 마케팅 캠페인을 위한 계획도 미리 시작할수록 좋습니다. Adobe Campaign을 사용하면 조직의 모든 휴일 소망을 실현하는 캠페인을 디자인, 계획 및 실행할 수 있습니다. 하지만 한 해를 멋지게 마무리할 수 있는 캠페인을 실행하기 위한 팁을 모두 알고 계시나요? 이 비디오에서 [연말연시 캠페인을 돋보이게 할 수 있는 전문가 팁](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)을 확인하세요. 이 팁은 게재 가능성 및 실행 모범 사례를 논의하며 Adobe Campaign에서 이 모든 작업을 수행하는 방법을 보여 줍니다.
+연말연시 선물 준비를 미리 시작할수록 좋은 것처럼, 대성공을 거둬야 하는 연말연시 마케팅 캠페인을 위한 계획도 미리 시작할수록 좋습니다. Adobe Campaign을 사용하면 조직의 모든 휴일 소망을 실현하는 캠페인을 디자인, 계획 및 실행할 수 있습니다. 하지만 한 해를 멋지게 마무리할 수 있는 캠페인을 실행하기 위한 팁을 모두 알고 계시나요? 이 비디오에서 [연말연시 캠페인을 돋보이게 할 수 있는 전문가 팁](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)을 확인하세요. 이 팁은 게재 가능성 및 실행 모범 사례를 논의하며 Adobe Campaign에서 이 모든 작업을 수행하는 방법을 보여 줍니다.
 
 ### 휴가 기간에 대한 고려 사항 및 준비
 
@@ -385,7 +385,7 @@ Adobe Campaign이 휴일 성수기를 맞이할 수 있도록 조직은 전달�
 
 * [Analysis Workspace 성능 최적화](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance)
 * [Report Builder 문제 해결 및 모범 사례: 요청 최적화를 위한 권장 사항](https://experienceleague.adobe.com/ko/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F)
-* [Analytics 구성 요소 안내서: 예약된 보고서 큐](https://experienceleague.adobe.com/ko/docs/analytics/components/scheduled-reports-admin)
+* [Analytics Components 안내서: 예약된 보고서 큐](https://experienceleague.adobe.com/ko/docs/analytics/components/scheduled-reports-admin)
 
 ### 휴일 유지 관리 계획
 
