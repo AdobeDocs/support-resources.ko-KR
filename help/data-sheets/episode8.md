@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Ultimate Success 팟캐스트 - 에피소드 8
 
->[!VIDEO](https://video.tv.adobe.com/v/3453792?captions=kor&quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452842?captions=kor&quality=12learn=on)

@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Ultimate Success 팟캐스트 - 에피소드 6
 
->[!VIDEO](https://video.tv.adobe.com/v/3429332?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452820?captions=kor&quality=12learn=on)
