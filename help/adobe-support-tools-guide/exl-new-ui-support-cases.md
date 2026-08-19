@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
    >[!NOTE]
    >
    >AI 기반 권장 사항은 Adobe Admin Console 제품에 표시되지 않습니다.
+
+   문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 시스템 인사이트 패널이 표시됩니다. 시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 자세한 내용은 [시스템 인사이트](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/system-insights)를 참조하십시오.
 
    ![문제 설명 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 

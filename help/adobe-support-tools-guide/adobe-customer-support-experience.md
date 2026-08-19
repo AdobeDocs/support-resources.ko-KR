@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
+source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
 workflow-type: tm+mt
-source-wordcount: 2067
+source-wordcount: 2113
 ht-degree: 0%
 
 ---
@@ -87,6 +87,10 @@ Commerce을 사용하는 경우 지원 사례와 작업에 대한 액세스 권�
 >[!NOTE]
 >
 >지원 티켓을 제출하기 전에 [Adobe 상태](https://status.adobe.com/ko-kr) 사이트에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+
+>[!NOTE]
+>
+>다시 디자인한 Experience League 지원 포털을 사용하여 지원 사례를 여는 경우 [지원 사례 만들기 및 관리](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)를 참조하십시오. 아래 단계에서는 현재(기존) 포털 인터페이스를 설명합니다.
 
 Experience League은 자격이 있는 고객에게 개인화된 지원과 사용하기 쉬운 경험을 제공하기 위해 설계된 셀프서비스 지원 포털입니다.
 
