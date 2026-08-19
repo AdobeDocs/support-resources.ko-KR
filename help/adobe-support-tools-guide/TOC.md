@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 61cdf015dfe42f1bc2c32e8402d767c22200bdbd
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '346'
 ht-degree: 2%
 
 ---
@@ -21,8 +21,10 @@ ht-degree: 2%
 - [Adobe 고객 지원 권한 구성](adobe-customer-support-entitlement-configuration.md)
 - [지원 전화번호 업데이트](phone-numbers.md)
 - [에스컬레이션 관리](/help/adobe-support-tools-guide/escalation-management.md)
-- [Experience League 지원 포털 - 새로운 사용자 인터페이스](/help/adobe-support-tools-guide/exl-new-ui.md)
 - [시스템 통찰력](/help/adobe-support-tools-guide/system-insights.md)
+- Experience League 지원 포털 - 새로운 사용자 인터페이스 {#exl-new-ui}
+  - [개요](/help/adobe-support-tools-guide/exl-new-ui.md)
+  - [지원 사례 만들기 및 관리](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [보류 중인 작업 실행](adobe-admin-console/execute-jobs.md)
