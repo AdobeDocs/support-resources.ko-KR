@@ -1,26 +1,26 @@
 ---
 title: 지원 사례 만들기 및 관리
 description: 다시 설계된 Experience League 지원 포털에서 지원 사례를 만들고, 보고, 관리하는 방법을 알아봅니다.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
 
 # 지원 사례 만들기 및 관리
 
-[Experience League](https://experienceleague.adobe.com/ko/support?support-tab=home#home)에서 지원 사례를 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
+[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)에서 지원 사례를 제출하려면 시스템 관리자가 지원 관리자 역할을 할당해야 합니다. 지원 자격 및 역할 요구 사항에 대해서는 [사례 제출에 필요한 권한 있는 역할 지원](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)을 참조하십시오.
 
 ## 새로운 사용자 인터페이스로 지원 사례 만들기
 
 >[!NOTE]
 >
->지원 사례를 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/ko-kr/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
+>지원 사례를 제출하기 전에 [Adobe 상태 사이트](https://status.adobe.com/)에서 Adobe 시스템 성능, 가용성 및 알려진 문제를 확인하십시오.
 
 Experience League에서 지원 사례를 만들려면 아래 단계를 수행하십시오.
 
@@ -72,15 +72,11 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
    설명에 50자 미만이 포함되어 있으면 권장 지침 문서가 표시됩니다. 기본 제공 문자 카운터는 최소 요구 사항을 실시간으로 추적합니다.
 
-   >[!NOTE]
-   >
-   >AI 기반 권장 사항은 Adobe Admin Console 제품에 표시되지 않습니다.
-
-   문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 시스템 인사이트 패널이 표시됩니다. 시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 자세한 내용은 [시스템 인사이트](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/system-insights)를 참조하십시오.
+   문제 세부 정보를 입력하면 화면 오른쪽의 AI 기반 권장 사항 섹션 아래에 시스템 인사이트 패널이 표시됩니다. 시스템 인사이트는 현재 Adobe Commerce에만 사용할 수 있습니다. 자세한 내용은 [시스템 인사이트](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights)를 참조하십시오.
 
    ![문제 설명 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
+   서비스 케이스 만들기 환경을 전환하려면 오른쪽 상단에서 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 선택하십시오. AI 채팅에 대한 자세한 내용은 [사례 만들기 환경의 AI 채팅](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)을 참조하세요.
 
    ![AI 채팅](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +90,7 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
 4. **[!UICONTROL 우선 순위 및 비즈니스 영향]** 섹션에서 서비스 케이스 우선 순위(P4 - 사소, P3 - 중요, P2 - 긴급, P1 - 중요)를 선택합니다. 선택한 우선 순위가 P1 - 위험 수준인 경우 비즈니스 영향 세부 정보를 제공한 다음 **[!UICONTROL 다음]**&#x200B;을(를) 선택하십시오.
 
-   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
+   사례 우선 순위 및 비즈니스 영향이 지원 응답 시간에 미치는 영향에 대한 자세한 내용은 [지원에 대한 목표 초기 응답 시간](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)을 참조하세요.
 
    ![우선 순위 및 비즈니스 영향 단계](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -148,6 +144,6 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
 ![사례 요약](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-사례 세부 정보 페이지에는 사례 제목, 사례 ID, 상태, 마지막 업데이트 날짜, 사례 설명 및 재현성이 표시됩니다. 세부 정보 패널에는 Adobe 지원 에이전트, 요청자, 제품, 우선 순위, 시간대, 감시자 및 서비스 케이스 첨부 파일이 포함되어 있습니다. 댓글을 추가하려면 댓글 편집기에 메시지를 입력하고 **[!UICONTROL 메시지 보내기]**&#x200B;를 선택하세요. 첨부 아이콘을 사용하여 파일을 첨부할 수 있습니다. 댓글에 있는 고정 아이콘을 선택하여 대/소문자를 고정합니다. 여러 개의 주석을 고정하고 고정 해제할 수 있습니다.
+사례 세부 정보 페이지에는 사례 제목, 사례 ID, 상태, 마지막 업데이트 날짜, 사례 설명 및 재현성이 표시됩니다. 세부 정보 패널에는 Adobe 지원 에이전트, 요청자, 제품, 우선 순위, 시간대, 감시자 및 서비스 케이스 첨부 파일이 포함되어 있습니다. 댓글을 추가하려면 댓글 편집기에 메시지를 입력하고 **[!UICONTROL 메시지 보내기]**&#x200B;를 선택하세요. 첨부 아이콘을 사용하여 파일을 첨부하고 포털에서 첨부 파일을 삭제할 수 있습니다. 댓글에 있는 고정 아이콘을 선택하여 대/소문자를 고정합니다. 여러 개의 주석을 고정하고 고정 해제할 수 있습니다.
 
 ![사례 세부 정보](/help/adobe-support-tools-guide/assets/case-details.png)
