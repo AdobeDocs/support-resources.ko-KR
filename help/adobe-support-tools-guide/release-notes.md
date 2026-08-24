@@ -2,22 +2,17 @@
 title: Experience League 지원 릴리스 노트
 description: Experience League 지원에 대한 최신 릴리스 정보입니다.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
 workflow-type: tm+mt
-source-wordcount: 2140
+source-wordcount: 2254
 ht-degree: 0%
 
 ---
@@ -30,6 +25,16 @@ ht-degree: 0%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 8월 26일 - 새롭게 디자인된 Experience League 지원 포털의 업데이트
+
+1. 이제 서비스 케이스 만들기 인터페이스에서 마지막으로 선택한 경험인 **[!UICONTROL 클래식 양식]** 또는 **[!UICONTROL AI 채팅]**&#x200B;을(를) 기억합니다. **[!UICONTROL AI 채팅]**&#x200B;을(를) 가장 최근에 사용한 경우 다음에 사례를 만들 때 자동으로 선택되므로 방문할 때마다 수동으로 전환할 필요가 없습니다.
+
+1. 이제 각 첨부 파일에 표시된 삭제 아이콘을 사용하여 **[!UICONTROL 사례 세부 정보]** 페이지에서 첨부 파일을 직접 삭제할 수 있습니다. 이 기능은 폐쇄된 사례 또는 Workfront 조직에서는 사용할 수 없습니다.
+
+1. 이제 **[!UICONTROL 내 사례]** 페이지의 모든 열에서 정렬이 지원됩니다.
+
+1. **[!UICONTROL AI 권장 사항]**&#x200B;은(는) 사례 생성 중 **[!UICONTROL Admin Console]**&#x200B;을(를) 제품으로 선택하면 사용할 수 있습니다.
 
 ## 2026년 8월 19일 - 이제 새롭게 디자인된 Experience League 지원 포털에서 사례 만들기, 내 사례 및 사례 세부 정보를 사용할 수 있습니다.
 
@@ -99,7 +104,7 @@ ht-degree: 0%
 
 1. 이제 **[!UICONTROL 우선 순위별 사례 수]** 차트에서 마우스로 가리키면 더 자세한 분류를 제공합니다. 우선 순위 세그먼트 위로 마우스를 가져가면 열려 있는 서비스 케이스 수와 닫힌 서비스 케이스 수와 함께 총 서비스 케이스 수를 표시하는 도구 설명이 표시됩니다.
 
-1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com/ko-kr)&#x200B;(으)로 리디렉션되지 않습니다.
+1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com)&#x200B;(으)로 리디렉션되지 않습니다.
 
 1. 이제 **[!UICONTROL 제품 상태]** 위젯에 보다 직관적인 순서로 제품이 나열됩니다. 활성 문제가 있는 제품이 먼저 나타나고 그 다음에 나머지 제품이 알파벳순으로 정렬됩니다.
 
