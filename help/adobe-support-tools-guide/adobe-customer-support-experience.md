@@ -2,6 +2,7 @@
 keywords: Experience Platform 지원;플랫폼 지원;인텔리전트 서비스 지원;고객 ai 지원;attribution ai 지원;rtcdp 지원;지원 티켓 제출;고객 지원
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe 고객 지원 경험
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 
    권장 사항 패널은 문제 설명의 세부 사항 수준에 맞게 조정되며 사례 생성을 중단하지 않고 표시됩니다. 언제든지 권장 사항을 검토하고 사례를 계속 제출할 수 있습니다. 문제 설명 **이(가) 50자를 초과하면** 시스템에서 문제에 맞는 AI 기반 권장 사항을 생성합니다.
 
-   >[!NOTE]
-   >
-   >AI 기반 권장 사항은 Adobe Admin Console 제품에 표시되지 않습니다.
-
    ![Experience league 문제 세부 정보](./assets/ai-recommendations.png)
 
    설명에 **50자 미만**&#x200B;이(가) 포함되어 있으면 시스템에서 권장되는 지침 문서를 표시합니다. 기본 제공 문자 카운터는 최소 요구 사항을 실시간으로 추적합니다.
@@ -208,6 +205,10 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 ### 사례 생성 경험의 AI 채팅
 
 Experience League 지원은 지원 사례를 만들고 관리할 수 있는 대체 방법으로 AI 기반 채팅 인터페이스를 제공합니다. AI 채팅 경험은 옵트인이며 클래식 사례 만들기 워크플로를 대체하지 않습니다.
+
+>[!NOTE]
+&#x200B;>>
+이제 포털에서 **[!UICONTROL AI 채팅]** 선택 항목을 선호하는 사례 만들기 경험으로 저장하고 다음 방문 시 기억합니다.
 
 >[!NOTE]
 >
