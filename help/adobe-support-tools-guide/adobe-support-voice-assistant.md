@@ -4,17 +4,13 @@ description: Adobe Support Voice Assistant는 일본 고객이 사례 업데이�
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a8c37fa04996974f00b3bf3ab84e6aeb4a9ef2da
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 902
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -25,6 +21,9 @@ ht-degree: 0%
 >[!NOTE]
 >
 >이 페이지에서는 라이브 에이전트를 사용할 수 없는 일과 후 및 주말 기간 동안 일본에서 전화 기반(IVR) 지원에 사용할 수 있는 AI Voice Assistant에 대해 설명합니다. 업무 시간 동안 일반적인 사례를 제출하려면 표준 [Adobe 고객 지원 경험](/help/adobe-support-tools-guide/adobe-customer-support-experience.md) 설명서를 참조하십시오.
+>
+>
+>이 서비스는 일본에서만 이용할 수 있습니다.
 
 ## 개요
 
@@ -49,7 +48,7 @@ AI Voice Assistant는 다음 기능을 지원합니다.
 
 ### 일본어로 이해 및 응답
 
-라이브 지원 에이전트와 이야기하는 것과 같은 방식으로 자연스럽게 조수와 일본어로 이야기하십시오. 전화 키를 누르거나 특정 키워드를 사용할 필요가 없습니다. 필요한 사항을 자신의 말로 설명해 주시면, 조수가 대화 방식으로 이해하고 응답합니다.
+라이브 지원 에이전트와 이야기하는 것과 같은 방식으로 자연스럽게 조수와 일본어로 이야기하십시오. 전화 키를 누르거나 특정 키워드를 사용할 필요가 없습니다. 필요한 사항을 자신의 말로 설명해 주시면, 도우미가 대화 방식으로 이해하고 응답합니다.
 
 ### 사례 상태를 즉시 확인
 
@@ -122,4 +121,4 @@ AI 음성 도우미는 많은 일반적인 지원 요구 사항을 처리할 수
 
 >[!NOTE]
 >
->도우미의 기능 이외의 모든 기능에 대해서는 라이브 Adobe 지원 엔지니어에게 콜백을 요청하도록 원활하게 안내됩니다.
+>도우미의 기능 이외의 모든 기능에 대해서는 Adobe 지원 엔지니어에게 콜백을 요청하도록 원활하게 안내됩니다.
