@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 사례 세부 정보 페이지에는 사례 제목, 사례 ID, 상태, 마지막 업데이트 날짜, 사례 설명 및 재현성이 표시됩니다. 세부 정보 패널에는 Adobe 지원 에이전트, 요청자, 제품, 우선 순위, 시간대, 감시자 및 서비스 케이스 첨부 파일이 포함되어 있습니다. 댓글을 추가하려면 댓글 편집기에 메시지를 입력하고 **[!UICONTROL 메시지 보내기]**&#x200B;를 선택하세요. 첨부 아이콘을 사용하여 파일을 첨부하고 포털에서 첨부 파일을 삭제할 수 있습니다. 댓글에 있는 고정 아이콘을 선택하여 대/소문자를 고정합니다. 여러 개의 주석을 고정하고 고정 해제할 수 있습니다.
 
 ![사례 세부 정보](/help/adobe-support-tools-guide/assets/case-details.png)
+

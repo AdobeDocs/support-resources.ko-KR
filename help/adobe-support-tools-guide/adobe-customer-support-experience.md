@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ AI는 다음과 같은 필수 정보를 수집합니다.
 * 재생 단계
 
 제출하기 전에 초안을 검토하여 모든 세부 정보가 정확한지 확인할 수 있으며 사례 작성 대화 중 또는 후에 언제든지 첨부 파일, 로그, 스크린샷 및 기타 추가 세부 정보를 추가하여 지원 팀에 필요한 전체 컨텍스트를 제공할 수 있습니다.
+
