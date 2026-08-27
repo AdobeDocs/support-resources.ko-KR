@@ -2,7 +2,6 @@
 keywords: Experience Platform 지원;플랫폼 지원;인텔리전트 서비스 지원;고객 ai 지원;attribution ai 지원;rtcdp 지원;지원 티켓 제출;고객 지원
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe 고객 지원 경험
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -207,8 +206,8 @@ Experience League은 자격이 있는 고객에게 개인화된 지원과 사용
 Experience League 지원은 지원 사례를 만들고 관리할 수 있는 대체 방법으로 AI 기반 채팅 인터페이스를 제공합니다. AI 채팅 경험은 옵트인이며 클래식 사례 만들기 워크플로를 대체하지 않습니다.
 
 >[!NOTE]
-&#x200B;>>
-이제 포털에서 **[!UICONTROL AI 채팅]** 선택 항목을 선호하는 사례 만들기 경험으로 저장하고 다음 방문 시 기억합니다.
+>
+>이제 포털에서 **[!UICONTROL AI 채팅]** 선택 항목을 선호하는 사례 만들기 경험으로 저장하고 다음 방문 시 기억합니다.
 
 >[!NOTE]
 >
