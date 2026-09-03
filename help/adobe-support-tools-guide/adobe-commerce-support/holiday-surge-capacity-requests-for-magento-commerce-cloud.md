@@ -4,9 +4,10 @@ description: 성수기(약 11월 중순부터 1월 중순) 동안 Adobe은 클�
 feature: Support
 feature-set: Commerce
 role: Admin
-source-git-commit: e6ae0022bac9c91eb52c76a6b7a8d8f6c45257cb
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ ht-degree: 0%
 
 **추가 도움말**
 
-성수기 트래픽 준비에 대한 추가 지침이 필요하십니까? 클라우드 인프라의 Adobe Commerce 판매자는 성공적인 성수기를 준비하기 위한 도움말, 전략 및 계획 팁을 얻기 위해 Adobe 계정 팀에 문의할 수 있습니다. 또한 [Magento 블로그](https://magento.com/blog)에서 연중 전략 팁을 확인해 보는 것이 좋습니다.
+성수기 트래픽 준비에 대한 추가 지침이 필요하십니까? 클라우드 인프라의 Adobe Commerce 판매자는 성공적인 성수기를 준비하기 위한 도움말, 전략 및 계획 팁을 얻기 위해 Adobe 계정 팀에 문의할 수 있습니다. 또한 [Adobe for Business 블로그](https://magento.com/blog)에서 연중 전략 팁을 확인해 보는 것이 좋습니다.
 
 ## 수용작업량 검토에 관한 자료
 
@@ -52,4 +53,4 @@ ht-degree: 0%
 * [클라우드에서 Adobe Commerce에 대한 CPU 할당 계산](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=ko)
 * [클라우드에서 Adobe Commerce에 대해 호스트 인스턴스의 업사이징이 필요한지 확인](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=ko)
 * [클라우드에서 Adobe Commerce에 대한 호스트의 CPU 구성 확인](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=ko)
-* [클라우드에서 Adobe Commerce의 중단을 식별하고 측정합니다](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=ko)
+* [클라우드에서 Adobe Commerce에 대한 가동 중단 확인 및 측정](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=ko)
