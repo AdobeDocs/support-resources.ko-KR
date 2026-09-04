@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Adobe DX 솔루션 통합 휴일 준비 안내서
 
+>[!NOTE]
+>
+>이러한 지침은 2025년 10월 기준으로 최신 상태입니다. 2026년 연휴 시즌 업데이트 버전은 2026년 9월 말까지 게시될 예정이다.
 
 Adobe DX 솔루션 통합 휴일 준비 안내서는 사후 문제 해결이 아닌 사전 계획에 중점을 두어 휴일 시즌을 준비할 수 있도록 도와줍니다. 인스턴스가 준비되었는지 확인할 수 있는 실용적인 단계를 제공하여 잠재적인 문제가 발생하기 전에 최소화합니다. Adobe 팀은 기술 전문 지식, 다양한 기능, 검증된 방법을 통해 기술 및 전략적으로 적절한 수준의 지원 및 지침을 제공하므로 비즈니스에 대한 준비가 잘 되어 있습니다.
 
