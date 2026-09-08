@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: a7eb36ed1c3484a870a207f0fcad2a3a0d7b9083
+source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '363'
 ht-degree: 2%
 
 ---
@@ -49,6 +49,7 @@ ht-degree: 2%
   - [IP 주소로 제품 액세스 제한](adobe-admin-console/adobe-ip-based-access.md)
   - [감사 로그 다운로드 및 보고서 내보내기](adobe-admin-console/download-audit-logs-and-export-reports.md)
   - [기존 사용자를 Adobe Admin Console으로 마이그레이션](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
+  - [Admin Console으로 Frame.io 사용자 관리 마이그레이션](adobe-admin-console/migrate-user-management-to-the-adobe-admin-console.md)
 - Adobe Workfront 지원 {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
