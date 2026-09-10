@@ -5,10 +5,16 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
 source-wordcount: 2410
@@ -29,13 +35,13 @@ ht-degree: 0%
 
 1. 새롭게 디자인된 Experience League 지원 포털이 이제 모든 사용자의 기본 환경으로 설정되었습니다. 지원 애플리케이션에 액세스하면 사용자가 재설계된 포털로 자동 이동합니다.
 
-1. 보다 명확하게 하기 위해 UI 전환기 레이블이 **[UICONTROL 새 홈 페이지 시도]**&#x200B;에서 **[UICONTROL 이전 경험으로 반환]**&#x200B;으로 업데이트되었습니다.
+1. 보다 명확하게 하기 위해 UI 전환기 레이블이 **[!UICONTROL 새 홈 페이지 시도]**&#x200B;에서 **[!UICONTROL 이전 경험으로 반환]**&#x200B;으로 업데이트되었습니다.
 
-1. 포털 환경 설정은 **[UICONTROL에서 이전 경험으로 돌아가기]** 전환기 선택에 따라 계속 저장되고 적용되므로, 사용자는 방문할 때마다 마지막으로 선택한 포털 환경으로 이동됩니다.
+1. 포털 환경 설정은 **[!UICONTROL 에서 이전 경험으로 돌아가기]** 전환기 선택에 따라 계속 저장되고 적용되므로, 사용자는 방문할 때마다 마지막으로 선택한 포털 환경으로 이동됩니다.
 
-1. **[UICONTROL 내 사례]** 페이지의 **[UICONTROL 시간 범위]** 필터 드롭다운에 새로운 **[UICONTROL 모든 시간]** 옵션이 도입되어 지난 24개월 이후에 전체 사례 내역을 볼 수 있습니다.
+1. **[!UICONTROL 내 사례]** 페이지의 **[!UICONTROL 시간 범위]** 필터 드롭다운에 새로운 **[!UICONTROL 모든 시간]** 옵션이 도입되어 지난 24개월 이후에 전체 사례 내역을 볼 수 있습니다.
 
-1. 사례 만들기 양식의 Adobe Commerce **[UICONTROL 시스템 인사이트]** 위젯이 오른쪽 사이드바의 **[UICONTROL AI 권장 사항]** 섹션 위에 표시되도록 위치가 변경되었습니다.
+1. 사례 만들기 양식의 Adobe Commerce **[!UICONTROL 시스템 인사이트]** 위젯이 오른쪽 사이드바의 **[!UICONTROL AI 권장 사항]** 섹션 위에 표시되도록 위치가 변경되었습니다.
 
 ## 2026년 8월 27일 - 새롭게 디자인된 Experience League 지원 포털의 업데이트
 
