@@ -2,19 +2,13 @@
 title: Experience League 지원 포털 - 새로운 사용자 인터페이스
 description: 향상된 탐색, 분석 및 빠른 작업으로 지원 워크플로우, 사례 인사이트 및 제품 모니터링을 간소화하고 사례 관리를 위해 현재 포털로 원활하게 전환하는 Experience League 지원 포털을 새롭게 디자인했습니다.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +17,7 @@ ht-degree: 0%
 
 ## 개요
 
-다시 디자인된 Experience League 지원 포털은 Adobe 지원 활동을 관리할 수 있는 통일되고 직관적인 환경을 제공합니다. 지원 사례 추적, 제품 상태 모니터링, 사례 인사이트 액세스 및 성공 팀과의 연결을 포함한 필수 기능에 대한 빠른 액세스를 제공합니다.
+새롭게 디자인된 Experience League 지원 포털은 이제 모든 사용자의 기본 환경이 되었습니다. 지원 애플리케이션에 액세스하면 자동으로 다시 설계된 포털로 이동합니다. 포털은 Adobe 지원 활동을 관리할 수 있는 통일되고 직관적인 환경을 제공하며 지원 사례 추적, 제품 상태 모니터링, 사례 인사이트 액세스 및 성공 팀과의 연결과 같은 필수 기능에 더 빠르게 액세스할 수 있습니다.
 
 >[!NOTE]
 >
@@ -54,7 +48,7 @@ ht-degree: 0%
 
 ![새 UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-두 포털 모두 동기화된 상태로 유지되므로 사례 데이터와 지원 정보가 경험 간에 일관되게 유지됩니다.
+두 포털 경험은 동기화된 상태로 유지되므로 여러 경험에서 지원 사례 데이터와 정보의 일관성을 유지할 수 있습니다. 포털 환경 설정은 **[!UICONTROL 이전 경험으로 돌아가기]** 전환기의 선택에 따라 저장되며 방문할 때마다 마지막으로 선택한 포털 환경으로 이동됩니다.
 
 ![이전 UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
@@ -183,10 +177,10 @@ ht-degree: 0%
 5. **[!UICONTROL 지역을 선택하십시오]**&#x200B;에서 모니터링할 지역을 하나 이상 선택하십시오.
 6. **[!UICONTROL 이벤트 유형을 선택하십시오]**&#x200B;에서 다음 이벤트 유형 중 하나 이상을 선택하십시오.
 
-   &#x200B;* 주요 서비스 문제
-   &#x200B;* 부수적 서비스 문제
-   &#x200B;* 서비스 유지 관리
-   &#x200B;* 공지
+   * 주요 서비스 문제
+   * 부수적 서비스 문제
+   * 서비스 유지 관리
+   * 공지
 
    ![구독 페이지 만들기](assets/create-subscription-page.png)
 
@@ -211,9 +205,9 @@ ht-degree: 0%
 
 이 페이지에서 다음 작업을 수행할 수 있습니다.
 
-&#x200B;* 기존 구독을 수정하려면 **[!UICONTROL 구독 편집]**&#x200B;을 선택하십시오.
-&#x200B;* 모든 구독을 제거하려면 **[!UICONTROL 모두 구독 취소]**&#x200B;를 선택하십시오.
-&#x200B;* 구독 옆에 있는 삭제 아이콘을 선택하여 개별 구독을 제거합니다.
+* 기존 구독을 수정하려면 **[!UICONTROL 구독 편집]**&#x200B;을 선택하십시오.
+* 모든 구독을 제거하려면 **[!UICONTROL 모두 구독 취소]**&#x200B;를 선택하십시오.
+* 구독 옆에 있는 삭제 아이콘을 선택하여 개별 구독을 제거합니다.
 
 ## 플랜 정보
 
