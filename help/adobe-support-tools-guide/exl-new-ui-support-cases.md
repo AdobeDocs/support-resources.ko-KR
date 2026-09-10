@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Experience League에서 지원 사례를 만들려면 아래 단계를 수행하
 
 ![사례 진입점 보기 및 관리](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-**[!UICONTROL 모든 서비스 케이스]** 페이지가 열립니다. **[!UICONTROL 내 사례]**&#x200B;와(과) **[!UICONTROL 내 조직 사례]** 간을 전환하여 조직 전반에서 귀하의 사례 또는 사례를 봅니다. **[!UICONTROL 사례 검색]**&#x200B;을(를) 사용하여 선택한 시간 범위 내에서 검색합니다. 오른쪽 상단 모서리에서 지난 3, 6, 12, 18 또는 24개월 동안의 데이터를 볼 시간 범위를 선택합니다. 기본적으로 사례, 검색 결과 및 필터에 지난 3개월 동안의 데이터가 표시됩니다.
+**[!UICONTROL 모든 서비스 케이스]** 페이지가 열립니다. 내 사례를 보려면 **[!UICONTROL 내 사례]**&#x200B;를 선택하고, 조직 전체의 사례를 보려면 **[!UICONTROL 내 조직 사례]**&#x200B;를 선택하십시오. **[!UICONTROL 사례 검색]**&#x200B;을(를) 사용하여 선택한 시간 범위 내에서 검색합니다.
+
+오른쪽 상단 모서리에서 최근 3, 6, 12, 18, 24개월 또는 모든 시간의 사례를 볼 시간 범위를 선택합니다. 기본적으로 사례 목록, 검색 결과 및 필터는 지난 3개월의 데이터를 표시합니다.
+
+24개월 이전의 사례를 포함하여 전체 사례 기록을 보려면 드롭다운에서 **[!UICONTROL 항상]** 옵션을 선택하십시오.
 
 ![내 사례 페이지](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

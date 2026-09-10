@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 개요
 
-다시 디자인된 Experience League 지원 포털은 Adobe 지원 활동을 관리할 수 있는 통일되고 직관적인 환경을 제공합니다. 지원 사례 추적, 제품 상태 모니터링, 사례 인사이트 액세스 및 성공 팀과의 연결을 포함한 필수 기능에 대한 빠른 액세스를 제공합니다.
+새롭게 디자인된 Experience League 지원 포털은 이제 모든 사용자의 기본 환경이 되었습니다. 지원 애플리케이션에 액세스하면 자동으로 다시 설계된 포털로 이동합니다. 포털은 Adobe 지원 활동을 관리할 수 있는 통일되고 직관적인 환경을 제공하며 지원 사례 추적, 제품 상태 모니터링, 사례 인사이트 액세스 및 성공 팀과의 연결과 같은 필수 기능에 더 빠르게 액세스할 수 있습니다.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![새 UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-두 포털 모두 동기화된 상태로 유지되므로 사례 데이터와 지원 정보가 경험 간에 일관되게 유지됩니다.
+두 포털 경험은 동기화된 상태로 유지되므로 여러 경험에서 지원 사례 데이터와 정보의 일관성을 유지할 수 있습니다. 포털 환경 설정은 **[!UICONTROL 이전 경험으로 돌아가기]** 전환기의 선택에 따라 저장되며 방문할 때마다 마지막으로 선택한 포털 환경으로 이동됩니다.
 
 ![이전 UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 

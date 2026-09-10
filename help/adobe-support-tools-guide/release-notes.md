@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 0%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 9월 10일 - 새롭게 디자인된 Experience League 지원 포털이 이제 기본 경험입니다.
+
+1. 새롭게 디자인된 Experience League 지원 포털이 이제 모든 사용자의 기본 환경으로 설정되었습니다. 지원 애플리케이션에 액세스하면 사용자가 재설계된 포털로 자동 이동합니다.
+
+1. 보다 명확하게 하기 위해 UI 전환기 레이블이 **[!UICONTROL 새 홈 페이지로 시도]**&#x200B;에서 **[!UICONTROL 이전 경험으로 돌아가기]**&#x200B;로 업데이트되었습니다.
+
+1. 포털 환경 설정은 **[!UICONTROL 이전 경험으로 돌아가기]** 전환기 선택에 따라 계속 저장되고 적용되므로 사용자가 방문할 때마다 마지막으로 선택한 포털 환경으로 이동됩니다.
+
+1. **[!UICONTROL 내 사례]** 페이지의 **[!UICONTROL 시간 범위]** 필터 드롭다운에 새로운 **[!UICONTROL 항상]** 옵션이 도입되어 지난 24개월 이후에 전체 사례 기록을 볼 수 있습니다.
+
+1. 사례 만들기 양식의 Adobe Commerce **[!UICONTROL 시스템 인사이트]** 위젯이 오른쪽 사이드바의 **[!UICONTROL AI 권장 사항]** 섹션 위에 표시되도록 위치가 변경되었습니다.
 
 ## 2026년 8월 27일 - 새롭게 디자인된 Experience League 지원 포털의 업데이트
 
