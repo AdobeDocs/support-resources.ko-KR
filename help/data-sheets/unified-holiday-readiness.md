@@ -328,7 +328,7 @@ Workfront 릴리스에 대한 최신 정보를 확인하고 샌드박스 환경�
 * [Adobe Workfront 릴리스 준비](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront 릴리스 노트 아카이브](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025년 1분기 릴리스 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront 릴리스 웨비나 녹화](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront 릴리스 웨비나 녹화](https://experienceleague.adobe.com/ko/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### 모범 사례
 
@@ -350,7 +350,7 @@ Workfront 릴리스에 대한 최신 정보를 확인하고 샌드박스 환경�
 
 ### 연말연시 캠페인을 돋보이게 할 수 있는 전문가의 팁
 
-연말연시 선물 준비를 미리 시작할수록 좋은 것처럼, 대성공을 거둬야 하는 연말연시 마케팅 캠페인을 위한 계획도 미리 시작할수록 좋습니다. Adobe Campaign을 사용하면 조직의 모든 휴일 소망을 실현하는 캠페인을 디자인, 계획 및 실행할 수 있습니다. 하지만 한 해를 멋지게 마무리할 수 있는 캠페인을 실행하기 위한 팁을 모두 알고 계시나요? 이 비디오에서 [연말연시 캠페인을 돋보이게 할 수 있는 전문가 팁](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)을 확인하세요. 이 팁은 게재 가능성 및 실행 모범 사례를 논의하며 Adobe Campaign에서 이 모든 작업을 수행하는 방법을 보여 줍니다.
+연말연시 선물 준비를 미리 시작할수록 좋은 것처럼, 대성공을 거둬야 하는 연말연시 마케팅 캠페인을 위한 계획도 미리 시작할수록 좋습니다. Adobe Campaign을 사용하면 조직의 모든 휴일 소망을 실현하는 캠페인을 디자인, 계획 및 실행할 수 있습니다. 하지만 한 해를 멋지게 마무리할 수 있는 캠페인을 실행하기 위한 팁을 모두 알고 계시나요? 이 비디오에서 [연말연시 캠페인을 돋보이게 할 수 있는 전문가 팁](https://experienceleague.adobe.com/ko/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)을 확인하세요. 이 팁은 게재 가능성 및 실행 모범 사례를 논의하며 Adobe Campaign에서 이 모든 작업을 수행하는 방법을 보여 줍니다.
 
 ### 휴가 기간에 대한 고려 사항 및 준비
 
