@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Experience League 지원 릴리스 노트
 
@@ -30,6 +34,24 @@ ht-degree: 0%
 새 기능 ![개](../adobe-support-tools-guide/assets/new.svg)개
 ![수정](../adobe-support-tools-guide/assets/fix.svg) 수정 사항 및 개선 사항
 ![버그](../adobe-support-tools-guide/assets/bug.svg) 알려진 문제
+
+## 2026년 9월 15일 - 일본의 운영 시간 후 지원 업데이트
+
+1. 이제 일본의 고객은 라이브 에이전트가 없는 저녁, 야간 및 주말 동안 새로운 **AI 음성 지원**&#x200B;에서 전화 기반(IVR) 지원을 받을 수 있습니다. 자연어 음성이 지원되므로 키워드나 메뉴 탐색이 필요하지 않습니다.
+
+1. **AI 음성 지원**&#x200B;은(는) 즉시 서비스 케이스 상태를 확인하여 서비스 케이스가 아직 조사 중인지, 추가 정보를 기다리고 있는지 또는 해결되었는지 여부를 알려 줍니다.
+
+1. **AI 음성 지원**&#x200B;은(는) 케이스에 기록된 최신 메모 또는 진행 상황을 공유할 수 있으므로 콜백이나 이메일을 기다리지 않고 활동을 볼 수 있습니다.
+
+1. 심각한 중단이나 심각한 비즈니스 영향의 경우 도우미가 사례를 **[!UICONTROL P1(위험)]** 우선 순위로 올릴 수 있습니다.
+
+1. 도우미를 통해 언제든지 Adobe 지원 엔지니어에게 콜백을 요청할 수 있습니다.
+
+1. 지원 담당자가 문제(오류 메시지, 재생 단계 등)를 파악하기 위해 기술 관련 질문을 하는 경우 답변이 사례 노트에 자동으로 저장되므로 다음 엔지니어에게 반복할 필요가 없습니다.
+
+>[!NOTE]
+>
+>이 서비스는 일과 후 및 주말 기간 동안에만 일본어로 대화할 수 있습니다. 도우미가 사례 정보를 공유하려면 먼저 본인 또는 사례 세부 정보를 확인해야 합니다. 복잡한 기술 문제 해결 또는 제품 구성 변경 사항은 콜백을 통해 라이브 엔지니어에게 전달됩니다.
 
 ## 2026년 9월 10일 - 새롭게 디자인된 Experience League 지원 포털이 이제 기본 경험입니다.
 
@@ -42,6 +64,7 @@ ht-degree: 0%
 1. **[!UICONTROL 내 사례]** 페이지의 **[!UICONTROL 시간 범위]** 필터 드롭다운에 새로운 **[!UICONTROL 항상]** 옵션이 도입되어 지난 24개월 이후에 전체 사례 기록을 볼 수 있습니다.
 
 1. 사례 만들기 양식의 Adobe Commerce **[!UICONTROL 시스템 인사이트]** 위젯이 오른쪽 사이드바의 **[!UICONTROL AI 권장 사항]** 섹션 위에 표시되도록 위치가 변경되었습니다.
+
 
 ## 2026년 8월 27일 - 새롭게 디자인된 Experience League 지원 포털의 업데이트
 

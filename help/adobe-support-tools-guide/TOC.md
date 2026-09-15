@@ -6,13 +6,11 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
+source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '372'
 ht-degree: 2%
-
 ---
-
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
 
 - [Adobe 지원 및 도구 안내서 개요](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
@@ -25,6 +23,7 @@ ht-degree: 2%
 - Experience League 지원 포털 - 새로운 사용자 인터페이스 {#exl-new-ui}
   - [개요](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [지원 사례 만들기 및 관리](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
+- [Adobe Support Voice Assistant - 운영 후 및 주말 지원(일본)](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Adobe Admin Console 탐색](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [보류 중인 작업 실행](adobe-admin-console/execute-jobs.md)
