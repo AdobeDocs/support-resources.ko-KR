@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
+source-git-commit: 25fc32de197848e34e84db29113d17689442678f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '365'
 ht-degree: 2%
 ---
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
@@ -54,7 +54,6 @@ ht-degree: 2%
 - Adobe Commerce 지원 {#adobe-commerce-support}
   - [Adobe Commerce 지원 개요](adobe-commerce-support/adobe-commerce-support-overview.md)
   - [Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
-  - [보안 패치를 가져오고 적용하는 방법](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [클라우드 인프라의 Adobe Commerce에 대한 휴일 서지 용량 요청](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
   - [Adobe Commerce P1 알림 핫라인](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
