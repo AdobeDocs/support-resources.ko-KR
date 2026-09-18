@@ -4,13 +4,12 @@ description: 이 문서에서는 Adobe Commerce 온-프레미스, Adobe Commerce
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: fa46bb7187c55a0c7d75930868c74bf8ba072c41
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
+source-git-commit: 32e69e55405db4f7bb78ef055e07175336401179
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 # Adobe에서 제공하는 작성기 패치를 적용하는 방법
 
 이 문서에서는 Adobe Commerce 온-프레미스, Adobe Commerce 온 클라우드 인프라 및 Magento Open Source용 작성기 패치를 적용하는 방법에 대해 설명합니다.
@@ -37,7 +36,7 @@ ht-degree: 0%
    git push origin
    ```
 
-클라우드 프로젝트에 패치를 적용하는 방법에 대한 자세한 내용은 개발자 설명서에서 [패치 적용](https://experienceleague.adobe.com/ko/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)을 참조하십시오.
+클라우드 프로젝트에 패치를 적용하는 방법에 대한 자세한 내용은 개발자 설명서에서 [패치 적용](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)을 참조하십시오.
 
 ## Adobe Commerce 온-프레미스 및 Magento Open Source용 작성기 패치를 적용하는 방법 {#commerce}
 
@@ -48,6 +47,6 @@ ht-degree: 0%
    patch -p1 < %patch_name%.composer.patch
    ```
 
-   (위 명령이 작동하지 않으면 `-p2` 대신 `-p1`을(를) 사용해 보십시오.)
+   (위 명령이 작동하지 않으면 `-p1` 대신 `-p2`을(를) 사용해 보십시오.)
 
 1. 변경 내용을 반영하려면 **[!UICONTROL 시스템]** > **[!UICONTROL 캐시 관리]**&#x200B;에서 관리자의 캐시를 새로 고치십시오.

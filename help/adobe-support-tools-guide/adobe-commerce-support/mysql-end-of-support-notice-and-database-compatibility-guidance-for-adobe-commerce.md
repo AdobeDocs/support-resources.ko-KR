@@ -2,18 +2,17 @@
 title: Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침
 description: 이 문서에서는 지원되는 Adobe Commerce 버전에 대한 MySQL 지원 종료 타임라인 및 데이터베이스 호환성 지침에 대해 설명합니다.
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침
 
 이 문서에서는 지원되는 Adobe Commerce 버전에 대한 MySQL EOS(지원 종료) 및 데이터베이스 호환성에 대한 중요한 정보를 제공합니다.
 Adobe은 판매자가 이 발표를 검토하고 플랫폼 안정성을 유지하고 지원 요구 사항을 준수하도록 조치를 취할 것을 강력히 권장합니다.
-[MariaDB에 대한 업그레이드 필수 구성 요소](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) 및 [시스템 요구 사항](https://experienceleague.adobe.com/ko/docs/commerce-operations/installation-guide/system-requirements)에서 자세히 알아보세요.
+[MariaDB에 대한 업그레이드 필수 구성 요소](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) 및 [시스템 요구 사항](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)에서 자세히 알아보세요.
 
 ## MySQL 8.0 지원 종료(EOS)
 
