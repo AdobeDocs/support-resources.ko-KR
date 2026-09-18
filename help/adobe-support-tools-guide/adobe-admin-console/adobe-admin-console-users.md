@@ -188,7 +188,7 @@ Enterprise 또는 Teams 관리자는 Admin Console에서 관리 작업을 수행
 
 라이선스 방법에 따라 최종 사용자에게 라이선스를 할당합니다.
 
-- **명명된 사용자 라이선스:** 이러한 사용자를 **제품**(](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)팀의 경우[) 또는 **제품 프로필**([기업의 경우](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html))에 추가하여 Adobe 제품 및 서비스 권한을 부여합니다. 자세한 내용은 [지정 사용자 라이선스 패키지를 만드는 방법](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) 및 [제품 프로필](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)을 참조하세요.
+- **명명된 사용자 라이선스:** 이러한 사용자를 **제품**([&#128279;](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)팀의 경우) 또는 **제품 프로필**([기업의 경우](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html))에 추가하여 Adobe 제품 및 서비스 권한을 부여합니다. 자세한 내용은 [지정 사용자 라이선스 패키지를 만드는 방법](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) 및 [제품 프로필](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)을 참조하세요.
 - **공유 장치 라이선스:** [추가된 사용자](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)는 **조직 사용자만 액세스할 수 있는 구성된 공유 장치를 사용할 수 있습니다**. 자세한 내용은 [SDL 패키지 만들기](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)를 참조하십시오.
 
 ### 패키지 배포
