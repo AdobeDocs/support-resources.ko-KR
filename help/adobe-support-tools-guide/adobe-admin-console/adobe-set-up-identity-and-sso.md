@@ -47,13 +47,13 @@ ID 공급자(IdP)는 다음과 같은 조직의 ID 공급자입니다.
 
 ### Adobe ID
 
-최종 사용자가 생성, 소유 및 관리합니다. Adobe에서 인증을 수행하고 최종 사용자가 id를 관리합니다. [저장소 모델](https://helpx.adobe.com/enterprise/using/storage-for-business.html)에 따라 사용자 또는 기업이 파일 및 데이터를 계속 제어합니다.
+최종 사용자가 생성, 소유 및 관리합니다. Adobe에서 인증을 수행하고 최종 사용자가 id를 관리합니다. [저장소 모델](https://helpx.adobe.com/kr/enterprise/using/storage-for-business.html)에 따라 사용자 또는 기업이 파일 및 데이터를 계속 제어합니다.
 
 엔터프라이즈 스토리지 모델로 업데이트된 조직의 경우, 자산과 데이터는 조직에서 제어합니다. 업데이트하지 않은 조직의 경우 개인이 Adobe ID 자산을 소유 및 제어합니다.
 
 ### Enterprise ID
 
-조직에서 만들고, 소유하고, 관리합니다. Adobe은 Enterprise ID을 호스팅하고 인증을 수행하지만 조직에서는 Enterprise ID을 유지 관리합니다. 관리자는 Enterprise ID을 만들고 사용자에게 발급합니다. 관리자는 계정을 인계받거나 Enterprise ID을 삭제하여 관련 데이터에 대한 액세스를 영구적으로 차단함으로써 제품 및 서비스에 대한 액세스를 취소할 수 있습니다. 자세한 내용을 보려면 [여기](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)를 클릭하세요.
+조직에서 만들고, 소유하고, 관리합니다. Adobe은 Enterprise ID을 호스팅하고 인증을 수행하지만 조직에서는 Enterprise ID을 유지 관리합니다. 관리자는 Enterprise ID을 만들고 사용자에게 발급합니다. 관리자는 계정을 인계받거나 Enterprise ID을 삭제하여 관련 데이터에 대한 액세스를 영구적으로 차단함으로써 제품 및 서비스에 대한 액세스를 취소할 수 있습니다. 자세한 내용을 보려면 [여기](https://helpx.adobe.com/kr/enterprise/using/setup-enterprise-id.html)를 클릭하세요.
 
 ### Federated ID
 
@@ -71,7 +71,7 @@ ID 공급자(IdP)는 다음과 같은 조직의 ID 공급자입니다.
 
 ## Adobe ID 사용
 
-Adobe이 모든 조직을 [엔터프라이즈 스토리지 모델](https://helpx.adobe.com/enterprise/using/storage-for-business.html)&#x200B;(으)로 업데이트하는 중입니다. 이를 통해 조직은 사용자의 에셋과 데이터를 보다 세밀하게 제어할 수 있습니다.
+Adobe이 모든 조직을 [엔터프라이즈 스토리지 모델](https://helpx.adobe.com/kr/enterprise/using/storage-for-business.html)&#x200B;(으)로 업데이트하는 중입니다. 이를 통해 조직은 사용자의 에셋과 데이터를 보다 세밀하게 제어할 수 있습니다.
 
 Admin Console에 [사용자를 추가](https://helpx.adobe.com/kr/enterprise/using/users.html)하세요.
 
@@ -79,7 +79,7 @@ Admin Console에 [사용자를 추가](https://helpx.adobe.com/kr/enterprise/usi
 
 SSO를 사용하지 않고 사용자의 데이터를 보다 세밀하게 제어하려면 Enterprise ID 디렉토리를 설정할 수 있습니다. 관리자만 Enterprise ID을 만들고 사용자에게 발급합니다.
 
-Enterprise ID 디렉터리를 만들기 위한 요구 사항 및 단계는 [Enterprise ID으로 조직 설정](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)을 참조하십시오.
+Enterprise ID 디렉터리를 만들기 위한 요구 사항 및 단계는 [Enterprise ID으로 조직 설정](https://helpx.adobe.com/kr/enterprise/using/setup-enterprise-id.html)을 참조하십시오.
 
 ## SSO(Single Sign-On)를 사용하여 ID 설정
 
@@ -95,11 +95,11 @@ SSO를 사용하려면 Federated ID 계정으로 사용자 ID를 설정해야 �
 
 Microsoft Azure AD, Google과 같이 인기 있는 ID 공급자를 사용하거나 다른 SAML 기반 IdP를 사용하여 조직과 Adobe 제품 간에 SSO를 설정할 수 있습니다.
 
-**Azure AD**(권장) - [Azure AD 커넥터와 SSO 및 사용자 동기화 설정](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html)
+**Azure AD**(권장) - [Azure AD 커넥터와 SSO 및 사용자 동기화 설정](https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html)
 
-**다른 SAML IdP** - [다른 SAML 공급자와 SSO 설정](https://helpx.adobe.com/enterprise/using/create-directory.html)
+**다른 SAML IdP** - [다른 SAML 공급자와 SSO 설정](https://helpx.adobe.com/kr/enterprise/using/create-directory.html)
 
-**Google**(권장) - [Google 커넥터를 사용하여 SSO 및 사용자 동기화 설정](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
+**Google**(권장) - [Google 커넥터를 사용하여 SSO 및 사용자 동기화 설정](https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html)
 
 ## 기존 SSO 설정 관리
 
@@ -108,15 +108,15 @@ Microsoft Azure AD, Google과 같이 인기 있는 ID 공급자를 사용하거�
 도메인 및 디렉터리를 관리하는 방법을 알아봅니다.
 
 - [사용자 관리](https://helpx.adobe.com/kr/enterprise/using/users.html) 및 [그룹](https://helpx.adobe.com/enterprise/using/user-groups..html)
-- [도메인을 디렉터리에 연결](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies)하여 앱, 서비스 및 설정에 대한 사용자 액세스를 제어합니다.
-- 다른 조직에서 요구하는 도메인을 사용하려면 [디렉터리 트러스트를 관리합니다](https://helpx.adobe.com/enterprise/using/directory-trust.html)
+- [도메인을 디렉터리에 연결](https://helpx.adobe.com/kr/enterprise/using/add-domains-directories.html#link-domains-to-directoies)하여 앱, 서비스 및 설정에 대한 사용자 액세스를 제어합니다.
+- 다른 조직에서 요구하는 도메인을 사용하려면 [디렉터리 트러스트를 관리합니다](https://helpx.adobe.com/kr/enterprise/using/directory-trust.html)
 
 ID 공급자를 변경하는 방법에 대해 알아봅니다.
 
-- 사용자의 작업을 중단하지 않고 [IdP 변경](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html)
-- [도메인 간 이동](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
-- [기존 디렉터리 사용자 제거](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
-- [이전/미청구 도메인 및 빈 디렉터리 삭제](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
+- 사용자의 작업을 중단하지 않고 [IdP 변경](https://helpx.adobe.com/kr/enterprise/using/migrate-authentication-provider.html)
+- [도메인 간 이동](https://helpx.adobe.com/kr/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
+- [기존 디렉터리 사용자 제거](https://helpx.adobe.com/kr/enterprise/using/manage-directory-users.html)
+- [이전/미청구 도메인 및 빈 디렉터리 삭제](https://helpx.adobe.com/kr/enterprise/using/manage-domains-directories.html#delete)
 
 ## 오류 및 일반적인 질문
 
@@ -126,37 +126,37 @@ SSO 설정 및 관리 시 발생할 수 있는 일반적인 질문 및 오류에
 
 #### FAQ
 
-- [Azure AD 커넥터 FAQ](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
-- [디렉터리 및 도메인을 삭제하는 방법](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
+- [Azure AD 커넥터 FAQ](https://helpx.adobe.com/kr/enterprise/using/azure-ad-connector-faq.html)
+- [디렉터리 및 도메인을 삭제하는 방법](https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
 #### 문제 해결
 
-- [사용자 액세스 거부](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
-- [동기화 문제](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [사용자 액세스 거부](https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html#sync-issues)
+- [동기화 문제](https://helpx.adobe.com/kr/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### 기타 SAML IdP - FAQ 및 문제 해결
 
 #### FAQ
 
-[SAML 통합 FAQ](https://helpx.adobe.com/enterprise/using/sso-faq.html)
+[SAML 통합 FAQ](https://helpx.adobe.com/kr/enterprise/using/sso-faq.html)
 
 #### 문제 해결
 
-- [일반 SSO 문제 해결](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [&quot;액세스 거부&quot; 오류](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [&quot;다른 사용자가 현재 로그인되어 있습니다.&quot; 오류](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
-- [SAML 추적 수행](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
+- [일반 SSO 문제 해결](https://helpx.adobe.com/kr/enterprise/kb/tshoot-fed-id.html)
+- [&quot;액세스 거부&quot; 오류](https://helpx.adobe.com/kr/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [&quot;다른 사용자가 현재 로그인되어 있습니다.&quot; 오류](https://helpx.adobe.com/kr/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [SAML 추적 수행](https://helpx.adobe.com/kr/enterprise/kb/perform-a-saml-trace.html)
 
 ### GOOGLE - FAQ
 
-- [Google 커넥터 FAQ](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
-- [디렉터리 및 도메인을 삭제하는 방법](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
+- [Google 커넥터 FAQ](https://helpx.adobe.com/kr/enterprise/using/google-federation-faq.html)
+- [디렉터리 및 도메인을 삭제하는 방법](https://helpx.adobe.com/kr/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## 대화에 참여
 
-공동 작업하고, 질문하고, 다른 관리자와 대화하려면 [Enterprise 및 Teams 커뮤니티](https://www.adobe.com/go/entcom)를 사용하세요.
+공동 작업하고, 질문하고, 다른 관리자와 대화하려면 [Enterprise 및 Teams 커뮤니티](https://www.adobe.com/go/entcom_kr)를 사용하세요.
 
 ## 법적 및 개인 정보 보호
 
-- [법적 고지 사항](https://helpx.adobe.com/legal/legal-notices.html)
+- [법적 고지 사항](https://helpx.adobe.com/kr/legal/legal-notices.html)
 - [온라인 개인정보 처리방침](https://www.adobe.com/privacy.html)

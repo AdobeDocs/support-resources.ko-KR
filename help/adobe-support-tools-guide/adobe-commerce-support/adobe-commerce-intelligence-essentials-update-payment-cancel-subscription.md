@@ -39,4 +39,4 @@ Commerce Intelligence Essentials 클라이언트가 구독을 취소하거나 �
 
 ## 관련 읽기
 
-* [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+* [Commerce Intelligence 사용 안내서](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ko)
