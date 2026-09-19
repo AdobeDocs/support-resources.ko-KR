@@ -4,13 +4,12 @@ description: 조직 시스템 관리자가 Adobe ID, Enterprise ID 또는 Federa
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # ID 및 SSO(Single Sign-On) 설정
 
 **적용 대상:** Enterprise
@@ -108,7 +107,7 @@ Microsoft Azure AD, Google과 같이 인기 있는 ID 공급자를 사용하거�
 
 도메인 및 디렉터리를 관리하는 방법을 알아봅니다.
 
-- [사용자 관리](https://helpx.adobe.com/kr/enterprise/using/users.html) 및 [그룹](https://helpx.adobe.com/kr/enterprise/using/user-groups..html)
+- [사용자 관리](https://helpx.adobe.com/kr/enterprise/using/users.html) 및 [그룹](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [도메인을 디렉터리에 연결](https://helpx.adobe.com/kr/enterprise/using/add-domains-directories.html#link-domains-to-directoies)하여 앱, 서비스 및 설정에 대한 사용자 액세스를 제어합니다.
 - 다른 조직에서 요구하는 도메인을 사용하려면 [디렉터리 트러스트를 관리합니다](https://helpx.adobe.com/kr/enterprise/using/directory-trust.html)
 
@@ -160,4 +159,4 @@ SSO 설정 및 관리 시 발생할 수 있는 일반적인 질문 및 오류에
 ## 법적 및 개인 정보 보호
 
 - [법적 고지 사항](https://helpx.adobe.com/kr/legal/legal-notices.html)
-- [온라인 개인정보 처리방침](https://www.adobe.com/kr/privacy.html)
+- [온라인 개인정보 처리방침](https://www.adobe.com/privacy.html)
