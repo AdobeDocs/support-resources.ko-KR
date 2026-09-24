@@ -30,9 +30,9 @@ ht-degree: 4%
 
 최종 사용자 제품 액세스가 중단되지 않도록 하려면 기존 VIP 구독 기간이 종료되기 전에 Adobe Admin Console에서 라이선스를 할당하십시오.
 
-* ETLA 고객의 경우 최소 30일 동안 제품이 겹치게 됩니다. 사용자가 Adobe 앱 및 서비스에 계속 액세스할 수 있도록 기념일 이전에 마이그레이션을 완료하십시오. ETLA 계약 만료 세부 정보는 [ETLA 계약에 대한 자동화된 만료 단계](https://helpx.adobe.com/enterprise/using/contract-expiry.html)를 참조하십시오.
+* ETLA 고객의 경우 최소 30일 동안 제품이 겹치게 됩니다. 사용자가 Adobe 앱 및 서비스에 계속 액세스할 수 있도록 기념일 이전에 마이그레이션을 완료하십시오. ETLA 계약 만료 세부 정보는 [ETLA 계약에 대한 자동화된 만료 단계](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html)를 참조하십시오.
 * VIP 고객의 경우 멤버십 갱신일 이전에 라이선스를 구매하고 현재 VIP 계약 기간이 종료되기 전에 라이선스를 할당하십시오.
-* CLP 또는 TLP 고객은 [라이선스](https://helpx.adobe.com/enterprise/using/licensing.html)의 마이그레이션 지침을 사용하여 serialize된 Acrobat 또는 Creative Suite에서 명명된 사용자 라이선스로 마이그레이션할 수 있습니다.
+* CLP 또는 TLP 고객은 [라이선스](https://helpx.adobe.com/kr/enterprise/using/licensing.html)의 마이그레이션 지침을 사용하여 serialize된 Acrobat 또는 Creative Suite에서 명명된 사용자 라이선스로 마이그레이션할 수 있습니다.
 
 >[!NOTE]
 >
@@ -80,9 +80,9 @@ Admin Console에서는 빠른 라이선스 할당을 사용하여 라이선스�
 
    ![라이선스 할당 확인](assets/migrate-license-assignment.png)
 
-Admin Console에서 [결과 보고서](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하여 모든 라이선스가 할당되었는지 확인하십시오. 확인 이메일의 날짜 이전에 완료하는 경우 최종 사용자는 서비스가 중단되지 않아야 합니다.
+Admin Console에서 [결과 보고서](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하여 모든 라이선스가 할당되었는지 확인하십시오. 확인 이메일의 날짜 이전에 완료하는 경우 최종 사용자는 서비스가 중단되지 않아야 합니다.
 
-[관리 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)을(를) 포함하여 Admin Console에 대한 자세한 내용을 알아보려면 Adobe 온보딩 전문가와 1:1 온보딩 통화를 예약하십시오.
+[관리 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)을(를) 포함하여 Admin Console에 대한 자세한 내용을 알아보려면 Adobe 온보딩 전문가와 1:1 온보딩 통화를 예약하십시오.
 
 >[!NOTE]
 >
@@ -101,12 +101,12 @@ Admin Console의 CSV 템플릿을 사용하여 대량 작업으로 라이선스�
 
    ![CSV로 사용자 편집](assets/migrate-edit-users-by-csv.png)
 
-   다운로드한 파일의 필드 설명은 [CSV 파일 형식](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header)을 참조하십시오.
+   다운로드한 파일의 필드 설명은 [CSV 파일 형식](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header)을 참조하십시오.
 4. 라이선스 할당을 CSV에 추가한 다음 업데이트된 파일을 **[!UICONTROL CSV로 사용자 편집]** 대화 상자로 드래그하고 **[!UICONTROL 업로드]**&#x200B;를 클릭합니다. 작업이 완료되면 이메일이 전송됩니다.
 
    ![사용자 편집 완료](assets/migrate-user-edit-complete.png)
 
-할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. 그런 다음 Adobe 온보딩 전문가와 온보딩을 예약하여 [관리 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 알아보세요.
+할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. 그런 다음 Adobe 온보딩 전문가와 온보딩을 예약하여 [관리 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 알아보세요.
 
 ## 벌크 라이선스 할당(VIP에서 ETLA으로)
 
@@ -125,9 +125,9 @@ VIP 구독이 있고 사용자를 ETLA으로 이동하는 경우 이 벌크 흐�
 
 ![VIP에서 ETLA으로 마이그레이션한 후 추가된 사용자](assets/migrate-users-added-vip-etla.png)
 
-할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. [관리 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 Adobe 온보딩 전문가와 온보딩을 예약하십시오.
+할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. [관리 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 Adobe 온보딩 전문가와 온보딩을 예약하십시오.
 
-일괄 업로드 문제에 대해서는 [일괄 사용자 업로드 문제 해결](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)을 참조하십시오.
+일괄 업로드 문제에 대해서는 [일괄 사용자 업로드 문제 해결](https://helpx.adobe.com/kr/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)을 참조하십시오.
 
 ## 벌크 라이선스 할당(ETLA에서 VIP으로)
 
@@ -149,6 +149,6 @@ ETLA 구독이 있고 사용자를 VIP으로 이동하는 경우:
 
 ![ETLA에서 VIP으로 마이그레이션한 후 추가된 사용자](assets/migrate-users-added-etla-vip.png)
 
-할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. [관리 역할](https://helpx.adobe.com/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 Adobe 온보딩 전문가와 온보딩을 예약하십시오.
+할당의 유효성을 검사하려면 [결과 보고서](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하십시오. [관리 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)에 대해 Adobe 온보딩 전문가와 온보딩을 예약하십시오.
 
-일괄 업로드 문제에 대해서는 [일괄 사용자 업로드 문제 해결](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)을 참조하십시오.
+일괄 업로드 문제에 대해서는 [일괄 사용자 업로드 문제 해결](https://helpx.adobe.com/kr/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)을 참조하십시오.
