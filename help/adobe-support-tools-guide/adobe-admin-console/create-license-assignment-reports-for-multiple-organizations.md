@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # 여러 조직 및 제품에 대한 라이선스 할당 보고서 만들기
 
 전역 관리자가 특정 날짜 범위에 대해 여러 조직 및 제품에 대한 세부 라이선스 보고서를 생성 및 다운로드하여 라이선스 프로비저닝의 정확한 추적을 용이하게 하는 방법에 대해 알아봅니다.
@@ -67,7 +73,7 @@ ht-degree: 1%
    | 필드 | 설명 |
    | ------------- | ------------------------------------------------------------------------------------------------- |
    | 이름 | 자동으로 생성되며 편집할 수 없습니다. |
-   | 작성자 | 보고서를 생성한 전역 관리자입니다. |
+   | 만든 사람 | 보고서를 생성한 전역 관리자입니다. |
    | 생성 시간 | 보고서를 만든 시스템 시간입니다. |
    | 날짜 범위 | 보고서에 대해 선택한 날짜 범위입니다. |
    | 상태 | 보고서를 다운로드할 준비가 되면 **성공**&#x200B;을, 아직 생성 중이면 **처리**&#x200B;을(를) 선택하십시오. |

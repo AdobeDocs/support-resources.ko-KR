@@ -5,13 +5,22 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: 162d1fbc2fe4767e508f77d961580bf04f9ab769
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # 클라우드 인프라 샌드박스 요청에 대한 파트너 Adobe Commerce
 
 이 FAQ 문서에는 클라우드 인프라 샌드박스 요청에 있는 Adobe Commerce에 유용한 리소스에 대한 링크가 포함되어 있습니다. 또한 파트너가 고객을 대신하여 업무를 수행하지 않을 경우 고객의 조직에 티켓을 제출해서는 안 된다는 점을 명확히 설명합니다.

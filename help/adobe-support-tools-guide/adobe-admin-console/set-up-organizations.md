@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # 조직 계층 관리
 
 Enterprise에 적용됩니다.
@@ -35,8 +41,8 @@ Global Admin Console에서 조직은 기업의 한 엔터티에 대해 Adobe 제
 - 조직의 [정책](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html) 설정(있는 경우 잠금 포함).
 - 시스템 관리자 목록(**[!UICONTROL 만들 때 시스템 관리자 상속]** [정책](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html)에 의해 제어됨).
 다음과 같은 이유로 시스템 관리자가 상속되지 않을 수 있습니다.
-   - [도메인 신뢰](https://helpx.adobe.com/kr/enterprise/using/directory-trust.html)가 없습니다.
-   - 사용자 유형 제한(Adobe ID/Enterprise ID/Federated ID 사용자 정책 추가). [정책 세부 정보](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html)에 대해 알아보세요.
+  - [도메인 신뢰](https://helpx.adobe.com/kr/enterprise/using/directory-trust.html)가 없습니다.
+  - 사용자 유형 제한(Adobe ID/Enterprise ID/Federated ID 사용자 정책 추가). [정책 세부 정보](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html)에 대해 알아보세요.
 - 상위 조직이 액세스할 수 있는 도메인에서 Federated ID 또는 Enterprise ID 사용자에 대한 액세스. 이렇게 하면 상위 조직의 도메인 사용자를 하위 조직에서 사용할 수 있습니다. 사용자 액세스 상속은 **상위 조직에서 관리하는 디렉터리에서 사용자 상속** [정책](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html)에 의해 제어됩니다.
 - 공유 정책, 암호 정책 및 보안 연락처(**하위 조직이 만들어질 때 자산 공유 설정 상속** [정책](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html)에 의해 제어됨).
 

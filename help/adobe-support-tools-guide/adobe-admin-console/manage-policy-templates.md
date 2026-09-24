@@ -4,21 +4,27 @@ description: 글로벌 관리자가 Global Admin Console에 저장된 조직에�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+TQID: 'https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '758'
 ht-degree: 0%
-
 ---
-
 # Global Admin Console에서 정책 템플릿 관리
 
 **적용 대상:** Enterprise
@@ -64,10 +70,10 @@ ht-degree: 0%
 
 * **허용/허용되지 않음:** 슬라이더를 원하는 값으로 설정합니다. [정책 세부 정보](https://helpx.adobe.com/kr/enterprise/global-admin-console/update-policies.html#policy-details)에 대해 알아보세요.
 * **잠금 값:** 다음 옵션 중 하나를 사용하여 정책의 잠금 상태를 수정합니다.
-   * **잠금** - 템플릿 적용 후 정책이 잠깁니다.
-   * **잠금 해제** - 템플릿 적용 후 정책이 잠금 해제됩니다.
-   * **그대로 유지** — 정책의 잠금 상태는 템플릿을 적용하기 전과 동일하게 유지됩니다.<br>
-     ![Pic2](./assets/DXSKB-3209-2-policy-template.png)
+  * **잠금** - 템플릿 적용 후 정책이 잠깁니다.
+  * **잠금 해제** - 템플릿 적용 후 정책이 잠금 해제됩니다.
+  * **그대로 유지** — 정책의 잠금 상태는 템플릿을 적용하기 전과 동일하게 유지됩니다.<br>
+    ![Pic2](./assets/DXSKB-3209-2-policy-template.png)
 <br>
 
 ## 조직에 템플릿 적용

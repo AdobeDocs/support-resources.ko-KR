@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2011'
 ht-degree: 3%
-
 ---
-
 # Adobe Admin Console 개요
 
 엔터프라이즈 및 팀에 적용됩니다.
@@ -118,13 +124,13 @@ Enterprise, VIP, VIP Marketplace 또는 Teams 등 계획에 따라 다음과 같
 
 ## [!UICONTROL 저장소] {#storage}
 
-이 탭을 볼 수 있는 사람: 시스템 관리자 및 스토리지 관리자([풀링된 스토리지 모델로 마이그레이션한 고객만 해당](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)).
+이 탭을 볼 수 있는 사람: 시스템 관리자 및 스토리지 관리자([풀링된 스토리지 모델로 마이그레이션한 고객만 해당](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
 
 [Admin Console](https://adminconsole.adobe.com)의 **[!UICONTROL 저장소 페이지]**&#x200B;을(를) 통해 Creative Cloud 응용 프로그램 전반의 저장소를 볼 수 있습니다. 스토리지 할당량은 조직에서 구매한 스토리지 용량까지 최종 사용자가 유연하게 사용할 수 있습니다.
 
 개별 사용자가 사용한 할당량과 모든 사용자가 사용한 전체 할당량을 볼 수도 있습니다.
 
-자세히 알아보기: [Adobe 저장소 관리](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html).
+자세히 알아보기: [Adobe 저장소 관리](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
 ## [!UICONTROL 패키지] {#packages}
 
@@ -136,7 +142,7 @@ Enterprise, VIP, VIP Marketplace 또는 Teams 등 계획에 따라 다음과 같
 - 최종 사용자에게 제공할 구성 및 응용 프로그램을 사용하여 사용자 지정 [명명된 사용자 라이선스](https://helpx.adobe.com/kr/enterprise/using/create-nul-packages.html) 또는 [공유 장치](https://helpx.adobe.com/kr/enterprise/using/create-sdl-packages.html) 라이선스(교육 기관용)를 만듭니다.
 - 이메일 알림을 활성화하면 새 제품 버전을 사용할 수 있게 될 때 알림을 받게 됩니다.
 - 귀하 또는 조직의 다른 관리자가 만든 이전 패키지를 봅니다. 또한 특정 패키지의 세부 정보를 보고 패키지에 있는 앱에 대해 사용 가능한 업데이트를 추적합니다.
-- [원격 업데이트 관리자](https://helpx.adobe.com/kr/enterprise/using/using-remote-update-manager.html) 및 [Adobe 업데이트 서버 설치 도구](https://helpx.adobe.com/kr/enterprise/using/update-server-setup-tool.html)와 같은 IT 도구를 다운로드하십시오.
+- [원격 업데이트 관리자](https://helpx.adobe.com/kr/enterprise/using/using-remote-update-manager.html) 및 [Adobe 업데이트 서버 설치 도구](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html)와 같은 IT 도구를 다운로드하십시오.
 - Adobe Extension Manager 명령줄 도구를 다운로드하여 ZXP 파일 컨테이너 형식에서 [확장 기능 및 플러그 인을 설치](https://helpx.adobe.com/kr/enterprise/using/manage-extensions.html)합니다.
 
 자세한 내용은 [Admin Console을 통해 앱 패키징](https://helpx.adobe.com/kr/enterprise/using/package-apps-admin-console.html)을 참조하십시오.

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 0%
-
+source-wordcount: '1505'
+ht-degree: 1%
 ---
-
 # Global Admin Console에서 사용자 그룹 관리
 
 Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유하여 동일한 권한을 가진 사용자를 그룹화하고, 시간을 절약하고, 일관성을 보장함으로써 사용자 관리를 간소화합니다.

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # 기존 사용자를 Adobe Admin Console으로 마이그레이션
 
 엔터프라이즈 및 팀에 적용됩니다.
@@ -40,25 +46,25 @@ VIP을 통해 Creative Cloud for enterprise 또는 Acrobat(for enterprise)을 �
 
 * 제품이 동일함
 
-   1. 갱신 창이 열립니다(VIP 계약 기념일 전 또는 후 30일).
-   2. 주문의 엔터프라이즈 제품은 현재 용어의 팀 버전에 해당하는 새로운 SKU입니다.
-   3. 엔터프라이즈 라이선스 주문 수량이 기존 팀 라이선스 수량보다 크거나 같습니다.
+  1. 갱신 창이 열립니다(VIP 계약 기념일 전 또는 후 30일).
+  2. 주문의 엔터프라이즈 제품은 현재 용어의 팀 버전에 해당하는 새로운 SKU입니다.
+  3. 엔터프라이즈 라이선스 주문 수량이 기존 팀 라이선스 수량보다 크거나 같습니다.
 
 * 더 높은 가치의 제품
 
-   1. 갱신 창이 열렸습니다.
-   2. 주문의 엔터프라이즈 제품은 현재 기간의 팀 제품보다 더 높은 가치를 제공하는 새로운 SKU입니다.
-   3. 엔터프라이즈 라이선스 주문 수량이 기존 팀 라이선스 수량보다 크거나 같습니다.
+  1. 갱신 창이 열렸습니다.
+  2. 주문의 엔터프라이즈 제품은 현재 기간의 팀 제품보다 더 높은 가치를 제공하는 새로운 SKU입니다.
+  3. 엔터프라이즈 라이선스 주문 수량이 기존 팀 라이선스 수량보다 크거나 같습니다.
 
 * 빠른 라이선스 할당은 다음 경우에 사용할 수 없습니다.
 
-   * 주문에 대한 기업 라이선스의 수가 기존 팀 라이선스의 수보다 적습니다.
-   * 주문은 고부가 기업 제품을 위한 것이지만 주문된 기업 라이선스 수량은 기존 팀 라이선스 수량보다 적습니다.
-   * 주문은 수량에 관계없이 팀 및 엔터프라이즈 제품을 혼합합니다.
-   * 고객은 갱신 기간 전에 이미 팀 및 엔터프라이즈 제품을 구매했습니다.
-   * 엔터프라이즈 갱신 SKU는 새 엔터프라이즈 주문에 사용됩니다.
-   * 엔터프라이즈 제품 주문은 다른 VIP 계약 번호에 대한 것입니다.
-   * 현재 팀 제품에는 엔터프라이즈 버전이 없는 항목이 포함되어 있습니다.
+  * 주문에 대한 기업 라이선스의 수가 기존 팀 라이선스의 수보다 적습니다.
+  * 주문은 고부가 기업 제품을 위한 것이지만 주문된 기업 라이선스 수량은 기존 팀 라이선스 수량보다 적습니다.
+  * 주문은 수량에 관계없이 팀 및 엔터프라이즈 제품을 혼합합니다.
+  * 고객은 갱신 기간 전에 이미 팀 및 엔터프라이즈 제품을 구매했습니다.
+  * 엔터프라이즈 갱신 SKU는 새 엔터프라이즈 주문에 사용됩니다.
+  * 엔터프라이즈 제품 주문은 다른 VIP 계약 번호에 대한 것입니다.
+  * 현재 팀 제품에는 엔터프라이즈 버전이 없는 항목이 포함되어 있습니다.
 
 Adobe이 기업 구매 발주를 처리하면 액세스 권한을 상실하기 전에 사용자를 팀 라이선스에서 Admin Console의 기업 라이선스로 전송해야 하는 날을 포함하는 지침이 포함된 확인 이메일을 받게 됩니다.
 
@@ -76,7 +82,7 @@ Admin Console에서는 빠른 라이선스 할당을 사용하여 라이선스�
 
 Admin Console에서 [결과 보고서](https://helpx.adobe.com/kr/enterprise/using/users.html#main-pars_header_1346350355)를 다운로드하여 모든 라이선스가 할당되었는지 확인하십시오. 확인 이메일의 날짜 이전에 완료하는 경우 최종 사용자는 서비스가 중단되지 않아야 합니다.
 
-:1관리 역할[&#x200B; 및 &#x200B;](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html)ID[&#x200B; 등 Adobe 온보딩 전문가와 1](https://helpx.adobe.com/kr/enterprise/using/identity.html) 온보딩 통화를 예약하여 Admin Console에 대해 자세히 알아보십시오(아직 수행하지 않은 경우).
+[관리 역할](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html) 및 [ID](https://helpx.adobe.com/kr/enterprise/using/identity.html)을(를) 포함하여 Admin Console에 대한 자세한 내용을 알아보려면 Adobe 온보딩 전문가와 1:1 온보딩 통화를 예약하십시오.
 
 >[!NOTE]
 >
@@ -90,7 +96,7 @@ Admin Console의 CSV 템플릿을 사용하여 대량 작업으로 라이선스�
 * 갱신 기간 외에 라이선스를 할당해야 합니다.
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/enterprise)에 액세스할 수 있고 라이선스가 추가되면 **[!UICONTROL 사용자]** > **[!UICONTROL 사용자]**(으)로 이동합니다.
-2. ![사용자](assets/migrate-more-options.png) 페이지의 오른쪽 상단 모서리에서 **[!UICONTROL 추가 옵션 메뉴]**&#x200B;를 클릭한 다음 **[!UICONTROL CSV로 사용자 세부 정보 편집]**&#x200B;을 선택합니다.
+2. **[!UICONTROL 사용자]** 페이지의 오른쪽 상단 모서리에서 ![추가 옵션 메뉴](assets/migrate-more-options.png)를 클릭한 다음 **[!UICONTROL CSV로 사용자 세부 정보 편집]**&#x200B;을 선택합니다.
 3. **[!UICONTROL CSV로 사용자 편집]** 대화 상자에서 **[!UICONTROL CSV 템플릿 다운로드]**&#x200B;를 클릭하고 **[!UICONTROL 현재 사용자 목록]**&#x200B;을 선택합니다.
 
    ![CSV로 사용자 편집](assets/migrate-edit-users-by-csv.png)

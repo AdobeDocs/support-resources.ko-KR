@@ -3,7 +3,15 @@ title: 'Adobe Commerce Intelligence Essentials: 결제 방법 업데이트 또�
 description: Commerce Intelligence Essentials 고객(독립형, 월간, account.magento.com을 통한 청구)이 결제 방법을 업데이트하거나 취소할 수 있는 방법. Pro, Cloud, 계약 기반 또는 인보이스 발행 구독에는 적용되지 않습니다.
 solution: Commerce Intelligence
 exl-id: a176f4d6-819f-4328-b6bf-ea7373fcc7e9
-source-git-commit: b8de5546ce92930404f65555d656605581e0c8d0
+product_v2:
+  - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
+    internal-label: Commerce Intelligence
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 3%

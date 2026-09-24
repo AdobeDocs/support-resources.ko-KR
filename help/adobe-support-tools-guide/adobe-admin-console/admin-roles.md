@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
-
+source-wordcount: '1654'
+ht-degree: 1%
 ---
-
 # 관리자 역할
 
 조직은 Adobe Admin Console을 사용하여 유연한 관리 계층 구조를 정의하여 Adobe 제품 액세스 및 사용을 세분화하고 관리할 수 있습니다. 엔터프라이즈 온보딩 프로세스 중에 프로비저닝된 하나 이상의 시스템 관리자는 계층의 맨 위에 있습니다. 이러한 시스템 관리자는 전반적인 제어를 유지하면서 다른 관리자에게 책임을 위임할 수 있습니다.
@@ -38,7 +44,7 @@ _관리자 역할 계층 구조_
 
 | 역할 | 설명 |
 |--- |--- |
-| **시스템 관리자** | 조직의 수퍼 유저. Admin Console에서 모든 관리 작업을 수행할 수 있습니다.<br>또한 다른 사용자에게 제품 관리자, 제품 프로필 관리자, 사용자 그룹 관리자, 배포 관리자 및 지원 관리자의 관리 기능을 위임할 수 있는 권한이 있습니다. |
+| **시스템 관리자** | 조직의 수퍼 유저로, Admin Console에서 모든 관리 작업을 수행할 수 있습니다.<br>또한 제품 관리자, 제품 프로필 관리자, 사용자 그룹 관리자, 배포 관리자, 지원 관리자의 관리 기능을 다른 사용자에게 위임할 수 있는 권한이 있습니다. |
 | **제품 관리자** | 해당 관리자 및 다음과 같은 모든 관련 관리 기능에 할당된 제품을 관리합니다.<ul><li>제품 프로필 만들기</li><li>사용자 및 사용자 그룹을 조직에 추가하지만 제거하지 마십시오</li><li>제품 프로필에서 사용자 및 사용자 그룹 추가 또는 제거</li><li>제품 프로필에서 제품 프로필 관리자 추가 또는 제거</li><li>제품에서 다른 제품 관리자 추가 또는 제거</li><li>그룹에서 그룹 관리자 추가 또는 제거</li></ul> |
 | **제품 프로필 관리자** | 해당 관리자 및 다음과 같은 모든 관련 관리 기능에 할당된 제품 프로필 설명을 관리합니다.<ul><li>사용자 및 사용자 그룹을 조직에 추가하지만 제거하지 마십시오</li><li>제품 프로필에서 사용자 및 사용자 그룹 추가 또는 제거</li><li>제품 프로필에서 사용자 및 사용자 그룹에 제품 권한 할당 또는 취소</li><li>제품 프로필에 대한 사용자 및 사용자 그룹의 제품 역할 관리 |
 | **사용자 그룹 관리자** | 해당 관리자 및 다음과 같은 모든 관련 관리 기능에 할당된 사용자 그룹 설명을 관리합니다.<ul><li>그룹에서 사용자 추가 또는 제거</li><li>그룹에서 사용자 그룹 관리자 추가 또는 제거 |
@@ -132,7 +138,7 @@ Teams 조직의 모든 사용자는 Business ID 사용자이므로 `message@adob
    또는 관련 제품, 제품 프로필 또는 사용자 그룹으로 이동하여 **[!UICONTROL 관리자]** 탭으로 이동합니다.
 
 1. 편집할 관리자의 이름을 클릭합니다.
-1. **[!UICONTROL 사용자 세부 정보]**&#x200B;에서 ![관리 권한](../assets/one-console-ellipses.png) 섹션의 **아이콘**&#x200B;을 클릭하고 **[!UICONTROL 관리 권한 편집]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 사용자 세부 정보]**&#x200B;에서 **관리 권한** 섹션의 ![아이콘](../assets/one-console-ellipses.png)을 클릭하고 **[!UICONTROL 관리 권한 편집]**&#x200B;을 선택합니다.
 
    ![관리자 권한 편집](../assets/admin-rights-section.png)
 
@@ -150,7 +156,7 @@ Teams 조직의 모든 사용자는 Business ID 사용자이므로 `message@adob
 
    기존 관리자 목록이 표시됩니다.
 
-1. **[!UICONTROL 사용자 세부 정보]**&#x200B;에서 ![관리 권한](../assets/one-console-ellipses.png) 섹션의 오른쪽에 있는 **[!UICONTROL 아이콘]**&#x200B;을 클릭하고 **[!UICONTROL 관리 권한 편집]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 사용자 세부 정보]**&#x200B;에서 **[!UICONTROL 관리 권한]** 섹션의 오른쪽에 있는 ![아이콘](../assets/one-console-ellipses.png)을 클릭하고 **[!UICONTROL 관리 권한 편집]**&#x200B;을 선택합니다.
 
    ![관리자 권한 편집](../assets/admin-rights-section.png)
 

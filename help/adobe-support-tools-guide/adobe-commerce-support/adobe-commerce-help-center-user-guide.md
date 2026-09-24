@@ -5,13 +5,37 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: df5e974b-6742-4873-a687-a6bedaafdaa2
+    internal-label: IaaS
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '3602'
+source-wordcount: '3662'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce용 Experience League 지원 사용 안내서
 
 이 안내서에서는 [Experience League 지원](https://experienceleague.adobe.com/home?lang=ko#support)에 지원 티켓을 제출하고 Adobe Commerce 계정에 대한 공유 액세스 권한을 제공하는 방법에 대해 알아봅니다.
@@ -203,7 +227,7 @@ Adobe Commerce 계정 페이지를 사용하여 새 지원 티켓을 제출하�
 >[!NOTE]
 >
 >Commerce 이외의 다른 Adobe 제품에 제출된 지원 사례가 있는 경우 동일한 화면에서 해당 티켓을 추적할 수 없습니다. 먼저 제품 권한과 연결된 조직으로 전환해야 합니다.
->예를 들어 이전에 Commerce 사례를 추적하기 위해 &quot;(Commerce)&quot;로 끝나는 조직을 선택했으며 AEP 지원 사례도 여기에 표시되지 않습니다.
+>예를 들어 이전에 Commerce 사례를 추적하기 위해 &quot;(Commerce)&quot;로 끝나는 조직을 선택한 반면, AEP 지원 사례도 있습니다. 이러한 사례는 여기에 표시되지 않습니다.
 
 #### 서비스 케이스 보기
 
@@ -392,7 +416,7 @@ Adobe Commerce Cloud 프로젝트가 있거나 있고 프로젝트에 사용자�
 >[!NOTE]
 >
 >이 단계는 Adobe Commerce에 대한 티켓을 제출할 필요가 없습니다.
->Adobe Commerce 티켓 제출에 대한 데모를 보려면 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/ko/playlists/support-requests).
+>Adobe Commerce 티켓 제출에 대한 데모는 [이 비디오를 참조하십시오](https://experienceleague.adobe.com/ko/playlists/support-requests).
 
 제공된 공유 액세스를 사용하려면 다음 단계를 따르십시오.
 

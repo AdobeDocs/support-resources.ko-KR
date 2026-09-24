@@ -1,23 +1,31 @@
 ---
 title: Adobe Success 포털 릴리스 정보
-description: ' [!DNL Adobe Success portal]에 대한 최신 릴리스 정보입니다.'
+description: '[!DNL Adobe Success portal]에 대한 최신 릴리스 정보입니다.'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # [!DNL Adobe Success portal] 릴리스 정보
 
 이 릴리스 노트에는 [!DNL Adobe Success portal]의 업데이트 정보 및 다음과 같은 내용이 포함됩니다.
@@ -47,11 +55,11 @@ _2025년 10월 9일_
 * 행동 계획 KBO 페이지 또는 **[!UICONTROL KBO]**/**[!UICONTROL 가속기]**/**[!UICONTROL 활동]** 세부 정보 페이지로부터 캘린더에 액세스합니다(KBO에 연결된 경우에만).
 * 목록 보기(기본값) 및 캘린더 보기 간에 전환합니다.
 * 캘린더에는 다음과 같이 각 KBO에 대한 축소할 수 있는 섹션이 표시됩니다.
-   * 파란색: **[!UICONTROL 가속기]**
-   * 초록색: **[!UICONTROL 활동]**
+  * 파란색: **[!UICONTROL 가속기]**
+  * 초록색: **[!UICONTROL 활동]**
 * 각 **[!UICONTROL 가속기]**/ **[!UICONTROL 활동]**&#x200B;은 이름, 상태, 시작/종료 날짜(*XX월*, *YYYY년* 형식)를 표시합니다.
 * 이벤트 카드를 클릭하면 이벤트 세부 정보가 있는 페이지가 열립니다. 뒤로 버튼을 클릭하면 (으)로 돌아갑니다.
-* 이벤트는 다음과 같이 색상으로 구분됩니다. 파란색: **[!UICONTROL 가속기]**, 초록색: **[!UICONTROL 활동]**. KBO는 세로로 스크롤하고 주 또는 월은 가로로 스크롤합니다.
+* 이벤트는 다음과 같이 색상으로 구분됩니다. 파란색: **[!UICONTROL 가속기]**, 초록색: **[!UICONTROL 활동]**. KBO를 세로로 스크롤하고 주 또는 월 단위로 가로로 스크롤합니다.
 * 도구 설명은 텍스트가 잘렸을 때 전체 이름을 표시해 주며 스크롤하는 중에 타임라인이 계속 표시되도록 해 줍니다.
 * 기본 보기는 현재 주를 표시합니다. 탐색 화살표를 사용해 다른 주로 이동할 수 있습니다.
 * 월별 보기는 진행 중인 작업과 계획된 작업에 대한 명확한 타임라인을 제공해 줍니다.

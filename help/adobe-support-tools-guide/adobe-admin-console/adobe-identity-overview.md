@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # ID 개요
 
 엔터프라이즈 및 팀에 적용됩니다.
@@ -199,7 +202,7 @@ Adobe은 Adobe의 엔터프라이즈 스토리지 모델을 사용하도록 모�
 >[!NOTE]
 >
 >1. 팀의 Creative Cloud에 대한 암호 정책은 개인의 Creative Cloud에 대한 암호 정책과 동일합니다.
->1. [엔터프라이즈 스토리지](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-storage.html)를 사용하는 기업 고객을 위한 Creative Cloud의 경우 관리자는 Admin Console에 Adobe ID 사용자를 추가할 수 있지만 제품 프로필에 추가할 수는 없습니다. 관리자는 Adobe ID 사용자를 다른 ID 유형으로 마이그레이션해야 합니다.
+>1. [엔터프라이즈 스토리지](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)를 사용하는 기업 고객을 위한 Creative Cloud의 경우 관리자는 Admin Console에 Adobe ID 사용자를 추가할 수 있지만 제품 프로필에 추가할 수는 없습니다. 관리자는 Adobe ID 사용자를 다른 ID 유형으로 마이그레이션해야 합니다.
 >1. **Adobe 라이선스 웹 사이트와 같이** Adobe ID만 지원하는 일부 제품 및 서비스가 있습니다.
 
 ## 다음과 같음
