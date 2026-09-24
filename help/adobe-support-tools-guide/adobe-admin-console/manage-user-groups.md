@@ -28,7 +28,7 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
 
 ## 사용자 그룹 만들기
 
-[사용자 그룹을 개별적으로, 또는 대량으로 ](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)만들거나 [기존 Azure AD에서 ](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)의 사용자 그룹을 Adobe Admin Console의 페더레이션 디렉터리에 직접 동기화할 수 있습니다. Global Admin Console에서는 관련 제품 프로필이 할당된 사용자 그룹을 정의할 수 있습니다. 이 경우 사용자 그룹 관리자는 나중에 Admin Console을 사용하여 사용자를 추가할 수 있습니다.
+[사용자 그룹을 개별적으로, 또는 대량으로 &#x200B;](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)만들거나 [기존 Azure AD에서 &#x200B;](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)의 사용자 그룹을 Adobe Admin Console의 페더레이션 디렉터리에 직접 동기화할 수 있습니다. Global Admin Console에서는 관련 제품 프로필이 할당된 사용자 그룹을 정의할 수 있습니다. 이 경우 사용자 그룹 관리자는 나중에 Admin Console을 사용하여 사용자를 추가할 수 있습니다.
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)에 로그인하고 편집할 조직을 선택한 다음 **[!UICONTROL 사용자 그룹]** 탭으로 이동합니다.
 
