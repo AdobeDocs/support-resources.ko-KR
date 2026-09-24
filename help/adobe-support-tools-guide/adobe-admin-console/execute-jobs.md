@@ -5,23 +5,29 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # 보류 중인 작업 실행
 
 이 기능은 [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)을(를) 사용하는 Enterprise 조직에 적용됩니다.
 
 - [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)의 변경 내용이 두 단계로 완료되었습니다.
 
-   1. **단계 편집**: 조직을 변경하거나 제품을 할당합니다.
-   2. **실행 단계**: 보류 중인 변경 내용을 검토하고 실행하여 적용하십시오.
+  1. **단계 편집**: 조직을 변경하거나 제품을 할당합니다.
+  2. **실행 단계**: 보류 중인 변경 내용을 검토하고 실행하여 적용하십시오.
 
-- [[!DNL Global Admin Console]](https://helpx.adobe.com/kr/enterprise/global-admin-console/adopt-global-administration.html)의 모든 변경 내용이 구현되고 적용되도록 하려면 **[!UICONTROL 작업 실행]** 탭을 선택하고 보류 중인 변경 내용 실행을 계속하십시오.
+- [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)의 모든 변경 내용이 구현되고 적용되도록 하려면 **[!UICONTROL 작업 실행]** 탭을 선택하고 보류 중인 변경 내용 실행을 계속하십시오.
 
   [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)에 로그인합니다.
 
@@ -31,8 +37,8 @@ ht-degree: 0%
 
 - 보류 중인 변경 내용을 손실하지 않고 로그아웃했다가 나중에 다시 돌아갈 수 있습니다.
 - 실행되지 않은 변경 사항:
-   - 30일 후 삭제됩니다.
-   - 브라우저 탭이나 창이 닫혀 있는 경우와 같이 세션이 종료되면 지워집니다.
+  - 30일 후 삭제됩니다.
+  - 브라우저 탭이나 창이 닫혀 있는 경우와 같이 세션이 종료되면 지워집니다.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ ht-degree: 0%
 ### 여러 관리자 및 충돌
 
 - 동일한 조직에서 작업 중인 두 명의 관리자:
-   - 서로의 실행되지 않은 변경 사항은 볼 수 없습니다.
-   - 다음 이후에만 변경 사항 보기:
-      - 실행 및
-      - 디스플레이를 새로 고치거나 다시 로그인하는 중입니다.
+  - 서로의 실행되지 않은 변경 사항은 볼 수 없습니다.
+  - 다음 이후에만 변경 사항 보기:
+    - 실행 및
+    - 디스플레이를 새로 고치거나 다시 로그인하는 중입니다.
 - 실행되지 않은 변경 사항은 이미 실행된 변경 사항과 충돌할 수 있습니다.
 
 ### 충돌 처리
@@ -107,14 +113,14 @@ ht-degree: 0%
 
 - 지난 30일 동안 실행된 작업을 보려면 다음 작업을 수행하십시오.
 
-   1. [!DNL Global Admin Console]에 로그인합니다.
-   2. **[!UICONTROL 작업 실행]**&#x200B;을 선택합니다.
-   3. 페이지 하단으로 스크롤합니다.
-   4. **[!UICONTROL 최근 작업]**&#x200B;을 선택하십시오.
+  1. [!DNL Global Admin Console]에 로그인합니다.
+  2. **[!UICONTROL 작업 실행]**&#x200B;을 선택합니다.
+  3. 페이지 하단으로 스크롤합니다.
+  4. **[!UICONTROL 최근 작업]**&#x200B;을 선택하십시오.
 
 - 최근 작업 표시:
-   - **작업 명령**&#x200B;을(를) 제출했습니다.
-   - 실행과 연결된 **오류** 및 **경고**.
+  - **작업 명령**&#x200B;을(를) 제출했습니다.
+  - 실행과 연결된 **오류** 및 **경고**.
 
 >[!NOTE]
 >

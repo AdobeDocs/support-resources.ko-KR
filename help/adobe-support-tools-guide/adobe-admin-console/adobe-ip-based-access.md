@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # IP 주소로 제품 액세스 제한
 
 Enterprise에 적용됩니다.
@@ -27,7 +33,7 @@ IP 기반 액세스 제어는 IP 주소 허용 목록에 추가하다를 사용�
 **허용 IP 주소** 목록에 신뢰할 수 있는 공용 IP를 추가하여 사용자의 사용을 중지할 수 있습니다.
 
 - 허용된 IP 범위를 벗어난 공용 IP의 제품에 액세스
-- 허용된 IP 범위 외부의 공용 IP에서 Adobe [사용자 프로필](https://helpx.adobe.com/kr/enterprise/using/manage-adobe-profiles.html)에 로그인
+- 허용된 IP 범위 외부의 공용 IP에서 Adobe [사용자 프로필](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html)에 로그인
 - 웹 앱의 사용자 프로필을 허용된 IP 범위 외부로 전환
 
   ![조직 구조 내보내기](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ Adobe Admin Console에서 IP 기반 액세스를 활성화하려면 다음 단�
 >[!NOTE]
 >
 >- IP 기반 액세스가 활성화되면 **강제 로그아웃이 발생하지 않습니다**. 사용자는 웹에서 로그인하거나 프로필을 전환할 때 제한된 프로필을 선택하려고 할 때만 영향을 받습니다.
->- 보안 웹 게이트웨이를 사용하는 경우 모든 트래픽이 이 게이트웨이를 통해 라우팅되는지 확인하십시오. Adobe 앱 및 서비스가 올바르게 작동할 수 있도록 [허용할 도메인 목록](https://helpx.adobe.com/kr/enterprise/kb/network-endpoints.html)을 봅니다.
->- 잘못된 IP 주소를 입력했기 때문에 Admin Console에서 잠긴 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html)에 문의하십시오.
+>- 보안 웹 게이트웨이를 사용하는 경우 모든 트래픽이 이 게이트웨이를 통해 라우팅되는지 확인하십시오. Adobe 앱 및 서비스가 올바르게 작동할 수 있도록 [허용할 도메인 목록](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)을 봅니다.
+>- 잘못된 IP 주소를 입력했기 때문에 Admin Console에서 잠긴 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)에 문의하십시오.
 
 ## 대화에 참여
 
-공동 작업하고, 질문하고, 다른 관리자와 대화하려면 [Enterprise 및 Teams 커뮤니티](https://www.adobe.com/go/entcom_kr)를 방문하세요.
+공동 작업하고, 질문하고, 다른 관리자와 대화하려면 [Enterprise 및 Teams 커뮤니티](https://www.adobe.com/go/entcom)를 방문하세요.

@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 0%
-
+source-wordcount: '1505'
+ht-degree: 1%
 ---
-
 # Global Admin Console에서 사용자 그룹 관리
 
 Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유하여 동일한 권한을 가진 사용자를 그룹화하고, 시간을 절약하고, 일관성을 보장함으로써 사용자 관리를 간소화합니다.
 
-[Global Admin Console](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)에서 조직을 선택하고 **[!UICONTROL 사용자 그룹]**(으)로 이동합니다. 단일 사용자 관리 소스를 사용하여 여러 조직에서 그룹을 공유하여 사용자와 그룹을 동기화합니다. [Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
+[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)에서 조직을 선택하고 **[!UICONTROL 사용자 그룹]**(으)로 이동합니다. 단일 사용자 관리 소스를 사용하여 여러 조직에서 그룹을 공유하여 사용자와 그룹을 동기화합니다. [Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
 
 
 
 ## 사용자 그룹 만들기
 
-[사용자 그룹을 개별적으로, 또는 대량으로 &#x200B;](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)만들거나 [기존 Azure AD에서 &#x200B;](https://helpx.adobe.com/kr/enterprise/using/add-azure-sync.html)의 사용자 그룹을 Adobe Admin Console의 페더레이션 디렉터리에 직접 동기화할 수 있습니다. Global Admin Console에서는 관련 제품 프로필이 할당된 사용자 그룹을 정의할 수 있습니다. 이 경우 사용자 그룹 관리자는 나중에 Admin Console을 사용하여 사용자를 추가할 수 있습니다.
+[사용자 그룹을 개별적으로, 또는 대량으로 ](https://helpx.adobe.com/kr/enterprise/using/user-groups.html)만들거나 [기존 Azure AD에서 ](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)의 사용자 그룹을 Adobe Admin Console의 페더레이션 디렉터리에 직접 동기화할 수 있습니다. Global Admin Console에서는 관련 제품 프로필이 할당된 사용자 그룹을 정의할 수 있습니다. 이 경우 사용자 그룹 관리자는 나중에 Admin Console을 사용하여 사용자를 추가할 수 있습니다.
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)에 로그인하고 편집할 조직을 선택한 다음 **[!UICONTROL 사용자 그룹]** 탭으로 이동합니다.
 
@@ -34,14 +40,14 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
 
 3. 표시되는 **[!UICONTROL 사용자 그룹 추가]** 대화 상자에 다음을 입력하십시오.
    - **[!UICONTROL 이름]**: 사용자 그룹의 이름을 지정하십시오.
-   - **[!UICONTROL 제품 프로필]**: 사용자 그룹의 현재 또는 향후 구성원에게 제품 액세스 권한을 부여하려면 드롭다운 화살표를 클릭하여 목록에서 제품 프로필을 선택하거나 제품 프로필 이름을 입력하고 표시되는 드롭다운 목록에서 선택합니다. 아직 만들지 않은 제품 프로필을 추가하려면 먼저 [제품 프로필](https://helpx.adobe.com/kr/enterprise/using/global-admin-edit-organizations.html#profiles) 탭을 사용하여 추가해야 합니다.
+   - **[!UICONTROL 제품 프로필]**: 사용자 그룹의 현재 또는 향후 구성원에게 제품 액세스 권한을 부여하려면 드롭다운 화살표를 클릭하여 목록에서 제품 프로필을 선택하거나 제품 프로필 이름을 입력하고 표시되는 드롭다운 목록에서 선택합니다. 아직 만들지 않은 제품 프로필을 추가하려면 먼저 [제품 프로필](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles) 탭을 사용하여 추가해야 합니다.
    - **[!UICONTROL 관리자]**: 드롭다운 화살표를 클릭하여 목록에서 관리자를 선택하거나, 관리자의 전자 메일 주소를 입력하고 표시되는 드롭다운 목록에서 선택합니다. 아직 만들지 않은 새 관리자를 추가하려면 먼저 [관리자](#share-user-groups) 탭을 사용하여 해당 관리자를 만들어야 합니다.
 
    지정한 제품 프로필은 사용자 그룹에 할당되며, 지정한 관리자는 해당 그룹의 사용자 그룹 관리자가 됩니다. 사용자 그룹 관리자는 관련 조직의 Adobe Admin Console을 사용하여 그룹을 관리할 수 있습니다.
 
 4. **[!UICONTROL 저장]**&#x200B;을 선택합니다.
 
-5. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
+5. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
 
    >[!NOTE]
    >
@@ -82,9 +88,9 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
    - **[!UICONTROL 항목만 추가]**: 사용자를 제거하지 않고 기존 사용자 그룹에 새 사용자를 추가하여 사용자 그룹을 병합합니다.
    - **[!UICONTROL 미러 그룹]**: 사용자를 추가하거나 제거하여 공유 그룹과 일치하도록 대상 조직의 그룹을 조정하십시오.
 
-8. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
+8. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
 
-   그룹 프로젝션 이벤트는 참조를 위해 기록됩니다. [감사 로그를 보고 다운로드](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports)하는 방법을 배웁니다.
+   그룹 프로젝션 이벤트는 참조를 위해 기록됩니다. [감사 로그를 보고 다운로드](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports)하는 방법을 배웁니다.
 
 
 사용자 그룹을 공유하면 그룹과 해당 사용자가 대상 조직에 추가됩니다. 그러나 *소스 사용자 그룹 컨트롤*&#x200B;은 공유 사용자 그룹과 해당 사용자를 제어합니다. 관리자 및 제품 프로필 할당이 조직 간에 동기화되지 *않음*&#x200B;되었습니다.
@@ -109,7 +115,7 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
 
 6. **[!UICONTROL 액세스 취소]**&#x200B;를 선택합니다.
 
-7. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
+7. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
 
 
 
@@ -131,9 +137,9 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
 
    >[!NOTE]
    >
-   >**[!UICONTROL 사용자 그룹 편집]** 마법사에서 이미 이 조직에 할당된 관리자 역할이 있는 사용자에게만 관리자 역할을 할당할 수 있습니다. [새 관리자를 추가](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)하는 방법을 알아봅니다.
+   >**[!UICONTROL 사용자 그룹 편집]** 마법사에서 이미 이 조직에 할당된 관리자 역할이 있는 사용자에게만 관리자 역할을 할당할 수 있습니다. [새 관리자를 추가](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)하는 방법을 알아봅니다.
 
-4. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
+4. 업데이트를 검토하려면 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
 
    >[!NOTE]
    >
@@ -157,4 +163,4 @@ Global Admin Console에서 사용자 그룹을 만들고, 관리하고, 공유�
    >
    >사용자 그룹을 삭제하면 사용자에게 영향을 줄 수 있습니다. 사용자 그룹이 삭제될 때 손실될 액세스 권한 또는 정보가 없는지 확인합니다.
 
-4. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하여 검토하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.
+4. 조직을 편집한 후 **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택하여 검토하십시오. **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs)합니다.

@@ -9,20 +9,29 @@ exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
 TQID: 'https://experienceleague.adobe.com/fWRfvDT8NCwPfzmAx1Zowo4T8KvKLKWqhDkZDfX8stU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 9f1760d31cd80e0358aa341c3f6091b2a86b6d67
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 305
-ht-degree: 12%
-
+source-wordcount: '305'
+ht-degree: 15%
 ---
-
 
 # 지원 알림에 팀원을 포함하는 방법
 
@@ -44,14 +53,14 @@ ht-degree: 12%
 
 프로젝트에 추가되지 않은 경우 [!DNL Project Admin]&#x200B;(으)로 추가하고 [!DNL Shared Access]을(를) 부여해야 합니다.
 
-* 사용 안내서에서 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ko).
-* [Adobe Commerce 기술 자료에서 사용자를 Commerce 클라우드 프로젝트에 추가할 수 없습니다](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ko).
-* [Adobe Commerce 도움말 센터 사용 안내서: Commerce 기술 자료에서 액세스 공유](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ko#shared-access).
+* 사용 안내서에서 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html).
+* [Adobe Commerce 기술 자료에서 사용자를 Commerce 클라우드 프로젝트에 추가할 수 없습니다](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html).
+* [Adobe Commerce 도움말 센터 사용 안내서: Commerce 기술 자료에서 액세스 공유](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access).
 
-[!DNL cloud project]에 추가되었지만 [!DNL Project Admin role]이(가) 없는 경우 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ko)에서 해당 [!DNL role]을(를) 업데이트합니다.
+[!DNL cloud project]에 추가되었지만 [!DNL Project Admin role]이(가) 없는 경우 [사용자 액세스 관리](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)에서 해당 [!DNL role]을(를) 업데이트합니다.
 
-팀원이 조직에 대해 열린 모든 경우에 감시자가 되도록 하려면 [지원 티켓](https://experienceleague.adobe.com/home?lang=ko&support-tab=home#support)을 제출하세요.
+팀원이 조직에 대해 열린 모든 경우에 감시자가 되도록 하려면 [지원 티켓](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support)을 제출하세요.
 
 ## 관련 읽기
 
-[이전 팀원이 Adobe Commerce 클라우드 알림 이메일을 받습니다.](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=ko)
+[이전 팀원이 Adobe Commerce 클라우드 알림 이메일을 받습니다.](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)

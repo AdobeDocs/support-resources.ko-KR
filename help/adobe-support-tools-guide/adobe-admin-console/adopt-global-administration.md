@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # 글로벌 관리 채택
 
 Enterprise에 적용됩니다.
@@ -48,7 +54,7 @@ Global Admin Console의 기능과 이점에 대해 자세히 알아보려면 [Gl
 - 제품 프로필 및 사용자 그룹을 만들고, 편집하고, 삭제합니다.
 - 보고를 위해 또는 다른 프로세스에서 사용하기 위해 조직 정보를 내보냅니다.
 - 조직에 대한 업데이트 및 조직 계층에 대한 변경 사항을 가져옵니다.
-- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/kr/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
+- 예정된 만료, 만료 또는 비활성 계약을 포함하여 하위 조직의 ETLA 계약 상태에 대한 알림을 받습니다. 자세한 내용은 [계약 만료](https://helpx.adobe.com/enterprise/using/contract-expiry.html) 설명서를 참조하십시오.
 
 ## 자격 기준
 
@@ -82,7 +88,7 @@ Adobe은 조직이 다음 기준 중 하나 이상을 충족하는 경우 전역
 1. **[!UICONTROL 직면한 문제의 특성 설명]**&#x200B;에서 조직이 Global Admin Console 액세스를 요청한다고 명시하고 다음 세부 정보를 포함하십시오.
 
    - Admin Console의 **이름 및 콘솔 ID**(URL에서 &quot;@AdobeOrg&quot; 앞에 있는 일련의 숫자 및 문자로 표시됨)을(를) 사용하여 *루트(상위)* 조직으로 지정하거나 새 콘솔을 요청하고 원하는 이름을 지정하십시오.
-- 경우에 따라 새 콘솔이 기본 옵션입니다. Adobe 담당자가 안내할 수 있습니다. 나중에 변경하기가 어렵기 때문에 *루트* 조직을 신중하게 선택하십시오.
+     - 경우에 따라 새 콘솔이 기본 옵션입니다. Adobe 담당자가 안내할 수 있습니다. 나중에 변경할 수 없으므로 *루트* 조직을 신중하게 선택하십시오.
    - 최소 한 명 이상의 현재 시스템 관리자를 전역 관리자 역할에 할당합니다. 나중에 관리자를 추가할 수 있습니다.
    - Adobe 담당자 또는 Customer Success Manager의 이름 및 이메일 주소.
 

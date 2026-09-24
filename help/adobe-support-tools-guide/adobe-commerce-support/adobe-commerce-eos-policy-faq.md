@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1808
+source-wordcount: '1808'
 ht-degree: 0%
-
 ---
-
 # Adobe Commerce 소프트웨어 지원 종료 FAQ
 
 다음 FAQ는 판매자, 개발자 및 파트너가 Adobe Commerce에서 게시한 EOS(지원 종료) 날짜가 영향을 받는 Adobe Commerce 버전에 미치는 영향을 이해하는 데 도움이 되도록 작성되었습니다.
@@ -34,7 +46,7 @@ ht-degree: 0%
 
 ### 모든 버전의 Adobe Commerce에 대한 소프트웨어 지원 날짜는 어디에서 찾을 수 있습니까?
 
-[Adobe Commerce 소프트웨어 수명 주기 정책](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)에서 Adobe Commerce 소프트웨어 수명 주기 정책 및 소프트웨어 지원 날짜를 확인할 수 있습니다. [개발자 설명서 페이지](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/versions)에 지원 종료(EOS) 날짜도 게시합니다.
+[Adobe Commerce 소프트웨어 수명 주기 정책](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)에서 Adobe Commerce 소프트웨어 수명 주기 정책 및 소프트웨어 지원 날짜를 확인할 수 있습니다. [개발자 설명서 페이지](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)에 지원 종료(EOS) 날짜도 게시합니다.
 
 ### Adobe에서 Adobe Commerce 소프트웨어 버전에 대한 지원을 종료하면 어떤 의미입니까?
 
@@ -74,17 +86,17 @@ Adobe Commerce 소프트웨어를 최신 상태로 유지함으로써 많은 이
 
 * PCI 규정 준수를 포함한 최신 보안 보호 기능을 통해 플랫폼을 최신 상태로 유지할 수 있을 뿐만 아니라 지원되는 버전으로 업그레이드하면 성능과 확장성이 향상되어 혁신적인 최신 기능을 이용할 수 있습니다.
 * 2022년 4월 12일에 출시되는 Adobe Commerce 2.4.4는 상거래 기능, 성능 및 보호 분야에서 새로운 진전을 보여줍니다. 향후 몇 년간의 Adobe 혁신이 상거래 비즈니스 복원력에 도움이 될 수 있는 기반을 마련합니다. PHP 8.1의 최신 버전을 기반으로 구축된 최신 버전을 통해 상인은 디지털 상거래 비즈니스에 미래를 대비할 수 있습니다.
-   * 제품 추천, 유료 서비스 및 라이브 검색과 같은 SaaS 서비스로 제공되는 혁신적인 기능에 보다 빠르게 액세스
-   * 보다 간편하고 경제적인 유지 관리 및 업그레이드
-   * 고유한 비즈니스 요구 사항을 맞춤화하고 충족하는 지속적인 유연성
-   * 성능 및 확장성 대폭 향상
-   * 플랫폼 상태를 모니터링하는 개발자 경험 및 도구 개선
+  * 제품 추천, 유료 서비스 및 라이브 검색과 같은 SaaS 서비스로 제공되는 혁신적인 기능에 보다 빠르게 액세스
+  * 보다 간편하고 경제적인 유지 관리 및 업그레이드
+  * 고유한 비즈니스 요구 사항을 맞춤화하고 충족하는 지속적인 유연성
+  * 성능 및 확장성 대폭 향상
+  * 플랫폼 상태를 모니터링하는 개발자 경험 및 도구 개선
 
 ### 소프트웨어 지원 종료 문제를 방지하려면 어떻게 해야 합니까?
 
 상거래 플랫폼은 귀사에 중요한 비즈니스 시스템이며 최신 상태를 유지하고 비즈니스에 대한 중요한 지속적인 투자입니다. 디지털 스토어에 대한 최신 기술 및 보안 업데이트는 여러 수준에서 중요하며 혁신 및 성장을 향상시키는 데 도움이 될 수 있습니다.
 
-최신 버전의 Adobe Commerce 소프트웨어로 이동하면 시간과 리소스가 많이 소요될 수 있습니다. 가장 좋은 방법은 지원 종료 날짜 이전에 계획을 수립하여 일정과 예산 내에서 전략적 목표를 달성하는 데 적절한 시간과 리소스를 확보할 수 있도록 하는 것입니다. 다음 업그레이드를 돕기 위해 Adobe은 따라야 할 모범 사례 및 기술 단계뿐만 아니라 업그레이드를 수행할 때 사용할 도구 및 리소스가 포함된 [2.4 업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=ko)를 게시했습니다.
+최신 버전의 Adobe Commerce 소프트웨어로 이동하면 시간과 리소스가 많이 소요될 수 있습니다. 가장 좋은 방법은 지원 종료 날짜 이전에 계획을 수립하여 일정과 예산 내에서 전략적 목표를 달성하는 데 적절한 시간과 리소스를 확보할 수 있도록 하는 것입니다. 다음 업그레이드를 돕기 위해 Adobe은 따라야 할 모범 사례 및 기술 단계뿐만 아니라 업그레이드를 수행할 때 사용할 도구 및 리소스가 포함된 [2.4 업그레이드 안내서](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)를 게시했습니다.
 
 또 다른 중요한 고려 사항은 개발자 및 파트너 리소스를 가능한 한 빨리 예약하는 것입니다. 파트너 시간과 리소스는 지원 종료 날짜 이전에 자주 예약되므로 마이그레이션 프로젝트를 지원할 리소스가 크게 줄어듭니다. 매년 최소한으로 논의하고 다음 연도가 계획되고 예산이 책정되도록 하는 3년 순환 계획이 있는 것이 좋습니다. [Adobe의 릴리스 일정](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/planning/schedule)을 사용하여 릴리스 날짜를 추적하세요.
 

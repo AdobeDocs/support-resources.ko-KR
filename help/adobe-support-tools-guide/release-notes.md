@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ ht-degree: 0%
 
 1. 이제 **[!UICONTROL 우선 순위별 사례 수]** 차트에서 마우스로 가리키면 더 자세한 분류를 제공합니다. 우선 순위 세그먼트 위로 마우스를 가져가면 열려 있는 서비스 케이스 수와 닫힌 서비스 케이스 수와 함께 총 서비스 케이스 수를 표시하는 도구 설명이 표시됩니다.
 
-1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com/ko-kr)&#x200B;(으)로 리디렉션되지 않습니다.
+1. 이제 **[!UICONTROL 제품 상태]** 위젯에서 대화형 제품 필터링을 지원합니다. 시스템 상태 경고는 홈 페이지에서 직접 하나 이상의 제품을 선택하여 필터링할 수 있습니다. 이 위젯에서 제품을 선택하면 더 이상 [status.adobe.com](http://status.adobe.com)&#x200B;(으)로 리디렉션되지 않습니다.
 
 1. 이제 **[!UICONTROL 제품 상태]** 위젯에 보다 직관적인 순서로 제품이 나열됩니다. 활성 문제가 있는 제품이 먼저 나타나고 그 다음에 나머지 제품이 알파벳순으로 정렬됩니다.
 

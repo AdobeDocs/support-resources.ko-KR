@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # 조직 구조 및 제품 할당 내보내기 또는 가져오기
 
 **적용 대상:** Enterprise
 
 글로벌 관리자가 Global Admin Console의 내보내기 및 가져오기 기능을 통해 조직과 제품 관리를 간소화하는 방법에 대해 알아봅니다.
 
-조직 구조를 내보내거나 가져오려면 **[!UICONTROL Global Admin Console]**&#x200B;에서 [조직](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) 탭에 액세스하십시오. 할당 데이터를 보려면 **[!UICONTROL 제품 할당]** 탭으로 이동하십시오. **[!UICONTROL 추가 옵션]**(⋮) 아이콘을 선택한 다음 **[!UICONTROL 내보내기]** 또는 **[!UICONTROL 가져오기]**&#x200B;를 선택하십시오. [Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
+조직 구조를 내보내거나 가져오려면 [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)에서 **[!UICONTROL 조직]** 탭에 액세스하십시오. 할당 데이터를 보려면 **[!UICONTROL 제품 할당]** 탭으로 이동하십시오. **[!UICONTROL 추가 옵션]**(⋮) 아이콘을 선택한 다음 **[!UICONTROL 내보내기]** 또는 **[!UICONTROL 가져오기]**&#x200B;를 선택하십시오. [Global Admin Console에 로그인](https://global-admin-console.adobe.com)하려면 여기로 이동하세요.
 
 ## 조직 구조 내보내기
 
-[전역 관리자](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 조직 계층 구조를 내보낼 수 있습니다. 전체 조직 계층 또는 해당 하위 집합의 JSON, CSV 또는 XLSX 표현을 다운로드할 수 있습니다. 그런 다음 분석 또는 수정에 이 데이터를 사용할 수 있습니다.
+[전역 관리자](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 조직 계층 구조를 내보낼 수 있습니다. 전체 조직 계층 또는 해당 하위 집합의 JSON, CSV 또는 XLSX 표현을 다운로드할 수 있습니다. 그런 다음 분석 또는 수정에 이 데이터를 사용할 수 있습니다.
 
 선택한 내보내기 형식은 내보낸 데이터의 구조에 영향을 줍니다.
 
@@ -51,7 +57,7 @@ ht-degree: 3%
 
 ## 조직 구조 가져오기
 
-[전역 관리자](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 잠재적으로 수정된 데이터를 가져올 수 있습니다. 업로드하면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 조직 계층에 적용됩니다. 모든 가져오기 작업은 조직 계층의 업데이트된 사본에서 수행됩니다. 보류 중인 변경 사항이 있으면 계층의 기존 보류 중인 변경 사항 위에 가져온 변경 사항이 추가됩니다.
+[전역 관리자](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 잠재적으로 수정된 데이터를 가져올 수 있습니다. 업로드하면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 조직 계층에 적용됩니다. 모든 가져오기 작업은 조직 계층의 업데이트된 사본에서 수행됩니다. 보류 중인 변경 사항이 있으면 계층의 기존 보류 중인 변경 사항 위에 가져온 변경 사항이 추가됩니다.
 
 ### 가져오기 단계
 
@@ -59,7 +65,7 @@ ht-degree: 3%
 2. **[!UICONTROL 추가 옵션]** **⋮** 아이콘을 선택하고 **[!UICONTROL 가져오기]**&#x200B;를 선택합니다. 가져오기 파일의 크기와 복잡성에 따라 처리 시간이 몇 초에서 몇 분 정도 걸릴 수 있습니다.
 3. **[!UICONTROL 파일 선택]**&#x200B;을 선택하고 업로드할 JSON, CSV 또는 XLSX 파일을 선택하십시오. CSV의 경우 한 번에 하나의 조직 세부 사항만 가져올 수 있으며 제품 가져오기는 지원되지 않습니다. 가져온 변경 사항은 데이터를 수동으로 편집한 것처럼 표시됩니다.
 4. **[!UICONTROL 닫기]**&#x200B;를 선택합니다.
-5. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 그런 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다. 변경 사항을 실행하기 전에 보류 중인 작업은 Global Admin Console에서 수동으로 편집할 때와 동일한 방식으로 표시됩니다.
+5. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 그런 다음 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다. 변경 사항을 실행하기 전에 보류 중인 작업은 Global Admin Console에서 수동으로 편집할 때와 동일한 방식으로 표시됩니다.
 
 ## 스키마 내보내기 및 가져오기
 
@@ -391,9 +397,9 @@ Adobe ID 사용자의 이름과 성은 사용자가 초대를 수락하면 사�
 - 업데이트 및 삭제할 프로필이 조직에 있어야 합니다.
 - 업데이트하고 삭제(비활성화)할 리소스는 프로필에 있어야 합니다.
 - 프로필을 만들려면 다음을 확인하십시오.
-   - orgId는 새 조직이거나 기존 조직이어야 합니다.
-   - licenseId는 새 제품이거나 기존 제품이어야 합니다.
-   - 프로필에 대한 리소스의 유효성을 확인합니다.
+  - orgId는 새 조직이거나 기존 조직이어야 합니다.
+  - licenseId는 새 제품이거나 기존 제품이어야 합니다.
+  - 프로필에 대한 리소스의 유효성을 확인합니다.
 
 ### 제품 프로필의 리소스
 
@@ -547,9 +553,9 @@ Adobe ID 사용자의 이름과 성은 사용자가 초대를 수락하면 사�
 - 업데이트 및 삭제할 userGroups가 조직에 있어야 합니다.
 - 사용자 그룹에서 제거할 프로필은 사용자 그룹에 있어야 합니다. 사용자 그룹의 프로필에 대해서는 업데이트 작업을 수행할 수 없습니다.
 - 사용자 그룹을 만들려면 다음을 확인하십시오.
-   - orgId는 새 조직이거나 기존 조직이어야 합니다.
-   - licenseId는 해당하는 경우 새 제품 또는 기존 제품이어야 합니다.
-   - productProfileId는 새 제품 프로필 또는 기존 제품 프로필이어야 합니다.
+  - orgId는 새 조직이거나 기존 조직이어야 합니다.
+  - licenseId는 해당하는 경우 새 제품 또는 기존 제품이어야 합니다.
+  - productProfileId는 새 제품 프로필 또는 기존 제품 프로필이어야 합니다.
 
 ### 도메인
 
@@ -628,7 +634,7 @@ XLSX 파일에는 제품용 시트 및 리소스용 시트 등 두 개의 시트
 
 ## 제품 할당 데이터 가져오기 및 내보내기
 
-[전역 관리자](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 제품 할당 데이터를 JSON 또는 CSV 파일로 내보낼 수 있습니다. 그런 다음 이 데이터를 수정하고 업로드하여 변경 사항을 가져올 수 있습니다. 수정될 가능성이 있는 데이터가 업로드되면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 제품 할당 데이터에 적용됩니다. 그런 다음 보류 중인 변경 내용을 검토하고 제출하여 적용할 수 있습니다.
+[전역 관리자](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)로서 제품 할당 데이터를 JSON 또는 CSV 파일로 내보낼 수 있습니다. 그런 다음 이 데이터를 수정하고 업로드하여 변경 사항을 가져올 수 있습니다. 수정될 가능성이 있는 데이터가 업로드되면 새 데이터가 현재 데이터와 비교되고 모든 변경 사항이 제품 할당 데이터에 적용됩니다. 그런 다음 보류 중인 변경 내용을 검토하고 제출하여 적용할 수 있습니다.
 
 ## 제품 할당 모델 내보내기
 
@@ -644,7 +650,7 @@ XLSX 파일에는 제품용 시트 및 리소스용 시트 등 두 개의 시트
 1. [Global Admin Console](https://global-admin-console.adobe.com/)에 로그인하고 **[!UICONTROL 제품 할당]** 탭으로 이동합니다.
 2. **[!UICONTROL 추가 옵션]** ⋮ 아이콘을 선택하고 **[!UICONTROL 가져오기]**&#x200B;를 선택합니다.
 3. 업로드할 JSON 또는 CSV 파일을 선택하십시오.
-4. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 변경 내용을 검토한 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/kr/enterprise/global-admin-console/execute-jobs.html)합니다.
+4. **[!UICONTROL 보류 중인 변경 내용 검토]**&#x200B;를 선택합니다. 변경 내용을 검토한 후 **[!UICONTROL 변경 내용 제출]**&#x200B;을 선택하여 [실행](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)합니다.
 
 ## 제품 할당을 위한 내보내기 및 가져오기 형식
 
@@ -699,8 +705,8 @@ XLSX 파일에는 제품용 시트 및 리소스용 시트 등 두 개의 시트
 - 제품 가져오기 데이터 속성의 형식이 올바른지 확인하십시오.
 - 다른 리소스에 대해 제품 정책 필드(overAllocation)를 제공해서는 안 됩니다.
 - grantedQuantity 필드:
-   - 아직 *unlimited*&#x200B;이(가) 아닌 경우 *unlimited*(으)로 변경할 수 없습니다.
-   - 음수가 아닌 정수이거나 문자열 값 *unlimited.*&#x200B;이어야 합니다.
+  - 아직 *unlimited*&#x200B;이(가) 아닌 경우 *unlimited*(으)로 변경할 수 없습니다.
+  - 음수가 아닌 정수이거나 문자열 값 *unlimited.*&#x200B;이어야 합니다.
 
 **권한/액세스 가능한 유효성 검사**
 

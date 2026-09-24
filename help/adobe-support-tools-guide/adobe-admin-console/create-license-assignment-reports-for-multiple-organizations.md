@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # 여러 조직 및 제품에 대한 라이선스 할당 보고서 만들기
 
 전역 관리자가 특정 날짜 범위에 대해 여러 조직 및 제품에 대한 세부 라이선스 보고서를 생성 및 다운로드하여 라이선스 프로비저닝의 정확한 추적을 용이하게 하는 방법에 대해 알아봅니다.
@@ -31,7 +37,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**특정 조직을 선택할 수 없는 이유를 알아보세요**:
-   >하위 조직에 계약이 없거나 상위 조직과 동일한 제품을 가진 별도의 엔터프라이즈 계약이 있는 경우, 이 조직은 라이선스 할당 보고서를 생성할 수 없습니다. 예를 들어 상위 조직의 계약에 Adobe Acrobat이 있고 하위 조직의 계약이 다른 계약의 일부와 동일한 경우 제품은 할당으로 제한됩니다. 이로 인해 Global Admin Console에서의 보고서 생성도 제한됩니다. [각각의 Admin Console을 사용하여 이러한 조직의 프로비저닝을 추적하는 방법에 대해 알아봅니다](https://helpx.adobe.com/kr/enterprise/using/assignment-reports.html).
+   >하위 조직에 계약이 없거나 상위 조직과 동일한 제품을 가진 별도의 엔터프라이즈 계약이 있는 경우, 이 조직은 라이선스 할당 보고서를 생성할 수 없습니다. 예를 들어 상위 조직의 계약에 Adobe Acrobat이 있고 하위 조직의 계약이 다른 계약의 일부와 동일한 경우 제품은 할당으로 제한됩니다. 이로 인해 Global Admin Console에서의 보고서 생성도 제한됩니다. [각각의 Admin Console을 사용하여 이러한 조직의 프로비저닝을 추적하는 방법에 대해 알아봅니다](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +48,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**특정 제품을 선택할 수 없는 이유를 알아보세요**:
-   >Global Admin Console에서 할당할 수 없는 제품은 보고서 작성에 포함되지 않습니다. 여기에는 현재 Workfront, Adobe Experience Manager, Adobe Experience Platform과 같은 일부 Digital Experience 제품과 Adobe Firefly Services, Acrobat Sign, Adobe Stock과 같은 제품도 포함되어 있습니다. [Adobe Admin Console을 사용하여 이러한 제품에 대한 라이선스 프로비저닝 데이터를 찾습니다](https://helpx.adobe.com/kr/enterprise/using/assignment-reports.html).
+   >Global Admin Console에서 할당할 수 없는 제품은 보고서 작성에 포함되지 않습니다. 여기에는 현재 Workfront, Adobe Experience Manager, Adobe Experience Platform과 같은 일부 Digital Experience 제품과 Adobe Firefly Services, Acrobat Sign, Adobe Stock과 같은 제품도 포함되어 있습니다. [Adobe Admin Console을 사용하여 이러한 제품에 대한 라이선스 프로비저닝 데이터를 찾습니다](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. 보고서를 월별 또는 연도별로 집계할지 여부를 선택합니다.
 1. 사용자 지정 날짜 범위를 선택하거나 사전 설정 옵션 중에서 선택합니다. 2020년 6월 18일부터 2020년 6월 18일까지, 계약 시작 날짜 이전에 시작하지 않는 한 그 전날까지의 시작 날짜를 선택할 수 있습니다.
@@ -67,7 +73,7 @@ ht-degree: 1%
    | 필드 | 설명 |
    | ------------- | ------------------------------------------------------------------------------------------------- |
    | 이름 | 자동으로 생성되며 편집할 수 없습니다. |
-   | 작성자 | 보고서를 생성한 전역 관리자입니다. |
+   | 만든 사람 | 보고서를 생성한 전역 관리자입니다. |
    | 생성 시간 | 보고서를 만든 시스템 시간입니다. |
    | 날짜 범위 | 보고서에 대해 선택한 날짜 범위입니다. |
    | 상태 | 보고서를 다운로드할 준비가 되면 **성공**&#x200B;을, 아직 생성 중이면 **처리**&#x200B;을(를) 선택하십시오. |
