@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Adobe Commerce 소프트웨어 지원 종료 FAQ
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ### 모든 버전의 Adobe Commerce에 대한 소프트웨어 지원 날짜는 어디에서 찾을 수 있습니까?
 
-[Adobe Commerce 소프트웨어 수명 주기 정책](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)에서 Adobe Commerce 소프트웨어 수명 주기 정책 및 소프트웨어 지원 날짜를 확인할 수 있습니다. [개발자 설명서 페이지](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/versions)에 지원 종료(EOS) 날짜도 게시합니다.
+Adobe Commerce 소프트웨어 수명 주기 정책은 [Adobe Commerce 소프트웨어 수명 주기 정책](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)에서 찾을 수 있습니다. 버전별 라이프사이클 및 소프트웨어 지원 날짜는 [Adobe Commerce 라이프사이클 정책 및 지원 날짜](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/planning/lifecycle-policy)를 참조하십시오. [개발자 설명서 페이지](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/versions)에 지원 종료(EOS) 날짜도 게시합니다.
 
 ### Adobe에서 Adobe Commerce 소프트웨어 버전에 대한 지원을 종료하면 어떤 의미입니까?
 
@@ -130,7 +130,7 @@ Adobe Commerce 라이선스가 만료되면 Adobe Commerce 소프트웨어 사�
 
 ### 지원 종료 날짜 이전에 개설된 지원 티켓의 경우, 판매자에게 지원 종료를 알리는 경고가 있습니까?
 
-아니요. 지원 티켓 사용자에게 지원 종료 날짜가 다가오고 있음을 알리는 알림 알림이 없습니다. 티켓 오프너가 현재 사용 중인 Adobe Commerce 버전의 지원 종료 날짜를 알 수 있습니다. 해당 날짜는 [Adobe Commerce 소프트웨어 수명 주기 정책](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)에서 확인할 수 있습니다.
+아니요. 지원 티켓 사용자에게 지원 종료 날짜가 다가오고 있음을 알리는 알림 알림이 없습니다. 티켓 오프너가 현재 사용 중인 Adobe Commerce 버전의 지원 종료 날짜를 알 수 있습니다. 해당 날짜는 [Adobe Commerce 소프트웨어 수명 주기 정책](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) 및 [Adobe Commerce 수명 주기 정책 및 지원 날짜](https://experienceleague.adobe.com/ko/docs/commerce-operations/release/planning/lifecycle-policy)에 있습니다.
 
 ### 소프트웨어 버전에 대한 지원 티켓이 해당 버전에 대한 지원 종료 날짜 이후에 열리면 여전히 문제 해결에 도움이 됩니까?
 
