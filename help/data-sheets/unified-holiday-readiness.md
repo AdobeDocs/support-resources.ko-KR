@@ -46,9 +46,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
+source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
 workflow-type: tm+mt
-source-wordcount: '4677'
+source-wordcount: '4679'
 ht-degree: 3%
 ---
 # Adobe CX 솔루션 통합 휴일 준비 안내서
@@ -89,7 +89,7 @@ Adobe Experience Platform(AEP)는 실시간 고객 경험을 강화하는 데 �
 
 ### 계절별 수요 예측
 
-계절별 트래픽 급증에 대비하기 위해 Adobe에서는 용량을 계획하고 스트리밍 프로필 수집을 모니터링하는 것이 좋습니다. 여기에는 데이터 볼륨을 예측하고 시스템에서 처리량을 늘릴 수 있도록 하는 작업이 포함됩니다. 자세한 내용은 [용량 및 시즌 트래픽 계획](https://experienceleague.adobe.com/ko/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}을 참조하십시오.
+내역 패턴 및 계획된 활동을 사용하여 시즌 데이터 볼륨 및 최대 스트리밍 프로필 수집을 예측합니다. 수집 모니터링을 검토하여 수요가 최고조에 달할 수 있는 시기와 용량이 제약 조건이 될 수 있는지 파악합니다. 자세한 내용은 [용량 및 시즌 트래픽 계획](https://experienceleague.adobe.com/ko/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}을 참조하십시오.
 
 ### 크기 조정 준비
 
@@ -108,7 +108,7 @@ Adobe은 작동 제한 내에서 유지하고 서비스 중단을 방지하려�
 * [스트리밍 처리량 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [데이터 수집 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [실시간 고객 프로필 데이터 및 세분화를 위한 기본 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP 블루프린트: 가드레일](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP 블루프린트: 가드레일](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### 보안 및 관리
 
@@ -200,7 +200,7 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
 
 +++**Customer Journey Analytics(CJA) 휴일 준비 권장 사항을 보려면 클릭하세요.**
 
-Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준비를 달성합니다.
+Adobe은 휴가철을 위해 Customer Journey Analytics 인스턴스를 준비하기 위해 다음 단계를 권장합니다.
 
 ### 크기 조정 준비
 
@@ -215,8 +215,7 @@ Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준�
 
 ### 모범 사례
 
-* 트래픽이 적은 기간 동안 내보내기/보고서를 예약하여 로드를 원활하게 하고 지연을 최소화합니다. [예약된 보고서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} 문서를 참조하십시오.
-* 요청 분산: 하루 종일 서로 다른 간격으로 보고서를 예약합니다.
+* 보고서 및 내보내기 실행을 하루 종일 분산하여 가능한 한 피크가 적은 기간의 우선 순위를 지정하여 로드를 분산하고 지연을 최소화합니다. [예약된 보고서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} 문서를 참조하십시오.
 * 패널을 줄이고, 세그먼트를 단순화하고, 날짜 범위를 단축하고, 과도한 동시 작업을 방지할 수 있습니다. 자세한 내용은 [CJA Workspace 성능 최적화](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"} 문서를 참조하십시오.
 
 ### 문제 해결
@@ -241,7 +240,7 @@ Customer Journey Analytics은 5개의 P를 사용하여 휴가철/성수기 준�
 
 ### 수요 예측
 
-* 최대 휴일 판매 기간(11월 중순부터 1월 중순까지) 동안 Adobe은 클라우드 인프라에서 호스팅되는 모든 Adobe Commerce 가맹점이 휴일 급증 용량 요청을 제출하여 방문자 증가에 대해 적극적으로 계획할 것을 권장합니다. 자세한 내용은 [클라우드 인프라의 Adobe Commerce에 대한 휴일 서지 용량 요청](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}을 참조하십시오.
+최대 휴일 판매 기간(11월 중순부터 1월 중순까지) 동안 Adobe은 클라우드 인프라에서 호스팅되는 모든 Adobe Commerce 가맹점이 휴일 급증 용량 요청을 제출하여 방문자 증가에 대해 적극적으로 계획할 것을 권장합니다. 자세한 내용은 [클라우드 인프라의 Adobe Commerce에 대한 휴일 서지 용량 요청](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}을 참조하십시오.
 
 ### 크기 조정 준비
 
@@ -285,9 +284,9 @@ AEM 웹 사이트 트래픽 보안/보호에 대한 자세한 내용은 AEM as a
 
 Adobe은 중요한 휴일 기간 동안 중단 없는 서비스를 보장하기 위해 유지 관리 제외 기간을 예약했습니다.
 
-* **자동 AEMaaCS 유지 관리 없음**&#x200B;은(는) 다음 일정 동안 발생하며 자정(00:00)(CET)에 시작되고 종료됩니다.
-  * 2026년 11월 23일 월요일부터 2026년 12월 1일 화요일까지
-  * 2026년 12월 14일 월요일부터 2027년 1월 3일 일요일까지
+**자동 AEMaaCS 유지 관리 없음**&#x200B;은(는) 다음 일정 동안 발생하며 자정(00:00)(CET)에 시작되고 종료됩니다.
+* 2026년 11월 23일 월요일부터 2026년 12월 1일 화요일까지
+* 2026년 12월 14일 월요일부터 2027년 1월 3일 일요일까지
 
 이렇게 하면 트래픽이 많은 기간 동안 안정성이 보장됩니다. 전체 릴리스 일정 및 유지 관리 기간은 [AEM 릴리스 로드맵](https://experienceleague.adobe.com/ko/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}을 참조하세요.
 
@@ -466,3 +465,4 @@ Adobe은 일반적으로 서비스를 중단하지 않도록 최대 휴일 기�
 경험을 개인화하기 전에 GDPR 및 CCPA에서 동의 준수를 확인합니다. 프로필 매개변수에 PII(개인 식별 정보)를 저장하지 않고 API 보안을 확인하여 고객 데이터를 보호합니다.
 
 +++
+
