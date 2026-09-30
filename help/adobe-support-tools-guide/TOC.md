@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 25fc32de197848e34e84db29113d17689442678f
+source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '385'
 ht-degree: 2%
 ---
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
@@ -53,6 +53,13 @@ ht-degree: 2%
   - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
   - [Adobe Commerce 지원 개요](adobe-commerce-support/adobe-commerce-support-overview.md)
+  - [Adobe Commerce 휴일 준비]{#adobe-commerce-holiday-readiness}
+    - [개요](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [성능 최적화](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
+    - [모범 사례 및 안정성](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
+    - [모니터링 및 가시성](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
+    - [확장성 및 용량 계획](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)
+    - [운영 준비](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md)
   - [Adobe Commerce에 대한 MySQL 지원 종료 알림 및 데이터베이스 호환성 지침](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [클라우드 인프라 업사이징에서 임시 Adobe Commerce을 요청하는 방법](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [클라우드 인프라의 Adobe Commerce에 대한 휴일 서지 용량 요청](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
