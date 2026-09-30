@@ -85,6 +85,6 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 자세한 정보 및 자격 요구 사항은 지금 Adobe 계정 담당자에게 문의하십시오.
 
-[!BADGE 지금 가입]{type=Informative url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=&quot;https://experienceleague.adobe.com/en/feedback-program으로 이동&quot;}
+[!BADGE 지금 가입]{type=Informative url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=&quot;https://experienceleague.adobe.com/ko/feedback-program으로 이동&quot;}
 
 >[!ENDSHADEBOX]
