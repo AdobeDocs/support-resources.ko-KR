@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 클러스터 조기 업그레이드 계획(클라우드만 해당) {#plan-cluster-upsize-early}
 
-클라우드 인프라 고객의 Commerce을 위해 임시 클러스터 업사이드는 피크 시즌 트래픽 급증을 처리하기 위해 더 많은 컴퓨팅 리소스를 할당합니다. 날짜 범위 및 필요한 클러스터 크기로 지원 티켓을 미리 구입하고, 현재 리소스 사용량 및 요구 사항에 대해 전담 계정 관리자와 조율합니다. 블랙 프라이데이 및 사이버 먼데이 기간 동안 용량이 제한되므로 휴일 시즌에 맞는 경우, 최소 48시간 전에 요청서를 제출하십시오. [임시 업사이징을 요청하는 방법](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize)을 참조하세요.
+클라우드 인프라 고객의 Commerce을 위해 임시 클러스터 업사이드는 피크 시즌 트래픽 급증을 처리하기 위해 더 많은 컴퓨팅 리소스를 할당합니다. 날짜 범위 및 필요한 클러스터 크기로 지원 티켓을 미리 구입하고, 현재 리소스 사용량 및 요구 사항에 대해 전담 계정 관리자와 조율합니다. 블랙 프라이데이 및 사이버 먼데이 기간 동안 용량이 제한되므로 휴일 시즌에 맞는 경우, 최소 48시간 전에 요청서를 제출하십시오. [임시 업사이징을 요청하는 방법](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize)을 참조하세요.
 
 예를 들어, 일일 24코어(24개의 vCPU, 96GB RAM) 업사이징을 7일 동안 96개 코어로 수행하는 Pro 아키텍처 고객은 약 4배의 리소스(96개의 vCPU, 384GB RAM)를 사용하며, 이는 약 504vCPU-일(96×7 − 24×7)의 증분 소비량입니다.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 Adobe Commerce [!DNL Fastly]의 원본 차폐의 목적은 Adobe Commerce 원본으로 직접 트래픽을 줄이는 것입니다. 요청이 수신되면 [!DNL Fastly] 에지 위치(Point of Presence)가 캐시된 콘텐츠를 확인하고 전달합니다. 캐시되지 않은 경우 Shield POP로 계속 이동하여 해당 콘텐츠가 캐시되는지 확인합니다. 이전에 다른 글로벌 POP에서도 콘텐츠를 요청한 경우 캐시됩니다. 마지막으로 Shield POP에 캐시되지 않은 경우 원본 서버로만 진행됩니다.
 
-[!DNL Fastly] 구성 백엔드 설정의 Adobe Commerce 관리에서 [!DNL Fastly] 원본 차폐를 사용하도록 설정할 수 있습니다. 최상의 성능을 위해 Adobe Commerce 원본 데이터 센터와 가장 가까운 실드 위치를 선택하십시오. 자세한 내용은 [백 엔드 및 원본 보호 구성](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)을 참조하세요. 기본적으로 [!DNL Fastly] 원본 차폐를 사용할 수 없습니다.
+[!DNL Fastly] 구성 백엔드 설정의 Adobe Commerce 관리에서 [!DNL Fastly] 원본 차폐를 사용하도록 설정할 수 있습니다. 최상의 성능을 위해 Adobe Commerce 원본 데이터 센터와 가장 가까운 실드 위치를 선택하십시오. 자세한 내용은 [백 엔드 및 원본 보호 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)을 참조하세요. 기본적으로 [!DNL Fastly] 원본 차폐를 사용할 수 없습니다.
 
 ## 로드 및 페일오버 테스트 수행 {#conduct-load-and-failover-tests}
 
