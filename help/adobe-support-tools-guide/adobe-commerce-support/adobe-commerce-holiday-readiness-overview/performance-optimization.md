@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## Fastly 요청 캐싱 최적화(클라우드 전용) {#optimize-fastly-request-caching}
 
-[!DNL Fastly]은(는) 에지에서 응답을 캐시하여 원본 서버의 로드를 줄입니다. 성수기 동안 몇 가지 구성 검사를 통해 해당 캐시를 최대한 활용할 수 있습니다. 특히 추적 매개 변수 또는 Headless 상점이 있는 프로모션을 실행할 때 유용합니다. 전체 구성 참조에 대해서는 [캐시 구성 사용자 지정](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)을 참조하십시오.
+[!DNL Fastly]은(는) 에지에서 응답을 캐시하여 원본 서버의 로드를 줄입니다. 성수기 동안 몇 가지 구성 검사를 통해 해당 캐시를 최대한 활용할 수 있습니다. 특히 추적 매개 변수 또는 Headless 상점이 있는 프로모션을 실행할 때 유용합니다. 전체 구성 참조에 대해서는 [캐시 구성 사용자 지정](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)을 참조하십시오.
 
 * 추적 매개 변수 정규화: 휴가철에는 모든 URL에 고유한 추적 문자열을 추가하는 소셜 및 유료 캠페인(예: Google 광고, Facebook 및 X)을 실행할 수 있습니다. 각각의 고유한 문자열은 다른 경우에는 동일한 페이지에 대해 별도의 캐시 항목을 만들어 캐시 적중률을 낮춥니다. [!DNL Fastly]이(가) 이러한 매개 변수를 동등하게 취급하도록 Adobe Commerce 관리자의 [!DNL Fastly] 구성에 있는 **[!UICONTROL 무시된 URL 매개 변수]** 목록에 추가하십시오.
 * 랜딩 페이지를 캐시할 수 있는지 확인합니다. 각 프로모션 랜딩 페이지에서 `x-cache` 응답 헤더를 확인합니다. 캐시 가능한 페이지는 후속 로드 시 `HIT` 또는 `HIT`/`MISS` 쌍을 반환합니다. 헤더가 `MISS, MISS`을(를) 반환하는 경우 페이지가 캐싱되지 않으므로 조사가 필요합니다.
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## Fastly IO 활성화(클라우드만 해당) {#enable-fastly-io}
 
-[!DNL Fastly] IO는 이미지 크기 조정 및 형식 전환을 Adobe Commerce 원본 대신 [!DNL Fastly] 에지 네트워크로 오프로드합니다. 이렇게 하면 트래픽이 많은 영업 기간 동안 흔히 발생하는 병목 현상인 이미지가 많은 상점의 서버 로드를 줄이고 페이지 렌더링 속도를 향상시킬 수 있습니다. 구성 옵션에 대해서는 [빠른 이미지 최적화](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)를 참조하십시오.
+[!DNL Fastly] IO는 이미지 크기 조정 및 형식 전환을 Adobe Commerce 원본 대신 [!DNL Fastly] 에지 네트워크로 오프로드합니다. 이렇게 하면 트래픽이 많은 영업 기간 동안 흔히 발생하는 병목 현상인 이미지가 많은 상점의 서버 로드를 줄이고 페이지 렌더링 속도를 향상시킬 수 있습니다. 구성 옵션에 대해서는 [빠른 이미지 최적화](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)를 참조하십시오.
 
 시작하기 전에 원점 차폐가 구성되어 있는지 확인합니다. [!DNL Fastly] IO는 필수 조건으로 원점 차폐가 필요합니다. 구성 세부 정보는 [가장 빠른 원본 차폐](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)를 참조하십시오.
 
@@ -74,9 +74,9 @@ ht-degree: 0%
 
 ## Redis L2 캐시 구현 {#implement-redis-l2-cache}
 
-효율적인 캐싱 방법을 구현하여 트래픽이 많이 발생하는 시즌 동안 스토어가 안정적으로 수행됩니다. [!DNL Redis] L2 캐시는 각 웹 노드에 로컬로 캐시 데이터를 저장하여 네트워크 대역폭을 [!DNL Redis]&#x200B;(으)로 줄입니다. L2 캐시의 작동 방식에 대한 배경은 [수준 2 캐시](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache)를 참조하십시오.
+효율적인 캐싱 방법을 구현하여 트래픽이 많이 발생하는 시즌 동안 스토어가 안정적으로 수행됩니다. [!DNL Redis] L2 캐시는 각 웹 노드에 로컬로 캐시 데이터를 저장하여 네트워크 대역폭을 [!DNL Redis]&#x200B;(으)로 줄입니다. L2 캐시의 작동 방식에 대한 배경은 [수준 2 캐시](https://experienceleague.adobe.com/ko/docs/commerce-operations/configuration-guide/cache/level-two-cache)를 참조하십시오.
 
-클라우드 인프라의 Commerce에서 `REDIS_BACKEND` 배포 변수를 설정하여 이 기능을 사용하도록 설정합니다. 구성 단계는 Commerce on Cloud Infrastructure Guide의 [REDIS_BACKEND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)을(를) 참조하십시오. 온-프레미스에서 `app/etc/env.php`에서 직접 구성하십시오.
+클라우드 인프라의 Commerce에서 `REDIS_BACKEND` 배포 변수를 설정하여 이 기능을 사용하도록 설정합니다. 구성 단계는 Commerce on Cloud Infrastructure Guide의 [REDIS_BACKEND](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)을(를) 참조하십시오. 온-프레미스에서 `app/etc/env.php`에서 직접 구성하십시오.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 ## MySQL 및 Redis 슬레이브 연결 활성화(Cloud만 해당) {#enable-mysql-and-redis-slave-connections}
 
-[!DNL Redis] 및 [!DNL MySQL] 슬레이브 연결은 읽기 트래픽을 복제본 노드로 오프로드하므로 트래픽이 많은 기간 동안 마스터 연결에 대한 로드를 줄입니다. 구성 단계는 Adobe Commerce 버전에 따라 [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) 및 [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) 또는 [VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection)을 참조하십시오.
+[!DNL Redis] 및 [!DNL MySQL] 슬레이브 연결은 읽기 트래픽을 복제본 노드로 오프로드하므로 트래픽이 많은 기간 동안 마스터 연결에 대한 로드를 줄입니다. 구성 단계는 Adobe Commerce 버전에 따라 [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) 및 [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) 또는 [VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection)을 참조하십시오.
 
 ### Redis 슬레이브 연결
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## 비동기 주문 및 이메일 처리 활성화 {#enable-asynchronous-order-and-email-processing}
 
-비동기 처리를 사용하여 백그라운드에서 대량 주문 관련 작업을 큐에 추가하고 실행하여 최대 트래픽 동안 프론트엔드 지연을 줄입니다. 여기에는 서로 관련되지만 서로 다른 세 가지 설정이 포함됩니다. 개요는 [구성 모범 사례](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration)를 참조하세요.
+비동기 처리를 사용하여 백그라운드에서 대량 주문 관련 작업을 큐에 추가하고 실행하여 최대 트래픽 동안 프론트엔드 지연을 줄입니다. 여기에는 서로 관련되지만 서로 다른 세 가지 설정이 포함됩니다. 개요는 [구성 모범 사례](https://experienceleague.adobe.com/ko/docs/commerce-operations/performance-best-practices/configuration)를 참조하세요.
 
 * 비동기 주문 배치: 비동기 주문 모듈은 주문을 받은 것으로 표시하고 큐에 배치하며 선입선출 방식으로 주문을 처리합니다. 기본적으로 비활성화되어 있습니다. 명령줄에서 활성화합니다.
 
@@ -112,7 +112,7 @@ ht-degree: 0%
   bin/magento setup:config:set --checkout-async 1
   ```
 
-  사용하도록 설정하면 주문 세부 정보를 즉시 사용할 수 없습니다. `placeOrderProcess` 소비자가 인벤토리에 대해 확인하고(기본적으로 사용하도록 설정됨) 업데이트할 때까지 해당 주문은 대기 상태로 유지됩니다. 이 모듈을 비활성화하기 전에 진행 중인 모든 비동기 주문 처리가 완료되었는지 확인하십시오. 자세한 내용은 [체크아웃 성능 모범 사례](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)를 참조하세요.
+  사용하도록 설정하면 주문 세부 정보를 즉시 사용할 수 없습니다. `placeOrderProcess` 소비자가 인벤토리에 대해 확인하고(기본적으로 사용하도록 설정됨) 업데이트할 때까지 해당 주문은 대기 상태로 유지됩니다. 이 모듈을 비활성화하기 전에 진행 중인 모든 비동기 주문 처리가 완료되었는지 확인하십시오. 자세한 내용은 [체크아웃 성능 모범 사례](https://experienceleague.adobe.com/ko/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)를 참조하세요.
 
 * 비동기 주문 데이터 처리: 데이터베이스 수준에서 집중적인 상점 영업 및 집중적인 주문 처리가 충돌할 수 있습니다. 이 설정을 활성화하면 두 트래픽 패턴이 구별되므로 주문이 임시 저장소에 배치되고 충돌 없이 Order Management 그리드로 대량으로 이동됩니다. 이렇게 하면 기본적으로 주문, 송장, 선적 및 대변 메모 그리드로 업데이트되므로 잠금이 발생하지 않고 처리 시간이 줄어듭니다. 최상의 결과를 얻으려면 1분에 한 번 실행되도록 cron 을 구성하십시오.
 
@@ -120,13 +120,13 @@ ht-degree: 0%
 >
 >이 기능을 활성화하는 방법은 배포 모드에 따라 다릅니다. 클라우드 인프라 스테이징 및 프로덕션 환경의 Adobe Commerce은 기본적으로 프로덕션 모드에서 실행되며, 여기서 이 설정은 관리자를 통해 사용할 수 없습니다. 프로덕션 모드에서 `bin/magento config:set dev/grid/async_indexing 1`을(를) 대신 실행합니다. 기본 모드에서 **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 고급]** > **[!UICONTROL 개발자]** > **[!UICONTROL 그리드 설정]**(으)로 이동하여 **[!UICONTROL 비동기 인덱싱]**&#x200B;을 *[!UICONTROL 사용]*(으)로 설정합니다.
 
-자세한 내용은 [예약된 주문 작업](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)을 참조하십시오.
+자세한 내용은 [예약된 주문 작업](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)을 참조하십시오.
 
 * 비동기 이메일 알림: 이 설정은 체크아웃 및 주문 처리 이메일 알림을 백그라운드로 이동합니다. **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 판매]** > **[!UICONTROL 판매 이메일]** > **[!UICONTROL 일반 설정]** > **[!UICONTROL 비동기 전송]**&#x200B;에서 사용하도록 설정합니다.
 
 ## 일정에 따른 업데이트를 위한 인덱서 구성 {#configure-indexers-for-update-on-schedule}
 
-데이터베이스 잠금을 방지하고 자주 카탈로그를 업데이트하는 동안 응답성을 향상시키려면 인덱서를 예약 모드에서 실행하도록 설정하십시오. 자세한 내용은 [인덱서 구성 모범 사례](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)를 참조하세요.
+데이터베이스 잠금을 방지하고 자주 카탈로그를 업데이트하는 동안 응답성을 향상시키려면 인덱서를 예약 모드에서 실행하도록 설정하십시오. 자세한 내용은 [인덱서 구성 모범 사례](https://experienceleague.adobe.com/ko/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)를 참조하세요.
 
 인덱서는 **[!UICONTROL 저장 시 업데이트]** 또는 **[!UICONTROL 일정에 따라 업데이트]** 모드에서 실행할 수 있습니다.
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 카탈로그 플랫 테이블 비활성화 및 평가 {#disable-and-evaluate-catalog-flat-table}
 
-제품 및 범주에 플랫 테이블을 사용하지 않는 것이 좋습니다. 더 이상 사용되지 않는 기능으로 인해 성능 저하 및 색인화 문제가 발생할 수 있습니다. 자세한 내용은 [기본 카탈로그](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat)를 참조하세요.
+제품 및 범주에 플랫 테이블을 사용하지 않는 것이 좋습니다. 더 이상 사용되지 않는 기능으로 인해 성능 저하 및 색인화 문제가 발생할 수 있습니다. 자세한 내용은 [기본 카탈로그](https://experienceleague.adobe.com/ko/docs/commerce-admin/catalog/catalog/catalog-flat)를 참조하세요.
 
 플랫 카탈로그를 사용하지 않으려면 **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 카탈로그]** > **[!UICONTROL 카탈로그]** > **[!UICONTROL 상점]**&#x200B;로 이동하고, **[!UICONTROL 플랫 카탈로그 범주 사용]**&#x200B;을 *[!UICONTROL 아니요]*(으)로 설정하고, **[!UICONTROL 플랫 카탈로그 제품 사용]**&#x200B;을 *[!UICONTROL 아니요]*(으)로 설정한 다음 **[!UICONTROL 구성 저장]**&#x200B;을 클릭하십시오.
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 ## 크기 조정(분할) 아키텍처(클라우드만 해당) 고려 {#consider-scaled-split-architecture}
 
-이전 구성과 코드 수준 최적화를 적용한 후에도 로드 테스트 또는 라이브 인프라 성능이 CPU 및 기타 리소스를 최대 한도로 표시한 경우 크기 조정(분할) 아키텍처로 이동하는 것이 좋습니다. 자세한 내용은 [조정된 아키텍처](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)를 참조하십시오.
+이전 구성과 코드 수준 최적화를 적용한 후에도 로드 테스트 또는 라이브 인프라 성능이 CPU 및 기타 리소스를 최대 한도로 표시한 경우 크기 조정(분할) 아키텍처로 이동하는 것이 좋습니다. 자세한 내용은 [조정된 아키텍처](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)를 참조하십시오.
 
 >[!NOTE]
 >

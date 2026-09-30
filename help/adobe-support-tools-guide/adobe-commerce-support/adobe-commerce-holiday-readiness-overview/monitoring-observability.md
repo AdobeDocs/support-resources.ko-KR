@@ -63,11 +63,11 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-필요에 따라 이 쿼리를 수정하거나, 더 세분화하거나, 중앙 집중식 추적을 위해 대시보드로 전환합니다. 자세한 내용은 [New Relic 로그 관리](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)를 참조하십시오.
+필요에 따라 이 쿼리를 수정하거나, 더 세분화하거나, 중앙 집중식 추적을 위해 대시보드로 전환합니다. 자세한 내용은 [New Relic 로그 관리](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)를 참조하십시오.
 
 ## New Relic 경고 사용자 지정(Cloud만 해당) {#customize-new-relic-alerts}
 
-클라우드 인프라의 Adobe Commerce에서 설정한 관리 경고 외에도 최대 판매 시즌 동안 플랫폼에 대한 광범위한 경고 및 알림을 설정할 수 있습니다(예: GraphQL 쿼리의 봇 트래픽 또는 증가된 응답 시간 알림). 기본 제공 경고의 전체 목록은 [Adobe Commerce에 대한 관리 경고](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)를 참조하십시오.
+클라우드 인프라의 Adobe Commerce에서 설정한 관리 경고 외에도 최대 판매 시즌 동안 플랫폼에 대한 광범위한 경고 및 알림을 설정할 수 있습니다(예: GraphQL 쿼리의 봇 트래픽 또는 증가된 응답 시간 알림). 기본 제공 경고의 전체 목록은 [Adobe Commerce에 대한 관리 경고](https://experienceleague.adobe.com/ko/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)를 참조하십시오.
 
 [!DNL New Relic] 경고 및 AI가 NRQL 기반 쿼리 구조를 지원합니다. **[!UICONTROL 경고 및 AI]** 아래의 [!DNL New Relic] 대시보드에서 사용자 지정 경고를 설정합니다.
 
@@ -79,7 +79,7 @@ Apdex 점수의 범위는 0에서 1까지입니다. 점수가 0인 것은 가능
 
 Apdex 점수 0.5 이하. 0.4 이하의 스코어는 중단으로 간주됩니다.
 
-[!DNL New Relic]은(는) Apdex와 함께 클라우드 인프라의 Adobe Commerce에서 성능 문제를 분석할 수 있는 다양한 통계를 제공합니다. 단계는 [Adobe Commerce에서 New Relic을 사용하여 성능 문제 해결](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)을 참조하십시오.
+[!DNL New Relic]은(는) Apdex와 함께 클라우드 인프라의 Adobe Commerce에서 성능 문제를 분석할 수 있는 다양한 통계를 제공합니다. 단계는 [Adobe Commerce에서 New Relic을 사용하여 성능 문제 해결](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)을 참조하십시오.
 
 ## 지원 인사이트 검토(SWAT 보고서) {#review-support-insights-swat-report}
 
