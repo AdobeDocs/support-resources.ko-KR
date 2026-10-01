@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
+source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -53,7 +53,7 @@ ht-degree: 2%
   - [FAQ](faq.md)
 - Adobe Commerce 지원 {#adobe-commerce-support}
   - [Adobe Commerce 지원 개요](adobe-commerce-support/adobe-commerce-support-overview.md)
-  - [Adobe Commerce 휴일 준비]{#adobe-commerce-holiday-readiness}
+  - Adobe Commerce 휴일 준비 {#adobe-commerce-holiday-readiness}
     - [개요](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
     - [성능 최적화](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
     - [모범 사례 및 안정성](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)

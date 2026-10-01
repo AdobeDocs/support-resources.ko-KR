@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -116,11 +116,11 @@ ht-degree: 0%
 
 * 비동기 주문 데이터 처리: 데이터베이스 수준에서 집중적인 상점 영업 및 집중적인 주문 처리가 충돌할 수 있습니다. 이 설정을 활성화하면 두 트래픽 패턴이 구별되므로 주문이 임시 저장소에 배치되고 충돌 없이 Order Management 그리드로 대량으로 이동됩니다. 이렇게 하면 기본적으로 주문, 송장, 선적 및 대변 메모 그리드로 업데이트되므로 잠금이 발생하지 않고 처리 시간이 줄어듭니다. 최상의 결과를 얻으려면 1분에 한 번 실행되도록 cron 을 구성하십시오.
 
->[!NOTE]
->
->이 기능을 활성화하는 방법은 배포 모드에 따라 다릅니다. 클라우드 인프라 스테이징 및 프로덕션 환경의 Adobe Commerce은 기본적으로 프로덕션 모드에서 실행되며, 여기서 이 설정은 관리자를 통해 사용할 수 없습니다. 프로덕션 모드에서 `bin/magento config:set dev/grid/async_indexing 1`을(를) 대신 실행합니다. 기본 모드에서 **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 고급]** > **[!UICONTROL 개발자]** > **[!UICONTROL 그리드 설정]**(으)로 이동하여 **[!UICONTROL 비동기 인덱싱]**&#x200B;을 *[!UICONTROL 사용]*(으)로 설정합니다.
+  >[!NOTE]
+  > 
+  >이 기능을 활성화하는 방법은 배포 모드에 따라 다릅니다. 클라우드 인프라 스테이징 및 프로덕션 환경의 Adobe Commerce은 기본적으로 프로덕션 모드에서 실행되며, 여기서 이 설정은 관리자를 통해 사용할 수 없습니다. 프로덕션 모드에서 `bin/magento config:set dev/grid/async_indexing 1`을(를) 대신 실행합니다. 기본 모드에서 **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 고급]** > **[!UICONTROL 개발자]** > **[!UICONTROL 그리드 설정]**(으)로 이동하여 **[!UICONTROL 비동기 인덱싱]**&#x200B;을 *[!UICONTROL 사용]*(으)로 설정합니다.
 
-자세한 내용은 [예약된 주문 작업](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)을 참조하십시오.
+  자세한 내용은 [예약된 주문 작업](https://experienceleague.adobe.com/ko/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)을 참조하십시오.
 
 * 비동기 이메일 알림: 이 설정은 체크아웃 및 주문 처리 이메일 알림을 백그라운드로 이동합니다. **[!UICONTROL 스토어]** > **[!UICONTROL 구성]** > **[!UICONTROL 판매]** > **[!UICONTROL 판매 이메일]** > **[!UICONTROL 일반 설정]** > **[!UICONTROL 비동기 전송]**&#x200B;에서 사용하도록 설정합니다.
 

@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71589dd124714805fbf844540fb2d272433631ee
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 Adobe Commerce [!DNL Fastly]의 원본 차폐의 목적은 Adobe Commerce 원본으로 직접 트래픽을 줄이는 것입니다. 요청이 수신되면 [!DNL Fastly] 에지 위치(Point of Presence)가 캐시된 콘텐츠를 확인하고 전달합니다. 캐시되지 않은 경우 Shield POP로 계속 이동하여 해당 콘텐츠가 캐시되는지 확인합니다. 이전에 다른 글로벌 POP에서도 콘텐츠를 요청한 경우 캐시됩니다. 마지막으로 Shield POP에 캐시되지 않은 경우 원본 서버로만 진행됩니다.
 
-[!DNL Fastly] 구성 백엔드 설정의 Adobe Commerce 관리에서 [!DNL Fastly] 원본 차폐를 사용하도록 설정할 수 있습니다. 최상의 성능을 위해 Adobe Commerce 원본 데이터 센터와 가장 가까운 실드 위치를 선택하십시오. 자세한 내용은 [백 엔드 및 원본 보호 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)을 참조하세요.
-
-기본적으로 [!DNL Fastly] 원본 차폐를 사용할 수 없습니다.
+[!DNL Fastly] 구성 백엔드 설정의 Adobe Commerce 관리에서 [!DNL Fastly] 원본 차폐를 사용하도록 설정할 수 있습니다. 최상의 성능을 위해 Adobe Commerce 원본 데이터 센터와 가장 가까운 실드 위치를 선택하십시오. 자세한 내용은 [백 엔드 및 원본 보호 구성](https://experienceleague.adobe.com/ko/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)을 참조하세요. 기본적으로 [!DNL Fastly] 원본 차폐를 사용할 수 없습니다.
 
 ## 로드 및 페일오버 테스트 수행 {#conduct-load-and-failover-tests}
 
