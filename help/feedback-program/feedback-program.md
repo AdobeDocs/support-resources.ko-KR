@@ -83,6 +83,6 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 >[!BEGINSHADEBOX]
 
-[!BADGE 지금 가입]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/en/feedback-program으로 이동"}
+[!BADGE 지금 가입]{type=Informative url="https://experienceleague.adobe.com/ko/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/ko/feedback-program으로 이동"}
 
 >[!ENDSHADEBOX]
