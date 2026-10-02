@@ -1,7 +1,6 @@
 ---
 title: Adobe CX 솔루션 통합 휴일 준비 안내서
 description: AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics 및 Target용 Adobe CX 휴일 준비 완료 를 통해 계획, 확장, 보안 및 최적화를 지원할 수 있습니다.
-hold: true
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
@@ -46,9 +45,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
+source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
 workflow-type: tm+mt
-source-wordcount: '4679'
+source-wordcount: '4693'
 ht-degree: 3%
 ---
 # Adobe CX 솔루션 통합 휴일 준비 안내서
@@ -108,7 +107,7 @@ Adobe은 작동 제한 내에서 유지하고 서비스 중단을 방지하려�
 * [스트리밍 처리량 모범 사례](https://experienceleague.adobe.com/ko/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [데이터 수집 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [실시간 고객 프로필 데이터 및 세분화를 위한 기본 보호](https://experienceleague.adobe.com/ko/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP 블루프린트: 가드레일](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP 블루프린트: 가드레일](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/architecture-diagrams/architecture-overviews/guardrails){target="_blank"}
 
 ### 보안 및 관리
 
@@ -171,26 +170,26 @@ AEP 구현 전반에 걸쳐 고객 데이터를 보호하고, 개인 정보 컨�
 ### 모범 사례
 
 * 옴니채널 오케스트레이션을 사용합니다. AJO의 휴가철 예제를 보여주는 블로그 [참여 및 성장에 대한 필수 옴니채널 고객 여정](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"} 문서를 참조하세요.
-* 적절한 경우 실시간 트리거를 우선 지정합니다. 예를 들어 장바구니 포기, 찾아보기 포기 및 재고 알림(휴일 쇼핑객이 더 반응형).
-* 세그먼테이션 및 개인화 활용: 고의적인 세그먼트를 타겟팅하고 과거의 구매 행동 및 환경 설정을 기반으로 오퍼를 맞춤화합니다.
-* 최소 메시징 피로: 과도한 요청을 방지하기 위해 제한 및 조용한 시간을 적용합니다. AJO의 [일일 빈도 제한으로 고객 경험 개선](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=ko){target="_blank"} 블로그 게시물을 참조하십시오.
+* 적절한 경우 실시간 트리거를 우선 지정합니다. 예를 들어 장바구니 포기, 찾아보기 포기 및 스톡 경고가 있습니다. 휴일 쇼핑객이 더 반응적이기 때문입니다.
+* 세그먼테이션 및 개인화 활용: 고의적인 세그먼트를 타겟팅하고 과거의 구매 행동 및 선호도를 기반으로 오퍼를 맞춤화합니다.
+* 메시징 피로 최소화: 과도한 요청을 방지하기 위해 최대 한도와 조용한 시간을 적용합니다. AJO의 [일일 빈도 제한으로 고객 경험 개선](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=ko){target="_blank"} 블로그 게시물을 참조하십시오.
 * 시간 문제: 플랜은 휴일 기간(압축된 시즌)에 더 일찍 전송하고 채널을 시간대 및 로컬 대상자 행동에 맞게 조정합니다.
-* 긴급성을 만들려면 동적/제한 시간 오퍼를 제공하고, 중복과 충돌을 방지하기 위해 채널 간에 조정합니다.
+* 동적/제한 시간 오퍼를 사용하여 긴급성을 생성하지만, 중복과 충돌을 방지하기 위해 채널 간에 조정합니다.
 * 제외 논리 사용: 방금 구매한 대상을 표시하지 않거나 사후 구매 여정을 적용하여 중복 메시지를 방지합니다.
 
 ### 보안 및 관리
 
 * 필요한 사용자만 여정을 배포하거나 비즈니스 규칙을 수정할 수 있도록 액세스 제어 및 권한이 구성되어 있는지 확인합니다.
 * API 호출/연결 한도 모니터링 및 적용: 예를 들어 [한도 API를 참조하십시오. | Adobe Journey Optimizer](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"} 문서.
-* 깔끔한 자사 데이터를 사용하고 메시징이 중복/잘못 정렬되지 않도록 적절한 ID 결합을 보장합니다.
-* 게재 기능 도메인이 따뜻하고 스팸 방지 조치가 적절히 배치되었는지 확인합니다. 특히 대량 휴일 전송인 경우 더욱 그렇습니다.
+* 깔끔한 자사 데이터를 사용하고 메시징이 중복/오정렬이 아닌 고객 중심적이 되도록 적절한 ID 결합을 보장합니다.
+* 특히 대량 휴일 전송을 위해 게재 기능 도메인이 따뜻해지고 스팸 방지 조치가 제대로 수행되는지 확인하십시오.
 * 피크 시즌 동안 감사 로그 및 여정 변경 사항을 자주 검토하여 잘못된 실행 또는 잘못된 여정을 조기에 감지합니다.
 
 ### 피크 이후 학습
 
 * 최대 로드 후 여정 항목 수, 제외 수, 옵트아웃 비율, 전달성 지표 및 채널 성능을 검토합니다.
 * 억제된 세그먼트를 정리하고 휴일 기간용으로 빌드된 여정을 일시 중지 또는 폐기하여 이월 피로를 방지합니다.
-* 실시간 성과에서 얻은 통찰력을 사용하여 내년 계획을 구체화합니다(예: 시간 조정 전송, 채널 혼합 및 메시지 볼륨).
+* 실시간 성과에서 얻은 통찰력을 사용하여 내년 계획을 구체화합니다(예: 시간 조정, 채널 혼합 및 메시지 볼륨 보내기).
 
 조직에서는 시즌 수요를 사전 예방적으로 예측하고, 채널과 규칙을 구성하고, 여정 성능을 검증하고, 보안 및 거버넌스를 강화함으로써 Adobe Journey Optimizer이 이번 연휴 기간 및 그 이후에도 매끄럽고 개인화되고, 탄력적인 고객 경험을 제공하도록 할 수 있습니다.
 
@@ -209,7 +208,7 @@ Adobe은 휴가철을 위해 Customer Journey Analytics 인스턴스를 준비�
 
 ### 성과 모니터링
 
-* RAM([[!UICONTROL Reporting Activity Manager] 개요](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview))을 활용하여 활성 및 대기 중인 보고 요청을 실시간으로 모니터링하고, 용량별 연결을 식별하고, 병목 현상을 파악할 수 있습니다.
+* RAM([[!UICONTROL Reporting Activity Manager] 개요](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"})을 활용하여 활성 및 대기 중인 보고 요청을 실시간으로 모니터링하고, 용량별 연결을 식별하고, 병목 현상을 파악할 수 있습니다.
 * [오류 및 문제 해결 안내서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} 및 [알려진 제한 사항](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"} 문서를 사용하여 최대 로드 중 지연 시간이 늘어나는지 확인하십시오.
 * 관리자가 RAM을 통해 장기간 실행/차단된 요청을 미리 일시 중단하거나 취소할 수 있는 권한을 부여합니다. [CJA의 보고 요청 취소](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"} 문서를 참조하십시오.
 
@@ -221,13 +220,13 @@ Adobe은 휴가철을 위해 Customer Journey Analytics 인스턴스를 준비�
 ### 문제 해결
 
 * 작업 영역 오류를 해결할 때 원인 및 권장 작업에 대한 오류 메시지를 참조하십시오. 병목 현상을 제거하고 동시성을 효과적으로 관리하려면 RAM([!UICONTROL 보고 활동 관리자])을 사용하십시오. 자세한 내용은 [CJA Workspace 오류 처리](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}를 참조하십시오.
-* RAM([[!UICONTROL CJA의 Reporting Activity Manager]](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview))을 사용하여 문제가 있는 사용자, 쿼리 또는 프로젝트를 정확하게 찾아내고 필요에 따라 우선 순위를 지정하고 종료/취소합니다.
+* RAM([[!UICONTROL CJA의 Reporting Activity Manager]](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"})을 사용하여 문제가 있는 사용자, 쿼리 또는 프로젝트를 정확하게 찾아내고 필요에 따라 우선 순위를 지정하고 종료/취소합니다.
 
 ### 피크 이후 학습
 
 * 휴일/피크 기간이 끝나면 성능 및 문제 로그를 검토하여 제공된 모범 사례의 영향을 평가합니다.
 * 느린 쿼리 및 사용자 작업을 검토하여 다음 시즌에 최적화할 수 있는 패턴/트렌드를 확인하십시오.
-* 사용자 및 관련자로부터 피드백을 수집하고 새로 얻은 통찰력을 사용하여 자체 Runbook 및 준비 계획을 업데이트합니다.
+* 사용자 및 관련자로부터 피드백을 수집합니다. 그런 다음 새로 얻은 통찰력을 사용하여 자체 Runbook 및 준비 계획을 업데이트합니다.
 * 계정 팀을 통해 Adobe 팀에 피드백을 제공합니다.
 
 +++
@@ -249,7 +248,7 @@ Adobe은 휴가철을 위해 Customer Journey Analytics 인스턴스를 준비�
 ### 모범 사례
 
 * Adobe의 가이드 [높은 트래픽을 위한 인프라를 준비하는 방법 - 성수기 5Ps 성능](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}을 따르십시오.
-* 트래픽이 많도록 인프라를 준비하고, 가동 중단을 방지하고, 휴일 기간에 성능을 최적화하는 방법에 대한 팁은 [Commerce 휴일 준비를 위한 기술 팁](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness){target="_blank"}을 확인하십시오.
+* 휴일 시즌을 위해 Adobe Commerce 인스턴스를 준비하는 방법에 대한 자세한 기술 권장 사항은 [Adobe Commerce 휴일 준비 안내서](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness/holiday-readiness-overview){target="_blank"}를 참조하십시오.
 
 +++
 
@@ -316,8 +315,8 @@ Adobe Marketo을 사용하여 성공적인 휴일 캠페인을 위해서는 팀�
 
 * Marketo이 캠페인 흐름 단계 처리에 우선 순위를 두는 방법을 이해하는 것은 긴급하거나 우선 순위가 높은 이메일이 의도치 않게 지연되는 것을 방지하기 위해 중요합니다. [캠페인 처리 작동 방식](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264) 문서를 참조하십시오.
 * 스마트 목록 논리를 염두에 두면 캠페인이 신속하게 최대 성능으로 실행되도록 하는 데 도움이 됩니다. [스마트 목록 모범 사례](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"} 문서를 참조하십시오.
-* **[!UICONTROL 앞쪽 시작]** 또는 **[!UICONTROL 수신자 시간대]**&#x200B;를 사용하면 전송 전에 전자 메일을 빌드하여 지연을 줄이고 리소스 논리가 높은 잠재 고객에 대한 추가 준비 시간을 제공할 수 있습니다. 자세한 내용은 [전자 메일 프로그램 시작 시점](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} 및 [받는 사람 표준 시간대로 전자 메일 프로그램 예약](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"} 문서를 참조하십시오.
-* 캠페인이 활성 상태이고 잠재 고객이 이동하고 있는 경우 흐름 단계에 오류가 표시됩니다. 빠른 조정으로 해결하고 싶지만 라이브 대기 단계를 변경하거나 흐름을 재정렬할 때 어떤 일이 발생하는지 알아두면 많은 두통을 피하고 나중에 정리하는 데 도움이 될 수 있습니다. [대기 단계의 구성원과 함께 캠페인 흐름 편집](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294) 문서를 참조하십시오.
+* **[!UICONTROL 앞쪽 시작]** 또는 **[!UICONTROL 받는 사람 시간대]**&#x200B;를 사용하면 전송 전에 전자 메일 작성을 시작하여 지연을 줄이고 리소스 논리가 높은 적격 잠재 고객에 대한 추가 준비 시간을 제공할 수 있습니다. 자세한 내용은 [전자 메일 프로그램 시작 시점](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} 및 [받는 사람 표준 시간대로 전자 메일 프로그램 예약](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"} 문서를 참조하십시오.
+* 캠페인이 활성 상태이고 잠재 고객이 이동하고 있는 다음 흐름 단계에서 실수를 발견합니다. 빠른 조정으로 고치고 싶지만 라이브 대기 단계를 변경하거나 흐름을 재정렬할 때 발생하는 사항을 숙지하면 많은 두통을 피하고 나중에 정리하는 데 도움이 될 수 있습니다. [대기 단계의 구성원과 함께 캠페인 흐름 편집](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294){target="_blank"} 문서를 참조하십시오.
 
 ### 테스트 및 유효성 검사
 
@@ -326,13 +325,13 @@ Adobe Marketo을 사용하여 성공적인 휴일 캠페인을 위해서는 팀�
 * Marketo에서는 이메일 모양을 테스트하는 여러 가지 방법을 제공합니다. 이를 사용하여 예상한 대로 정확하게 보이도록 하십시오.
   * **[!UICONTROL 미리 보기]** 함수를 사용하여 세그먼테이션 또는 개별 리드를 미리 보고 다이내믹 콘텐츠와 토큰이 올바르게 렌더링되도록 하십시오. [다이내믹 콘텐츠로 이메일 미리 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"} 문서를 참조하십시오.
   * 테스트 레코드에 다이렉트 이메일을 빠르고 쉽게 보내 다양한 클라이언트/디바이스에서 이메일이 어떻게 표시되는지 확인합니다. [스마트 목록에서 단일 흐름 단계 실행](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"} 문서를 참조하십시오.
-  * [!DNL Litmus] 사용자의 경우 계정을 통합하고 전자 메일 편집기에서 바로 렌더링 테스트를 시작하는 것이 이전보다 더 쉬워졌습니다. [테스트 전자 메일 렌더링 사용 [!DNL Litmus]](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) 문서를 참조하십시오.
+  * [!DNL Litmus] 사용자의 경우 계정을 통합하고 전자 메일 편집기에서 바로 렌더링 테스트를 시작하는 것이 이전보다 더 쉬워졌습니다. [테스트 전자 메일 렌더링 사용 [!DNL Litmus]](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering){target="_blank"} 문서를 참조하십시오.
 * [!DNL SpamAssassin]과(와) 통합되어 이메일의 콘텐츠를 검토하고 받은 편지함에 도달하거나 *스팸*(으)로 표시될 가능성에 대한 점수를 할당하는 이메일 스팸 보고서 기능을 확인하십시오. [이메일 스팸 보고서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"} 문서를 참조하십시오.
 * [!UICONTROL 캠페인 큐]를 주시하여 캠페인이 처리 중인지 확인하고 긴급도가 높은 항목의 우선 순위를 올바르게 지정하세요. [내 캠페인이 실행 중인지 확인하십시오.](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"} 기사.
 
 ### 지원 환경 간소화
 
-문제가 발생하면 속도가 문제가 되므로 Marketo 지원 센터에서 도움을 받으십시오! 앞뒤로 오가는 것을 방지하고 팀이 더 빠른 해결을 위해 노력할 수 있도록 이러한 세부 사항을 지원 사례에 포함하십시오. [Marketo 지원 작업에 대한 모범 사례](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491) 문서를 참조하십시오.
+문제가 발생하면 속도가 문제가 되므로 Marketo 지원 센터에서 도움을 받으십시오! 지원 사례에 포함할 정보는 [Marketo 지원 작업 모범 사례](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"} 문서를 참조하십시오. 이러한 세부 정보를 미리 제공하면 앞뒤가 바뀌지 않고 더 빠른 해결로 이어질 수 있습니다.
 
 이 안내서를 사용하면 이 중요한 기간 동안 참여와 전환을 유도하는 강력한 위치에서 시작한다는 것을 알고 있으므로 좀 더 쉽게 쉴 수 있습니다. 걱정은 많지만 스트레스는 그럴 필요가 없어 오늘 준비를 시작하고 이번 휴가 시즌을 아직 가장 성공적으로 만드십시오.
 
@@ -446,7 +445,7 @@ Adobe은 일반적으로 서비스를 중단하지 않도록 최대 휴일 기�
 
 ### 크기 조정 준비
 
-* 웹 사이트 및 모바일 장치의 트래픽 증가를 계획하고 Target 지원 팀에 알려 차단된 호출을 방지하도록 서버 용량을 늘리십시오.
+* 웹 사이트 및 모바일 장치의 트래픽 증가를 계획하고 Target 지원 팀에 차단된 호출을 방지하기 위해 서버 용량을 늘려 달라고 요청하십시오.
 * 로드/펜 테스트의 경우 Target 지원 팀에 미리 알려야 합니다.
 * 최신 `at.js`/배달 API 버전으로 업그레이드하십시오.
 * 중요하지 않은 변경 내용을 고정하고, 대체 경험을 준비합니다.

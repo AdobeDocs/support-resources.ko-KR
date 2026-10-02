@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 영업 기회는 제품 지역, 지역, 고객 프로필, 프로그램 가용성 등의 요소에 따라 다르며 모든 영업 기회에 모든 참가자를 초대하지는 않습니다. 여러분의 의견은 Adobe이 제품을 개선하고, 향후 투자에 우선 순위를 두며, 더 나은 고객 경험을 제공하는 데 도움이 됩니다.
 
+## 프로그램 약관
+
+>[!BEGINSHADEBOX]
+
+참여하려면 Adobe 피드백 프로그램 계약에 동의해야 할 수 있습니다. 특정 프로그램 또는 활동에 따라 추가 용어가 적용될 수 있습니다.
+
+>[!ENDSHADEBOX]
+
 ## 자주 묻는 질문
 
 +++ 누가 참여할 수 있습니까?
@@ -65,12 +73,6 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 +++
 
-## 프로그램 약관
-
-참여하려면 Adobe 피드백 프로그램 계약에 동의해야 할 수 있습니다. 특정 프로그램 또는 활동에 따라 추가 용어가 적용될 수 있습니다.
-
->[!BEGINSHADEBOX]
-
 ## Adobe 피드백 프로그램 참여
 
 제품 팀과의 조기 액세스 기회, 연구 조사 및 직접 피드백을 통해 Adobe 제품의 미래를 구체화하는 데 도움이 됩니다.
@@ -78,6 +80,8 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 경험 제작자로서, 당신은 전문가로 간주됩니다. 이 프로그램을 통해 Adobe 제품 개발 전문가와 직접 소통할 수 있습니다. 여러분의 관점은 Adobe의 향후 방향에 영향을 미칩니다.
 
 자세한 정보 및 자격 요구 사항은 지금 Adobe 계정 담당자에게 문의하십시오.
+
+>[!BEGINSHADEBOX]
 
 [!BADGE 지금 가입]{type=Informative url="https://experienceleague.adobe.com/ko/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/ko/feedback-program으로 이동"}
 
