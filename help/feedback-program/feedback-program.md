@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
+source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '530'
 ht-degree: 0%
 ---
 # Adobe 피드백 프로그램
@@ -41,11 +41,7 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 ## 프로그램 약관
 
->[!BEGINSHADEBOX]
-
 참여하려면 Adobe 피드백 프로그램 계약에 동의해야 할 수 있습니다. 특정 프로그램 또는 활동에 따라 추가 용어가 적용될 수 있습니다.
-
->[!ENDSHADEBOX]
 
 ## 자주 묻는 질문
 
@@ -81,8 +77,8 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 자세한 정보 및 자격 요구 사항은 지금 Adobe 계정 담당자에게 문의하십시오.
 
->[!BEGINSHADEBOX]
+[![로그인 단추](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
-[!BADGE 지금 가입]{type=Informative url="https://experienceleague.adobe.com/ko/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/ko/feedback-program으로 이동"}
-
->[!ENDSHADEBOX]
+<!--
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+-->
