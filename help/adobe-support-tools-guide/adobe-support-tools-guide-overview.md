@@ -2,24 +2,29 @@
 title: Adobe 지원 및 도구 안내서 개요
 description: Adobe 지원 및 도구 안내서 - Experience League의 사례 관리, 지원 권한, Adobe Admin Console 작업 및 제품별 지원에 대한 중앙 리소스입니다.
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-TQID: https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY
+TQID: 'https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 0%
-
 ---
-
 # Adobe 지원 및 도구 안내서 개요
 
 **Adobe 지원 및 도구 안내서**&#x200B;를 통해 한 곳에서 Adobe Digital Experience 지원을 사용할 수 있습니다. 권한이 부여된 고객이 사례를 열고 추적하고, 제품 간 일관된 기록을 사용하고, 계약에 포함된 채널을 통해 Adobe에 연결할 수 있도록 **Experience League**&#x200B;을(를) 기본 항목으로 전환하는 Adobe의 기능을 지원합니다.

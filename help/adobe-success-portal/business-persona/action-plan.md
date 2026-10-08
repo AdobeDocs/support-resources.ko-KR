@@ -1,23 +1,24 @@
 ---
 title: '[!UICONTROL 행동 계획]'
-description: /[!UICONTROL 행동 계획/]은 KBO가 실행되는 방식을 구조화된 보기로 보여 줍니다. 여기에는 Adobe 팀이 사용자의 목표 달성을 돕기 위해 계획 또는 완료하거나 능동적으로 진행 중인 관련 가속기 및 활동이 포함됩니다.
+description: /[!UICONTROL 행동 계획/]은 KBO가 실행되는 방식을 구조화된 보기로 보여 줍니다. 여기에는 목표 달성을 돕기 위해 Adobe 팀이 계획했거나 완료했거나 현재 적극적으로 진행 중인 관련 가속기 및 활동이 포함됩니다.
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
-TQID: https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4
+TQID: 'https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 행동 계획]
 
-**[!UICONTROL 행동 계획]**&#x200B;은 KBO가 실행되는 방식을 구조화된 보기로 보여 줍니다. 여기에는 Adobe 팀이 사용자의 목표 달성을 돕기 위해 계획 또는 완료하거나 능동적으로 진행 중인 관련 가속기 및 활동이 포함됩니다.
+**[!UICONTROL 행동 계획]**&#x200B;은 KBO가 실행되는 방식을 구조화된 보기로 보여 줍니다. 여기에는 목표 달성을 돕기 위해 Adobe 팀이 계획했거나 완료했거나 현재 적극적으로 진행 중인 관련 가속기 및 활동이 포함됩니다.
 
 **[!UICONTROL 행동 계획]**&#x200B;으로 이동하려면 포털 홈 페이지 왼쪽 탐색 패널에서 ![action-plan-icon](/help/adobe-success-portal/assets/action-plan-icon.png) 아이콘을 클릭하십시오.
 

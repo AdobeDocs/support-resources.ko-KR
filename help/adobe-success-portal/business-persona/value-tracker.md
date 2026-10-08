@@ -2,19 +2,20 @@
 title: '[!UICONTROL 가치 추적기]'
 description: '[!UICONTROL 가치 추적기] 페이지는 KBO에 따라 구성된 [!UICONTROL 사용 사례] 보기를 제공합니다.'
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
-TQID: https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU
+TQID: 'https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL 가치 추적기]
 
 **[!UICONTROL 가치 추적기]** 페이지는 KBO에 따라 구성된 다양한 **[!UICONTROL 사용 사례]** 보기를 제공합니다. 페이지 상단의 필터를 활용하여 이 보기에 표시되는 사용 사례를 필터링할 수 있습니다.

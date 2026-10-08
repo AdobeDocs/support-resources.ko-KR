@@ -1,34 +1,39 @@
 ---
 title: 용어집
-description: ' [!DNL Adobe Success] 포털 내의 주요 용어 모음과 그 정의입니다.'
+description: '[!DNL Adobe Success] 포털 내의 주요 용어 컬렉션 및 해당 정의입니다.'
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
-TQID: https://experienceleague.adobe.com/qKraH4XPhSdzrkILT0YBRE3dV5U3tdf69DO-IGJAeS0
+TQID: 'https://experienceleague.adobe.com/qKraH4XPhSdzrkILT0YBRE3dV5U3tdf69DO-IGJAeS0'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 386
-ht-degree: 100%
-
+source-wordcount: '387'
+ht-degree: 97%
 ---
-
 # 용어집
 
 | 용어 | 정의 |
 |--------------- |------------ |
 | 활동 | 고객 목표 달성을 위해 수행하는 특정 작업이나 참여입니다. |
-| 어답터 | 고객이 제품이나 서비스를 적극적으로 사용하고 워크플로 통합하는 과정입니다. |
+| 어답터 | 고객이 제품이나 서비스를 적극적으로 사용하고 워크플로에 통합하는 과정입니다. |
 | CSM (고객 성공 관리자) | 제품 도입, 업계의 사고 리더십, 모범 사례를 추진하기 위해 고객과 협력하여 성공을 계획하는 지정된 전략적 파트너입니다. |
 | 지정된 | 고객이나 계정에 특별히 할당된 리소스 또는 역할로, 집중적인 지원이나 참여를 목적으로 합니다. |
-| 지원 | 팀이나 고객이 제품을 효과적이고 자신 있게 사용할 수 있도록 교육, 도구 및 리소스를 제공합니다. |
+| 지원 | 팀이나 고객이 제품을 효과적이고 자신 있게 사용할 수 있도록 제공되는 교육, 도구 및 리소스입니다. |
 | 환경 | 고객이 제품을 사용하는 기술적 설정 또는 작업 영역입니다. |
 | Expert Success | 모든 Adobe DX 라이선스에 반응형 기술 지원이 포함되어 있습니다. |
 | KBO (주요 비즈니스 목표) | 고객이 Adobe와의 파트너십을 통해 달성하고자 하는 높은 수준의 목표입니다. |

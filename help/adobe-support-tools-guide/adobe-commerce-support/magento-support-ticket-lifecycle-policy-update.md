@@ -2,25 +2,28 @@
 title: Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트
 description: 이 문서에서는 Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트에 대한 정보를 제공합니다.
 exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
-TQID: https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY
+TQID: 'https://experienceleague.adobe.com/InnjmzEbkWnGVY47P4F76Fb9l-ul0KMe5Kk377XUwiY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 39%
-
 ---
-
 # Adobe Commerce 지원 티켓 라이프사이클 정책 업데이트
 
-이 설명서에서는 커뮤니케이션을 강화하고 최대한 빠르게 해결 방법을 제공함으로써 고객의 성공을 보장할 수 있도록 Adobe DX 지원 사례 라이프사이클 개선 사항을 간략히 설명하여 드립니다. [Adobe 성공 계획 개요: 지원 사례 수명 주기](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)에서도 찾을 수 있습니다.
+이 설명서에서는 커뮤니케이션을 강화하고 최대한 빠르게 해결 방법을 제공함으로써 고객의 성공을 보장할 수 있도록 Adobe DX 지원 사례 라이프사이클 개선 사항을 간략히 설명하여 드립니다. [Adobe 성공 계획 개요: 지원 사례 수명 주기](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)에서도 찾을 수 있습니다.
 아래는 지원 프로세스에서 발생하는 다양한 시나리오에 대한 타임라인과 알림입니다.
 
 ## 사례 후속 알림 메시지
@@ -56,7 +59,7 @@ ht-degree: 39%
 
 ## 관련 읽기
 
-* [지원 티켓 제출](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [Adobe Commerce 도움말 센터 시작 페이지에 &quot;티켓 제출&quot; 링크가 표시되지 않음](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [티켓 제출 양식: 판매자가 조직 드롭다운에 표시되지 않음](https://experienceleague.adobe.com/ko/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Adobe 성공 계획 개요: 지원 사례 라이프사이클](https://experienceleague.adobe.com/ko/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [지원 티켓 제출](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [Adobe Commerce 도움말 센터 시작 페이지에 &quot;티켓 제출&quot; 링크가 표시되지 않음](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [티켓 제출 양식: 판매자가 조직 드롭다운에 표시되지 않음](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Adobe 성공 계획 개요: 지원 사례 라이프사이클](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)

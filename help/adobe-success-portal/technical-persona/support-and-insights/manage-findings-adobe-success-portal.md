@@ -1,23 +1,26 @@
 ---
-title: ' [!DNL Adobe Success] 포털에서 결과 관리'
-description: 이 안내서에서는 제품 성능, 보안 및 기능 위험을 사전에 관리하는 데 도움을 주기 위해  [!DNL Adobe Success] 포털에서 결과에 액세스하고 이를 해석하고 조치를 취하는 방법을 설명합니다.
+title: '[!DNL Adobe Success] 포털에서 결과 관리'
+description: 이 안내서에서는 제품 성능, 보안 및 기능 위험을 사전 예방적으로 관리하는 데 도움이 되는 [!DNL Adobe Success] 포털의 검색 결과에 액세스하고 해석하고 실행하는 방법을 설명합니다.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-TQID: https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o
+TQID: 'https://experienceleague.adobe.com/tO1CHOXvHW2yrDt4Kq14NMvOeSv0GP4fOeR-9-S5H3o'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 862
-ht-degree: 100%
-
+source-wordcount: '864'
+ht-degree: 97%
 ---
-
 # [!DNL Adobe Success] 포털에서 결과 관리
 
 이 안내서에서는 제품 성능, 보안 및 기능 위험을 사전에 관리하는 데 도움을 주기 위해 [!DNL Adobe Success] 포털에서 결과에 액세스하고 이를 해석하고 조치를 취하는 방법을 설명합니다.
@@ -61,7 +64,7 @@ Adobe 팀은 가장 일반적인 지원 문제와 트렌드를 정기적으로 �
 
    * 특정 항목을 검색합니다.
    * **[!UICONTROL 결과 다운로드]**&#x200B;를 선택하여 결과 목록을 내보냅니다. 한 가지 결과에 대한 보고서를 내보내려면 **[!UICONTROL 결과 이름]** 열 아래의 해당 결과 옆에 있는 확인란을 선택합니다. 결과를 선택하지 않으면 기본적으로 PDF에 모든 결과 목록이 포함됩니다.
-   * **[!UICONTROL 결과 이름]**&#x200B;에서 결과를 선택하여 권장 해결책을 포함한 결과 세부 정보를 확인합니다. 결과 세부 정보 페이지에는 선택한 결과가 추가 컨텍스트 및 권장 사항과 함께 표시됩니다. 이 보고서를 보려면 다운로드 화살표를 선택합니다.
+   * **[!UICONTROL 결과 이름]**&#x200B;에서 결과를 선택하여 권장 해결책을 포함한 결과 세부 정보를 확인합니다. 결과 세부 정보 페이지에는 선택한 결과가 추가 컨텍스트 및 추천과 함께 표시됩니다. 이 보고서를 보려면 다운로드 화살표를 선택합니다.
 
 
      ![Adobe Success 포털에서 검색 결과 세부 정보를 내보내기 위한 다운로드 버튼](../../assets/findings-details.png "이 검색 결과의 보고서 다운로드")
