@@ -24,6 +24,7 @@ ht-degree: 91%
 # [!DNL Adobe Success] 포털: 고객 FAQ
 
  
+
 ## [!DNL Adobe Success] 포털의 범위는 무엇입니까?
 
 [!DNL Adobe Success] 포털은 지원, 성공, 참여 전반에 걸쳐 판매 후 경험을 통합하도록 설계된 Adobe의 새로운 중앙 집중식 고객 중심 플랫폼입니다. Alpha 릴리스는 이전에 여러 플랫폼에 분산되어 있던 도구와 워크플로(예: 지원 포털, 수동 Ultimate Success 아티팩트)를 통합하는 일관된 경험을 제공하는 데 중점을 둡니다. 목표는 온보딩부터 갱신까지 고객 라이프사이클 전반에서 Adobe와 상호작용하는 방식을 간소화하는 동시에 투명성, 셀프서비스 및 가치 실현을 개선하는 것입니다.
@@ -46,7 +47,7 @@ Alpha 범위에는 두 개의 기본 경험 트랙이 있으며 Ultimate 고객�
 
 ## 포털에 어떻게 액세스할 수 있습니까?
 
-[!DNL Adobe Success] 포털은 Adobe Experience Cloud에 호스팅되어 있습니다. Experience Cloud에 액세스하려면 IMS 조직 수준에서 설정되는 [!DNL Adobe Success] 포털에 액세스해야 합니다. 포털에 액세스하는 방법에 대한 단계별 안내를 보려면 [ [!DNL Adobe Success] 포털 액세스](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)를 참조하십시오.
+[!DNL Adobe Success] 포털은 Adobe Experience Cloud에 호스팅되어 있습니다. Experience Cloud에 액세스하려면 IMS 조직 수준에서 설정되는 [!DNL Adobe Success] 포털에 액세스해야 합니다. 포털에 액세스하는 방법에 대한 단계별 안내를 보려면 [&#x200B; [!DNL Adobe Success] 포털 액세스](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)를 참조하십시오.
 
 Alpha 포털 액세스는 Alpha 프로그램에 참여하는 것으로 확인된 미리 정해진 사용자로만 제한됩니다. 조직에서 누가 액세스할 수 있는지 자세히 알아보고 추가 사용자에게 액세스 권한을 제공할 것을 요청하려면 [Alpha 팀 채널](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)을 사용하여 제품 팀에 문의하십시오.
 
