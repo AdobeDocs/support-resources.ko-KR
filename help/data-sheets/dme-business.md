@@ -2,18 +2,18 @@
 title: Creative Cloud 및 Adobe Document Cloud에 대한 비즈니스 지원
 description: Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 지원하는 데 도움이 되는 포괄적인 기술 리소스를 제공합니다. 비즈니스 지원 플랜으로 향상되었습니다. 비즈니스 지원에는 지원 사례에 대한 우선 순위 라우팅이 포함되며, 이를 통해 제출된 사례에 대한 고급 지원 리소스에 보다 빠르게 연결할 수 있습니다.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+TQID: 'https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 835
+source-wordcount: '835'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud 및 Adobe Document Cloud에 대한 비즈니스 지원
 
 ![아이콘](assets/Businessbanner.png)
@@ -195,7 +195,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="에스컬레이션 관리" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>에스컬레이션 관리</b></p>
-    <p>에스컬레이션 지원 및 정기 업데이트를 제공하고 진행 중인 지원 요청에서 가장 중요한 것에 우선 순위를 부여할 수 있는 Adobe 내의 지정된 담당자입니다.</p>
+    <p>에스컬레이션 지원 및 정기 업데이트를 제공하고 진행 중인 가장 중요한 지원 요청에 우선순위가 부여되도록 할 수 있는 Adobe 내의 지정된 담당자입니다.</p>
     </div>
   </td>
 </tr>
@@ -252,7 +252,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
     <img alt="웹 사례" src="assets/dmewebcase.png"/>
     <div>
     <p><b>웹 사례 제출</b></p>
-    <p>승인된 사용자(관리자)는 언제든지 지원 문제에 대한 웹 사례를 당사의 기술 지원 팀에서 검토하도록 무제한으로 제출할 수 있습니다.</p>
+    <p>승인된 사용자(관리자)는 기술 지원 팀의 검토를 위해 지원 문제에 대한 웹 케이스를 언제든지 무제한으로 제출할 수 있습니다.</p>
     </div>
   </td>
 </tr>
@@ -264,7 +264,7 @@ Adobe는 Adobe 엔터프라이즈 구독의 일부로 포함된 비즈니스를 
 |--- |--- |
 | [엔터프라이즈 학습 및 지원](https://helpx.adobe.com/kr/enterprise.html) | 엔터프라이즈 학습 및 지원은 Adobe 고객이 Adobe Creative Cloud 및 Document Cloud 제품 선택에 대한 자가 진단 튜토리얼, 제품 설명서, 강의식 교육, 커뮤니티 및 기술 지원을 찾을 수 있는 공간입니다. |
 | [Adobe 지원 커뮤니티](https://community.adobe.com/) | Adobe 지원 커뮤니티는 질문을 올리고, 답변을 얻고, 전문가의 의견을 구하고, 지식을 공유할 수 있는 공간입니다. |
-| [프로덕션 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
+| [프로덕션 문제 및 시스템 중단](https://status.adobe.com/ko-kr/) | Status.adobe.com은 다중 테넌트 환경에 배포된 모든 Adobe 제품 및 서비스의 상태 정보를 전달합니다. 고객은 구독 기본 설정을 선택하여 Adobe가 제품 이벤트를 생성, 업데이트 또는 해결할 때마다 이메일 알림을 받을 수 있습니다. 여기에는 예정된 유지 관리 또는 다양한 심각도 수준의 서비스 문제가 포함될 수 있습니다. |
 | [약관](https://helpx.adobe.com/kr/support/programs/support-policies-terms-conditions.html) | 지원 서비스 제공 사항을 자세히 설명하는 약관입니다. |
 
 {style="table-layout:auto"}

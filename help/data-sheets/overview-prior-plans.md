@@ -2,21 +2,20 @@
 title: 이전 Adobe 지원 플랜 개요
 description: 이 문서에서는 Adobe Experience Cloud, Adobe Document Cloud 및 Adobe Creative Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다.
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
-TQID: https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4
+TQID: 'https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 165
+source-wordcount: '165'
 ht-degree: 100%
-
 ---
-
 # 이전 Adobe 지원 플랜 개요
 
 >[!NOTE]
 >
->이 플랜은 2022년 6월 16일 이전의 Adobe 지원 플랜을 나타냅니다. 현재 지원 플랜은 [Adobe 지원 서비스 개요](overview.md)를 참조하십시오.
+>이 플랜은 2022년 6월 16일 이전의 Adobe 지원 플랜에 해당합니다. 현재 지원 플랜은 [Adobe 지원 서비스 개요](overview.md)를 참조하십시오.
 
 Adobe 지원 조직은 귀사의 성공을 위해 최선을 다하고 있습니다. 모든 구독에는 기술 지원을 위해 고도로 숙련된 기술 리소스에 쉽게 액세스할 수 있도록 하는 수준의 지원이 포함됩니다.
 

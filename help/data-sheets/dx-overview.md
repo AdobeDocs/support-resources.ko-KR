@@ -1,17 +1,16 @@
 ---
 title: Experience Cloud 지원 서비스 개요
-description: 이 문서에서는 Adobe Experience Cloud에 대한 고객 지원 옵션에 대한 요약을 제공합니다. 온라인, 비즈니스, 엔터프라이즈, 엘리트 옵션을 포함합니다.
+description: 이 문서에서는 Adobe Experience Cloud의 고객 지원 옵션에 대한 요약을 제공합니다. 온라인, 비즈니스, 엔터프라이즈, 엘리트 옵션을 포함합니다.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-TQID: https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo
+TQID: 'https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 203
+source-wordcount: '203'
 ht-degree: 100%
-
 ---
-
 # Experience Cloud 지원 서비스 개요
 
 Adobe Experience Cloud 고객 지원 조직은 귀사의 성공을 위해 최선을 다하고 있습니다. 모든 구독에는 기술 지원을 위해 고도로 숙련된 기술 리소스에 쉽게 액세스할 수 있게 하는 수준의 지원이 포함됩니다.
@@ -44,7 +43,7 @@ Adobe Experience Cloud 고객 지원 조직은 귀사의 성공을 위해 최선
 <tr>
   <td>
     <a href="enterprise.md">
-    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
+    <img alt="엔터프라이즈" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
     <a href="enterprise.md"><strong>엔터프라이즈 지원</strong></a> (<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> 보기)
