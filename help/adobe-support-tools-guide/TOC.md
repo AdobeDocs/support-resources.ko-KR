@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Adobe 지원 및 도구 안내서 {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [Adobe Commerce 클라우드 프로젝트에 사용자를 추가할 수 없음](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Adobe에서 제공하는 작성기 패치를 적용하는 방법](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [Adobe에서 제공하는 격리된 패치를 적용하는 방법](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [서드파티 보안 기관에서 발견한 취약점을 보고하는 방법](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [지원 도구 개요](adobe-commerce-support/overview.md)
