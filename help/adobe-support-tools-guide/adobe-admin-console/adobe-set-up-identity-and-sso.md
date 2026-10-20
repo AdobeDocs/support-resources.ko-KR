@@ -167,4 +167,4 @@ SSO 설정 및 관리 시 발생할 수 있는 일반적인 질문 및 오류에
 ## 법적 및 개인 정보 보호
 
 - [법적 고지 사항](https://helpx.adobe.com/kr/legal/legal-notices.html)
-- [온라인 개인정보 처리방침](https://www.adobe.com/privacy.html)
+- [온라인 개인정보 처리방침](https://www.adobe.com/kr/privacy.html)
