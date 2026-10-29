@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Adobe은 휴가철을 위해 Customer Journey Analytics 인스턴스를 준비�
 
 ### 크기 조정 준비
 
-가장 바쁜 시기에 우수한 고객 경험을 계획, 피벗 및 제공하는 데 도움이 되는 Adobe Commerce(및 선택 사항인 Adobe Experience Cloud 도구)를 사용하여 실행 가능한 전략을 제공하는 [계획 및 피벗: 2025년 성수기에 대한 전략적 접근](https://experienceleague.adobe.com/ko/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"} 안내서의 권장 사항을 따르십시오.
+가장 바쁜 시기에 우수한 고객 경험을 계획, 피벗 및 제공하는 데 도움이 되는 Adobe Commerce(및 선택 사항인 Adobe Experience Cloud 도구)를 사용하여 실행 가능한 전략을 제공하는 [계획 및 피벗: 2026년 성수기에 대한 전략적 접근](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"} 안내서의 권장 사항을 따르십시오.
 
 ### 모범 사례
 
