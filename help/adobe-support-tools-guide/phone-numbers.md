@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # 기본 지원 전화 번호 지정
+
+## 시작하기에 앞서
 
 **제품 지원 관리자**&#x200B;와 같은 **관리자** 역할이 할당되면 인스턴스를 관리할 수 있는 관리자 권한이 있음을 확인하는 전자 메일을 받게 됩니다.
 
@@ -27,17 +29,14 @@ ht-degree: 0%
 
 ![기본 지원 번호](assets/admin-console-1.png)
 
-선호하는 전화 번호를 지정하려면:
+## 선호하는 지원 전화 번호 설정
 
 1. `account.adobe.com`을(를) 사용하여 로그인하려면 **[!UICONTROL 계정 프로필]** 링크를 클릭하세요.
-
    ![로그인](assets/sign-in.png)
-
 1. 로그인 과정을 거친 다음 `account.adobe.com`의 아래 화면에 도달합니다.
 1. 지원 전화 번호 필드를 보려면 **[!UICONTROL 계정 및 보안]** > **[!UICONTROL 계정]**&#x200B;을 선택하십시오.
 1. 여기에 지원 요구 사항에 대해 귀하를 인식하는 데 사용할 전화 번호를 추가하십시오.
-
-![세부 정보 지정](assets/account-info.png)
+   ![세부 정보 지정](assets/account-info.png)
 
 ![전화 번호 추가](assets/enter-phone-number.png)
 
