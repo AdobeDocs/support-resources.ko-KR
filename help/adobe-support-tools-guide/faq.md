@@ -101,7 +101,7 @@ AAC는 고객에게 Workfront의 향후 경험에서 최상의 업데이트와 �
 
 +++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
 
 +++
 
