@@ -12,12 +12,14 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
 # [!DNL Adobe Business Platform] 및 Admin Console FAQ
+
+## Adobe ID 및 Admin Console으로 이동
 
 +++**Adobe ID와 Admin Console란 무엇입니까?**
 
@@ -30,6 +32,8 @@ ht-degree: 11%
 고객은 [!DNL Adobe Business Platform]&#x200B;(으)로 이동하여 더욱 안전하고 직관적인 관리 콘솔을 사용할 수 있습니다.
 
 +++
+
+## 마이그레이션 프로세스 및 시간
 
 +++**고객이 언제 AAC로 이동해야 합니까?**
 
@@ -57,15 +61,23 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++
 
-+++**현재 Workfront 고객이 사용할 수 없는 AAC의 새로운 기능은 무엇입니까?**
++++**일반적인 Workfront 고객의 경우 AAC로 이동하는 데 얼마나 걸립니까?**
 
-
+고객을 위한 AAC를 구현하는 데 걸리는 시간은 다를 수 있지만 일반적인 경험은 약 2시간 정도의 고객과 전화 회의 시 라이브 경험을 제공합니다.
 
 +++
 
-+++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
+## 비용 및 영향
 
-&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
++++**AAC로 전환하는 데 드는 비용이 있습니까?**
+
+AAC로 이전하는 경우 고객에게 추가 비용이 발생하지 않습니다.
+
++++
+
++++**이 작업이 Adobe 제품 외부의 Workfront 솔루션에 통합한 다른 기술에 영향을 미칩니까?**
+
+[!DNL Fusion] 응용 프로그램을 사용하여 다른 서비스에 연결하는 고객은 [!DNL Fusion] 응용 프로그램이 이 변경 작업을 수행할 준비가 되었을 때만 이동됩니다.
 
 +++
 
@@ -81,26 +93,20 @@ IMS는 Adobe Workfront을 사용하는 Identity Management Services의 약어로
 
 +++
 
-+++**일반적인 Workfront 고객의 경우 AAC로 이동하는 데 얼마나 걸립니까?**
-
-고객을 위한 AAC를 구현하는 데 걸리는 시간은 다를 수 있지만 일반적인 경험은 약 2시간 정도의 고객과 전화 회의 시 라이브 경험을 제공합니다.
-
-+++
-
-+++**이 작업이 Adobe 제품 외부의 Workfront 솔루션에 통합한 다른 기술에 영향을 미칩니까?**
-
-[!DNL Fusion] 응용 프로그램을 사용하여 다른 서비스에 연결하는 고객은 [!DNL Fusion] 응용 프로그램이 이 변경 작업을 수행할 준비가 되었을 때만 이동됩니다.
-
-+++
-
-+++**AAC로 전환하는 데 드는 비용이 있습니까?**
-
-AAC로 이전하는 경우 고객에게 추가 비용이 발생하지 않습니다.
-
-+++
-
 +++**AAC로 이동하지 않을 이유가 있습니까?**
 
 AAC는 고객에게 Workfront의 향후 경험에서 최상의 업데이트와 향상된 기능을 제공할 것이며 고객에게 좋은 움직임입니다. 레거시 데모 콘솔이 종료되면 모든 고객은 2023년 말까지 AAC로 이동해야 합니다.
+
++++
+
++++**AAC에 사용할 수 있는 교육 리소스는 무엇입니까?**
+
+&lt;https://helpx.adobe.com/kr/enterprise/using/admin-console.html >
+
++++
+
++++**현재 Workfront 고객이 사용할 수 없는 AAC의 새로운 기능은 무엇입니까?**
+
+
 
 +++
