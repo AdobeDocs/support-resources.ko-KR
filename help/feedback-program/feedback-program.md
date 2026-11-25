@@ -1,12 +1,12 @@
 ---
 title: Adobe 피드백 프로그램
 description: Adobe 피드백 프로그램
-hide: true
+index: true
 solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
+source-git-commit: 17f0b74fedb2260a13d089bc6b3a3a6376a74ae6
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -77,8 +77,8 @@ Adobe 피드백 프로그램 참여는 전적으로 자발적으로 이루어지
 
 자세한 정보 및 자격 요구 사항은 지금 Adobe 계정 담당자에게 문의하십시오.
 
-[![로그인 단추](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/ko/feedback-program){target="_blank"}
+[![로그인 단추](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/ko/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/ko/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 -->
